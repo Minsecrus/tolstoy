@@ -1,0 +1,20 @@
+{
+  "name": "russian-literature-reader",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "books:check-footnotes": "node scripts/check-footnotes.mjs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "npm run books:check-footnotes && vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "@types/node": "26.1.2",
+    "vitepress": "1.6.4",
+    "vue": "3.5.40"
+  },
+  "overrides": {
+    "vite": "6.4.3"
+  }
+}

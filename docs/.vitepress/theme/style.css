@@ -1,0 +1,58 @@
+/* 仅保留长篇中文正文需要的排版调整，其余全部使用 VitePress 默认主题。 */
+.vp-doc:has(.reading-meta) {
+  max-width: 760px;
+}
+
+.vp-doc:has(.reading-meta) .reading-meta {
+  margin-bottom: 2rem;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+
+.vp-doc:has(.reading-meta) p:not(.reading-meta) {
+  font-size: 17px;
+  line-height: 1.9;
+  text-align: justify;
+  text-indent: 2em;
+}
+
+.footnote-ref {
+  scroll-margin-top: 96px;
+  padding-inline: 0.08em;
+  font-size: 0.75em;
+  line-height: 0;
+}
+
+.footnote-ref a,
+.footnote-number,
+.footnote-backref {
+  text-decoration: none;
+}
+
+.vp-doc:has(.reading-meta) .footnote-definition {
+  scroll-margin-top: 96px;
+  padding-left: 2em;
+  text-indent: -2em !important;
+}
+
+.footnote-number {
+  display: inline-block;
+  min-width: 2em;
+}
+
+.footnote-backrefs {
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+
+.footnote-definition:target,
+.footnote-ref:target {
+  border-radius: 4px;
+  background: var(--vp-c-brand-soft);
+}
+
+@media (max-width: 640px) {
+  .vp-doc:has(.reading-meta) p:not(.reading-meta) {
+    text-align: left;
+  }
+}

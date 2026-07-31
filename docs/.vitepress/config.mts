@@ -1,6 +1,13 @@
 import { defineConfig } from 'vitepress'
 import { librarySidebar } from './library.generated.mjs'
 
+const librarySidebarByPath = {
+  ...Object.fromEntries(
+    librarySidebar.map((volume) => [volume.items[0].link, [volume]])
+  ),
+  '/': librarySidebar
+}
+
 export default defineConfig({
   lang: 'zh-CN',
   title: '俄国作家作品',
@@ -8,13 +15,14 @@ export default defineConfig({
   base: process.env.VITEPRESS_BASE || '/',
   cleanUrls: true,
   lastUpdated: false,
+  metaChunk: true,
   themeConfig: {
     siteTitle: '俄国作家作品',
     nav: [
       { text: '作品目录', link: '/' },
       { text: '阅读说明', link: '/about' }
     ],
-    sidebar: librarySidebar,
+    sidebar: librarySidebarByPath,
     outline: {
       level: [2, 3],
       label: '本页目录'

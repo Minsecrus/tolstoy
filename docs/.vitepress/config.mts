@@ -10,14 +10,14 @@ const librarySidebarByPath = {
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: '俄国作家作品',
-  description: '俄国作家作品在线阅读',
+  title: '文学作品阅读站',
+  description: '文学作品在线阅读',
   base: process.env.VITEPRESS_BASE || '/',
   cleanUrls: true,
   lastUpdated: false,
   metaChunk: true,
   themeConfig: {
-    siteTitle: '俄国作家作品',
+    siteTitle: '文学作品阅读站',
     nav: [
       { text: '作品目录', link: '/' },
       { text: '阅读说明', link: '/about' }

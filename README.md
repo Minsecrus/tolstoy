@@ -1,4 +1,4 @@
-# 俄国作家作品阅读站
+# 文学作品阅读站
 
 在线阅读：[https://minsecrus.github.io/tolstoy/](https://minsecrus.github.io/tolstoy/)
 

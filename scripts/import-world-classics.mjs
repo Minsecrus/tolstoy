@@ -341,30 +341,74 @@ function renderPage(book, volumeNo, page, pageNo) {
   return `---\ntitle: ${JSON.stringify(page.title)}\ndescription: ${JSON.stringify(`${book.title} · ${page.title}`)}\n---\n\n<p class="reading-meta"><a href="/library/volume-${String(volumeNo).padStart(2, '0')}/">${book.title}</a></p>\n\n# ${page.title}\n\n${fallback}\n`
 }
 
+const sidebarSectionPattern = /^(?:第[一二三四五六七八九十百千万0-9]+(?:部|卷|幕|辑)(?:\s|　|$)|上卷|下卷|尾声|故事诗集)/
+
+function findSidebarSection(page) {
+  const candidates = [page.title, ...page.content.split('\n')]
+  return candidates
+    .map((line) => line.trim())
+    .find((line) => sidebarSectionPattern.test(line))
+}
+
+function makePageItems(volumePath, pages) {
+  return pages.map((page, index) => ({
+    text: page.title,
+    link: `${volumePath}chapter-${String(index + 1).padStart(3, '0')}`
+  }))
+}
+
+function buildSidebarGroups(pages, pageItems) {
+  const sectionStarts = []
+  for (let index = 0; index < pages.length; index += 1) {
+    const text = findSidebarSection(pages[index])
+    if (text && sectionStarts.at(-1)?.index !== index) sectionStarts.push({ index, text })
+  }
+
+  const groups = []
+  if (sectionStarts.length) {
+    if (sectionStarts[0].index > 0) {
+      groups.push({ text: '正文', collapsed: false, items: pageItems.slice(0, sectionStarts[0].index) })
+    }
+    for (let index = 0; index < sectionStarts.length; index += 1) {
+      const start = sectionStarts[index]
+      const end = sectionStarts[index + 1]?.index ?? pages.length
+      const firstPage = pageItems[start.index]
+      const children = pageItems.slice(start.index + 1, end)
+      groups.push({
+        text: start.text,
+        link: firstPage.link,
+        collapsed: true,
+        ...(children.length ? { items: children } : {})
+      })
+    }
+  } else {
+    groups.push({ text: '正文', collapsed: false, items: pageItems })
+  }
+  return groups
+}
+
 function renderIndex(book, volumeNo, pages) {
   const volumePath = `/library/volume-${String(volumeNo).padStart(2, '0')}/`
-  const items = pages
-    .map((page, index) => `- [${page.title}](${volumePath}chapter-${String(index + 1).padStart(3, '0')})`)
-    .join('\n')
-  return `---\ntitle: ${JSON.stringify(book.title)}\ndescription: ${JSON.stringify(`${book.title}正文`)}\n---\n\n# ${book.title}\n\n[开始阅读 →](${volumePath}chapter-001)\n\n## 目录\n\n${items}\n`
+  const pageItems = makePageItems(volumePath, pages)
+  const groups = buildSidebarGroups(pages, pageItems)
+  const sections = groups.map((group) => {
+    const lines = [`### ${group.text}`]
+    if (group.link) lines.push(`- [${group.text}](${group.link})`)
+    if (group.items) lines.push(...group.items.map((item) => `- [${item.text}](${item.link})`))
+    return lines.join('\n')
+  }).join('\n\n')
+  return `---\ntitle: ${JSON.stringify(book.title)}\ndescription: ${JSON.stringify(`${book.title}正文`)}\n---\n\n# ${book.title}\n\n[开始阅读 →](${volumePath}chapter-001)\n\n## 目录\n\n${sections}\n`
 }
 
 function makeSidebarItem(book, volumeNo, pages) {
   const volumePath = `/library/volume-${String(volumeNo).padStart(2, '0')}/`
+  const pageItems = makePageItems(volumePath, pages)
+  const groups = buildSidebarGroups(pages, pageItems)
+
   return {
     text: book.title,
     collapsed: true,
-    items: [
-      { text: '本卷首页', link: volumePath },
-      {
-        text: '正文',
-        collapsed: false,
-        items: pages.map((page, index) => ({
-          text: page.title,
-          link: `${volumePath}chapter-${String(index + 1).padStart(3, '0')}`
-        }))
-      }
-    ]
+    items: [{ text: '本卷首页', link: volumePath }, ...groups]
   }
 }
 

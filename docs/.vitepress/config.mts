@@ -1,11 +1,14 @@
 import { defineConfig } from 'vitepress'
 import { librarySidebar } from './library.generated.mjs'
+import { curateLibrarySidebar } from './library.sidebar.manual.mjs'
+
+const curatedLibrarySidebar = curateLibrarySidebar(librarySidebar)
 
 const librarySidebarByPath = {
   ...Object.fromEntries(
-    librarySidebar.map((volume) => [volume.items[0].link, [volume]])
+    curatedLibrarySidebar.map((volume) => [volume.items[0].link, [volume]])
   ),
-  '/': librarySidebar
+  '/': curatedLibrarySidebar
 }
 
 export default defineConfig({

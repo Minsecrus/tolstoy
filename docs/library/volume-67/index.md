@@ -9,7 +9,8 @@ description: "亲和力正文"
 
 ## 目录
 
-- [第一部](/library/volume-67/chapter-001)
+### 第一部
+- [第一章](/library/volume-67/chapter-001)
 - [第三章](/library/volume-67/chapter-002)
 - [第五章](/library/volume-67/chapter-003)
 - [第七章](/library/volume-67/chapter-004)
@@ -19,7 +20,9 @@ description: "亲和力正文"
 - [第十三章](/library/volume-67/chapter-008)
 - [第十五章](/library/volume-67/chapter-009)
 - [第十七章](/library/volume-67/chapter-010)
-- [第二部](/library/volume-67/chapter-011)
+
+### 第二部
+- [第一章](/library/volume-67/chapter-011)
 - [第三章](/library/volume-67/chapter-012)
 - [第五章](/library/volume-67/chapter-013)
 - [第六章](/library/volume-67/chapter-014)

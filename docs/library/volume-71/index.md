@@ -9,7 +9,8 @@ description: "人间食粮正文"
 
 ## 目录
 
-- [正文 01](/library/volume-71/chapter-001)
+### 人间食粮
+- [引言](/library/volume-71/chapter-001)
 - [三](/library/volume-71/chapter-002)
 - [第三篇](/library/volume-71/chapter-003)
 - [二](/library/volume-71/chapter-004)
@@ -17,6 +18,8 @@ description: "人间食粮正文"
 - [第六篇](/library/volume-71/chapter-006)
 - [第七篇](/library/volume-71/chapter-007)
 - [第八篇](/library/volume-71/chapter-008)
+
+### 新食粮
 - [二](/library/volume-71/chapter-009)
 - [第二篇](/library/volume-71/chapter-010)
 - [第三篇](/library/volume-71/chapter-011)

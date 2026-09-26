@@ -206,6 +206,8 @@ function normalizeNode(volumeNo, node, groupText = '') {
 export function curateLibrarySidebar(sidebar) {
   return sidebar.map((volume, index) => {
     const volumeNo = index + 1
+    // 《全球通史》的章节与分编标题已由专用导入器校对，无需回退到页码标签。
+    if (volumeNo === 83) return volume
     const special = specialSections(volumeNo)
     if (special) return { ...volume, items: [volume.items[0], ...special] }
     return {

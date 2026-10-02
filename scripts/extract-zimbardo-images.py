@@ -24,8 +24,15 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = ROOT / "docs" / "public" / "library" / "volume-84" / "images"
 FIRST_PAGE = 19
 LAST_PAGE = 1556
-EXPECTED_IMAGE_COUNT = 633
+EXPECTED_IMAGE_COUNT = 422
 WEBP_QUALITY = 90
+
+
+def is_decorative_frame(block: dict) -> bool:
+    # These grayscale, 1900px-wide blocks are empty frame backgrounds. Their
+    # contents are separate PDF text spans, so exporting the backgrounds makes
+    # dark-bordered blank images on the website.
+    return block["type"] == 1 and block["colorspace"] == 1 and block["width"] == 1900
 
 
 def extract(pdf_path: Path) -> dict[str, object]:
@@ -50,6 +57,10 @@ def extract(pdf_path: Path) -> dict[str, object]:
                 image_index += 1
                 filename = f"p{page_number:04d}-{image_index:02d}.webp"
                 destination = OUTPUT_DIR / filename
+                if is_decorative_frame(block):
+                    if destination.exists():
+                        destination.unlink()
+                    continue
                 with Image.open(io.BytesIO(block["image"])) as source:
                     image = source.convert("RGB")
                     image.save(

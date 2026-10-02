@@ -70,6 +70,13 @@ def compact(value: str) -> str:
     return re.sub(r"\s+", "", value)
 
 
+def is_decorative_frame(block: dict) -> bool:
+    # In this edition, the 1900px grayscale image blocks are empty backgrounds
+    # behind separately extractable text. Rendering them alone creates blank,
+    # dark-bordered rectangles in the reading view.
+    return block["type"] == 1 and block["colorspace"] == 1 and block["width"] == 1900
+
+
 def sections_from_pdf(pdf: pymupdf.Document) -> list[Section]:
     if len(pdf) != 1556:
         raise ValueError(f"Expected the 1556-page edition, found {len(pdf)} pages")
@@ -112,6 +119,8 @@ def events_for_page(page: pymupdf.Page, page0: int) -> list[Event]:
     for block in page.get_text("dict")["blocks"]:
         if block["type"] == 1:
             image_index += 1
+            if is_decorative_frame(block):
+                continue
             x0, y0, x1, y1 = block["bbox"]
             events.append(Event("image", f"p{page0 + 1:04d}-{image_index:02d}.webp",
                                 page0, x0, y0, x1, y1))
@@ -265,8 +274,9 @@ def section_body(
                 or previous.kind not in ("body", "caption")
                 or event.kind == "body" and event.x >= 100 and not (
                     previous and previous.kind == "body" and previous.page == page0
-                    and previous.x >= 100 and abs(previous.x - event.x) < 5
-                    and previous.right > 500 and event.y - previous.bottom < 12)
+                    and previous.right > 500 and event.y - previous.bottom < 12
+                    and (previous.x >= 100 and abs(previous.x - event.x) < 5
+                         or previous.x >= 125 and 100 <= event.x <= 115))
                 or event.kind == "body" and re.match(r"^\d+\.\d+\s", event.text)
                 or previous.page == page0 and event.y - previous.bottom > 18
                 or event.kind == "caption" and event.text.startswith(("图", "表", "注："))

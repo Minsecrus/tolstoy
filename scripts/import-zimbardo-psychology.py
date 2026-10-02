@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 VOLUME = 84
 VOLUME_DIR = ROOT / "docs" / "library" / f"volume-{VOLUME:02d}"
 IMAGE_DIR = ROOT / "docs" / "public" / "library" / f"volume-{VOLUME:02d}" / "images"
+REVIEWED_LAYOUT = ROOT / "scripts" / "zimbardo-reviewed-layout.json"
 TITLE = "津巴多普通心理学（第8版）"
 AUTHOR = "〔美〕菲利普·津巴多、罗伯特·约翰逊、薇薇安·麦卡恩"
 TRANSLATOR = "傅小兰等"
@@ -57,6 +58,7 @@ class Event:
     right: float
     bottom: float
     size: float = 0
+    baseline: float = 0
 
 
 @dataclass
@@ -123,7 +125,7 @@ def events_for_page(page: pymupdf.Page, page0: int) -> list[Event]:
                 continue
             x0, y0, x1, y1 = block["bbox"]
             events.append(Event("image", f"p{page0 + 1:04d}-{image_index:02d}.webp",
-                                page0, x0, y0, x1, y1))
+                                page0, x0, y0, x1, y1, baseline=y0))
             continue
         if block["type"] != 0:
             continue
@@ -134,7 +136,11 @@ def events_for_page(page: pymupdf.Page, page0: int) -> list[Event]:
             size = max(span["size"] for span in line["spans"])
             kind = "title" if size >= 24 else "heading" if size >= 18 else "caption" if size < 14 else "body"
             x0, y0, x1, y1 = line["bbox"]
-            events.append(Event(kind, value, page0, x0, y0, x1, y1, size))
+            # Some embedded fonts report a bounding box that starts above the
+            # preceding body line. Their glyph baseline still reflects the
+            # printed reading order (notably multi-line bold headings).
+            baseline = max(span["origin"][1] for span in line["spans"])
+            events.append(Event(kind, value, page0, x0, y0, x1, y1, size, baseline))
 
     # Each chapter introduction begins with a large initial character. It is on
     # the same printed line as the first body line, but appears as a separate PDF
@@ -150,8 +156,74 @@ def events_for_page(page: pymupdf.Page, page0: int) -> list[Event]:
             _, other = min(choices, key=lambda item: item[1].x)
             other.text = event.text + other.text
             dropped.add(index)
-    return sorted((event for i, event in enumerate(events) if i not in dropped),
-                  key=lambda event: (event.y, event.x))
+    ordered = sorted((event for i, event in enumerate(events) if i not in dropped),
+                     key=lambda event: (event.baseline, event.x))
+    merged: list[Event] = []
+    for event in ordered:
+        if (merged and event.kind != "image" and merged[-1].kind == event.kind
+            and abs(event.baseline - merged[-1].baseline) < 2
+            and -2 <= event.x - merged[-1].right <= 25):
+            # The PDF often splits a single printed line into many text
+            # blocks, including individual words of an English book title.
+            last = merged[-1]
+            last.text = join_lines(last.text, event.text)
+            last.right = max(last.right, event.right)
+            last.bottom = max(last.bottom, event.bottom)
+        else:
+            merged.append(event)
+    return merged
+
+
+def ends_sentence(value: str) -> bool:
+    return bool(re.search(r"[。！？.!?][”’」』）】]*$", value))
+
+
+def starts_numbered_item(value: str) -> bool:
+    return bool(re.match(r"^(?:\d{1,2}\.(?:\s|\d{1,2}\s)|[（(]\d{1,2}[）)]|\d{1,2}[、）]|[①-⑳])", value))
+
+
+def starts_body_paragraph(previous: Event, event: Event, section: Section) -> bool:
+    # A printed line can end inside a figure/table number, for example
+    # "（见图2-" followed by "12）。". The number is not a list item.
+    if previous.text.endswith(("-", "－", "–")) and re.match(r"^\d{1,2}[）).]", event.text):
+        return False
+    inline_number = (event.text.startswith(("（", "(")) and previous.page == event.page
+                     and abs(event.x - previous.x) < 3 and previous.right >= 530
+                     and previous.text.endswith(("，", ",")))
+    if starts_numbered_item(event.text) and not inline_number:
+        return True
+    if re.match(r"^第[一二三四五六七八九十]+章", event.text):
+        return True
+    if section.number == 99 and event.x >= 100 and re.match(r"^[A-Z][A-Za-z-]+\b", event.text):
+        return True
+    if previous.text.endswith(("；", "：")) and previous.right < 525 and event.x >= previous.x - 5:
+        return True
+    if previous.page != event.page:
+        # The edition's update list consists of separate, often unpunctuated
+        # bullet items. A new page must not join two such items together.
+        if section.number == 4 and event.page >= 30 and previous.right < 525:
+            return True
+        if previous.right < 500:
+            return True
+        if ends_sentence(previous.text) and (event.x > previous.x + 12
+                                            or previous.right < 525):
+            return True
+        return False
+    if event.baseline - previous.baseline > 34 and ends_sentence(previous.text):
+        return True
+    if event.x > previous.x + 12:
+        return True
+    if section.number == 4 and event.page >= 29 and previous.right < 525 and event.x >= previous.x - 5:
+        return True
+    if previous.right < 525 and ends_sentence(previous.text):
+        return True
+    # Short, unpunctuated labels (e.g. a boxed "核心概念") are separate
+    # from the prose that follows, even when both lines share an indent.
+    full_line_edges = (504.5, 519.5, 526.4, 534.5)
+    return (len(previous.text) <= 25 and previous.right - previous.x < 400
+            and not re.search(r"[，,、；：。！？?!]", previous.text)
+            and (previous.x > 300 or all(abs(previous.right - edge) > 3
+                                         for edge in full_line_edges)))
 
 
 def needs_latin_space(left: str, right: str) -> bool:
@@ -272,14 +344,10 @@ def section_body(
             start_new = (
                 not paragraph or paragraph_kind != event.kind or previous is None
                 or previous.kind not in ("body", "caption")
-                or event.kind == "body" and event.x >= 100 and not (
-                    previous and previous.kind == "body" and previous.page == page0
-                    and previous.right > 500 and event.y - previous.bottom < 12
-                    and (previous.x >= 100 and abs(previous.x - event.x) < 5
-                         or previous.x >= 125 and 100 <= event.x <= 115))
-                or event.kind == "body" and re.match(r"^\d+\.\d+\s", event.text)
-                or previous.page == page0 and event.y - previous.bottom > 18
-                or event.kind == "caption" and event.text.startswith(("图", "表", "注："))
+                or event.kind == "body" and starts_body_paragraph(previous, event, section)
+                or event.kind == "caption" and (
+                    previous.page == page0 and event.baseline - previous.baseline > 34
+                    or event.text.startswith(("图", "表", "注：")))
             )
             if start_new:
                 flush()
@@ -355,6 +423,19 @@ def grouped_sections(sections: list[Section]) -> list[tuple[str, list[Section]]]
     return groups
 
 
+def apply_reviewed_layout(markdown: str, section: Section,
+                          corrections: dict[str, list[dict[str, str]]]) -> str:
+    """Preserve PDF-checked fixes that its text layer cannot infer reliably."""
+    for index, correction in enumerate(corrections.get(str(section.number), []), start=1):
+        original = correction["original"]
+        revised = correction["revised"]
+        matches = markdown.count(original)
+        if matches != 1:
+            raise ValueError(f"Reviewed layout fix {section.number}:{index} matches {matches} times")
+        markdown = markdown.replace(original, revised, 1)
+    return markdown
+
+
 def write_site_metadata(sections: list[Section], character_count: int) -> None:
     groups = grouped_sections(sections)
     lines = ["---", f"title: {json.dumps(TITLE, ensure_ascii=False)}",
@@ -399,8 +480,8 @@ def main() -> None:
     note_routes = {chapter: next(s.route for s in reversed(sections) if s.chapter == chapter and s.kind == "subchapter")
                    for chapter in notes}
     VOLUME_DIR.mkdir(parents=True, exist_ok=True)
-    for old in VOLUME_DIR.glob("chapter-*.md"):
-        old.unlink()
+    corrections = json.loads(REVIEWED_LAYOUT.read_text(encoding="utf-8")) if REVIEWED_LAYOUT.exists() else {}
+    rendered: dict[str, str] = {}
     images: set[str] = set()
     references: defaultdict[tuple[int, str], list[tuple[str, str]]] = defaultdict(list)
     character_count = 0
@@ -416,7 +497,13 @@ def main() -> None:
                     f'<p class="reading-meta"><a href="./">{TITLE}</a>'
                     f'{" · " + section.chapter_title if section.chapter_title else ""}</p>\n\n'
                     f"# {section.title}\n\n{body}\n")
-        (VOLUME_DIR / f"chapter-{section.number:03d}.md").write_text(markdown, encoding="utf-8")
+        rendered[f"chapter-{section.number:03d}.md"] = apply_reviewed_layout(
+            markdown, section, corrections)
+    for old in VOLUME_DIR.glob("chapter-*.md"):
+        if old.name not in rendered:
+            old.unlink()
+    for name, markdown in rendered.items():
+        (VOLUME_DIR / name).write_text(markdown, encoding="utf-8")
     write_site_metadata(sections, character_count)
     missing = sorted(name for name in images if not (IMAGE_DIR / name).is_file())
     print(f"Imported {len(sections)} pages, {character_count:,} source characters, "

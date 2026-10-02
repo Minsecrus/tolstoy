@@ -13,7 +13,19 @@
   font-size: 17px;
   line-height: 1.9;
   text-align: justify;
+}
+
+.vp-doc:has(.reading-meta) > p:not(.reading-meta):not(:has(img)) {
   text-indent: 2em;
+}
+
+.vp-doc:has(.reading-meta) > p:has(img) {
+  text-align: center;
+}
+
+.vp-doc:has(.reading-meta) > p:has(img) + p:has(> em:only-child) {
+  text-indent: 0;
+  text-align: center;
 }
 
 .footnote-ref {

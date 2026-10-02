@@ -24,6 +24,22 @@ let localDefinitionCount = 0
 let referenceCount = 0
 let backlinkCount = 0
 
+function noteLink(href, currentRoute, file) {
+  if (/^\.\/chapter-\d+\.md#/.test(href)) {
+    throw new Error(`${file} 的跨页脚注链接包含 .md；原始 HTML 链接不会被 VitePress 改写：${href}`)
+  }
+  const absolute = href.match(/^(\/library\/volume-\d+\/chapter-\d+)#(.+)$/)
+  if (absolute) return { route: absolute[1], id: absolute[2] }
+
+  const relative = href.match(/^\.\/(chapter-\d+)#(.+)$/)
+  if (relative) {
+    return { route: path.posix.join(path.posix.dirname(currentRoute), relative[1]), id: relative[2] }
+  }
+
+  const local = href.match(/^#((?:note|note-ref)-.+)$/)
+  return local ? { route: currentRoute, id: local[1] } : null
+}
+
 for (const file of markdownFiles) {
   const markdown = fs.readFileSync(file, 'utf8')
   const relative = path.relative(libraryDir, file).replaceAll(path.sep, '/').replace(/\.md$/, '')
@@ -42,12 +58,9 @@ for (const file of markdownFiles) {
   pages.set(route, {
     file,
     ids: new Set(ids),
-    links: [
-      ...[...markdown.matchAll(/href="(\/library\/volume-\d+\/chapter-\d+)#([^"]+)"/g)]
-        .map((match) => ({ route: match[1], id: match[2] })),
-      ...[...markdown.matchAll(/href="#((?:note|note-ref)-[^"]+)"/g)]
-        .map((match) => ({ route, id: match[1] }))
-    ]
+    links: [...markdown.matchAll(/href="([^"]+)"/g)]
+      .map((match) => noteLink(match[1], route, file))
+      .filter(Boolean)
   })
 }
 

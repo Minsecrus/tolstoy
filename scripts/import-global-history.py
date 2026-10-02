@@ -16,6 +16,7 @@ import html
 import json
 from pathlib import Path
 import re
+import subprocess
 import sys
 
 import pymupdf
@@ -437,28 +438,6 @@ def write_index_and_nav(sections: list[Section], character_count: int) -> None:
         encoding="utf-8",
     )
 
-    # The bulk importer owns volumes 1–82. Keep the new volume outside its generated
-    # module, while updating the hand-readable landing page and totals.
-    generated_module = (ROOT / "docs" / ".vitepress" / "library.generated.mjs").read_text(encoding="utf-8")
-    stats_match = re.search(r"export const libraryStats = (\{.*?\})\s*$", generated_module, re.DOTALL)
-    if not stats_match:
-        raise ValueError("Cannot read existing library statistics")
-    old_stats = json.loads(stats_match.group(1))
-    total_volumes = old_stats["volumeCount"] + stats["volumeCount"]
-    total_pages = old_stats["pageCount"] + stats["pageCount"]
-    total_chars = old_stats["characterCount"] + stats["characterCount"]
-    site_index = ROOT / "docs" / "index.md"
-    content = site_index.read_text(encoding="utf-8")
-    content = re.sub(
-        r"^共 \d+ 个分卷、[\d,]+ 个阅读页面，正文约 [\d,]+ 万字。$",
-        f"共 {total_volumes} 个分卷、{total_pages} 个阅读页面，正文约 {round(total_chars / 10000):,} 万字。",
-        content,
-        flags=re.MULTILINE,
-    )
-    content = re.sub(r"^- .*\(/library/volume-83/\).*\n?", "", content, flags=re.MULTILINE)
-    content = content.rstrip() + f"\n- [第83卷：{BOOK_TITLE}](/library/volume-83/) — {AUTHOR}，{len(sections)} 个阅读页面\n"
-    site_index.write_text(content, encoding="utf-8")
-
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -472,6 +451,7 @@ def main() -> None:
     sections = sections_from_pdf(pdf)
     count, images = write_markdown(pdf, sections)
     write_index_and_nav(sections, count)
+    subprocess.run(["node", str(ROOT / "scripts" / "rebuild-library-index.mjs")], check=True)
     asset_dir = ROOT / "docs" / "public" / "library" / f"volume-{VOLUME:02d}" / "images"
     missing = [name for name in images if not (asset_dir / name).exists()]
     print(f"Imported {len(sections)} reading pages, {count:,} source characters, {len(images)} images")

@@ -1,11 +1,13 @@
 import { defineConfig } from 'vitepress'
 import { librarySidebar } from './library.generated.mjs'
 import { additionalLibrarySidebar } from './library.additional.mjs'
+import { psychologyLibrarySidebar } from './library.psychology.mjs'
 import { curateLibrarySidebar } from './library.sidebar.manual.mjs'
 
 const curatedLibrarySidebar = curateLibrarySidebar([
   ...librarySidebar,
-  ...additionalLibrarySidebar
+  ...additionalLibrarySidebar,
+  ...psychologyLibrarySidebar
 ])
 
 const librarySidebarByPath = {

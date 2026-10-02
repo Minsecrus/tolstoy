@@ -24,3 +24,16 @@ python scripts/extract-global-history-images.py <PDF路径>
 python scripts/import-global-history.py <PDF路径>
 npm run docs:build
 ```
+
+## 重新导入《津巴多普通心理学》
+
+第 84 卷由《津巴多普通心理学（第8版）》中文 PDF 生成，按原书书签拆成章首页、核心概念、关键问题、本章小结和附录。原 PDF 不纳入仓库；网站使用生成的 Markdown 正文和 WebP 图片。需要重新生成时，安装 `pymupdf` 和 `Pillow`，然后运行：
+
+```powershell
+python scripts/extract-zimbardo-images.py <PDF路径>
+python scripts/import-zimbardo-psychology.py <PDF路径>
+$env:VITEPRESS_BASE='/tolstoy/'
+npm run docs:build
+```
+
+`scripts/rebuild-library-index.mjs` 会汇总各卷的目录和统计信息；两个专用导入脚本会在导入后自动调用它。

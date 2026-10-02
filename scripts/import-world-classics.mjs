@@ -1,6 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
+import { rebuildLibraryIndex } from './rebuild-library-index.mjs'
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url))
 const rootDir = path.resolve(scriptDir, '..')
@@ -414,10 +415,6 @@ function makeSidebarItem(book, volumeNo, pages) {
 
 const generatedPath = path.join(rootDir, 'docs', '.vitepress', 'library.generated.mjs')
 const existing = await import(`${pathToFileURL(generatedPath).href}?import=${Date.now()}`)
-const additionsPath = path.join(rootDir, 'docs', '.vitepress', 'library.additional.mjs')
-const additions = fs.existsSync(additionsPath)
-  ? await import(`${pathToFileURL(additionsPath).href}?import=${Date.now()}`)
-  : { additionalLibraryCatalog: [], additionalLibraryStats: { volumeCount: 0, pageCount: 0, characterCount: 0 } }
 // 本站原有 34 卷；导入脚本可能被重复试跑，因此只取原有卷，避免新增卷重复登记。
 const existingSidebar = existing.librarySidebar.slice(0, 34)
 const existingCatalog = existing.libraryCatalog.slice(0, 34)
@@ -492,33 +489,6 @@ const stats = {
 
 const generated = `// 此文件由 scripts/import-world-classics.mjs 生成，请勿手工编辑。\nexport const librarySidebar = ${JSON.stringify(sidebar, null, 2)}\n\nexport const libraryCatalog = ${JSON.stringify(catalog, null, 2)}\n\nexport const libraryStats = ${JSON.stringify(stats, null, 2)}\n`
 fs.writeFileSync(generatedPath, generated)
-
-const fullCatalog = [...catalog, ...additions.additionalLibraryCatalog]
-const fullStats = {
-  volumeCount: stats.volumeCount + additions.additionalLibraryStats.volumeCount,
-  pageCount: stats.pageCount + additions.additionalLibraryStats.pageCount,
-  characterCount: stats.characterCount + additions.additionalLibraryStats.characterCount
-}
-const indexMarkdown = [
-  '---',
-  'title: "作品目录"',
-  'description: "分卷目录"',
-  '---',
-  '',
-  '# 作品目录',
-  '',
-  '站内作品已按分卷、分部和章节整理。选择一卷开始阅读。',
-  '',
-  `共 ${fullStats.volumeCount} 个分卷、${fullStats.pageCount} 个阅读页面，正文约 ${Math.round(fullStats.characterCount / 10000).toLocaleString('zh-CN')} 万字。`,
-  '',
-  ...fullCatalog.map((item, index) => {
-    const volumeNo = index + 1
-    const label = item.volumeLabel === '新增卷' ? `第${volumeNo}卷：${item.title}` : `${item.volumeLabel}：${item.title}`
-    const author = item.author ? ` — ${item.author}` : ''
-    return `- [${label}](${item.link})${author}，${item.pageCount} 个阅读页面`
-  }),
-  ''
-].join('\n')
-fs.writeFileSync(path.join(rootDir, 'docs', 'index.md'), indexMarkdown)
+await rebuildLibraryIndex()
 
 console.log(`完成：新增 ${newSidebar.length} 卷、${newCatalog.reduce((sum, item) => sum + item.pageCount, 0)} 个阅读页面。`)

@@ -113,43 +113,49 @@ function normalizeCrossPageParagraphs(markdown) {
   return result
 }
 
-function finalizeMarkers(markdown, noteRoutes, bodyRoutes) {
+function finalizeMarkers(markdown) {
   let result = normalizeCrossPageParagraphs(markdown).replace(/\[\[P:([0-9]+|[ivxlcdm]+)\]\]/g, (_, page) => pageMarker(page))
   // 作者简介没有印刷页码；内部 page-280 锚点仅用于来源清单核对。
   result = result.replace(/(<span class="original-page-marker" id="page-280"[^>]*>)[\s\S]*?(<\/span>)/g, '$1书后作者简介（PDF 第 293 页）$2')
   result = result.replace(/\[\[N:([a-z0-9]+):(\d+)\]\]/g, (_, key, number) => {
-    if (!noteRoutes.has(key)) fail(`未知正文注释分组 ${key}`)
-    return `<sup class="footnote-ref" id="note-ref-${key}-${number}"><a href="./${noteRoutes.get(key)}#note-${key}-${number}" aria-label="查看原书注释 ${number}">[${number}]</a></sup>`
+    if (!numberedKeys.includes(key)) fail(`未知正文注释分组 ${key}`)
+    return `<sup class="footnote-ref" id="note-ref-${key}-${number}"><a href="#note-${key}-${number}" aria-label="查看原书注释 ${number}">[${number}]</a></sup>`
   })
   result = result.replace(/\[\[D:([a-z0-9]+):(\d+)\]\]([\s\S]*?)(?=\[\[D:|\s*$)/g, (_, key, number, body) => {
-    if (!bodyRoutes.has(key)) fail(`未知原注释分组 ${key}`)
+    if (!numberedKeys.includes(key)) fail(`未知原注释分组 ${key}`)
     if (!body.trim()) fail(`原注释 ${key}:${number} 没有正文`)
     if (body.includes('class="footnote-backref"')) fail(`原注释 ${key}:${number} 已有返回链接但尚未转换定义标记`)
-    return `<span class="footnote-definition footnote-source" id="note-${key}-${number}" style="display:block;scroll-margin-top:96px;"><span class="footnote-number">[${number}]</span></span>\n\n${body.trim()}\n\n<span class="footnote-backrefs"><a class="footnote-backref" href="./${bodyRoutes.get(key)}#note-ref-${key}-${number}" aria-label="返回正文注释 ${number}">↩</a></span>\n\n`
+    return `<span class="footnote-definition footnote-source" id="note-${key}-${number}" style="display:block;scroll-margin-top:96px;"><span class="footnote-number">[${number}]</span></span>\n\n${body.trim()}\n\n<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-${key}-${number}" aria-label="返回正文注释 ${number}">↩</a></span>\n\n`
   })
   return result.trimEnd() + '\n'
 }
 
-function validateFinalLinks(rendered, pages, noteRoutes, bodyRoutes) {
-  const byRoute = new Map(pages.map((page) => [chapterFile(page.chapter).replace(/\.md$/, ''), rendered.get(chapterFile(page.chapter))]))
+function validateFinalLinks(rendered, pages) {
   for (const page of pages) {
     const file = chapterFile(page.chapter)
     const markdown = rendered.get(file)
     if (/\[\[(?:P|N|D):/.test(markdown)) fail(`${file} 仍有未转换标记`)
-    sameSequence([...markdown.matchAll(/class="footnote-backref" href="\.\/(chapter-\d+)#note-ref-([a-z0-9]+)-(\d+)"/g)]
-      .map((m) => `${m[2]}:${Number(m[3])}`), page.definitions, `${file} 注释返回链接`)
+    sameSequence([...markdown.matchAll(/class="footnote-backref" href="#note-ref-([a-z0-9]+)-(\d+)"/g)]
+      .map((m) => `${m[1]}:${Number(m[2])}`), page.definitions, `${file} 注释返回链接`)
     for (const item of page.references) {
       const [key, number] = item.split(':')
-      const expected = `<a href="./${noteRoutes.get(key)}#note-${key}-${number}" aria-label="查看原书注释 ${number}">[${number}]</a>`
+      const expected = `<a href="#note-${key}-${number}" aria-label="查看原书注释 ${number}">[${number}]</a>`
       if (!markdown.includes(expected)) fail(`${file} 正文注释 ${item} 的链接不正确`)
     }
     for (const item of page.definitions) {
       const [key, number] = item.split(':')
-      if (!markdown.includes(`href="./${bodyRoutes.get(key)}#note-ref-${key}-${number}"`)) fail(`${file} 原注释 ${item} 的返回链接不正确`)
+      if (!markdown.includes(`href="#note-ref-${key}-${number}"`)) fail(`${file} 原注释 ${item} 的返回链接不正确`)
     }
-    for (const match of markdown.matchAll(/href="\.\/(chapter-\d+)#((?:note|note-ref)-[^"\s]+)"/g)) {
-      const target = byRoute.get(match[1])
-      if (!target?.includes(`id="${match[2]}"`)) fail(`${file} 指向不存在的注释锚点 ${match[1]}#${match[2]}`)
+    if (/href="[^"#]+#(?:note|note-ref)-/.test(markdown)) fail(`${file} 存在跨页注释链接，注释应位于本章末尾`)
+    for (const match of markdown.matchAll(/href="#((?:note|note-ref)-[^"\s]+)"/g)) {
+      if (!markdown.includes(`id="${match[1]}"`)) fail(`${file} 指向不存在的同页注释锚点 ${match[1]}`)
+    }
+    if (page.definitions.length) {
+      const notesStart = markdown.indexOf('\n## 注释\n')
+      if (notesStart < 0) fail(`${file} 缺少章末注释标题`)
+      if (referenceMarkers(markdown.slice(notesStart)).length || definitionMarkers(markdown.slice(0, notesStart)).length) {
+        fail(`${file} 注释未完整放在正文末尾`)
+      }
     }
   }
 }
@@ -170,7 +176,6 @@ function makeLibraryModule(pages, rendered, manifest) {
   const sidebar = [{ text: bookTitle, collapsed: true, items: [
     { text: '本卷首页', link: '/library/volume-85/' },
     { text: '中文译本', collapsed: false, items: pages.filter((p) => p.chapter <= 9).map(item) },
-    { text: '原书注释', collapsed: true, items: pages.filter((p) => p.chapter >= 10 && p.chapter <= 17).map(item) },
     { text: '文献、索引与作者', collapsed: true, items: pages.filter((p) => p.chapter >= 18).map(item) },
     { text: '英文原书 PDF', link: '/library/volume-85/original' }
   ] }]
@@ -217,12 +222,9 @@ async function main() {
       sameSequence(rawPages(source), section.pages, `${section.key} 原文页码清单`)
     }
     if (section.key !== 'preface' && references.length !== section.noteCount) fail(`${section.key} 的原文引用数与注释数不一致`)
-    return { ...section, references, definitions: [] }
+    return { ...section, references, definitions: section.key === 'preface' ? [] : references }
   })
-  const bodyRoutes = new Map(pages.filter((p) => p.key !== 'preface').map((p) => [p.key, chapterFile(p.chapter).replace(/\.md$/, '')]))
-  const noteRoutes = new Map()
-  for (let i = 0; i < numberedKeys.length; i += 1) {
-    const key = numberedKeys[i]
+  for (const key of numberedKeys) {
     const section = manifest.sections.find((s) => s.key === key)
     const definitions = Array.from({ length: section.noteCount }, (_, n) => `${key}:${n + 1}`)
     if (sourceDir) {
@@ -230,10 +232,6 @@ async function main() {
       sameSequence([...source.matchAll(/\[\[D:([a-z0-9]+):(\d+)\]\]/g)].map((m) => `${m[1]}:${Number(m[2])}`), definitions, `${key} 原文注释清单`)
       sameSequence(rawPages(source), [], `${key} 原文注释页码标记`)
     }
-    const title = key === 'intro' ? '导论注释' : key === 'conclusion' ? '结论注释' : `第${['一', '二', '三', '四', '五', '六'][Number(key.slice(2)) - 1]}章注释`
-    const chapter = i + 10
-    pages.push({ key: `notes-${key}`, title, chapter, pages: [], references: [], definitions })
-    noteRoutes.set(key, chapterFile(chapter).replace(/\.md$/, ''))
   }
   for (const page of manifest.supplementalPages) {
     if (sourceDir) sameSequence(rawPages(readRequired(path.join(sourceDir, `${page.key}.txt`))), page.pages, `${page.key} 原文页码清单`)
@@ -241,7 +239,7 @@ async function main() {
   }
   pages.sort((a, b) => a.chapter - b.chapter)
   const actualFiles = fs.readdirSync(volumeDir).filter((file) => /^chapter-.*\.md$/.test(file)).sort()
-  sameSequence(actualFiles, pages.map((p) => chapterFile(p.chapter)), '20 个中文阅读页面')
+  sameSequence(actualFiles, pages.map((p) => chapterFile(p.chapter)), '12 个中文阅读页面')
   const rendered = new Map()
   for (const page of pages) {
     const file = chapterFile(page.chapter)
@@ -250,11 +248,11 @@ async function main() {
     if (page.key === 'index' && title === '索引') page.title = title
     else if (title !== page.title) fail(`${file} 题名应为 ${page.title}，实际为 ${title}`)
     validateMarkers(markdown, page, file)
-    const converted = checkOnly ? markdown : finalizeMarkers(markdown, noteRoutes, bodyRoutes)
+    const converted = checkOnly ? markdown : finalizeMarkers(markdown)
     validateMarkers(converted, page, file)
     rendered.set(file, converted)
   }
-  validateFinalLinks(rendered, pages, noteRoutes, bodyRoutes)
+  validateFinalLinks(rendered, pages)
   const module = makeLibraryModule(pages, rendered, manifest)
   if (checkOnly) {
     if (readRequired(modulePath) !== module) fail('目录元数据或字数统计已过期，请重新运行 finalizer')

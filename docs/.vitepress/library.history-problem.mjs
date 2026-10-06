@@ -51,44 +51,6 @@ export const historyProblemLibrarySidebar = [
         ]
       },
       {
-        "text": "原书注释",
-        "collapsed": true,
-        "items": [
-          {
-            "text": "导论注释",
-            "link": "/library/volume-85/chapter-010"
-          },
-          {
-            "text": "第一章注释",
-            "link": "/library/volume-85/chapter-011"
-          },
-          {
-            "text": "第二章注释",
-            "link": "/library/volume-85/chapter-012"
-          },
-          {
-            "text": "第三章注释",
-            "link": "/library/volume-85/chapter-013"
-          },
-          {
-            "text": "第四章注释",
-            "link": "/library/volume-85/chapter-014"
-          },
-          {
-            "text": "第五章注释",
-            "link": "/library/volume-85/chapter-015"
-          },
-          {
-            "text": "第六章注释",
-            "link": "/library/volume-85/chapter-016"
-          },
-          {
-            "text": "结论注释",
-            "link": "/library/volume-85/chapter-017"
-          }
-        ]
-      },
-      {
         "text": "文献、索引与作者",
         "collapsed": true,
         "items": [
@@ -128,12 +90,12 @@ export const historyProblemLibraryCatalog = [
     "sourceSha256": "f2e7d9fb63cbbe45382333d16fe889514d6d22e47eaa3a2314361b306d8f8e00",
     "link": "/library/volume-85/",
     "firstPage": "/library/volume-85/chapter-001",
-    "pageCount": 20
+    "pageCount": 12
   }
 ]
 
 export const historyProblemLibraryStats = {
   "volumeCount": 1,
-  "pageCount": 20,
-  "characterCount": 303548
+  "pageCount": 12,
+  "characterCount": 303654
 }

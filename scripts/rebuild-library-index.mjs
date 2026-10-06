@@ -29,7 +29,8 @@ export async function rebuildLibraryIndex() {
   const modules = await Promise.all([
     loadLibraryModule('library.generated.mjs', 'libraryCatalog', 'libraryStats'),
     loadLibraryModule('library.additional.mjs', 'additionalLibraryCatalog', 'additionalLibraryStats', true),
-    loadLibraryModule('library.psychology.mjs', 'psychologyLibraryCatalog', 'psychologyLibraryStats', true)
+    loadLibraryModule('library.psychology.mjs', 'psychologyLibraryCatalog', 'psychologyLibraryStats', true),
+    loadLibraryModule('library.history-problem.mjs', 'historyProblemLibraryCatalog', 'historyProblemLibraryStats', true)
   ])
   const catalog = modules.flatMap((module) => module.catalog)
   const stats = modules.reduce((total, module) => ({

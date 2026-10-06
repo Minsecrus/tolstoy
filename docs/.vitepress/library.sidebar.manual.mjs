@@ -206,8 +206,8 @@ function normalizeNode(volumeNo, node, groupText = '') {
 export function curateLibrarySidebar(sidebar) {
   return sidebar.map((volume, index) => {
     const volumeNo = index + 1
-    // 新增两卷的书签标题已由各自的专用导入器校对。
-    if (volumeNo === 83 || volumeNo === 84) return volume
+    // 新增卷的章节标题已由各自的专用导入器校对。
+    if (volumeNo === 83 || volumeNo === 84 || volumeNo === 85) return volume
     const special = specialSections(volumeNo)
     if (special) return { ...volume, items: [volume.items[0], ...special] }
     return {

@@ -5,6 +5,7 @@ __pycache__/
 
 # Original source text
 /source/*.txt
+/tmp/
 
 # VitePress generated files
 **/.vitepress/cache/

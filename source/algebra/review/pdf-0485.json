@@ -1,0 +1,12 @@
+{
+  "pdfPage": 485,
+  "printedPage": "474",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves alpha=(a^2+b^2)^(1/2). Chinese adds missing absolute value bars to alpha with adjacent translator note."
+  ]
+}

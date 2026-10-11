@@ -1,0 +1,12 @@
+{
+  "pdfPage": 638,
+  "printedPage": "629",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed638; both duals and Lambda/lambda/mu distinguished; trace factor order checked. EN preserves source shorthand m_{a,b}(a′,b′); ZH visibly expands it to m_{a,b}(a′⊗b′) and explains the induced linear map’s tensor argument. This is a notation clarification, not a substantive false-formula finding."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 216,
+  "printedPage": "201",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Source off-by-one column indices: m+n columns numbered from C_0 end at C_{m+n-1}. Printed indices retained; visible Chinese editorial note gives corrected determinant relation."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 86,
+  "printedPage": "71",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Resolved source misprint at printed p.71: original f_i\\circ g_*=g_i preserved in English; corrected to g_*\\circ f_i=g_i in Chinese with an explicit visible editorial note in both versions."
+  ]
+}

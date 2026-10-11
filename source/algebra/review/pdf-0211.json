@@ -1,0 +1,12 @@
+{
+  "pdfPage": 211,
+  "printedPage": "196",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原文要求自然数 a,b,c，却写 3^(2^n)-1=c_n 作 a_n+b_n=c_n 例子。中文可见译校注给出等价正整数重排；正文与英文保留印出方程。"
+  ]
+}

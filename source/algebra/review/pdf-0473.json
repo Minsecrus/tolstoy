@@ -1,0 +1,14 @@
+{
+  "pdfPage": 473,
+  "printedPage": "461",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Verified D_2 and D_(n+1) distinction, every transcendental generator, infinitesimal substitution u_i=a_i+t_i, both exercise positivity conditions and trace/approximation hint.",
+    "Exercise 1 omits alpha!=0 while requiring sigma(alpha)>0. English retains original; adjacent Chinese editorial note gives missing nonzero hypothesis or sigma(alpha)>=0, with the zero counterexample.",
+    "独立二审将几何术语simple point的误译‘单点’改为‘非奇异点’，与偏导非零条件相符。"
+  ]
+}

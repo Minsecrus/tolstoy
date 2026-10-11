@@ -1,0 +1,12 @@
+{
+  "pdfPage": 795,
+  "printedPage": "787",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visible Chinese editorial note: on cycles the difference f_n-g_n is a boundary, not necessarily zero; only the h_{n+1}d^n term vanishes. English source retained."
+  ]
+}

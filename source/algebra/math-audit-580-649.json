@@ -1,0 +1,1032 @@
+{
+  "auditRange": [
+    580,
+    649
+  ],
+  "complete": true,
+  "reviewedRange": [
+    580,
+    649
+  ],
+  "method": "Independent original page image visual review; complete current English and Chinese compared, formulas, conditions, proofs, exercises, diagrams and existing editorial notes checked. Source statements retained; author intentions not guessed. Hashes computed from current UTF-8 file bytes.",
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 580,
+      "printedPage": "571",
+      "scope": "Chapter XV introduction and §1 definitions: symmetric, alternating, hermitian; first/second-variable linearity, conjugation and characteristic assumption checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "45b172931d71b4728a3f082a3dd8fc5f86eef72558039a4d50716520746a7f0c",
+      "chineseSha256": "451756d32387b088381cb90818443c22eaa81ddc856300123f9b8cff03f86647"
+    },
+    {
+      "pdfPage": 581,
+      "printedPage": "572",
+      "scope": "Kernel/nondegeneracy versus nonsingularity; anti-dual; orthogonal sums/bases; Proposition 1.1 statement and radical decomposition checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "be78f923f4dbd18f9ffdce71df06d372cd77ea61a25c17f03798b1c57731dafc",
+      "chineseSha256": "dd8be0f5bcdd6c993c4f60bdafec5288a6c1a146af7e9c6813d78af8620ed5f3"
+    },
+    {
+      "pdfPage": 582,
+      "printedPage": "573",
+      "scope": "Proposition 1.1 component proof; constructed orthogonal sum; Proposition 1.2 dimension identity, nondegenerate ambient hypothesis and proof; quotient form and metric map definition checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "afd675656dba530cbae560e500c446a4a268cf376c676c0356f02e47ba927791",
+      "chineseSha256": "c98c115122209851da61c3148c67f369e8c4ebd82a711cef65620d5944803c15"
+    },
+    {
+      "pdfPage": 583,
+      "printedPage": "574",
+      "scope": "Isometry and complements of radical; §2 no-2-torsion and quadratic-map definitions; Proposition 2.1 uniqueness and polarization proof; Delta map start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "d5216a0ef0043cc7f271fa281f3c46a8ac6e053825cb60e4d77c9fad0168fcd3",
+      "chineseSha256": "7d05353a38c9df4ca88795af2e4f86207bb15fd19685c091326fe69a172314c9"
+    },
+    {
+      "pdfPage": 584,
+      "printedPage": "575",
+      "scope": "Delta/polarization, uniquely 2-divisible target and Proposition 2.2; §3 characteristic≠2 null-form polarization and orthogonal-basis induction start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "ec2d19595a273d6825f67a4e6f87fa33e86d7c9c3fc1588869ed5bba89dd7958",
+      "chineseSha256": "cfbee1d717f64f28be3a2e6a8eee1e4b4b6ac0e8026beb729d334b23fb9886a1"
+    },
+    {
+      "pdfPage": 585,
+      "printedPage": "576",
+      "scope": "Orthogonal-basis independence and radical complement proof, Corollary 3.2, diagonal coordinate form and complete symbolic diagonal matrix checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "ca3b5baacea3b992199fe69e1166c0fe5582f9ec2dd3ced655d8209826d5f5ef",
+      "chineseSha256": "33d1a50cf511279dc255f834187f8a944040f5a03c05f4cf57ad3d0c2e616dc5"
+    },
+    {
+      "pdfPage": 586,
+      "printedPage": "577",
+      "scope": "Sylvester Theorem 4.1 signs, mixed-basis independence proof, Corollary 4.2 square-root hypothesis and normalized signature checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "2dd0e8143aa10e0f978ae995eee8476246a5c7ae3671229471b6f3335ffda609",
+      "chineseSha256": "ba0ed17f1ac576d04af0993fed086ba7a26e692458d7fab4ef7fdedd60b9673d"
+    },
+    {
+      "pdfPage": 587,
+      "printedPage": "578",
+      "scope": "Definite forms, Corollary 4.3, norm/Schwarz/triangle inequalities and Gram–Schmidt start; existing v1 versus v1′ editorial note confirmed from normalization.",
+      "issues": [
+        {
+          "type": "confirmed-source-note",
+          "detail": "Source 'Then v_1 has norm 1' should name normalized v_1′; existing adjacent Chinese correction is justified."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "d5feb64467c5c5289881c2eb5ea6eaa1bfba255f7d9b3420a8555b27ba3334b4",
+      "chineseSha256": "b835f27d61fced2af3fb383b799fd12c554ab407833a1c3dfa8f2603c9d60c07"
+    },
+    {
+      "pdfPage": 588,
+      "printedPage": "579",
+      "scope": "Gram–Schmidt recursive projections; ordered fixed field k0 and k0(i); hermitian first/second-variable convention; Theorem 5.1 signature statement checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "acf6edc2dfa3f0db4494dfa2a8c466a2a1dd1a938fac61ec9d9053b5d12d8338",
+      "chineseSha256": "9fc6196fc8d488861e15864ff06f81152bf7e76b258df699625e934154b9c2a7"
+    },
+    {
+      "pdfPage": 589,
+      "printedPage": "580",
+      "scope": "Corollaries 5.2–5.3, positive/negative definitions, polarization equations, A=0 assertion, Schwarz alpha/beta substitution and norm checked.",
+      "issues": [
+        {
+          "type": "confirmed-source-note",
+          "detail": "Existing Chinese positive-definite note correctly restricts x≠0."
+        },
+        {
+          "type": "source-condition-clarification-added",
+          "detail": "After rechecking preceding §5, general hermitian forms are permitted, with nondegeneracy attached to specific corollaries. Original A=0 sentence retained; adjacent Chinese note now states polarization yields A(E)⊂rad g, and nondegeneracy (e.g. positivity) gives A=0. No author-intended repair or source-error label inferred."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "4010e9bc0e827e14af3c0cb2842dd7d9d021a40247e25f2de5fef1cbf8d41a8d",
+      "chineseSha256": "32a5c3236e47f5d466d9c3d4077395172eea2d332e6063d5fc5d05170791dd28"
+    },
+    {
+      "pdfPage": 590,
+      "printedPage": "581",
+      "scope": "Norm scaling/triangle; §6 finite complex positive definite assumptions; adjoint existence, four algebra identities and Proposition 6.1 polarization proof checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "799e06d772ce883b7db1dfa6160c6cf7ca4ec45c2a918c17a646a3367842d950",
+      "chineseSha256": "4f3df12fa72ad0e51509842b5ab960dcc22f9f2e7f87fe16791130cc365187b5"
+    },
+    {
+      "pdfPage": 591,
+      "printedPage": "582",
+      "scope": "Eigenvector conventions, Proposition 6.2 real eigenvalues/orthogonality, algebraic eigenvector lemma and factor product, Theorem 6.4 invariant orthogonal complement proof start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "475c6dddcbe18cfefd021ffaffc8500ea4c94abeebb0eea5f1e0ca4d3c12a54d",
+      "chineseSha256": "23e85a7d74e14b445838ef2db312cb0498f82c4cb2ab65219f47aaa182c75395"
+    },
+    {
+      "pdfPage": 592,
+      "printedPage": "583",
+      "scope": "Hermitian spectral induction end, Corollaries 6.5–6.6 simultaneous orthogonality, unitary criterion/Theorem 6.7, eigenvalue modulus and polar positivity definitions checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "07861a8bdc4b9b72a7231e496a46051b9b1ece7b91a97d7e2a83b82d7f091e03",
+      "chineseSha256": "093fd42db7cbc90e2975eab70dffead141314ce29f14bd6a92915e847a19ad11"
+    },
+    {
+      "pdfPage": 593,
+      "printedPage": "584",
+      "scope": "Positive A* A under preceding invertibility; semipositive square-root proposition and proof, polar decomposition order/uniqueness, Hilbert-space remark and §7 start checked. Square-root proof's invariant eigenspace step is valid using positivity and B²=P, not commutation alone.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "5898be45b10afcb8ff48fe966e5df48a671303083814ac75991b76802037e25f",
+      "chineseSha256": "0f0e1e4dd837442eaebc1e90e49ea65a87ef5a9f100edf9e028f391895c3c8b3"
+    },
+    {
+      "pdfPage": 594,
+      "printedPage": "585",
+      "scope": "Transpose convention; real spectral Theorem 7.1 and complexification proof, real-closed remark, Corollaries 7.2–7.3 and start proof checked.",
+      "issues": [
+        {
+          "type": "resolved-source-qualification",
+          "detail": "Independent second visual/math audit: original proof's orthogonal-basis sentence retained; adjacent Chinese note specifies normalization before obtaining an ordinary symmetric matrix. Verified counterexample D=diag(1,4), M=[[0,4],[1,0]]; theorem unchanged."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "89e5554414a75bf8f388779d2bff380962fe0b302820cc84da057daa16377821",
+      "chineseSha256": "6df013681ff74d2f317333bd182b389096eeebd5d38b29f90824eba2c6a20f3b"
+    },
+    {
+      "pdfPage": 595,
+      "printedPage": "586",
+      "scope": "Simultaneous real orthogonality proof end; alternating forms without characteristic restriction, hyperbolic pair and signed 2×2 matrix, Theorem 8.1 kernel/hyperbolic splitting induction start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "6e686e1670fcbe970b2dc753e25b547f5d3e203cdf2b35c4d6497d91d5fde645",
+      "chineseSha256": "d18e4786f9e81b4bfb49247ba4d3717a76259488bd00f178d8c553eb3274ae36"
+    },
+    {
+      "pdfPage": 596,
+      "printedPage": "587",
+      "scope": "Alternating splitting proof end, Corollary 8.2, original block alternating matrix crop personally inspected, reordered radical block and standard matrix, Corollary 8.3 decomposition statement checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "24ee75b83d64b74765fa2a2cd91ae5095fe6ce2ff3feb795216947aa51aeb60c",
+      "chineseSha256": "66d250cac867adb69f3e35400979a4f76f8b8925a352da1dc3fea8c5810886fb"
+    },
+    {
+      "pdfPage": 597,
+      "printedPage": "588",
+      "scope": "Corollary 8.3 cross-pairing formula/proof; §9 alternating matrix even size, congruence canonical blocks, determinant square and generic Z[t] construction checked.",
+      "issues": [
+        {
+          "type": "resolved-source-qualification",
+          "detail": "Independent second visual/math audit: original standard-basis dot-product proof retained. Adjacent Chinese note explains that the literal dot product makes the two coordinate halves perpendicular, so both cross terms vanish; missing cross-pairing specification identified without guessing a full author-intended repair."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "4300b7aba6c6e22e5b654dcfa52e109b7ca749e8a166db4e71dd78b388cd68b9",
+      "chineseSha256": "dcca8ccc7259b01f6cf64da0f6f459452c0271b8d07ce578c91e8400a8ff304a"
+    },
+    {
+      "pdfPage": 598,
+      "printedPage": "589",
+      "scope": "Generic Pfaffian sign normalization, specialization over arbitrary commutative ring; Theorem 9.1 determinant square/congruence formula and generic proof/sign specialization; Witt characteristic assumption checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "e5f67ba9b06835c52aeb727b0665a9d0c0b7f63bb46784c7c9407dc19a1d2096",
+      "chineseSha256": "3181acea941bbf40074a7723699c52deb407ce27851f5c6fb43842f9d82151ec"
+    },
+    {
+      "pdfPage": 599,
+      "printedPage": "590",
+      "scope": "Symmetric hyperbolic plane/pair, isotropic partner affine equation, signed matrix and even dimension; Lemma 10.1 radical basis hyperbolic completion and orthogonal induction setup checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "5ca233ec857b70d55973bfa040f7efcf5d5f1d1ed0bc80335de5fc3ecc30bbe0",
+      "chineseSha256": "cdcc4484227e6ae6861395286027a863a8543102daadc8b78163f562e52d1c4f"
+    },
+    {
+      "pdfPage": 600,
+      "printedPage": "591",
+      "scope": "Lemma 10.1 proper orthogonal inclusions and hyperbolic extension; Witt Theorem 10.2 reduction, fixed F case, one-dimensional nonsingular and singular span constructions checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "53e7c1ba8fd85403c09070f6a7f2e143fcbaa98f14fa27cb29016df97c37ef30",
+      "chineseSha256": "647b35d8e37ceb075569b314302271270649485b0de911cced7a7df3f9e9e796"
+    },
+    {
+      "pdfPage": 601,
+      "printedPage": "592",
+      "scope": "Witt one-dimensional reflection and induction maps/codomains, Corollary 10.3 ambient hypotheses, null subspace enlargement sentence and Corollary 10.4 checked.",
+      "issues": [
+        {
+          "type": "resolved-source-qualification",
+          "detail": "Independent second visual/math audit: original hyperbolic-embedding sentence retained. Adjacent Chinese note explicitly carries forward Lemma 10.1's nondegenerate ambient hypothesis; nonzero zero-form space demonstrates the limitation if that hypothesis is dropped."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "ba90fbc54e984fc59c4db1f17e81dbf001c0ec95fc6c617cbe28b01fac57ac12",
+      "chineseSha256": "30715319e05eea8fb17d9f1f5c58fbdcfc799e3b810ff258cfe4f03f2338ad17"
+    },
+    {
+      "pdfPage": 602,
+      "printedPage": "593",
+      "scope": "Corollary 10.4 maximality proof, hyperbolic enlargement/10.5, cancellation 10.6 statement and proof, anisotropic/definite terminology and Witt decomposition 10.7 start checked.",
+      "issues": [
+        {
+          "type": "resolved-source-qualification",
+          "detail": "Independent second visual/math audit: cancellation statement and original proof retained. Adjacent Chinese note explains F-perpendicular=rad(h) plus E_i for degenerate h; quotienting by rad(h) yields the nondegenerate spaces required by Corollary 10.3 and verifies the cancellation statement."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "c5b1220f441a9943a7788700f3fb0c30912cfb089912f139bbc89bad04b8e4dd",
+      "chineseSha256": "286cdb58017693590e7fc358d3fa2a1b5aa91c26c4574809c6a014cab6541e00"
+    },
+    {
+      "pdfPage": 603,
+      "printedPage": "594",
+      "scope": "Witt decomposition uniqueness end; §11 equivalence/monoid, additive inverse via diagonal null subspace and hyperbolic dimension, Witt and Grothendieck group motivation/map start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "24363776e8f6fbd1df66aed9dcace220d951c584f3d6640bcf13c5b61e1b7a95",
+      "chineseSha256": "41e32b9ccc5b509b5dcecccfb59f342162c239ce55a0750f98dc4c9f7560edeb"
+    },
+    {
+      "pdfPage": 604,
+      "printedPage": "595",
+      "scope": "Grothendieck group injection, dimension splitting and determinant square classes/zero-dimensional convention; Exercise 1(a) real/imaginary decomposition and 1(b) linear-variable assumption checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "9763a2c83e78e14d6022d09d1b0f7b492f5dfc8f26d2a59f6a885471672d76c0",
+      "chineseSha256": "72ee4454531cd40cce27da327fd7757b00773cbbc5b3dcbcbd1428fbbbcbc7ba"
+    },
+    {
+      "pdfPage": 605,
+      "printedPage": "596",
+      "scope": "Exercise 1(b) end and uniqueness; Exercises 2–7 with all rotation/reflection matrices, invariant subspace conditions, spectral hints and Hermitian real/imaginary decomposition checked.",
+      "issues": [
+        {
+          "type": "resolved-source-qualification",
+          "detail": "Independent second visual/math audit: Exercise 1(b) original y-linearity and 2ig=h+psi retained. Adjacent Chinese note checks chapter's first-variable-linear hermitian convention and counterexample g(x,y)=i*conj(x)*y; warns original conditions insufficient under that convention, without guessing a full repair."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "30fcb2ce96d1bb254ab7d1ace750b80ca59ed6d426ef1fd6d199d696efd7a20f",
+      "chineseSha256": "414f4cdb5924c1668b6125760d071fa8a38ff718ca2d5ba0845d7ab21a446369"
+    },
+    {
+      "pdfPage": 606,
+      "printedPage": "597",
+      "scope": "Exercises 7–11 continuation, normality, real positive definite assumptions, spectral operator inequalities, exponential/log series and local commuting hypotheses checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "fdf3e1ce980444b1cc49cd39e2d65411a53b0048f09b6ef7998fc1171a8c7ec9",
+      "chineseSha256": "b0205576fe3cea447c5aa2c6bca039271011f4f6e6939f0172e80ba64a6d83cc"
+    },
+    {
+      "pdfPage": 607,
+      "printedPage": "598",
+      "scope": "Exercise 11 end; full Exercises 12–16 and 17 start, parallelogram law, Tate limits, higher difference expression and alternating integer elementary divisors checked; existing Tate dh note confirmed.",
+      "issues": [
+        {
+          "type": "confirmed-source-note",
+          "detail": "Exercise 14 source h∘f-df has incompatible codomain; existing h∘f-dh correction is verified."
+        },
+        {
+          "type": "resolved-source-qualification",
+          "detail": "Independent second visual/math audit: Exercise 12 original arbitrary-R parallelogram-law equivalence retained. Adjacent Chinese note checks Section 2 R-bilinear quadratic definition and f(z)=conj(z)^2 over C counterexample; warns conditions insufficient without guessing a full repair."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "3d91a90994dd658f5d7d051b605c3547fa4b67c1d035a1913018abc25cc8ee6b",
+      "chineseSha256": "f67df4a5f16bc6eae6c46c419a17a372a66fb4a4b40767c1c219a9f4d3e5837a"
+    },
+    {
+      "pdfPage": 608,
+      "printedPage": "599",
+      "scope": "Integer alternating-form hint continuation and existing injectivity warning; symplectic reference, Exercises 18–23 including square-root hint, odd Pfaffian, Witt groups; SLn and Exercise 24 start checked.",
+      "issues": [
+        {
+          "type": "confirmed-source-note",
+          "detail": "Exercise 17 injective assertion fails for degenerate f, e.g. f=0. Existing Chinese note explicitly preserves general case and image, valid."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "42bbfd5f3af5cae1279c1fedcc1fc60696b7f96aff804d462140315539fba2ec",
+      "chineseSha256": "ae0821a9f0491367da1a093ca799f3b53e033f362432984d803964565cdb7c0f"
+    },
+    {
+      "pdfPage": 609,
+      "printedPage": "600",
+      "scope": "Full Exercises 24–30: UAK decomposition, simple roots/dual diagonal basis, trace form, positive chamber coefficients and permutation fundamental domain; all formulas visually checked.",
+      "issues": [
+        {
+          "type": "transcription-corrected",
+          "detail": "Original Exercise 28 prints <H_alpha,H>=alpha(H), not Y. English Y corrected, unsupported Chinese misprint note removed. Exercise 26(b) first basis entry restored to H_{1,2} in both languages; review updated."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "1644a6f3b7991a743046331eeb2d18049ef69aef97dc466eb1b8e6bcd8e34176",
+      "chineseSha256": "4491b999962eac9f543473eb5ec72f2f66740487541478b0585ef06516c75cc3"
+    },
+    {
+      "pdfPage": 610,
+      "printedPage": "601",
+      "scope": "Chapter XVI introduction: scalar extension also quotients, ring-map types and postponed alternating products; §1 commutative R and multilinear-map module/domain definitions checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "98019a2fe9f95ad5988a54150aecf49640be69316e98427c989c5359bc6083b3",
+      "chineseSha256": "e4285b28ef077f7ba8ca3c43dff27a4697d1769431dfb64db9aa9f893aabf7c7"
+    },
+    {
+      "pdfPage": 611,
+      "printedPage": "602",
+      "scope": "Category and universal tensor product; triangle original crop personally inspected; free module and additive/scalar relation generators, injection and quotient construction and proof start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "6754d3a1fc7202414cac8e1a0fea4a59c8239de7a63f09af8d9be89ed59713fc",
+      "chineseSha256": "1d28465cfc06db48069776fca37d695145ebc53beb5b8976788e754e4923ef69"
+    },
+    {
+      "pdfPage": 612,
+      "printedPage": "603",
+      "scope": "Universal tensor proof factorization/uniqueness and both original triangle crops personally inspected; tensor notation, scalar/additive identities and finite sums checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "db7b914c1a2ae6ae722ff2c45a78ee9766a84baac5cca55ca5414c808263179f",
+      "chineseSha256": "f51856d2d65800167cc557c5c6976b1a0feb69022e7734d120c99784d1e17bdb"
+    },
+    {
+      "pdfPage": 613,
+      "printedPage": "604",
+      "scope": "Tensor/direct-limit finite-relation remark (element tested via a finite-stage representative); coprime cyclic collapse, universal-map criterion and associativity Proposition 1.1 proof start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "cf4bbda941308e6a329bc352e4a1c19d96e8f245dbc3b4d1518771ce880b9bde",
+      "chineseSha256": "0b7f2d9ec3298539648d6f0b5a264abd2362fe0a66a34f9d12393f7409d0c199"
+    },
+    {
+      "pdfPage": 614,
+      "printedPage": "605",
+      "scope": "Associativity construction (inverse orientation understood by symmetry), interchange Proposition 1.2 and proof; tensor maps functor square original crop personally inspected and labels checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "476f818fd61850d516bc89431a390f10326168a75ae9e5018da75a438ba10d14",
+      "chineseSha256": "051e2b062dc4b2bb328c7d02fe093e91cd42f57cf59955ba7212ec51d3f1f2fc"
+    },
+    {
+      "pdfPage": 615,
+      "printedPage": "606",
+      "scope": "Functor composition/identity, pure tensors, multilinearity in maps, fixed-module tensor functor on Hom and tensor notation for maps checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "a030fd907710702c3d00f0643291dae017acabc406d5556ec88a44cdd26d6372",
+      "chineseSha256": "e04fb9edf6c5ebf1658a51fe3e8f15f8f0d8dfac95a80047ea01050bcc82be1b"
+    },
+    {
+      "pdfPage": 616,
+      "printedPage": "607",
+      "scope": "Distinction tensor of Hom elements versus induced tensor maps; tensor-Hom adjunction boxed identity, currying/uncurrying inverse and universal map on pure tensors checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "4ccf851c788cd56cf86420c0d8bc57ddb3135e8524c7aa16f4b9da26d5496318",
+      "chineseSha256": "97fcc031aeb8252d2d00d6bacfbfaac332a0f2fe63ae2b2f475a3e1ea547c813"
+    },
+    {
+      "pdfPage": 617,
+      "printedPage": "608",
+      "scope": "Finite direct sum Proposition 2.1 via orthogonal idempotent projections, infinite-sum Corollary 2.2 finite support/inclusion compatibility proof checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "ea6e73f742762e55c273ffa10528f956e6c08f9bc48d136ff9abebbbbb65e392",
+      "chineseSha256": "30ab2f3d3de9eda612d481233285569b9d8a1261481b594d910645d04a2fc4c5"
+    },
+    {
+      "pdfPage": 618,
+      "printedPage": "609",
+      "scope": "Infinite direct sum inverse; rank-one tensor maps and uniqueness, Proposition 2.3 free basis finite support, Corollary 2.4 tensor basis/rank checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "22ae3e1157481482cab5e5a506aa99d7633decaa9d618e68d1d3a52816d6be7c",
+      "chineseSha256": "9e158e8384fb3749f7dda9fa0b6f5d94c76c819f5dc45904833b1f63cebf4413"
+    },
+    {
+      "pdfPage": 619,
+      "printedPage": "610",
+      "scope": "Free tensor coefficients and unit factor; finite free endomorphism tensor Proposition 2.5, matrix-unit indices and cases basis proof; exact sequence Proposition 2.6 start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "dce03ecfe2dbd5669f41609252d79c6cb136cb8895dd63b45e5706013941dfb0",
+      "chineseSha256": "5c7ae0a7260f130ec7dd89597418a1951a3a2807eadf659d7bdbff835d3fa538"
+    },
+    {
+      "pdfPage": 620,
+      "printedPage": "611",
+      "scope": "Tensor right exactness Proposition 2.6 proof: surjectivity, image/kernel inclusion, quotient inverse, lift independence and pure-tensor composition checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "1b52568638ed18e288fbb2866b50c2373595d40c11a0a09b568a5f2649d4a497",
+      "chineseSha256": "e750ce3f1be9e2c864f912e8edd872eead88f5848a7ca2ef19b1481a08100ec4"
+    },
+    {
+      "pdfPage": 621,
+      "printedPage": "612",
+      "scope": "Split-sequence injectivity, reduction Proposition 2.7 both maps/quotient ideal and inverse, reduction as base extension; flat-module criterion F1 start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "cc3dc7282b3a6956d098364b9ad1f46965a3b6b8d3d00cc152efaa77cdacb5eb",
+      "chineseSha256": "d7f81f0572577cae880574e90cbd018a1cbe0df2ac109f9d4c200e222077882e"
+    },
+    {
+      "pdfPage": 622,
+      "printedPage": "613",
+      "scope": "Flat criteria F1–F3, Proposition 3.1 ring/direct-sum/projective facts; localization and PID torsion-free tests Proposition 3.2 and integral-domain torsion nonflatness checked.",
+      "issues": [
+        {
+          "type": "translation-terminology-corrected",
+          "detail": "Projective module in 3.1(iii) changed from 射影模 to established 投射模 after original image check; review note added."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "fa78a5d2b6cad42248399b9c2860fcffc23eac10ffaa64d1009bd9b2004bfda3",
+      "chineseSha256": "5d6b95a8e949b7f998d2d80d31a567a523ae12b25b4f73f75d56ddd8b074586f"
+    },
+    {
+      "pdfPage": 623,
+      "printedPage": "614",
+      "scope": "Nonflat normalization/split primes examples (localization implicit), multivariable maximal ideal relation and cotangent dimension, Lemma 3.3 flat quotient short exact sequence and resolution start checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "19f921341cdda346ad93ed3c8a63990d74e7fff6730d1f76117793d6dcda6bb3",
+      "chineseSha256": "c6612c1a9edc3d9f9c196ffeb3e93ff04c79e6fc598cb420ef54b0445e35a94d"
+    },
+    {
+      "pdfPage": 624,
+      "printedPage": "615",
+      "scope": "Lemma 3.3 exact tensor diagram personally inspected as original crop; flatness-derived zeros and snake argument; Proposition 3.4 flat extension and finite resolution statements checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "22838b07d3183c65296d3605cbab662756eb9a2a63a50efd694cd77dfde5ec95",
+      "chineseSha256": "a2c97c28b63e957daa922f0ffc48e1c1c54316b51696474069889f5e7c50a8eb"
+    },
+    {
+      "pdfPage": 625,
+      "printedPage": "616",
+      "scope": "Proposition 3.4 proof and original comparison diagram crop personally inspected; both directions and induction; relative E-flat definition and Lemma 3.5 submodule/quotient proof setup checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "79902cb4cb0f1070074fe6fd2b0c69a100bb5c7d46fc28e23254adaa99e5a612",
+      "chineseSha256": "4501c58723d9363b98889f3be52ffa977765832e708c718d77078415c373c667"
+    },
+    {
+      "pdfPage": 626,
+      "printedPage": "617",
+      "scope": "Both original subquotient diagrams personally inspected, kernel K snake proof; Lemma 3.6 direct sum finite-support reduction and N1 intersection/N2 projected image setup checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "69c81b7031c2ae288021b6ce1460b07755a01a58e25946c9f621e8dc3005db2b",
+      "chineseSha256": "b2b9fac5bf3e242fe8e1fdd3dcc4194eb4b4a9dbbe7453b0ae77f4a30c7ad710"
+    },
+    {
+      "pdfPage": 627,
+      "printedPage": "618",
+      "scope": "Both original direct-sum exact diagrams personally inspected and injection zeros checked; Lemma 3.6 snake proof, ideal tensor flat criterion Proposition 3.7 and start proof checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "c102aec0e798267d11e0ab1fb37169d422d42267184d6a10417835c6246435de",
+      "chineseSha256": "fe79a4a535b03b621fc4947af3f2edc2c59a74bd075006c88bbe3379188f4aeb"
+    },
+    {
+      "pdfPage": 628,
+      "printedPage": "619",
+      "scope": "Ideal criterion converse via generator/direct sums; full abstract bifunctor exactness assumptions and snake/generator remark; local finite-flat freeness Theorem 3.8 and basis-lift setup checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "a2d6326806d278955c7e581e96dabbf05b0aeb948d5195d10dec412fb4208b67",
+      "chineseSha256": "c0201b6ab3db6f242019efe193bfb2a839c7d7757750c58b306ebddad824a664"
+    },
+    {
+      "pdfPage": 629,
+      "printedPage": "620",
+      "scope": "Original local-flat and finite-presentation diagrams personally inspected; cokernel/Nakayama proof and Noetherian condition; Lemma 3.9 (finite presentation can be chosen/enlarged for surjective comparison) and proof checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "95bb55ded784d86775583f22d0748e3a2a85592e677c4d9a6f481a3cbedd3201",
+      "chineseSha256": "658ba60e917ab19950d66768b33bd952ca62f6812747edc4921bc8028f3f5608"
+    },
+    {
+      "pdfPage": 630,
+      "printedPage": "621",
+      "scope": "General flat freeness relation Lemma 3.10, coefficient equations/kernel tensor exactness and induction reference; existing A-to-R coefficient-ring note confirmed from explicit proof domain.",
+      "issues": [
+        {
+          "type": "confirmed-source-note",
+          "detail": "Both coefficient memberships print A though current base ring and proof are R, with no separate A defined; existing adjacent Chinese note verified."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "8586d4f1439980bf2390d5816b2954df003ab2beaef14d9a1aaec11f02775684",
+      "chineseSha256": "eedfb15e00c4b521882dff628c583f7980e61151c9e4096fa231145b5c593d3f"
+    },
+    {
+      "pdfPage": 631,
+      "printedPage": "622",
+      "scope": "Tor via projective/free resolution, uniqueness in canonical comparison sense, symmetry, Tor-dimension and Theorem 3.11 equivalent flat/vanishing conditions, homological remark checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "84e147073a81528341293b437bbacbf9588ab206b0f5b9bd067c6b384a71da1c",
+      "chineseSha256": "b6497a378b79e83a397be889dea35177ee1953b8ced7ddd7e16ce071fa529be3"
+    },
+    {
+      "pdfPage": 632,
+      "printedPage": "623",
+      "scope": "Base extension R′-module multiplication from three-linear map, reduction and field examples; original base diamond personally inspected; free basis extension Proposition 4.1 checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "fb61c948482246fc8263415fb41adedf0dd64caa8aeef4e34b86c99c5485206c",
+      "chineseSha256": "f9fb4f43237ba04895a0525d2633abed7eaa5fdd772f0e21ef64ebc0b9ef4c43"
+    },
+    {
+      "pdfPage": 633,
+      "printedPage": "624",
+      "scope": "Base-change transitivity with correct tensor base subscripts; central R-algebra and four-linear multiplicative extension, unit and ring maps; original algebra diamond crop personally inspected.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "6c7e1439f1c3bbd68d0aa64bdb385b88483b7a5ef1504fb240d081bae7901894",
+      "chineseSha256": "ea15c904f41be7848ff7f61633085f8bb294febd824aacf54d968287c2b1962e"
+    },
+    {
+      "pdfPage": 634,
+      "printedPage": "625",
+      "scope": "Flat base change/transitivity Proposition 4.2; §5 natural transformation square exact LaTeX labels/arrows, additive functors, dual and Hom variance checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "0c3831fa8cd89811133651abadfe32613faa0e98f0ce8ba9ef09c0f115e38545",
+      "chineseSha256": "5aed458f56eb8c58d1131b0e88dcd31a4d8ed853bcabd897551bbc2ef5b90e03"
+    },
+    {
+      "pdfPage": 635,
+      "printedPage": "626",
+      "scope": "Finite-free natural isomorphism criterion Proposition 5.1; Lemma 5.2 injection/projection domains and identities, direct sum inverse, additive functor behavior and proof reduction checked.",
+      "issues": [
+        {
+          "type": "confirmed-source-note",
+          "detail": "Source converse interchanges ψ inclusion and φ projection against their displayed domains; existing Chinese note correctly restores φ inclusion/ψ projection."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "a3e09671a818fbc6c0d8aa33ea7c0a154ef7836191c3bce802b34c5aa22b6287",
+      "chineseSha256": "1e6ea08f3036d048cdd8cae805c30df4dfdb67f487bf6038f50eb6e6652f6968"
+    },
+    {
+      "pdfPage": 636,
+      "printedPage": "627",
+      "scope": "Finite-free natural-isomorphism proof and upward square labels, additive direct sum injection/surjection, Corollary 5.3 four finite-free Hom tensor factors and reduction checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "6b4ff1a8e07a1e9ea794451d0d10d77c84c44c9a1d4ede4b7a4ac16679174071",
+      "chineseSha256": "4843e10e80b31d5324aaf9df6b57bc7908fca576a03b99c7448fa9552990dabc"
+    },
+    {
+      "pdfPage": 637,
+      "printedPage": "628",
+      "scope": "Corollaries 5.3 proof end and 5.4–5.5, finite-free hypotheses, rank-one endomorphism formula and dual-basis inverse, Casimir basis invariance and tensors remark checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "c92ef1e9666ee8c7e374924b621f463fea5b9587d8bf9ca1bb43e9f42bfecb62",
+      "chineseSha256": "5c4d4213881e63b3288f35557a2bbb24d18effeae43450b0ba5b8e0e6dfe7993"
+    },
+    {
+      "pdfPage": 638,
+      "printedPage": "629",
+      "scope": "Corollary 5.6 tensor dual, Proposition 5.7 evaluation trace with finite-free restriction; algebra tensor multiplication construction and induced-map explanatory note checked.",
+      "issues": [
+        {
+          "type": "confirmed-notation-explanation",
+          "detail": "Existing Chinese m_ab(a′⊗b′) note correctly explains domain of induced map versus ordered-pair shorthand; does not change multiplicative formula."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "d177744fe2ae3087eab1dced4cb3cba884aa58e379657484a7d6cdc9ff7ca576",
+      "chineseSha256": "ce8aebc7d16ed272059399f30f498e7d42e9e17b3dd0b970983ef6484af9de19"
+    },
+    {
+      "pdfPage": 639,
+      "printedPage": "630",
+      "scope": "Tensor algebra unit/central scalar map, commutative-ring and R-algebra coproduct Proposition 6.1, bilinear product map and uniqueness/multiplicativity proof checked.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "470500d1d1508c6a82aab153e5e25a0480d98c73e010acda081a030fbb18c85f",
+      "chineseSha256": "4ebb85af6078df6b5b17d9008b050507a8a8287c9722d7a31112c77e2d75dc3f"
+    },
+    {
+      "pdfPage": 640,
+      "printedPage": "631",
+      "scope": "Coproduct of commutative R-algebras and diamond diagram; G-grading, homogeneous elements, finite-support ordinary product and associative (-1)^{rs} super-product.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "9de753b984e4c64182964d643bc009bb47cc33317e723411f67ba4ebb671a031",
+      "chineseSha256": "59090fcce92ebff682e057d5629669e9d4982413446065d5a3cf2972f087b105"
+    },
+    {
+      "pdfPage": 641,
+      "printedPage": "632",
+      "scope": "Super tensor product, full associativity sign (-1)^{ij+js+sr}; tensor powers T^r including T^0=R, functor action and multiplication map.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "83d0854ec3b4150f3b5e913725ee80fef0ef0650e7d5bf7641c94c206b1c90f9",
+      "chineseSha256": "2e1ca36ad6817829216591c833bbfbdfa87aee10573fa2f47e349b5ca29110b7"
+    },
+    {
+      "pdfPage": 642,
+      "printedPage": "633",
+      "scope": "Tensor algebra grading, T(f) on pure tensors and degree-zero algebra maps; noncommutative polynomial definition and Proposition 7.1 basis/finite-support statement. Verified existing R/k base-ring note from original.",
+      "issues": [
+        {
+          "type": "existing-source-note-verified",
+          "detail": "Two original occurrences of over k coexist with basis and coefficients over R; visible Chinese note identifies exact text and contextual correction."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "533e05600182d6f9497d78a5532ccf547a1c84fb939a2fef4bbd6084e87d83e2",
+      "chineseSha256": "ad854c9b7924a995b5646589997bfc789cb919b96e08fe76a25a18770c6e691c"
+    },
+    {
+      "pdfPage": 643,
+      "printedPage": "634",
+      "scope": "LT(E) direct sum versus End(T(E)), tensor-composition product and associativity, T(L(E)) to LT(E), finite-free Proposition 7.2. Verified existing limited functoriality warning and k/R note.",
+      "issues": [
+        {
+          "type": "existing-source-note-verified",
+          "detail": "LT module-category functor claim lacks action on arbitrary linear maps; Chinese note accurately limits this to missing specification, gives conjugation for isomorphisms, and does not invent a replacement."
+        },
+        {
+          "type": "existing-source-note-verified",
+          "detail": "Original k-algebra wording retained in English; adjacent Chinese R note matches base-ring context."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "b48faa64ce7805d31db0c646ec67d352e2addb36d96ba9b0d8b0eff1023be502",
+      "chineseSha256": "a234d8263233045518c08386aae9581a572ea66113be7daa1d88d5045d9d7f5f"
+    },
+    {
+      "pdfPage": 644,
+      "printedPage": "635",
+      "scope": "Proposition 7.2 conclusion and proof; symmetric multilinear definition, permutation relation submodule, symmetric quotient and ideal, universal canonical map.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "eb0dcae116a182717ea7c61a86a7b42fb8da856d439c1ad09bc1392df47d46dd",
+      "chineseSha256": "d8783eea990375f8e3c0ab53eaa88525e1b48e5d16d90ab824edeef63a971757"
+    },
+    {
+      "pdfPage": 645,
+      "printedPage": "636",
+      "scope": "Symmetric functor, Proposition 8.1 finite-free polynomial basis and full factorization proof/triangle; Proposition 8.2 direct-sum degree decomposition. Verified R/k note and original i_s subscript convention explanation.",
+      "issues": [
+        {
+          "type": "existing-source-note-verified",
+          "detail": "Source has k in an otherwise R-based proposition/proof and i_s in an r-tuple monomial; visible note accurately distinguishes contextual base-ring correction from retained index notation."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "d4c6bf62db61d1cbc83434c11c71dca52ae3689376ab9a7684bfc569d6293517",
+      "chineseSha256": "bb083cb478fef4c492eee58d0e310653fad7ae3bf0268944271241805e9044fa"
+    },
+    {
+      "pdfPage": 646,
+      "printedPage": "637",
+      "scope": "Proposition 8.2 complete proof; Exercises 1–4 separability/reduced tensor algebra and restriction-extension Hom adjunction; Exercise 5 finite-free norm setup, scalar extension basis and regular determinant.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "123c3d650819792e4f14ed6b8f70089a8bd76abc1a77bfcfa9ecbffa22f06fa3",
+      "chineseSha256": "8245f9417b6cd2cc67aaa2306e62c875b3e6c907d8bb040db4dbe7e7c8fe2580"
+    },
+    {
+      "pdfPage": 647,
+      "printedPage": "638",
+      "scope": "Exercise 5 norm determinant/base-change square/multiplicativity and hint; Exercises 6–11 flatness, zero-divisor preservation, faithful-flat equivalent tests/base change and finite-presentation Hom tensor map. Verified original tensor-symbol norm note with exact domain/codomain distinction.",
+      "issues": [
+        {
+          "type": "existing-source-note-verified",
+          "detail": "Original N(x tensor_B y)=N(x) tensor N(y) retained in English. Chinese note explicitly distinguishes a literal additional tensor product from the intended algebra-multiplication norm identity and verifies determinant multiplicativity."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "3d15db3cfb64b816d7dc5d0979d21577a8a4d6e28cce747330c90f4c7b510cd5",
+      "chineseSha256": "66ee9669d2646a65c2edd61df71e2a1f812d937bd3f8c455df72ec7ab3c927f0"
+    },
+    {
+      "pdfPage": 648,
+      "printedPage": "639",
+      "scope": "Exercise 11 full Hom/flat-tensor hint and diagram; Exercises 12–13 direct limits, Lazard four equivalent conditions and every hint step; Exercise 14 nondegenerate symmetric Casimir setup.",
+      "issues": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "387225341ad2b9038232350e6963d246d533202ad1f5bc5d94c91c767928edba",
+      "chineseSha256": "2ec25e8d93a7be181d2fba7dbbe15e860a3dbd9035f43aa53504295eacc56332"
+    },
+    {
+      "pdfPage": 649,
+      "printedPage": "640",
+      "scope": "Exercise 14 B-dual basis, tensor/polynomial/algebra Casimir elements and Lie differential-operator remark; Exercise 15 trace-pairing invariance, transpose, real signs and G-invariant Casimir. Verified existing nondegeneracy condition note with scalar-matrix radical counterexample.",
+      "issues": [
+        {
+          "type": "existing-source-note-verified",
+          "detail": "Exercise 15(d) invokes Exercise 14's nondegenerate B construction. For char(k) dividing n the trace-zero scalar identity lies in the radical; adjacent Chinese note accurately states the exact limitation while preserving all original items."
+        }
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulasAndConditionsChecked": true,
+      "unresolved": [],
+      "englishSha256": "b7c7abce4f4296fe38e12da6ffa1afcb244448b26020a0f17a235c43abcb84aa",
+      "chineseSha256": "d7b5b2b6c73272716a3f92e611e70f48b5c9f6fe88667543d17a79d3328aa591"
+    }
+  ]
+}

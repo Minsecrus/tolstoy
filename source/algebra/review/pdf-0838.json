@@ -1,0 +1,13 @@
+{
+  "printedPage": "830",
+  "formulaChecked": true,
+  "visualReviewed": true,
+  "pdfPage": 838,
+  "unresolved": [],
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "notes": [
+    "Exercise16 source odd/even cohomology formulas reversed. EN preserves; ZH corrects using explicit Hom complex and trivial Z-module counterexample, also clarifies K0=Z[G] as implicit augmentation term.",
+    "Exercise17 special degree-zero functor is not left exact and conflicts with literal DEL1 initial zero. ZH retains question and gives Z->Z[G]->J_G example showing H0(Z)=Z/n maps to zero; explains dropping initial zero or adjoining negative Tate degrees. Independent second audit confirmed."
+  ]
+}

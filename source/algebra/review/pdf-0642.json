@@ -1,0 +1,12 @@
+{
+  "pdfPage": 642,
+  "printedPage": "633",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed642; tensor degree0/r powers, tensor-generator formula, multiindices and coefficients checked. EN retains two k base-ring occurrences; ZH usesR with explicit exact-source note consistent with section and R-basis. Source switches monomial length s/r; symbols retained."
+  ]
+}

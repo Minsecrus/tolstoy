@@ -1,0 +1,14 @@
+{
+  "pdfPage": 496,
+  "printedPage": "485",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "高分辨率复核确认命题4.8证明四处空白：两处above后、两处coefficients in后；英文明确保留原页空白，中文依前页及整闭包判别补o并加译校注。",
+    "推论4.9原印lying above P，中文按命题与证明改为o并说明。",
+    "推论4.10证明原印P=O∩B、P'=O'∩B；中文改为M∩B、M'∩B并说明，因为B已包含在赋值环中。"
+  ]
+}

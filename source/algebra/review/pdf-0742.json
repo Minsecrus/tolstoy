@@ -1,0 +1,13 @@
+{
+  "pdfPage": 742,
+  "printedPage": "734",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original full page visually read; all formulas, paragraphs, and proof steps checked.",
+    "Ambiguous extra stroke on printed r-versus-n relation preserved exactly as source-image crop in English and Chinese. Chinese visibly interprets r>n using explicit final proof paragraph and nonzero top exterior power; no guessed glyph transcription. Printed over k preserved in English and corrected to R in adjacent Chinese note."
+  ]
+}

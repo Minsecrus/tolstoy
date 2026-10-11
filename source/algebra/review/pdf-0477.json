@@ -1,0 +1,13 @@
+{
+  "pdfPage": 477,
+  "printedPage": "466",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves printed > after m/n>alpha. Chinese corrects it to < with an adjacent translator note.",
+    "The parameter lambda in the printed proposition and the explicitly defined lambda in the proof are reciprocal. Both printed formulas retained, with visible Chinese explanation that existence is unchanged."
+  ]
+}

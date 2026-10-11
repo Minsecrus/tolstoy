@@ -1,0 +1,13 @@
+{
+  "formulaChecked": true,
+  "notes": [
+    "Source final abutment expression has an extra closing parenthesis after (R^pG)R^qT(A)); EN preserves, ZH removes with visible note. Original first/second homology labels and q,p positions retained.",
+    "Independent second visual audit: ZH explains original dual-index convention switch. Opening three resolutions use (resolution degree,original complex degree); later row/cohomology computation uses q for T degree and p for G resolution/cohomology degree. Source indices retained in both languages, no silent interchange."
+  ],
+  "englishTranscribed": true,
+  "visualReviewed": true,
+  "unresolved": [],
+  "chineseTranslated": true,
+  "printedPage": "823",
+  "pdfPage": 831
+}

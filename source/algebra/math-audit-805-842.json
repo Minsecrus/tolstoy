@@ -1,0 +1,1051 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "scope": {
+    "pdfPageStart": 805,
+    "pdfPageEnd": 842,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "独立第二遍审校。审校人不同于原译者，实际逐页查看原始PNG并完整阅读英文和中文；图裁片另行亲看，公式、条件、证明与习题逐项核对。"
+  },
+  "status": "complete",
+  "reviewer": "/root/algebra_028_037",
+  "originalImagesViewed": [
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842
+  ],
+  "auditedPages": [
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 805,
+      "printedPage": "797",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "引理6.3证明末段：余核表达式、两条正合列、F-无环归纳",
+        "定理6.2证明续：内射解消单态嵌入，完整原图裁片重新查看，三列正合与id箭头",
+        "Y^n余核、R^k长正合列与复形短正合列"
+      ],
+      "findings": [
+        "原书Z_1/Z^1及Y_2/Y^2记号切换在EN/ZH均照印，未静默统一。"
+      ],
+      "unresolved": [],
+      "enSha256": "deb4a88e3c527be8e3cf591142b5d176f2c353e0e2cc8e30b8203b35440b0290",
+      "zhSha256": "bc0ad6d436184b5d54a7bc6efa61f22c1f1109d196378b4850aa5e5468bff826",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0805.md",
+      "chineseFile": "source/algebra/zh/pdf-0805.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0805.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0805.png"
+    },
+    {
+      "pdfPage": 806,
+      "printedPage": "798",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "定理6.2同调长正合列端项为零及H^nF(X)≈R^nF(M)",
+        "左导出函子全部定义：投射解消、延拓及同伦唯一性、L_nT(M)=H_nT(P)",
+        "T(P)各箭头方向、右正合定义跨页片段"
+      ],
+      "findings": [],
+      "unresolved": [],
+      "enSha256": "22a0c1dc76db2b1abdb06ee05ee9eb625b2b99236f107b10655b81a4e964ac42",
+      "zhSha256": "e128d6969c68a9f2b0e1b4d30165766e879a33eabc2d16ea02455050437db739",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0806.md",
+      "chineseFile": "source/algebra/zh/pdf-0806.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0806.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0806.png"
+    },
+    {
+      "pdfPage": 807,
+      "printedPage": "799",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "右正合与L_0T(M)的余核识别，已有原书漏T译校注",
+        "高次投射对象导出函子消失",
+        "δ函子定义及DEL1长正合列完整项序、DEL2原图箭头与δ标签"
+      ],
+      "findings": [
+        "确认EN保留原印L_0T(M)≈M、ZH有相邻明示改为T(M)且论证正确。"
+      ],
+      "unresolved": [],
+      "enSha256": "398407bd5d372bbf65939715ada34cd17d390e4fcf1028eb35a2d64b045fc6e2",
+      "zhSha256": "a17c479632509318e4d18960d8de80d4c72d8e16f5202f01f5a9a02d91c77f97",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0807.md",
+      "chineseFile": "source/algebra/zh/pdf-0807.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0807.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0807.png"
+    },
+    {
+      "pdfPage": 808,
+      "printedPage": "800",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "两次数δ函子定义及原印目标A''的相邻译校注",
+        "泛δ函子定义全部量词、态射与连接同态相容性",
+        "可消去函子及由内射对象消去的定义，语言说明完整"
+      ],
+      "findings": [
+        "δ:F⁰(A″)→F¹(A′)源误校注已核。",
+        "原书泛性唯一性句缺G同为泛δ函子条件；已完整重读相邻警示和分裂向量空间范畴反例，修订成立。"
+      ],
+      "unresolved": [],
+      "enSha256": "3988ae5e81ad1daf526099dbd06ac1c11f4f61fc6d745e6e7083231e1ea74bec",
+      "zhSha256": "2e992123893abdab49d69d11e8099c160e012e3b30562db32990d72ade86b4a5",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0808.md",
+      "chineseFile": "source/algebra/zh/pdf-0808.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0808.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0808.png"
+    },
+    {
+      "pdfPage": 809,
+      "printedPage": "801",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "导出函子消去示例、定理7.1全部假设",
+        "泛性构造图裁片亲看：F/G两行、δ_F/δ_G、f_0与待定义f_1",
+        "由Kerδ_F包含Ker(δ_G f_0)诱导唯一f_1、推出图全部标签与箭头"
+      ],
+      "findings": [],
+      "unresolved": [],
+      "enSha256": "c1174e54b570acbfacc96c4d56f810697cbcc8b82f6af9b578ea0f454c4edbc3",
+      "zhSha256": "5bfadf4d0ad7d7007b982503beeb6ce6322e5c26ba3641b556249dcd53a85fe9",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0809.md",
+      "chineseFile": "source/algebra/zh/pdf-0809.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0809.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0809.png"
+    },
+    {
+      "pdfPage": 810,
+      "printedPage": "802",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "推出后的单态、消去F_1的P→N及两行短正合列",
+        "函子性方块下边F^1(u)源误印与中文G^1(u)校注",
+        "立方体裁片亲看全部8顶点、12边方向及δ、f_0/f_1、F^i/G^i标签"
+      ],
+      "findings": [
+        "确认函子性方块下边标签译校注正确；EN照源图F^1(u)，ZH改G^1(u)。"
+      ],
+      "unresolved": [],
+      "enSha256": "7e20f53864bebf669ff724eb84c08ce4b83e9587a43b559465c1b8d790945987",
+      "zhSha256": "172736d99f2e687e7474b59c70281bb88c0d787b66bb07e0096928c9ae2ecd38",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0810.md",
+      "chineseFile": "source/algebra/zh/pdf-0810.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0810.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0810.png"
+    },
+    {
+      "pdfPage": 811,
+      "printedPage": "803",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "立方体面交换推导与满态δ_F消去的等式",
+        "连接态射相容性证明的短正合列、推出单态及id/v/w图",
+        "三棱柱裁片亲看全部顶点、箭头、δ_F/δ_G与f_0/f_1标签"
+      ],
+      "findings": [],
+      "unresolved": [],
+      "enSha256": "22b7c238d36a55ee2b7b84d36b0e3b56d5240549c110faf3ebe8a24093c64548",
+      "zhSha256": "f3036a780a43b43848634ba079cd0211ce23ff696310b3cadc9285cda7846ff1",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0811.md",
+      "chineseFile": "source/algebra/zh/pdf-0811.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0811.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0811.png"
+    },
+    {
+      "pdfPage": 812,
+      "printedPage": "804",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "定理7.1证明末尾四步等式及既有δ_F/δ_G译校注",
+        "f_1对f_0函子性：三δ函子、g_0 f_0=h_0及h_1=g_1 f_1",
+        "推论7.2导出函子泛性、反向断言、内射消去证明与反变备注跨页片段"
+      ],
+      "findings": [
+        "最后三行δ_G修正与相邻图值域一致。",
+        "推论7.2内射对象消去的范围为正次数n>0；已完整重读说明性邻注，与原证明一致。"
+      ],
+      "unresolved": [],
+      "enSha256": "f476e6187fc06becf07970ed1d56fc38c156660e4119f7bc4bcae9955f8c492e",
+      "zhSha256": "921b3447167d25f4d099a3f2412303c8390af38d8b1d973079dee33336e0fc76",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0812.md",
+      "chineseFile": "source/algebra/zh/pdf-0812.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0812.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0812.png"
+    },
+    {
+      "pdfPage": 813,
+      "printedPage": "805",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "反变δ函子定义的变量互换、连接态射目标与已有译校注",
+        "余可消去的满态方向、定理7.1′量词",
+        "维数移位：无环对象族E、短正合列及F^n(Q)≈F^{n+1}(M)，命题7.3跨页序列"
+      ],
+      "findings": [
+        "确认原印反变连接态射目标M'的中文M''修正正确。"
+      ],
+      "unresolved": [],
+      "enSha256": "6be14813519165580d28db321ca183536f172549e3065a21e43bd210dd6950f3",
+      "zhSha256": "0386f5e60147c6930109e1b906d0c7ce314192261a37b6a55886510707d3d8bc",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0813.md",
+      "chineseFile": "source/algebra/zh/pdf-0813.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0813.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0813.png"
+    },
+    {
+      "pdfPage": 814,
+      "printedPage": "806",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "命题7.3全部次数范围与移位证明，核/余核之字图裁片亲看",
+        "F维数定义、Q维数界及其正次数范围",
+        "Hom第一变量及投射对象段落、双函子导言跨页片段"
+      ],
+      "findings": [
+        "原书F维数≤d−n界须说明d≥n，d<n不能从正次数移位推得F⁰(Q)=0；已完整核对新增邻注和分裂向量空间反例。"
+      ],
+      "unresolved": [],
+      "enSha256": "fbbe88d94bcda46e104869990c2bbbe1ec722a32e68199de7694aedf62c6f2ae",
+      "zhSha256": "5af06f4359942693d5c48fe26e601b0a4a1a031993826c559ff784f7def65190",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0814.md",
+      "chineseFile": "source/algebra/zh/pdf-0814.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0814.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0814.png"
+    },
+    {
+      "pdfPage": 815,
+      "printedPage": "807",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "双函子定义全四种变性、交换方块全部箭头与变量",
+        "HOM1–HOM4四公理及内射J/投射Q的正合函子",
+        "固定第一变量取第二变量右导出及R^nT_A(B)记号"
+      ],
+      "findings": [],
+      "unresolved": [],
+      "enSha256": "c582c80b1e9e5c10116718c4ca3a4e2f34a1b667580852c539de7d3903bde9e1",
+      "zhSha256": "7aa078e6db91a32b49a2a05d498de75b3b9fec75bebe85d3484614ba6822068b",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0815.md",
+      "chineseFile": "source/algebra/zh/pdf-0815.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0815.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0815.png"
+    },
+    {
+      "pdfPage": 816,
+      "printedPage": "808",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "Ext定义、T-正合对象与T-正合解消的所有次数",
+        "Hom与转置T对应投射模/内射模，张量积对应平坦",
+        "足够对象及凝聚层示例完整正文、引理8.1全假设与结论"
+      ],
+      "findings": [
+        "投射模、内射模、解消术语正确；所有双函子变量次序已核。"
+      ],
+      "unresolved": [],
+      "enSha256": "a6b7b3e8abde49bc3d6e2770672ffb73190adaa79e29e17be82398d4b49935e1",
+      "zhSha256": "fa8e325ac9b197ebb7973a552c18c9e105f7a7683f56a1e49cd7812863ea1ac1",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0816.md",
+      "chineseFile": "source/algebra/zh/pdf-0816.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0816.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0816.png"
+    },
+    {
+      "pdfPage": 817,
+      "printedPage": "809",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "引理8.1完整证明：复形短正合列、零次核识别与内射消失",
+        "命题8.2两种计算的泛δ函子同构及括号源误译校注",
+        "引理8.3所有HOM条件、第一变量反变长正合列的A''/A/A'顺序"
+      ],
+      "findings": [
+        "确认H^0(T(M),B)括号校注正确，中文H^0(T(M,B))与前页定义一致。"
+      ],
+      "unresolved": [],
+      "enSha256": "91da3b8c2365f9d33378ba029dd9ca5a904cd86e668c1b380e00d9c19657c6c9",
+      "zhSha256": "4d7a1e874097bba264b6c2c8233e494222f24f4251c87e4492139ff8c13a8d00",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0817.md",
+      "chineseFile": "source/algebra/zh/pdf-0817.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0817.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0817.png"
+    },
+    {
+      "pdfPage": 818,
+      "printedPage": "810",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "引理8.3证明中固定内射解消及三项复形短正合列",
+        "Hom/Ext第一变量长正合列、足够T-正合对象定义",
+        "命题8.4反变泛性与正次数消失、推论8.5 ext^n=Ext^n"
+      ],
+      "findings": [],
+      "unresolved": [],
+      "enSha256": "efa5ac92f97047ef2a3222f7a98c16e97a9a004e2dc8b8ac4c4662ddd4ee8aa6",
+      "zhSha256": "cb0ca4e5a907ee8bec7b83a17ee983ca7ff8221977bf1b424a9cc32a9ec577b4",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0818.md",
+      "chineseFile": "source/algebra/zh/pdf-0818.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0818.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0818.png"
+    },
+    {
+      "pdfPage": 819,
+      "printedPage": "811",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "命题8.6 TE1–TE3量词、内射解消与长正合列证明",
+        "T维数定义及零维T-正合刻画",
+        "命题8.7两条有限解消的长度、端点和维数移位证明"
+      ],
+      "findings": [],
+      "unresolved": [],
+      "enSha256": "11ce00142dffa2bfc66ce50c2e7d0364d0e96a8e1ddd5e2fb0b5af38ed44af6c",
+      "zhSha256": "175b9f0d8c33d82afa65c6b2b8264cd328a2644be7db9a64e6627dec1db6f2cd",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0819.md",
+      "chineseFile": "source/algebra/zh/pdf-0819.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0819.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0819.png"
+    },
+    {
+      "pdfPage": 820,
+      "printedPage": "812",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "Ext消失与投射维数解释",
+        "TEN1–TEN4四条协变/右正合公理及投射对象变量",
+        "命题8.2′两计算同构、括号与正次数范围译校注，引理8.3′跨页假设"
+      ],
+      "findings": [
+        "确认H_0(T(M),B)→H_0(T(M,B))括号校注及仅正次数在投射对象上消失的说明正确。"
+      ],
+      "unresolved": [],
+      "enSha256": "90f42972c4a8da9207ac7225348b0fa829d579c5692d602c43e93015715b8595",
+      "zhSha256": "f1183a32b848448b72d5978be19a5ccae8033d4875dc79c64be6f466bbe702f2",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0820.md",
+      "chineseFile": "source/algebra/zh/pdf-0820.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0820.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0820.png"
+    },
+    {
+      "pdfPage": 821,
+      "printedPage": "813",
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "scope": [
+        "引理8.3′长正合同调列的项序与箭头",
+        "命题8.4′变量变性、原印contravariant与中文协变译校注",
+        "推论8.8对称双函子、无环性证明；命题8.6′ TE1–TE3及投射解消"
+      ],
+      "findings": [
+        "确认原书反变误称的译校注，由TEN1与长正合列同方向映射证明协变。"
+      ],
+      "unresolved": [],
+      "enSha256": "8af5f997b8494e521a778653f79b9d432fbc0c0fe1084cdf972428825471c168",
+      "zhSha256": "41f9a008c46d8b47b1e4b5d31d7e1b03214e93b7465064f297d0be3ef5b7345a",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0821.md",
+      "chineseFile": "source/algebra/zh/pdf-0821.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0821.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0821.png"
+    },
+    {
+      "pdfPage": 822,
+      "printedPage": "814",
+      "scope": [
+        "命题8.6′证明：TE3推出T-正合、协变长正合列及两变量平衡",
+        "第9节完整导言，有限递减滤过与dF^p⊂F^p条件",
+        "GrF的次数0微分、H(F)^p由H(F^p)映像定义"
+      ],
+      "findings": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "7a5278620d3ae0db3afe2a9fd24e0551829979c6d2fef5b3b1d03384b76f8d17",
+      "zhSha256": "b04bd7ea6add93eca9eade5fe7e4a759e8b1efb3dda08f16dbd3c0b391f8d76c",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0822.md",
+      "chineseFile": "source/algebra/zh/pdf-0822.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0822.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0822.png"
+    },
+    {
+      "pdfPage": 823,
+      "printedPage": "815",
+      "scope": [
+        "谱序列定义、d_r次数r、d_r²=0及H(E_r)≈E_{r+1}",
+        "命题9.1 E_0/E_1/E_∞全部式，Z_r^p与E_r^p分母两项和指标",
+        "边界约定邻注：r≥1商式、E_0另定、F^q自然延拓；dx=dy+z与y/z归属"
+      ],
+      "findings": [
+        "已完整核对新增边界约定说明；属于显式澄清原文隐含范围，未误称为原书印错。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "6690b2065fb03ab7ed38769c406a69a7fdc8afab428ed3e6a63a26eaa0cedec1",
+      "zhSha256": "f272df4bbefbbeba25d0110a7c5c9935f5dc731e0225b43d1a2e927dc5378689",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0823.md",
+      "chineseFile": "source/algebra/zh/pdf-0823.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0823.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0823.png"
+    },
+    {
+      "pdfPage": 824,
+      "printedPage": "816",
+      "scope": [
+        "H^p(E_r)=E_{r+1}^p证明全部商对象、交与包含关系",
+        "Griffiths–Harris/Godement两种分母表达式及Z mod S定义",
+        "E_0/E_1以及稳定E_∞盒式，dF^0∩F^p项"
+      ],
+      "findings": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "c75d7aab3ff437f4dfe7d1d800d6feb914c1d7df30cc56ef176f30e08cf03ba3",
+      "zhSha256": "f5f52edf4d9f93ad1d0139b54fb196636c251696c7ebe878a86e44cc34d8f68b",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0824.md",
+      "chineseFile": "source/algebra/zh/pdf-0824.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0824.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0824.png"
+    },
+    {
+      "pdfPage": 825,
+      "printedPage": "817",
+      "scope": [
+        "命题9.2短正合列与d_1上边缘算子证明",
+        "滤过复形定义、全部子复形次数条件与短正合列示例",
+        "Gr^pK、上同调诱导滤过F^pH^q(K)=F^pZ^q/F^pB^q"
+      ],
+      "findings": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "c56f845f361ace4c68e043505e2f74d5a25caab8f64861b3b8390959fe2f0600",
+      "zhSha256": "bc0bf3b8431f4c2cfc5797bfa63a68239b9f9ae84e797ae8b60e023a4dfc2c92",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0825.md",
+      "chineseFile": "source/algebra/zh/pdf-0825.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0825.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0825.png"
+    },
+    {
+      "pdfPage": 826,
+      "printedPage": "818",
+      "scope": [
+        "双分次谱序列定义、d_r:(p,q)→(p+r,q−r+1)、格点裁片全部标签与箭头亲看",
+        "命题9.3 E_0/E_1/E_∞各次数、收敛含义",
+        "一般滤过与第一象限条件的译校注及E_0^(1,−1)=k反例"
+      ],
+      "findings": [
+        "已核第一象限限制警示；F^pK^m=0 (p>m)为足够条件，前文一般滤过不能仅以K非负次数保证q≥0。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "1ffe70c49038dd6ab8a72b4368323de5df6042d847b3e1dc2534f656584f571c",
+      "zhSha256": "e87bc2b9824bbc4daf4a6394a324dd87294ca6a3dd0fdbbdcabcdaadb458071c",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0826.md",
+      "chineseFile": "source/algebra/zh/pdf-0826.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0826.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0826.png"
+    },
+    {
+      "pdfPage": 827,
+      "printedPage": "819",
+      "scope": [
+        "双复形两微分、反交换关系、总复形次数及D=d′+d″",
+        "两种滤过的求和域；原第二项K^(p,q″)与中文q′的邻注",
+        "Grothendieck谱序列导言与复形内射解消的j,p指标、跨页定义"
+      ],
+      "findings": [
+        "确认第二滤过原印双撇与求和变量单撇不一致，EN保留、ZH修正并明示校注。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "299c6bd16e2f34e017aa9fa09abf91a966eb96af4954c1b0f679bff08b81f051",
+      "zhSha256": "cec6bc2a216b7e83443182476755b394d6ea5b7d5614f6a8ed52c717bd9f1f2c",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0827.md",
+      "chineseFile": "source/algebra/zh/pdf-0827.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0827.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0827.png"
+    },
+    {
+      "pdfPage": 828,
+      "printedPage": "820",
+      "scope": [
+        "复形内射解消每个I^(j,p)及C^p的解消",
+        "Z/B/H核像商定义、三条复形与完全内射定义",
+        "引理9.4内射horseshoe全部两行箭头/三列向上箭头及证明引用"
+      ],
+      "findings": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "2728155bafea105c9937b6d08c836a88e9640071373c2a7a7de8dc7cc962d5fd",
+      "zhSha256": "b1d74d80c06519450f17453957550c4a55cfc304d89adf422868111648a43c52",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0828.md",
+      "chineseFile": "source/algebra/zh/pdf-0828.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0828.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0828.png"
+    },
+    {
+      "pdfPage": 829,
+      "printedPage": "821",
+      "scope": [
+        "引理9.5完全内射解消存在性、两条短正合列和全部归纳步骤",
+        "G无环定义正次数、定理9.6完整假设与E₂^(p,q)=R^pG(R^qT(A))",
+        "从A内射解消到TC、完全内射二维表示跨页衔接"
+      ],
+      "findings": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "c28d819747ae9321940ba0647dfa41df870021967542fc632830dd90e494cdee",
+      "zhSha256": "fc7c3930ee827c2aa0ed4fc4fc1d2f129db4b045c6d78541f74bc1cb6ae81523",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0829.md",
+      "chineseFile": "source/algebra/zh/pdf-0829.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0829.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0829.png"
+    },
+    {
+      "pdfPage": 830,
+      "printedPage": "822",
+      "scope": [
+        "二维完全内射解消原裁片亲看每一标签与水平/竖直箭头",
+        "第一谱序列逐列计算、正次数G无环消失与E₂塌缩",
+        "R⁰G(TC^p)漏G译校注、总复形反交换符号约定邻注"
+      ],
+      "findings": [
+        "R⁰G右端漏G校注依据零次识别及随后GT(C^p)已核。",
+        "总复形的(-1)^p说明属于隐含符号约定，各列核/像不变，未称印错。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "e9a47ef45346988ab20ed8e2b14730f5effca2fd6cecc5d7be3d21a5895f685d",
+      "zhSha256": "ab94eee42e74069b195acfbb2d4731bc3439c7728c97b143f6f7c5fca075ad55",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0830.md",
+      "chineseFile": "source/algebra/zh/pdf-0830.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0830.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0830.png"
+    },
+    {
+      "pdfPage": 831,
+      "printedPage": "823",
+      "scope": [
+        "完全内射Z/B/H三解消、两个分裂短正合列",
+        "逐行同调商式、第二E₂次数与R^pG(R^qT(A))识别",
+        "原书多余右括号邻注、欧拉示性数K-群/有限RT维数导言",
+        "新增双指标次序切换的说明性邻注逐字复核"
+      ],
+      "findings": [
+        "括号源误EN照印、ZH明示修正已核。",
+        "已完整重读新增双指标约定说明：前三条解消沿用(解消,原复形)，后文采用(q原复形,p解消)，最终E₂的p/q对应G/T次数；原式不静默换位。",
+        "最终精确涉及印刷页820正文、822图与823开头的指标说明已再次完整重读。"
+      ],
+      "unresolved": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "enSha256": "00244a1260caa6c8f040b3a2f735be61a64a897817ccecd961a9953a96fafa87",
+      "zhSha256": "dfb152811403196617c1e98efc41cba5b4e995e3cdd4cf7ba2271cb452236ba1",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0831.md",
+      "chineseFile": "source/algebra/zh/pdf-0831.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0831.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0831.png"
+    },
+    {
+      "pdfPage": 832,
+      "printedPage": "824",
+      "scope": [
+        "欧拉示性数定义、K-群中类与有限和范围",
+        "引理9.7长正合列交错和证明",
+        "CHAR1/CHAR2完整对象族及维数条件、定理9.8复合恒等式"
+      ],
+      "findings": [],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "d410428383d804211136d8fd8922048f72242941f2f875d1854909e8d78633f6",
+      "zhSha256": "d81b177c9c32901474a12c2918e7833229d66b93744fd4a5d4e5740ff0584377",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0832.md",
+      "chineseFile": "source/algebra/zh/pdf-0832.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0832.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0832.png"
+    },
+    {
+      "pdfPage": 833,
+      "printedPage": "825",
+      "scope": [
+        "定理9.8全部证明：收敛滤过、分次商、双重欧拉和重排",
+        "p+q=n换元、E₂/E₃/E∞交错和不变性",
+        "源递增滤过/倒序商与中文明示递减校注"
+      ],
+      "findings": [
+        "由§9前文递减滤过及Gr^p定义核实包含和商顺序修正；EN保留原书。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "0e1c910838282ab317b7c11746e4f365453ce00e19444350e8f2d7a73e8c4e97",
+      "zhSha256": "0f9e1504106d43bd00e16a2f1593f2e604a8d7261ee8925f2d73057e9510710c",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0833.md",
+      "chineseFile": "source/algebra/zh/pdf-0833.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0833.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0833.png"
+    },
+    {
+      "pdfPage": 834,
+      "printedPage": "826",
+      "scope": [
+        "习题1–4全部题干/提示、标准复形收缩同伦和群作用",
+        "非齐次bar边界所有项/符号/元组长度及齐次转换",
+        "不变元函子、1-上闭链/上边界式、参考交叉引用"
+      ],
+      "findings": [
+        "Ex3末项(-1)^(i+1)(x₁,…,xᵢ)源误已邻注改(-1)^i(x₁,…,xᵢ₋₁)，按齐次删除末元符号核。",
+        "Ex4(a)左导出改右导出的可见说明已核；Hom_G(Z,-)协变左正合。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "0b61e4b37017dfa4a863f59805cd7263da3487d93fa3adf3b0c7601e524f2c6c",
+      "zhSha256": "10efa2d349714bbdf65c1323a789801c9bcd45c60a4b86f5fccfe2c652257925",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0834.md",
+      "chineseFile": "source/algebra/zh/pdf-0834.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0834.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0834.png"
+    },
+    {
+      "pdfPage": 835,
+      "printedPage": "827",
+      "scope": [
+        "习题4(c)二上闭链四项条件及定义域",
+        "习题5群扩张、因子集、同构分类所有三问与范围邻注",
+        "习题6限制/膨胀的态射、变量范畴、原始上下标与跨页衔接"
+      ],
+      "findings": [
+        "f域G→G×G、H¹→H²源误均有正确邻注。",
+        "普通二上闭链所需A阿贝尔及扩张诱导作用已明示；分类固定G作用和两端恒等的同构约定已核。",
+        "膨胀上下标虽罕见，按原图保留，未猜改。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "f03479866f4d2522fb6ad8b226533f5c6f2cc1e515590a301a1b6fd610d0b8b4",
+      "zhSha256": "01418ef79413117b113f58bdd0e55c1e507a3ee1c3a009c6d116e33de2026931",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0835.md",
+      "chineseFile": "source/algebra/zh/pdf-0835.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0835.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0835.png"
+    },
+    {
+      "pdfPage": 836,
+      "printedPage": "828",
+      "scope": [
+        "习题6膨胀跨页定义、inf/res正合列、共轭作用与高次备注",
+        "习题7共诱导函数模动作/陪集乘积和习题8嵌入及Z-分裂",
+        "习题9完整收缩同伦提示及正次数范围，习题10双函子同构"
+      ],
+      "findings": [
+        "Ex9原称左导出、ZH右导出明示校注依据Hom_G(Z,-)左正合正确。",
+        "收缩同伦下标x,x₂,…,xᵣ及求值1、G右平移动作全部核对。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "11075b16705a6fe0960738c8083d80f1d6bbbe8d0b605ceac11920cb38e8685c",
+      "zhSha256": "ae36c5c51fb2066769bae075c6a4b92c8768828bbd75177c123decd21ddecc8d",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0836.md",
+      "chineseFile": "source/algebra/zh/pdf-0836.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0836.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0836.png"
+    },
+    {
+      "pdfPage": 837,
+      "printedPage": "829",
+      "scope": [
+        "习题10逆求值记号邻注、11 Shapiro映射/唯一性提示",
+        "习题12增广理想/交换化同构、13一上闭链与连接态射负号",
+        "有限群迹/G-正则定义、14投射判别、15两短正合列及分裂源问题"
+      ],
+      "findings": [
+        "Ex10 f(1)展开为a↦f(a)(1)的说明正确。",
+        "Ex15(a) Mod(G)分裂不成立警示已核，两列|G|k=1阻碍确实成立；普通Z模分裂成立。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "474bf96d5c7c0d51bd2ab85ce46f330806a089e0b9e3c0e079c28c957ee99c68",
+      "zhSha256": "610d3d51506b25f78c6bccb4add768e5943fa402fc8e6030c000354e269a9d98",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0837.md",
+      "chineseFile": "source/algebra/zh/pdf-0837.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0837.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0837.png"
+    },
+    {
+      "pdfPage": 838,
+      "printedPage": "830",
+      "scope": [
+        "习题15张量列及嵌入、16周期投射解消与奇偶上同调计算",
+        "习题17特殊零次函子/δ长列边界警示、18全部同构与零项",
+        "习题19–23内射/可除/局部化/直积/直和全部条件及Baer提示跨页片段"
+      ],
+      "findings": [
+        "Ex16奇偶公式修正由Hom链上0次(1−σ)、1次T_G直接核实，K⁰隐含项说明正确。",
+        "Ex17特殊H⁰非左正合，与§7首端0冲突的反例已核；中文保留题干且明确特殊长列约定。",
+        "解消、投射模、内射模术语正确，所有次数/条件保留。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "0a8b249e1b5de809e06bfd7747667929256863a00a5bf3e7b8725884e949031f",
+      "zhSha256": "c40eda806d4c244b489a1d61aabb91fef6f8d1aa6e1ccf2f3b52a5f0ffbdff03",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0838.md",
+      "chineseFile": "source/algebra/zh/pdf-0838.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0838.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0838.png"
+    },
+    {
+      "pdfPage": 839,
+      "printedPage": "831",
+      "scope": [
+        "习题23提示跨页结尾、Baer单步延拓域及x′邻注",
+        "习题24内射分裂、25诺特环理想幂挠子模、26对偶/平坦/内射判别",
+        "习题27模扩张定义、投射提升与K/N/P/E/M交换图全部标签箭头"
+      ],
+      "findings": [
+        "Baer提示应先扩到M′+Ax₀且x′∈M′，随后Zorn到M；中文可见注已核。",
+        "各正合列箭头与对偶方向、所有诺特/交换条件均保留。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "f579abab491209bcf7c0314adb346c073e87fadb360a60d3886f3603bc52fef4",
+      "zhSha256": "88db739f5308cd97f80956b7d30035b14b6cf6df88fc6b01cf9a43bd1ae4a285",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0839.md",
+      "chineseFile": "source/algebra/zh/pdf-0839.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0839.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0839.png"
+    },
+    {
+      "pdfPage": 840,
+      "printedPage": "832",
+      "scope": [
+        "习题27 Ext分类完整推出构造提示及固定端点约定",
+        "习题28两Ext公式、a≠0缺漏反例及非零解消证明邻注",
+        "习题29张量复形求和/(-1)^p符号、30列同调到总复形与定理9.8引用"
+      ],
+      "findings": [
+        "Ex28(a) a=0反例成立，a≠0自由解消给N/aN；原题保留且相邻说明正确。",
+        "Ex27等价类要求两端恒等的说明正确，未误称为源印错。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "183ee8375bf095e97fae1084d624f2fb54673681a1970124242432ebee0cbdd5",
+      "zhSha256": "6b25082b3037cb3dae303d76a6c5a8e3cfcb4d5e52f5aa4070fad0d929b3d48c",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0840.md",
+      "chineseFile": "source/algebra/zh/pdf-0840.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0840.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0840.png"
+    },
+    {
+      "pdfPage": 841,
+      "printedPage": "833",
+      "scope": [
+        "完整书目26条参考键、所有作者/题名/出版者/年份/页码/卷号",
+        "英文原印内容与中文完整题名翻译、原语题名并列保留",
+        "K(X)题名数学表达式、法语重音及引用键逐条核对"
+      ],
+      "findings": [
+        "未把正文[GrH78]/[ArT67]与此页参考键不一致静默改掉；书目照原印。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "94bf7fe9bd0328c5a488213709ed984c14f642cf5ddc1c8bcc95603038ce2f94",
+      "zhSha256": "0f8745c74bef59d159a65b7a1492e2f34c75d05f657f7934d55843e025326af8",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0841.md",
+      "chineseFile": "source/algebra/zh/pdf-0841.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0841.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0841.png"
+    },
+    {
+      "pdfPage": 842,
+      "printedPage": "834",
+      "scope": [
+        "末三条书目[Se65]/[SGA6]/[Sh72]完整英语与中文",
+        "法语题名重音、LN11/146、第三版1975及出版信息",
+        "章节末尾内容无遗漏，解消术语在相关书目已核",
+        "最终术语复核：再次亲看842原图，完整读该页EN/ZH，并实际对照66定义和906同一Shatz书目中文；仅统一profinite为副有限群"
+      ],
+      "findings": [
+        "[Sh 72]原题名Profinite groups, arithmetic and geometry与906重复书目指同一术语；中文前有限群已统一为66定义及906书目使用的副有限群。参考键、原英文题名和其余文稿保留，EN未改。"
+      ],
+      "visualReviewed": true,
+      "englishFullyRead": true,
+      "chineseFullyRead": true,
+      "formulaChecked": true,
+      "unresolved": [],
+      "enSha256": "5de59acf7a9542f7117dcfbd5ff58586d43e2ceb45df7ae70b45066eec39b975",
+      "zhSha256": "e2bef6c23395501d159b6cd635f85facd4faab4136bec5f2f7b4df43fd1e29af",
+      "status": "verified",
+      "englishFile": "source/algebra/en/pdf-0842.md",
+      "chineseFile": "source/algebra/zh/pdf-0842.md",
+      "primaryReviewFile": "source/algebra/review/pdf-0842.json",
+      "originalPageImage": "tmp/pdfs/algebra/pages/pdf-0842.png"
+    }
+  ],
+  "unresolved": [],
+  "reviewedAt": "2026-10-11T02:28:55.067Z",
+  "complete": true,
+  "auditedPageCount": 38,
+  "validation": {
+    "auditedPages": 38,
+    "renderedBilingualFiles": 76,
+    "renderedMathExpressions": 2730,
+    "errors": [],
+    "digestMismatches": [],
+    "missingDiagrams": [],
+    "checkedAt": "2026-10-11T02:28:15.042Z"
+  },
+  "diagramImagesIndependentlyViewed": [
+    {
+      "pdfPage": 805,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0805-acyclic-resolution-grid.png",
+      "visualReviewed": true
+    },
+    {
+      "pdfPage": 809,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0809-universality-construction.png",
+      "visualReviewed": true
+    },
+    {
+      "pdfPage": 810,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0810-functoriality-cube.png",
+      "visualReviewed": true
+    },
+    {
+      "pdfPage": 811,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0811-delta-compatibility-prism.png",
+      "visualReviewed": true
+    },
+    {
+      "pdfPage": 814,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0814-dimension-shifting-zigzag.png",
+      "visualReviewed": true
+    },
+    {
+      "pdfPage": 826,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0826-spectral-differential-lattice.png",
+      "visualReviewed": true
+    },
+    {
+      "pdfPage": 830,
+      "file": "docs/public/library/volume-86/diagrams/pdf-0830-fully-injective-grid.png",
+      "visualReviewed": true
+    }
+  ]
+}

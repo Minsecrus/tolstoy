@@ -1,0 +1,13 @@
+{
+  "pdfPage": 663,
+  "printedPage": "654",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Viewed original page; verified cyclic vectors v_i, injection tuple, right multiplication in End_R(R), left-ideal L alpha=M, and both finite direct sums.",
+    "Independent second review confirmed source Proposition 4.7 omits E!=0: zero E is semisimple, but R=End_k(0)=0 fails the section's 1!=0 definition of semisimple ring. Original retained; adjacent Chinese warning added with explicit zero-space counterexample."
+  ]
+}

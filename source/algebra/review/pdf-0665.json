@@ -1,0 +1,13 @@
+{
+  "pdfPage": 665,
+  "printedPage": "656",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Viewed original page; verified double-endomorphism map, permutation of R/D roles, cyclic interpolation and the complete phi(w)=aw identity. Distinction between alpha in R and a in D preserved.",
+    "Independent second review confirmed source Theorem 5.5 omits E!=0: zero E gives zero endomorphism ring, not a simple ring or module, and End_R(0)!=D. Original retained; adjacent Chinese warning added, also citing proof's v!=0 choice."
+  ]
+}

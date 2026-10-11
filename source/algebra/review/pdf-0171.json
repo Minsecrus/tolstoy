@@ -1,0 +1,12 @@
+{
+  "pdfPage": 171,
+  "printedPage": "156",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves printed filtration length r for M=M_1>...>M_r=0. Chinese corrects it to r-1 with adjacent translator note, consistent with the r-1 factors and Theorem8.1 assigning length1 to simple modules."
+  ]
+}

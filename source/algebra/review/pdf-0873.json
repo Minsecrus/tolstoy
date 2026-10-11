@@ -1,0 +1,13 @@
+{
+  "pdfPage": 873,
+  "printedPage": "865",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves the page-opening 'in M'; Chinese uses 'in I' with an adjacent explanation from Exercise 4 and the depth definition. The printed cross-reference 4.5(c) for annihilation is preserved in English and explained as 4.5(b) in Chinese. Exercise 5, all four equivalent conditions and the full continuing hint are transcribed.",
+    "Independent visual audit: printed Hom_{A_P}(A_P/PA_P,M) retains M in English; Chinese uses M_P with adjacent original-expression and localization explanation."
+  ]
+}

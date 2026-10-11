@@ -1,0 +1,574 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "scope": {
+    "pdfPageStart": 98,
+    "pdfPageEnd": 131,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Independent reviewer personally viewed every full original page PNG with view_image and read every saved English and Chinese page body, comparing displayed and inline mathematical expressions, hypotheses, ideal notation, and diagram labels/arrows. Enlarged PDF crops were separately viewed to resolve congruence symbols and mixed-case polynomial notation. Embedded extraction and existing translator flags were not accepted as evidence of formula fidelity."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131
+  ],
+  "auditedPages": [
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 98,
+      "printedPage": "83",
+      "status": "verified",
+      "scope": "RI1–RI3; (x+y)z=xz+yz and z(x+y)=zx+zy; ring permits 1=0; 0x+x=(0+1)x=1x=x; (-x)y=-(xy); additive inverse calculation and left/right inverse page fragment."
+    },
+    {
+      "pdfPage": 99,
+      "printedPage": "84",
+      "status": "verified",
+      "scope": "ab=1,ca=1,cab=b,c=b; A*; division-ring condition1≠0; integer sequences and right-shift T; f(a+b)=f(a)+f(b); commutativity/subring/center; distributivity finite sums and subtraction."
+    },
+    {
+      "pdfPage": 100,
+      "printedPage": "85",
+      "status": "verified",
+      "scope": "Map(S,A) pointwise product/sum; End(M) addition/composition; invertible matrices; finite-support group-ring sums; αβ=ΣxΣy axbyxy=Σz(Σxy=z axby)z; convolution (f*g)(z)=Σxy=z f(x)g(y); L1(R)."
+    },
+    {
+      "pdfPage": 101,
+      "printedPage": "86",
+      "status": "verified",
+      "scope": "Integrals over R and Haar group G; xy^{-1} in second integral; left/right/two-sided ideal conditions; Aa,AaA and Σxiayi; left ideal generators; intersection; principal ring definition; integer division n=dq+r with0≤r<d."
+    },
+    {
+      "pdfPage": 102,
+      "printedPage": "87",
+      "status": "verified",
+      "scope": "Integer ideal argument; R_p fractions b∉p,a∈p; entire-function zero multiplicities mi≥0; ideal product finite sums, unit ideal and associativity; distributive ideal equality; aA two-sided; ab⊂a∩b and equality ifa+b=A."
+    },
+    {
+      "pdfPage": 103,
+      "printedPage": "88",
+      "status": "verified",
+      "scope": "R_(p), unique factorization; fractional ideal o a⊂a,c a⊂o withc≠0; principal fractional idealoa andPic(o); f(a+a'),f(aa'),f(1)=1,f(0)=0; additive kernel."
+    },
+    {
+      "pdfPage": 104,
+      "printedPage": "89",
+      "status": "verified",
+      "scope": "Factor-ring coset multiplication; quotient f:A→A/a; unique g*:A/a→A'; triangular diagram labels/directions A→A' via g,A→A/a via f,A/a→A' via g*; full multiplication proof; ξ,η; λ:Z→A,n↦ne, kernel(n),injectiveZ/nZ→A."
+    },
+    {
+      "pdfPage": 105,
+      "printedPage": "90",
+      "status": "verified",
+      "scope": "Characteristic0/p,prime fieldsQ/Fp,prime ringsZ/Fp; A[S] sum coefficients ai1…in and powerss1^i1…sn^in; commutationas=sa; congruence notationS≡0,x≡y modideal and modprincipal generator."
+    },
+    {
+      "pdfPage": 106,
+      "printedPage": "91",
+      "status": "verified",
+      "scope": "Inverse homomorphism/subring image; f^{-1}(a') and induced injectionA/a→A'/a'; products∏Ai and componentwise multiplication; unit components/projections,usual inclusion is not unit-preserving; zero-divisor and entire-ring hypotheses."
+    },
+    {
+      "pdfPage": 107,
+      "printedPage": "92",
+      "status": "verified",
+      "scope": "Map(S,A) zero divisors hypotheses|S|≥2,A nonzero; Z/mZ andn×n matricesn≥2; associatesb=au proofAb=Aua=Aa,a=bc,b=ad,a(1−dc)=0; prime/maximal ideal definitions; maximal⇒prime proof1=u+ax."
+    },
+    {
+      "pdfPage": 108,
+      "printedPage": "93",
+      "status": "verified",
+      "scope": "y=yu+axy; maximal ideals via ordered chains∪bi; zeroideal prime⇔entire; field quotient proofbar ybar x=bar1; inverse image of prime/maximal ideals; integer prime and maximal idealproofp=nm,n=p or1."
+    },
+    {
+      "pdfPage": 109,
+      "printedPage": "94",
+      "status": "verified",
+      "scope": "Z/nZ=Z(n),Fp; Fermat/Euler exponentsp−1 andφ(n); Chinese remainder hypothesesai+aj=A; x=x2a1+x1a2; producti2…n(ai+bi); y1≡1(mod a1),printed y1=0(mod∏ai) retained; yj≡0 fori≠j; enlarged source confirms x≢0(modp)."
+    },
+    {
+      "pdfPage": 110,
+      "printedPage": "95",
+      "status": "verified",
+      "scope": "Positiveνi ideal powers; Cor2.2 product, kernel∩ai and quotient isomorphism; integer CRT, m=∏pi^ri,ri≥1; quotient ring/unit-group products; φ(m)=∏φ(pi^ri)."
+    },
+    {
+      "pdfPage": 111,
+      "printedPage": "96",
+      "status": "verified",
+      "scope": "φ(p^r)=(p−1)p^{r−1}; reduction mapsZ/p^{r+1}Z→Z/p^rZ andunit groups; λ(a)=1; a≡1(modp^rZ); printed a=1+xp^r(modp^{r+1}Z) restored; kernelorderp; cyclic-group End/Aut isomorphisms and1a,(k+k')a,(kk')a."
+    },
+    {
+      "pdfPage": 112,
+      "printedPage": "97",
+      "status": "verified",
+      "scope": "End prooff(x)=f(ma)=mf(a)=mka=kma=kx; inversefk'; roots-of-unityμn automorphismζ↦ζ^k; polynomial/function existential qualifier restored inZH; polynomial expressions,monoidX^r,r≥0 andfinite-support functions."
+    },
+    {
+      "pdfPage": 113,
+      "printedPage": "98",
+      "status": "verified",
+      "scope": "Polynomial convolution double sumswithi+j=k;1X0 andembeddinga↦aX0; printedcf(x)=ΣcaiXi retained inbothlanguages; coefficientwise equality; polynomialfunctionf_B andevaluationev_b; generatedsubringA[x] andisomorphic evaluation page fragment."
+    },
+    {
+      "pdfPage": 114,
+      "printedPage": "99",
+      "status": "verified",
+      "scope": "sqrt2 example andX²−2; e,π overQ; finitefieldXp−X,fK zero; coefficientreductionφ:A→B,conjugation coefficients;3X4−X+2 mod5; uniqueextensionA[X]→B,X↦x,ΣaiXi↦Σφ(ai)xi."
+    },
+    {
+      "pdfPage": 115,
+      "printedPage": "100",
+      "status": "verified",
+      "scope": "Arrow chainA[X]→B[X]→B,secondlabelev_x; zero(φf)(x)=0; degreeleadingcoefficient,degreezero polynomial−∞ andconventions; productleadinga_n b_m,degreeadditivity conditionnon-zero-divisor;deg(f+g)≤max."
+    },
+    {
+      "pdfPage": 116,
+      "printedPage": "101",
+      "status": "verified",
+      "scope": "Multi-indexν∈N^n,Mν(x); iteratedpolynomialringA[X1][X2]…[Xn]; sumj0…dn fjXn^j; nestedmulti-indexsumνn0…dn withcoeffaν1…νn; primitive monomials; evaluationev_(x),variableorderi=n,…,1;A[X]⊂B[X]."
+    },
+    {
+      "pdfPage": 117,
+      "printedPage": "102",
+      "status": "verified",
+      "scope": "f_B:B^n→B;(x) substitution; coefficientreduction; zero(φf)(x)=0; algebraicindependenceequivalent injectiveevaluation; e/π example; totaldegree|ν|; monomialcoefficienta; degree−∞/0 anda0≠0."
+    },
+    {
+      "pdfPage": 118,
+      "printedPage": "103",
+      "status": "verified",
+      "scope": "DegreeinXn expansion; X1³X2+X2² degrees4,3,2; homogeneouspiecesf^(d),nonzerohypothesis; homogeneousiff f(ut1,…,utn)=u^d f(t1,…,tn) for n+1 algebraicallyindependent elements; product/sum nonzerohypotheses; A[X]≈A[t]."
+    },
+    {
+      "pdfPage": 119,
+      "printedPage": "104",
+      "status": "verified",
+      "scope": "Entire-ring multivariate degrees,highesthomogeneousparts; finite-supportA[G],G monoid; convolution xy=z; finitepair support andαβ(t)=0 almostall; associativity page fragment."
+    },
+    {
+      "pdfPage": 120,
+      "printedPage": "105",
+      "status": "verified",
+      "scope": "All four associativity sums includinguv=x anduvy=z; printedtuple(u v,y) retainedEN/correctedZHwithnote; δ(e)=1,δ(x)=0; formal sumsandproducts∑axby·xy; φ0(x)=1·x andf0(a)=a·e; nonzero-coefficient-ring condition forφ0 injection documented separately."
+    },
+    {
+      "pdfPage": 121,
+      "printedPage": "106",
+      "status": "verified",
+      "scope": "Monoid/group algebra; nonnegativepowersmultivariatering; infinitemultiindices withfinitesupport;Mν(S)=∏x^ν(x); Prop3.1 φ:G→G',h:A[G]→A[G'],h(x)=φ(x),h(a)=a; h(αβ)=Σz(Σxy=z axby)φ(z)."
+    },
+    {
+      "pdfPage": 122,
+      "printedPage": "107",
+      "status": "verified",
+      "scope": "Prop3.1 φ(e)=e'; Prop3.2 coefficient mapf:A→B andh:A[G]→B[G],allΣindices andh(ae)=f(a)e; localizationmultiplicativesubsetcontains1; pairs(a,s)∼(a',s') andexistences1∈S page fragment."
+    },
+    {
+      "pdfPage": 123,
+      "printedPage": "108",
+      "status": "verified",
+      "scope": "s1(s'a−sa')=0;0∈S zero localization; multiplicationaa'/ss'; addition(s'a+sa')/ss'; all primes/subscript1 in well-definedness proof,s2/s3 factors and bracket; residualss'(s1'a1+s1a1')−s1s1'(s'a+sa'); a/s=s'a/s's;φS."
+    },
+    {
+      "pdfPage": 124,
+      "printedPage": "109",
+      "status": "verified",
+      "scope": "Localization universal-property category,triangleA→B viaf,A→B' viaf',B→B' viag; f(s1)[f(s')f(a)−f(s)f(a')]=0; inversepowers−1; h:S−1A→B,a/s↦f(a)f(s)−1; injectiveφS conditionAentire,0∉S."
+    },
+    {
+      "pdfPage": 125,
+      "printedPage": "110",
+      "status": "verified",
+      "scope": "Unitslocalization,quotientfielda/s=s−1a; rationalfunctionsdefinedatb iff denominatornonzero; localringandA_p; idealmapψS:J(A)→J(S−1A); sum/product/intersection equalities; fractionintersectionwitnesss1s'a=s1sb."
+    },
+    {
+      "pdfPage": 126,
+      "printedPage": "111",
+      "status": "verified",
+      "scope": "Intersectionsa/s=s1s'a/s1s's; irreducibility/unit hypotheses; primeideal⇒irreducible cancellationcd=1; uniquefactorizationu∏pi=u'∏qj,r=s andunitassociates; emptyfactorizationr0; divides/gcddefinitionab≠0."
+    },
+    {
+      "pdfPage": 127,
+      "printedPage": "112",
+      "status": "verified",
+      "scope": "Prop5.1(a)+(b)=(c),c=wa+tb,d(wy+tz); Th5.2 principalentire⇒factorial; strictidealchain andcontainmentunion; factorizationcontradictiona=bc; irreduciblep|ab ⇒p|a orp|b,Bezout1=xp+ya; factorcancellationq1=u1p1."
+    },
+    {
+      "pdfPage": 128,
+      "printedPage": "113",
+      "status": "verified",
+      "scope": "p2…pr=u1q2…qs; representativeprime productp^v(p),v(p)≥0,finitesupport,orderord_p a; lcmord_p c=max_i ord_p ai; relatives/gcdunit; polynomial/PID/UFDexamples andpower-series notationk[[X1,…,Xn]]."
+    },
+    {
+      "pdfPage": 129,
+      "printedPage": "114",
+      "status": "verified",
+      "scope": "Nonfactorialk[x²,x³],curvey²=x³; Z[sqrt−5] units±1,irreducibles3,2±sqrt−5,3² factorization; sin²x=(1+cosx)(1−cosx); Ex1 conditionA nonzero,0∉S andidealsdisjointfromS."
+    },
+    {
+      "pdfPage": 130,
+      "printedPage": "115",
+      "status": "verified",
+      "scope": "Exercises2–11 allhypotheses,localringnonzerotarget,prime/localizationandUFDconditions;unitgroupZ/p^rZ exceptionp2,r≥3,type(2,2^{r−2}),hintgenerators1+p,±1,5mod2^r; sqrt−D,D≥1/2; trigonometricΣm1…n coefficientsanddegreeproduct."
+    },
+    {
+      "pdfPage": 131,
+      "printedPage": "116",
+      "status": "verified",
+      "scope": "Exercises12–19 Dirichletconvolutionxy=m,δ/μconditions andμ*φ1*f=f; nonzeroideal convention; fractionalidealab=o,generators; primefactorization; p=(t),t∉p²; o_p localDedekind; idealdivisibilityb⊂a,gcdsum; primepowersCRT,Pic(o)representativeideals;continuationreferences."
+    }
+  ],
+  "findings": [
+    {
+      "pdfPage": 109,
+      "type": "source_notation_verified",
+      "status": "resolved_no_source_edits",
+      "source": "The CRT proof prints y1 = 0 (mod product of ideals); the Fermat sentence prints a not-congruent symbol for x, not a mere inequality.",
+      "resolution": "The equality-sign congruence convention was retained. An enlarged source crop confirmed the three horizontal strokes in x not-congruent 0 (mod p); existing EN/ZH not-equivalent notation was correct."
+    },
+    {
+      "pdfPage": 111,
+      "type": "transcription_notation_fidelity",
+      "status": "resolved_verified",
+      "source": "The source prints a = 1 + x p^r (mod p^{r+1} Z), while the earlier EN/ZH drafts silently replaced = with a congruence symbol.",
+      "resolution": "Restored the printed equality sign in both languages. No mathematical source-error claim was added; this is conventional congruence notation."
+    },
+    {
+      "pdfPage": 112,
+      "type": "translation_quantifier_fidelity",
+      "status": "resolved_verified",
+      "source": "There are polynomials over a finite field which cannot be identified with polynomial functions in that field.",
+      "resolution": "Restored 有些 in Chinese to preserve the source's existential qualifier. The English source was already faithful."
+    },
+    {
+      "pdfPage": 113,
+      "type": "spurious_editorial_correction_removed",
+      "status": "resolved_verified",
+      "source": "The source prints cf(x) = sum ca_i X^i with mixed variable case.",
+      "resolution": "Full original page and enlarged crop were viewed. Both languages now preserve the author's cf(x); the previous Chinese cf(X) replacement and its substantive-error note were removed. The review record was corrected to describe a notation variation."
+    },
+    {
+      "pdfPage": 120,
+      "type": "source_typographic_note_verified",
+      "status": "resolved_annotated_source_preserved",
+      "source": "The running text prints the triple (u v,y), omitting the comma after u; the adjacent summation subscript prints (u,v,y).",
+      "resolution": "Retained the printed tuple in English and confirmed the existing corrected Chinese tuple with explicit visible 译校注."
+    },
+    {
+      "pdfPage": 120,
+      "type": "source_missing_hypothesis",
+      "status": "resolved_annotated_source_preserved",
+      "source": "The canonical monoid map phi_0:G→A[G], x→1·x, is asserted to be injective without explicitly excluding the zero coefficient ring, which the chapter permits.",
+      "resolution": "Kept the original assertion and formulas. Added an adjacent Chinese 译校注: for non-singleton G this assertion needs A≠0; in the zero ring every 1·x is the same zero function. The note states the counterexample without silently changing the source hypothesis."
+    }
+  ],
+  "diagramAssetsVisuallyChecked": [],
+  "diagramFormulaeVisuallyChecked": [
+    {
+      "pdfPage": 104,
+      "labels": [
+        "A",
+        "A'",
+        "A/a",
+        "g",
+        "f",
+        "g_*"
+      ],
+      "directions": [
+        "A→A'",
+        "A→A/a",
+        "A/a→A'"
+      ],
+      "representation": "LaTeX array in both languages; no raster asset linked."
+    },
+    {
+      "pdfPage": 115,
+      "labels": [
+        "A[X]",
+        "B[X]",
+        "B",
+        "ev_x"
+      ],
+      "directions": [
+        "A[X]→B[X]→B"
+      ],
+      "representation": "LaTeX arrow chain in both languages; no raster asset linked."
+    },
+    {
+      "pdfPage": 124,
+      "labels": [
+        "A",
+        "B",
+        "B'",
+        "f",
+        "f'",
+        "g"
+      ],
+      "directions": [
+        "A→B",
+        "A→B'",
+        "B→B'"
+      ],
+      "representation": "LaTeX array in both languages; no raster asset linked."
+    }
+  ],
+  "enlargedOriginalCropsVisuallyChecked": [
+    "tmp/pdfs/algebra/audit-0109-congruence.png",
+    "tmp/pdfs/algebra/audit-0113-variable.png"
+  ],
+  "unresolvedFindings": [],
+  "limitations": [
+    "This audit verifies faithful correspondence of the saved English transcription and Chinese translation to the scanned source, including explicitly documented editorial notes.",
+    "This is not an independent proof of every theorem or exercise and is not a guarantee that the source or translation is mathematically infallible.",
+    "No completion was inferred from embedded OCR, successful formula rendering, or another reviewer's flags."
+  ],
+  "sourceSnapshots": [
+    {
+      "pdfPage": 98,
+      "enSha256": "0baa35c4d1094155b735354d9c4aa057cf8bf2cb7ab98b80751400806791714c",
+      "zhSha256": "d3451fa07bf543675bc3b920e8ba94ca39a35fa365fba10b0e85a0132917b089"
+    },
+    {
+      "pdfPage": 99,
+      "enSha256": "6e0f78cd0a257242c108d9ec9753d5f7cf53c159f108f208ffc2194ba948e693",
+      "zhSha256": "8bb2dba70c4a917bd03f84edf08d7bc54c313672f084daa787ae9bf1400614e8"
+    },
+    {
+      "pdfPage": 100,
+      "enSha256": "79078c8b434e8f80e3efeb655a0027e43cffd3f411ca8bd5e5979240ab2ab4b2",
+      "zhSha256": "f79b419ee2bb9a9d51282abcc507a294e02d3714cf14d36dfecded357d15b253"
+    },
+    {
+      "pdfPage": 101,
+      "enSha256": "2be74b3e4bde66f4e95b70a1fc9a17df55de079c857f58dc08fac1e39240fcc5",
+      "zhSha256": "a67f96c4ddd6587c52aee0bef7a2e91858a5a6d4a955f71bdac81006d1355233"
+    },
+    {
+      "pdfPage": 102,
+      "enSha256": "179bb3685eda469b1c7e4779b70a7e8d538ba2ca71e69a490f425f102253b034",
+      "zhSha256": "0ec36f7a8b71601a710d31bd5c25572c461fb0de5da4cdad35b0be5fc40bcb50"
+    },
+    {
+      "pdfPage": 103,
+      "enSha256": "fc4d5b327ffdc54bc657565898e9ed454a6034d55e0e5a3effc48a64bedba64d",
+      "zhSha256": "5935df133ba2b4d3b77b3720cab408af4b080fd3c3449fc9b810fd1a7e3c7230"
+    },
+    {
+      "pdfPage": 104,
+      "enSha256": "03da1eeb681fc48b2e40c58de92a01720c6242ac5e8ae3c59fee2e31f627ebe9",
+      "zhSha256": "6782a440283ffe4d6bf71d8c5d0d3ca4047f5fea53b509b93c534e6b86fa0826"
+    },
+    {
+      "pdfPage": 105,
+      "enSha256": "482476b08f66d9a7abd81b4631ddcc2e6b0f3e23b7d8d8f1418a9a3b66cd3a1f",
+      "zhSha256": "4e215dcf35d73567fe2bf0927ecfe693cfbd6561bc75dc6ad508085df197b503"
+    },
+    {
+      "pdfPage": 106,
+      "enSha256": "731f02b5dfda146f20570d4ff878f2505a558aaf59882ad8f3bb6f9a3a32c894",
+      "zhSha256": "c96a435ccb2b757e606a14e6e57396b189a29bf52f5fb86c6a11a8597e49b17e"
+    },
+    {
+      "pdfPage": 107,
+      "enSha256": "01b5d7e2f05d7b6ffe60ebb3a53e13f71303e8d493a2209f59f11dd1c41b6bc8",
+      "zhSha256": "4e285c19f6e8657683d71ef44e5d75d6079444aef97425528da3a6353c80853c"
+    },
+    {
+      "pdfPage": 108,
+      "enSha256": "22d0749d36ce7dd968aef6636599c9d8cd2304a5a4047363c4b8b5087bc8d965",
+      "zhSha256": "af545006004056f36245f8eb0e02789983d0a2388955f86221f6bb0083d715d8"
+    },
+    {
+      "pdfPage": 109,
+      "enSha256": "5b20ffc18f4132fc6f7ce278fd2133438b6cf83cb0a099b2dd81509bd7cc6076",
+      "zhSha256": "5beb348fa09c46bbd9aac4f0a30a7237d2b56e2a3a9dcb7f9e6c6d04a16dc435"
+    },
+    {
+      "pdfPage": 110,
+      "enSha256": "dbddfaa3ae1e5891ba2d6388cf73c51248f8f19d673d6ce4cd27c8b516c9aeb4",
+      "zhSha256": "82999c722f294f3a9fe6b8826b3aa609c5c4be397da221fc8ab12c3948abde9c"
+    },
+    {
+      "pdfPage": 111,
+      "enSha256": "eee8b3b5391ba3a958582d1baab2231cf2f60e02ff370b1de9b900ab94d56ae8",
+      "zhSha256": "aa90f8af0c2ac27bc17694589350b9b6c56232052befa203a23425adfafba5f9"
+    },
+    {
+      "pdfPage": 112,
+      "enSha256": "a5a182db4cda51f422363afea837b2173d37d0f8a1b847cd9c4a9e9d2a9218c1",
+      "zhSha256": "7260536eef155b732d3102d71f685e0a425bdd8b8ed0d538011a1a211476baea"
+    },
+    {
+      "pdfPage": 113,
+      "enSha256": "125b40a171b88dabf31bbbe4aeff8adcd89304bbb6e94f8b7bb2f35523b57be0",
+      "zhSha256": "80413eccec8aeab03d09ae707d703d0dc4acb7048d77c95f70c1b27ac3c933fe"
+    },
+    {
+      "pdfPage": 114,
+      "enSha256": "49c09fa7cff0bebfa30bcbc2a9476dda8f7d83decfeb53a617a4273ff588bd90",
+      "zhSha256": "a17d64172f51def86cd2e04bce648e861669ccb900cb02b4638f0c3564c633bf"
+    },
+    {
+      "pdfPage": 115,
+      "enSha256": "719373d0b16ea80235e7306a08332bd47cf3503cb7d74878afc9ab3cd8a22212",
+      "zhSha256": "1462043661241fc68e81ef0a9ce8b98601ecf5803f1daff4c89e97c997db779b"
+    },
+    {
+      "pdfPage": 116,
+      "enSha256": "2ad978abe3eed1c29286e0e78db82e27bb19f393858239cb206c4e5787ba353f",
+      "zhSha256": "0b9e66143057d1665596c99447024180ef996f3f50fb093c738e0426039b9020"
+    },
+    {
+      "pdfPage": 117,
+      "enSha256": "f41e434036d7487f8ad0d253fb3ef511e73a3724b9f4dd4917bdbdacc1adca48",
+      "zhSha256": "4142802a373eaeaae7b8f42008688ebf761ab358903cd66f9ee86fcbf78c9f54"
+    },
+    {
+      "pdfPage": 118,
+      "enSha256": "f67c195aee7e3100f961bed99f6f40fe498d3ab4c56955f14dc68e371d36d984",
+      "zhSha256": "4a0c590867a7c069a18f2a7b506ee4285feeb12bce878727a400209999fa5ed1"
+    },
+    {
+      "pdfPage": 119,
+      "enSha256": "426daf1997f6c5c2b0f79fae34992d7c503f4390f5c2767db92d3bfcb9420b21",
+      "zhSha256": "ed3ce201ccbf1cfcfaacb50c596e182a6609105dfb0f77ded72eb350d6a03dc9"
+    },
+    {
+      "pdfPage": 120,
+      "enSha256": "fc6c09d9ff9a72629693743af3764f68aef3a88a1d527e2a3a23ef664fd01301",
+      "zhSha256": "9685333c0b50eca66393635c9755e7b1b89835e5a2f02a17f4a5e3631147d510"
+    },
+    {
+      "pdfPage": 121,
+      "enSha256": "e68f4e20c6c832e8d21b6aaccadc6200f4365c4d13b372bfed079b04d2cf7b96",
+      "zhSha256": "1b69b68f20e45935f8ce24c5066f28ad4f685d9672566dad3238308ffe62bb31"
+    },
+    {
+      "pdfPage": 122,
+      "enSha256": "62972241da99d3d63a2debcb8689b99bca1e7bb561cd2f077f7dd1fec0667c2c",
+      "zhSha256": "0dd30aa3c825c5e02031a67e1cf762c58c8fb9fe1684dc5d17a68c73ec6ee22c"
+    },
+    {
+      "pdfPage": 123,
+      "enSha256": "ecca1156f362154d4e870be02eeee07543b40a7130d1cbab3605135a02e79614",
+      "zhSha256": "f0a4c6496ebe20b2881364fe517fd4bccfdfd405fb6b5b58a1d84298e8d15a7e"
+    },
+    {
+      "pdfPage": 124,
+      "enSha256": "68cb0759ca98015287013899a5db958e2e422f962f742235e29137708e864160",
+      "zhSha256": "a88156da262903cd442f504cc6185164af017baa5a573a0739954752ac078ac7"
+    },
+    {
+      "pdfPage": 125,
+      "enSha256": "cd4f685383e013c9d257b4454717adfd3990b651081020b1c371ce2da1d3fcb8",
+      "zhSha256": "23d06f44f4edf73d7b6613c1f467cc37f4b5777767dc9427537a18d4d7d3b7c5"
+    },
+    {
+      "pdfPage": 126,
+      "enSha256": "91398ac605d55a9025b9987844d1c082821e21d19b87b598a03b96b5bfa48f30",
+      "zhSha256": "dbfc97f3f4cf3a0362a91cb5a3bdb34284b3cb81158e2b93f37aa16a398ee893"
+    },
+    {
+      "pdfPage": 127,
+      "enSha256": "b6fd7d34e84ce8f968635bac2ea9a07cff30a661365428fade7a5280d67cb1bc",
+      "zhSha256": "10c3e9f1a7f7c9c4bc378b295ca5c7772dab99a0613569d5cbeb13c2ace6f138"
+    },
+    {
+      "pdfPage": 128,
+      "enSha256": "0516016e1e2e8851146137c21c5323aa6465c3985e069b6c2c042b75225806fb",
+      "zhSha256": "f7ad660029c0b8eb0e1d41283711ba5799831d9ad7b3f8839ea2c5bf37f10f8c"
+    },
+    {
+      "pdfPage": 129,
+      "enSha256": "a8f222611cb07d20cd5bfe483360e7211f6308d0febb3e8d1a5d793decc9e759",
+      "zhSha256": "6a2171e663a1fa96c5875280c408bdbe390f84440a259a7dd27d7c9c7d0b2c1e"
+    },
+    {
+      "pdfPage": 130,
+      "enSha256": "c968349ad90dc9324a39083aa5ba3f34e851fe89789e8b5d1d95a770546a4323",
+      "zhSha256": "f06f44e2d4eedf8c48f5dbb27bfa1a6292f77b520fc393fe03c0d83f1cfebed2"
+    },
+    {
+      "pdfPage": 131,
+      "enSha256": "7fad434c79508cd91f0248d8f1c92297d96845e2de6ce10905ed9d0409db8c29",
+      "zhSha256": "0aa2953c81a4121bc3f24f7ff85e2786ac446ed3d6d76c91d418b0b02f69e5f5"
+    }
+  ],
+  "renderingCheck": {
+    "bilingualSourceFiles": 68,
+    "mathExpressions": 3698,
+    "mathJaxErrors": 0,
+    "scope": "Rendering syntax only; every formula was independently visually compared before this rendering check."
+  }
+}

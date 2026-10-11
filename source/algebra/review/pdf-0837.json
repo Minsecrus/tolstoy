@@ -1,0 +1,13 @@
+{
+  "printedPage": "829",
+  "formulaChecked": true,
+  "visualReviewed": true,
+  "pdfPage": 837,
+  "unresolved": [],
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "notes": [
+    "Exercise10 inverse f(1) clarified as evaluation a->f(a)(1), a notation convention rather than source error.",
+    "Exercise15(a) source asserts G-module splitting, false for nontrivial finite groups. ZH retains exercise and explains correct Z-module splitting and |G|k obstruction for both G-module splits."
+  ]
+}

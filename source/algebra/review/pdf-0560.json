@@ -1,0 +1,12 @@
+{
+  "pdfPage": 560,
+  "printedPage": "551",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "习题33(j)仅规定m为正整数；m<d时右侧H_c^(m−d)为未定义的负次数符号。中文警示该式需要m≥d或另行约定右侧为零；保持原式，不猜补作者约定。root独立核图并核读可见中文警示，确认属于已辨识的源假设缺漏，原式和原警示均保留，无源阅读歧义。"
+  ]
+}

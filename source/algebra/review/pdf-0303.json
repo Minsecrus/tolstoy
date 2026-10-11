@@ -1,0 +1,12 @@
+{
+  "pdfPage": 303,
+  "printedPage": "289",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Resolved proof edge case: the original says all roots of X^n-a are distinct without excluding a=0. English preserved; Chinese explicitly treats the trivial a=0 case, then proves a!=0, with visible 译校注."
+  ]
+}

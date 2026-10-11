@@ -1,0 +1,13 @@
+{
+  "pdfPage": 783,
+  "printedPage": "775",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original diagrams cropped at high resolution, personally visually inspected, and linked identically in both languages.",
+    "Visible Chinese editorial note: in the maps on new direct summands, printed L_{i-1} should be L_i; L_i and L_i' are the newly added source summands. English retained."
+  ]
+}

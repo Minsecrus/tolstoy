@@ -1,0 +1,13 @@
+{
+  "pdfPage": 557,
+  "printedPage": "548",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "习题29(c)原书印x→Ē_x，前文只定义D_x；中文校为D_x并紧邻注明，英文照印。",
+    "习题29(b)只给出R模M，却使用未指定代数乘法或Lie括号的导子概念；原书缺少结构假设，中文附警示，未自行补造。root独立核图并核读可见中文警示，确认属于已辨识的源假设缺漏，原式和原警示均保留，无源阅读歧义。"
+  ]
+}

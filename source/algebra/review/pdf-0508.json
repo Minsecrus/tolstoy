@@ -1,0 +1,13 @@
+{
+  "pdfPage": 508,
+  "printedPage": "497",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "习题15未定义p且缺剩余域特征为p>0条件；中文保留原题，邻注说明p可逆时a=1+pi,b=1的反例。",
+    "习题16还缺剩余域完美性；中文保留原题并以k=F_p(t),F=k((pi))明确反例及R^p=R迫使k^p=k。"
+  ]
+}

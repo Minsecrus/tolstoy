@@ -1,0 +1,927 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "scope": {
+    "pdfPageStart": 275,
+    "pdfPageEnd": 346,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Independent second reviewer personally views every original full-page PNG, reads full saved EN and ZH, and compares formulas, conditions, proof steps, exercises and editorial notes. Page hashes bind reviewed bilingual versions. Source extraction and existing flags are not substitutes for review."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346
+  ],
+  "auditedPages": [
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 275,
+      "printedPage": "261",
+      "status": "verified",
+      "scope": "Chapter introduction, references, fixed field K^G, x^sigma=x for every sigma, additive fixed-field formula; full EN/ZH.",
+      "enSha256": "d32270988377697d1a9c76c7b060e15bacdd9106ee9bc70203c8a0e90b54d4a1",
+      "zhSha256": "296ec70e81da4c4d16f83f77300e4da9141ac81af8c111875c477c20d29d5ba3"
+    },
+    {
+      "pdfPage": 276,
+      "printedPage": "262",
+      "status": "verified",
+      "scope": "Normal separable definition; Th1.1 finite correspondence, normal subgroup iff subextension Galois; restriction quotient; Th1.2 embeddings and [k(alpha):k]_s=1, intermediate fields injectivity; full EN/ZH.",
+      "enSha256": "cb7f1c6d4c58b9c39b3985c7a0f636003a69e29ba5a2c3bd03ac0c59098d415d",
+      "zhSha256": "8ab4479bfc54a2ad4c817a14f5a6e41247ad13cb0a1df66938b256ed1322971d"
+    },
+    {
+      "pdfPage": 277,
+      "printedPage": "263",
+      "status": "verified",
+      "scope": "Cor1.3–1.6 intersection/compositum, inverse containment, finite normal closure; Lem1.7 bounded degrees with n>=1, primitive-element proof and strict degree inequality; full EN/ZH.",
+      "enSha256": "06e002fbee423be43a5fc6332f95f48f4f08e8f5a47902d26a8b1f6cde47feb3",
+      "zhSha256": "3806e82682e182d65991485697767d2f9c06f851ff7c2b65a7480c8f1bf8d0be"
+    },
+    {
+      "pdfPage": 278,
+      "printedPage": "264",
+      "status": "verified",
+      "scope": "Artin Th1.8 orbit polynomial product i1..r, degree bounds, full finite Galois group; Cor1.9 and infinite closed-subgroup caveat; full EN/ZH.",
+      "enSha256": "51fbd508c167e20b7791b704d4661be1517ff3e13c391aa6bccf912e7dd483e1",
+      "zhSha256": "09d18249e33336c233972801a58f745fe7c96a97a026d5368714075ed605fda7"
+    },
+    {
+      "pdfPage": 279,
+      "printedPage": "265",
+      "status": "verified",
+      "scope": "Conjugation isomorphism sigma→lambda sigma lambda^-1, inverse mapsfrom, contravariant exponent (sigma^lambda)^omega, intermediate-field conjugates; Th1.10 hypothesis page fragment; diagram compared; full EN/ZH.",
+      "enSha256": "a9ee9888b41057615128556c900b3f33f862a98874aebc983be27a45dd32b2a4",
+      "zhSha256": "b5348963be7664a88c4403be3978d62758b96ca8a1a2077853c2656ea8abd4b1"
+    },
+    {
+      "pdfPage": 280,
+      "printedPage": "266",
+      "status": "verified",
+      "scope": "Th1.10 normality, restriction kernel H and quotient; abelian/cyclic Cor1.11; Th1.12 base-extension restriction into G and isomorphism with G(K/K∩F), finite and Krull-topology proof cases; full EN/ZH.",
+      "enSha256": "df000a26a9aa87c4dfbcd58608fa09e93a199c0e80e6f997dbcdad062e7855c1",
+      "zhSha256": "9826739f6086c3a0e9c6a9ed31d1e8b3645810c9a944153327c5f529dc01565d"
+    },
+    {
+      "pdfPage": 281,
+      "printedPage": "267",
+      "status": "verified",
+      "scope": "Th1.12 parallelogram including H label, Cor1.13 degree divisibility; cube-root counterexample alpha=∛2,zeta=(-1+√-3)/2,beta=zeta alpha, intersection degree1 and EF/Fdegree2; Th1.14 injective/direct-product restriction; full EN/ZH.",
+      "enSha256": "92f1bb6cb02f91d1c9424f8b1c27dab25efcd3ac8b1640a1efc74469027ff658",
+      "zhSha256": "08b5ce8292c15e632b600687792f446940e400f4570f5a4c1182c5d8bdaf22d0"
+    },
+    {
+      "pdfPage": 282,
+      "printedPage": "268",
+      "status": "verified",
+      "scope": "Th1.14 proof via G1×{e2} and {e1}×G2; compositum diagram; Cor1.15 disjoint composita assumption for all i; Cor1.16 fixed complement factors, K=productKi and intersection conditions; full EN/ZH.",
+      "enSha256": "a2acd79c34f37da3a008c333fa4e35c43c743a541b06eb4f2e4a9963221562d5",
+      "zhSha256": "d86d46ef3ba48a49d431a24c2e4810d043b266edbfed807f25fa82200b9daf3e"
+    },
+    {
+      "pdfPage": 283,
+      "printedPage": "269",
+      "status": "verified",
+      "scope": "Th1.17 abelian stability, ka/ks/kab notation; separable polynomial degree>=1 and permutation embedding; quadratic extensions with char≠2 and alpha²=a, converse retains characteristic condition; full EN/ZH.",
+      "enSha256": "77e03ce985bdbeb7d15613fc166c484d9183d151d265cc3d13adf182b63a7008",
+      "zhSha256": "7afb723263757662d7c37448790856c169b249ec0f89066517fbed0017070878"
+    },
+    {
+      "pdfPage": 284,
+      "printedPage": "270",
+      "status": "verified",
+      "scope": "Cubic depressed polynomial, G order3/6, discriminant delta and Delta=-4a^3-27b², square iff A3, both Q examples; quartic introduction; full EN/ZH.",
+      "enSha256": "451b7555606014a478fb539656b4663690bdfadee31f7eb433a7d68111e22d6f",
+      "zhSha256": "45d49c53d0aa1f41c609276b6689b132e01e7942ef5d739d96cc28ef53a15d42"
+    },
+    {
+      "pdfPage": 285,
+      "printedPage": "271",
+      "status": "verified",
+      "scope": "Q(alpha,i), roots±alpha±ialpha, degrees and intersection, sigma/tau images/orders and tau sigma=sigma³tau, D4 complete subgroup lattice; both saved diagrams personally compared; full EN/ZH.",
+      "enSha256": "a45486bfc8f6e4102cae094b15fdf9199e7db2324ede6f7926adb01ca73a7798",
+      "zhSha256": "04715563b7f7741b3657995a83536140f8c1e4fef9d184ee76933d2336608f36"
+    },
+    {
+      "pdfPage": 286,
+      "printedPage": "272",
+      "status": "verified",
+      "scope": "Generic symmetric extension elementary symmetric functions, splitting polynomial, [K:k(s)]=n! argument; Hilbert/Noether/Swan paragraph; real field hypotheses and complex square-root c²,d² formulas, nonnegative correction note; full EN/ZH.",
+      "enSha256": "b4e124ca89d77af730f91a63ac2b630a5191843c9fb6eacee73e6d692202f4b9",
+      "zhSha256": "0a82c2afad8cc436ddf6eee104334fb029d16e58718cc04b1e4d3dccd9ac74a4"
+    },
+    {
+      "pdfPage": 287,
+      "printedPage": "273",
+      "status": "verified",
+      "scope": "Algebraic closure of R(i) Sylow/degree/quadratic argument; prime-degree irreducible with two nonreal roots gives Sp, p-cycle/transposition and X5-4X+2 Eisenstein example; full EN/ZH.",
+      "enSha256": "c17e71d9101e40dc886a5c4baa17676c2968265a7e9e9722e774cb10bd00da80",
+      "zhSha256": "63bda9dd26acb1d7cb0ecd14e981f5ba2efb258bbc45ad277c41feef8e0fa798"
+    },
+    {
+      "pdfPage": 288,
+      "printedPage": "274",
+      "status": "verified",
+      "scope": "Reduction modp theorem separability and equivariant root bijection; X5-X-1 mod5 and (quadratic)(cubic) mod2, cycles; Schur truncated exponential and Hermite derivative/substitution formulas, n>12; full EN/ZH.",
+      "enSha256": "7509c1534986f3772c278f24f5a381f1f5cb8270121909436daae6f8d0fe953b",
+      "zhSha256": "afe408c5eda928d4dc586a39da7c3f7a0408e75a0e30a4215b3cfc3eb382c03c"
+    },
+    {
+      "pdfPage": 289,
+      "printedPage": "275",
+      "status": "verified",
+      "scope": "Punctured sphere covers, free fundamental group rankn and finite-index subgroups, surjection/kernel/fixedfield correspondence; C(t)/Q(t) discussion; rigid conjugacy triple P/P' product1, trivial-center and nonempty conditions; full EN/ZH.",
+      "enSha256": "ddfb6022235d6adb102ee2b672d80a85834d5625a71273d6ff908e3fabf7ed07",
+      "zhSha256": "46ae4cd218440d639b1d24edcbb3d58363bd49e60a23db20120a77359022caa2"
+    },
+    {
+      "pdfPage": 290,
+      "printedPage": "276",
+      "status": "verified",
+      "scope": "Rational conjugacy class g^s with gcd(s,ordg)=1, rigidity trivial center/rational classes/regular extension; full bibliography; roots unity in characteristicp, X^(p^m)=1; full EN/ZH.",
+      "enSha256": "e4975411ef5ee4f5b2e3a352631fde93a5f25b6cc20b6644d7b6402e174826dd",
+      "zhSha256": "61fc5bba726cb11e80b1bdade8b37da79ec79e5ea0e12ea833217eba628beed1"
+    },
+    {
+      "pdfPage": 291,
+      "printedPage": "277",
+      "status": "verified",
+      "scope": "Cyclic n-th root group and primitive roots, coprime direct product and counting qualification, mu[n]/mu[p^infinity]; sigma/tau exponent product, injectivity to (Z/nZ)* and degree divisorphi(n); full EN/ZH.",
+      "enSha256": "787aaff59e79e64403c3b63c0695a37a98f7088cf1ddc4e6354d62df3e7b7cfb",
+      "zhSha256": "69b3f38f0f701f97dfb5413e346c5cf264d0dc01ecd28d3eec734c309fafc4b1"
+    },
+    {
+      "pdfPage": 292,
+      "printedPage": "278",
+      "status": "verified",
+      "scope": "Th3.1 cyclotomic degreephi(n) and Galois isomorphism; integral factors and modp commonfactor contradiction all equations; Cor3.2 coprimecyclotomicintersection/compositum, prime cyclotomic factor; full EN/ZH.",
+      "enSha256": "008a80dd1ef34979cae5bffadb79c146c76cd4b9172e6c041f3c2226f9067358",
+      "zhSha256": "3a5bd692518009bd5fb5927bde8d68ef4c68bea76117822fbc4b1b5b0f86aea1"
+    },
+    {
+      "pdfPage": 293,
+      "printedPage": "279",
+      "status": "verified",
+      "scope": "Prime cyclotomic Eisenstein proof reference, period-grouped product, Phi_n recursion, integer coefficients, degphi(n) and Irr identity; full EN/ZH.",
+      "enSha256": "73f5fdc5181f7279d696f48f07334012a5e10e61c9841097a1b433b561cb90a9",
+      "zhSha256": "cf169ccf240b68d7a2fa15f0abe50c55dc9267f4101d2536268345303bc04e49"
+    },
+    {
+      "pdfPage": 294,
+      "printedPage": "280",
+      "status": "verified",
+      "scope": "All five cyclotomic recursion exercises including exponents r_i-1, p|n case, Möbius product and piecewise definition/divisorsum; convolution discussion and bibliography; full EN/ZH.",
+      "enSha256": "9e39eb16d22fe47cd7fa81a45d3ef03ab73e3aa7ca25be31fd89919db1083bd4",
+      "zhSha256": "646b496597214b77ea49efa5af26ab91d61e856015d14e452f3dae93116db040"
+    },
+    {
+      "pdfPage": 295,
+      "printedPage": "281",
+      "status": "verified",
+      "scope": "Cyclotomic coefficient bound powers1/2,1/4 and -2 at7,41; unity geometric sum; oddfinitefield squaresindex2, Legendre symbol quantifiers; Th3.3 Gauss sum and S²=(-1/p)p, proof fragment; full EN/ZH.",
+      "enSha256": "09d34906422d6d4192ef46b22d13fd1a30a23e3f298a99c3c6d728467bb98225",
+      "zhSha256": "31f958b9a56a39e89b425b001827ac03f34604b24f4ee85e0df16e20feaf734e"
+    },
+    {
+      "pdfPage": 296,
+      "printedPage": "282",
+      "status": "verified",
+      "scope": "Full Gauss sum proof substitutions and nonzero-residue summations including nu≠-1 and inner sum -1; quadraticcyclotomic discussion and prime2 formula; monoid character definition; full EN/ZH.",
+      "enSha256": "525f2b28126d70cf849cf3cd28f58ff9a52789d394a9a3e9e3fa40df7046136a",
+      "zhSha256": "9b2f1140d275404c3bab3b8f7778b6e6036bc64685faf568a6e174d53b40bd26"
+    },
+    {
+      "pdfPage": 297,
+      "printedPage": "283",
+      "status": "verified",
+      "scope": "Character linear independence definition, complex continuous/evaluation examples, Th4.1 minimalrelation argument and chi2(z)/chi1(z) coefficient; subtraction zero relation equivalent to source; full EN/ZH.",
+      "enSha256": "c7462e5fe742d14a3a588983d69cb9ec22461bbdcfb87a70dccad7a7f451a48f",
+      "zhSha256": "f0230995df9dcae4a6765daca9c8eeeb8ed12449db8d2beaf54301f1a8d2f7f0"
+    },
+    {
+      "pdfPage": 298,
+      "printedPage": "284",
+      "status": "verified",
+      "scope": "Artin proof conclusion and Dedekind determinant; Cor4.2 allnu≥0/nonzero distinctalpha; norm/trace definitions including inseparable degree p^mu and zero trace criterion; full EN/ZH.",
+      "enSha256": "e129ab40c8a2952e75ea886c240e8245166fb305a5075d52a06a29506bbbf32a",
+      "zhSha256": "1cd3eff8adc6e49d462a5a7b4413896d9b7656754e1d5a53d84d0302da6ddc43"
+    },
+    {
+      "pdfPage": 299,
+      "printedPage": "285",
+      "status": "verified",
+      "scope": "Th5.1 norm multiplicative/trace additive, tower composition, signed constant and next coefficient formulas, inseparable-pow proof and distincttau_j sigma_i embeddings; full EN/ZH.",
+      "enSha256": "f35948ec5f70f9b5a72c885a3065ae9c7d11ef942e2fd87948a8d79ad87fb5e3",
+      "zhSha256": "3aab1e7d2e9af1dc51b10ff0fe5e785ac11826d1ff04c9c65cb804a7289c3486"
+    },
+    {
+      "pdfPage": 300,
+      "printedPage": "286",
+      "status": "verified",
+      "scope": "Th5.2 nonzero separabletrace and nondegenerate tracepairing dualidentification, finite dimension injection; Cor5.3 dualbasisdeltaij; Cor5.4 embedding rowvectors and basis condition/proof fragment; full EN/ZH.",
+      "enSha256": "e955b073d9dbc236331c92a208771a2f38eda995eaef4f508d6d5d9705e07df1",
+      "zhSha256": "f2765a2d32425981497ebb219d7b2ac50af4d0ef2c7e96d91e143c6426334039"
+    },
+    {
+      "pdfPage": 301,
+      "printedPage": "287",
+      "status": "verified",
+      "scope": "Cor5.4 proof end, trace n*c charqualification; Prop5.5 beta_j/f'(alpha) dualbasis, Lagrange interpolation range0..n-1 and traced polynomial/coefficients; determinant setup; full EN/ZH.",
+      "enSha256": "d0a9c59f7fea7ea2b9255b4478b36253b982e41b027ea1c77246a77ef4737d5c",
+      "zhSha256": "0944b04c69463d8335820dfdf800e3cec83c0ba25fcaba3a82ca98233ab961dc"
+    },
+    {
+      "pdfPage": 302,
+      "printedPage": "288",
+      "status": "verified",
+      "scope": "Prop5.6 multiplicationdet/trace, alpha^iw_j basis ranges, (-1)^d a0, normpower r and tracer*; Hilbert90 norm1 iff alpha/sigmaalpha, exponentnotation; full EN/ZH.",
+      "enSha256": "d7ed60b68c02e373caa6e72ac63b63124c1aaa9a8d34270b7cb8d8010997e183",
+      "zhSha256": "8eb57d60240df958b4498d9c4e176326fed308e7fcafbf7b621cf01bda65912b"
+    },
+    {
+      "pdfPage": 303,
+      "printedPage": "289",
+      "status": "verified",
+      "scope": "Hilbert90 weightedoperator and alphaconstruction allpartial-product exponents; Th6.2 Kummer cyclicextension char/rootunityhypotheses, d|n and alpha^d, distinctroot proof with a=0 visible exception; full EN/ZH.",
+      "enSha256": "187af0ef9d7ffdc28173ed8ce29eccbdb68a2965e5b68f4ab9dbe24d6a9e3f57",
+      "zhSha256": "52911a23500ba1f1d09f3398f30f783356b2aa315dcad4eb45daa4774fa0ead2"
+    },
+    {
+      "pdfPage": 304,
+      "printedPage": "290",
+      "status": "verified",
+      "scope": "Additive Hilbert90 tracezero and signed difference, weighted traceformula allsigmaexponents; Artin-Schreier Xp-X-a dichotomy and cyclicdegreep, conjugatesalpha+i and sigma(alpha^p-alpha); full EN/ZH.",
+      "enSha256": "5525457313a8998bd08512585395551c0a133d9a74bef688caefcbb584f78f90",
+      "zhSha256": "4382e3f87b2973a9d4fbbd4a161118af754e49eb430a3ec88f47bcf4ecd95d41"
+    },
+    {
+      "pdfPage": 305,
+      "printedPage": "291",
+      "status": "verified",
+      "scope": "Artin-Schreier irreducibility factor product i1..p and coefficient -dalpha+j, cyclic automorphism; finite/separable solvabledefinition; Prop7.1 lifting/tower/conjugatecompositum proof; full EN/ZH.",
+      "enSha256": "6cc32d4c5a396b88ffc4071962d3d50b2c493ea0611668f3e4117d87a8c3dad7",
+      "zhSha256": "bfd23af18bce6308591a1baa6dd69209fd23765214b463d9cacfe804a54b0322"
+    },
+    {
+      "pdfPage": 306,
+      "printedPage": "292",
+      "status": "verified",
+      "scope": "Solvableclosure group exactsequence argument and product; diagram EK,E,K,F,k; radical tower with allthreeallowedtypes and characteristics; Th7.2 firstdirection setupprimeproduct and rootunity; full EN/ZH.",
+      "enSha256": "89896131d2d832035873881a70b7e3b58a64301abcebbf958cc2cdec56f590ff",
+      "zhSha256": "3b4de9df27b44a771f9f23ede708a72353c9d37ae1b37122dd56ea614d3bf778"
+    },
+    {
+      "pdfPage": 307,
+      "printedPage": "293",
+      "status": "verified",
+      "scope": "Th7.2 bothdirections and Galoisclosure correctly explained source reversal, compositumdiamond personally compared; inseparablevariant and citations; exponentm definition allsigma; full EN/ZH.",
+      "enSha256": "396ab066f89fa741435e12c2c6d169d7ddc9348897c7ddf23781b60cc8baa982",
+      "zhSha256": "fa7db1dd40924795f0c14228f9bcb767bb02c9134dfa4aaeef1640661f9e2240"
+    },
+    {
+      "pdfPage": 308,
+      "printedPage": "294",
+      "status": "verified",
+      "scope": "All Kummer m-throotnotation/nonzero B/k*m hypotheses, ratioindependence and bilinear G×B→mu_m, tau/sigma product and Th8.1 assumptions; full EN/ZH.",
+      "enSha256": "9c00d97badd35e49796862adceaf994ec73e0cc1eecf3d16fce4888ab166c1d8",
+      "zhSha256": "0b6f565253923e1c9272cc32cae594330a57218b63d8e194b00d4a6ccb6e83ad"
+    },
+    {
+      "pdfPage": 309,
+      "printedPage": "295",
+      "status": "verified",
+      "scope": "Th8.1 left/rightkernels, finiteness and duality/degree; Th8.2 inclusionbothways finitegeneratedreduction indexequality and cycliccomposita surjectivity, b'=ba^m identity; full EN/ZH.",
+      "enSha256": "fcd5b62301cca26717bf6a1613fc2d5a179d547b6b853bfd10bac34aaad91213",
+      "zhSha256": "ee3cddd6913cb209147bcc8e5018487b2e55c2b670f4c1cfc09ae79c5326085d"
+    },
+    {
+      "pdfPage": 310,
+      "printedPage": "296",
+      "status": "verified",
+      "scope": "Additive Artin-Schreier wp=xp-x, Badditive subgroup, Th8.3 pairingsigneddifference, kernel/indexdegree and exponentp; completeWittbibliography including perfectresiduefield title; full EN/ZH.",
+      "enSha256": "175a664ddb2d73bf378bdf9c7220f6db576e21db0b8923265dca5857a9916ea4",
+      "zhSha256": "76cf4bde2e43a1f976b629483a742381c9e17a58442f6ea0681eb04ea58b5196"
+    },
+    {
+      "pdfPage": 311,
+      "printedPage": "297",
+      "status": "verified",
+      "scope": "Th9.1 binomial irreducibility allp|n and4|n exceptionalcondition; reduction n=p^r m oddp, roots/products and normsignedconstant, towers; characteristicp and primecase norm N(alpha)^p=a^d; full EN/ZH.",
+      "enSha256": "5ebbe7fd86d50ea2fd43b820102053ca82f08e51e67de44c2b4df65871f5e1a1",
+      "zhSha256": "d7eb01044dc5ea69cc8ee21bbad5196f724b8fe3e99944a9aca239c6c66df956"
+    },
+    {
+      "pdfPage": 312,
+      "printedPage": "298",
+      "status": "verified",
+      "scope": "Primepower irreducibility proof p2 exceptions, norm16Nbeta4, sqrt-1 and conjugate factors, squarecoefficients c,d and a=-4c4, SophieGermain factorization and necessity; full EN/ZH.",
+      "enSha256": "ed16a96e553b983fa055c8dc5f235b15f707b17e70d26ad6edd125b2c37ebae7",
+      "zhSha256": "fd16c7795ffde6af721ba2df7dbf068a47150b5a045eb78fe0dfa835284a0c21"
+    },
+    {
+      "pdfPage": 313,
+      "printedPage": "299",
+      "status": "verified",
+      "scope": "Cor9.2 allr≥1 irreducibility, Cor9.3 finite algebraicclosure Artinproof inseparable/Galois/prime subgroup and unitroots arguments, X^(p²)-a exceptional4thpower, squares sum and char0; QabsoluteGaloistorsionexample; full EN/ZH.",
+      "enSha256": "2e1c010fa46f400380b72af11db6636d99e6d5628fdd040f796770d460dd32bd",
+      "zhSha256": "739034c081c5c96921f3e265e77992f180280adeffd2ae5eedb2aeb2cddd1a06"
+    },
+    {
+      "pdfPage": 314,
+      "printedPage": "300",
+      "status": "verified",
+      "scope": "Splittingfield radical/unitroots; G(n) lowertriangularmatrices b,d, nphi(n), action and injectivemap; Th9.4 oddn/degreehypotheses, fullG(n) and commutatorfield; primecase proof; full EN/ZH.",
+      "enSha256": "4a6d1a4d856db931cc501f420e56d67fcc7c65632e5c8e6a7bf5f0a45656f007",
+      "zhSha256": "06fb608e5119f71951ab4ed054a2f672a54b753818efae20317be8a05d732b2e"
+    },
+    {
+      "pdfPage": 315,
+      "printedPage": "301",
+      "status": "verified",
+      "scope": "Th9.4 induction n=pm, beta=alpha^p, fielddiagram/degreesm,p personally compared; intersection and lifteddegrees, maximalabelian property; evenn dependencies and Artin/LangTrotter remarks; full EN/ZH.",
+      "enSha256": "8e1f2049de026ac52b9489978e75d2c32da7e64ec22248ea7e7dbb15aae68d0e",
+      "zhSha256": "b032cd225aac1cc572f02d7e35153aa18fbcac4e72fccbbe0122810cbde81268"
+    },
+    {
+      "pdfPage": 316,
+      "printedPage": "302",
+      "status": "verified",
+      "scope": "1-cocycle/coboundary allsigma,tau conditions and H1quotient, cyclictracesum/ker/(1-gamma)A with finitequalification verified; Th10.1 finiteGalois H1trivial multiplicative/additive, cocyclerelation; full EN/ZH.",
+      "enSha256": "c3d31279d7e77e8b4b52c832e9ede53de450261ffb636f78ffe371680f426ba8",
+      "zhSha256": "1b5321702b6a203fe5e8319038e81deed679824351a26b48a15940dead092ad8"
+    },
+    {
+      "pdfPage": 317,
+      "printedPage": "303",
+      "status": "verified",
+      "scope": "Hilbert90 general finitecocycle weightedbeta/σbeta inverse and additive tracebeta signs; SahLemma10.2 centraltau, all cocycle expansions and (tau-1)f=(sigma-1)f(tau); full EN/ZH.",
+      "enSha256": "ae1a83854bdd52f7c69a5c3f344608d27cc875e1f163d4db1287b769ecea4e02",
+      "zhSha256": "0d504870df23beceb8b8f97353531ec25505da67a8dddd03a3e391a923856b9a"
+    },
+    {
+      "pdfPage": 318,
+      "printedPage": "304",
+      "status": "verified",
+      "scope": "NonabelianKummer generalsetup N>1,M|N, finiteindexisotropy,pdivisibility,finitelygeneratedfixedGamma and finiteA_N; concreteK^a multiplicativeexample and G(B),G(N),H(N),H_Gamma definitions; full EN/ZH.",
+      "enSha256": "41410dfae65083b6f994947ed6af6d6a243726991a308070f3ff811d8bbb22a5",
+      "zhSha256": "6a04a84309c8ef6c86b4876fa9967071971059e6b23906d68064588c04b31a67"
+    },
+    {
+      "pdfPage": 319,
+      "printedPage": "305",
+      "status": "verified",
+      "scope": "Exactsequence H_Gamma→G(1/M Gamma+A_N)→G(N), lattice allfield/groupbrace labels personally compared; homothety[n]a=na, Nprimefactorproduct, Scontains2, c(p)=p^f and subgroupcontainment; full EN/ZH.",
+      "enSha256": "48cba3e0ee411fc5dfa068db4092637355a5aab86ae1c740d66db8a3f922dedc",
+      "zhSha256": "fa72ffb78d7dd1af3b1bfdd3783fef82a1d14d6297bb8034f9911635a700b231"
+    },
+    {
+      "pdfPage": 320,
+      "printedPage": "306",
+      "status": "verified",
+      "scope": "A_Nprimarydirectsum, nondegeneratehomotheties[2]/[1+c], c(S)/c(M) products; Gamma'=1/N Gamma∩A^G and exponent; Kummerpairing tauy-y; operator-vs-centralgroup note verified; full EN/ZH.",
+      "enSha256": "62d92ac5ffeed661c1e0af130759cacada66a3ebb4a209ee2ffdf2f82fe1f8fe",
+      "zhSha256": "9ab504dd34d14a16243c796824630c80f22dcccfd9a7c81bba73c3f5363c9d01"
+    },
+    {
+      "pdfPage": 321,
+      "printedPage": "307",
+      "status": "verified",
+      "scope": "Th11.1 kernelbound c(M)e_M Gamma_phi⊂MGamma, cocycledescent, corrected sigma ct-ct substitution and fixed c(y-t), multiplicationM and gcd; Cor11.2 coprimality injection; full EN/ZH.",
+      "enSha256": "6658c429bf497a220870f8d3f3d887c6910eca67c61c63930d46cac06ac00c12",
+      "zhSha256": "9c1aac10dc669a61e69eb1b0d1041f1965d5142f98e5659c4afbc95366426928"
+    },
+    {
+      "pdfPage": 322,
+      "printedPage": "308",
+      "status": "verified",
+      "scope": "Cor11.2 freeabelianbasis pairinginjection/isomorphism, e_M typo verified; algebraicdependence defined via nonzerofunction/reducedpolynomial; additivepolynomial g(X,Y), totaldegree/individualdegree counterexample note verified; full EN/ZH.",
+      "enSha256": "52e97365b37f3d1c5beaea0981618a53db5be5e74275f0fbac4e0e4de0c8e54b",
+      "zhSha256": "7455cadcff959112145cab61190bf5690eb11baff175ab92ca59bac54082d001"
+    },
+    {
+      "pdfPage": 323,
+      "printedPage": "309",
+      "status": "verified",
+      "scope": "Monomial difference allv_i powers, reduced/additive gzero, ArtinTh12.1 minimalreducednonzero annihilatingpolynomial, two cases with P(X)/P(Y) and allquantifiers; full EN/ZH.",
+      "enSha256": "fa4cad1c670a908b0a09b67afb446d557fb97f688c5ce3bbf03f8deeda1d5ef2",
+      "zhSha256": "d884f0728057be1e13eda07bb40adc3043741012fe0f93a777c241f09409b298"
+    },
+    {
+      "pdfPage": 324,
+      "printedPage": "310",
+      "status": "verified",
+      "scope": "Reduced additivepolynomial decomposition fi(Xi), onevariabledegree argument r=p^m s and s1, p-polynomial fromv0 and char0linear; generalalgebraicindependence corrected domainquantifierA with sourcevisible note; full EN/ZH.",
+      "enSha256": "b2e3a2802c99c3374f8941315921d8dbc0ca6f745082a9ba3856eb199bc4d1d5",
+      "zhSha256": "2d8db0deef444d0245603bf0de11855bbc35198f988ea6a71c4f6a5644b9a2ca"
+    },
+    {
+      "pdfPage": 325,
+      "printedPage": "311",
+      "status": "verified",
+      "scope": "ArtinTh12.2 infiniteK finitegroup allnelements, char0/p cases, additive annihilatingrelation, characters equality and uniqueFrobeniusroot, sigma_j^-1sigma_i finiteorder and x=x^(p^(n(s-r))); rstart1 read as raisedrelation, not sourceerror; full EN/ZH. Final version reread after new visible Frobenius-map note; source 'automorphisms' preservedEN, correctly replaced by multiplicativecharacters ZH.",
+      "enSha256": "6e63f56ed59f14480ff19d05376db182590f09caf6ae7184880c01797b541497",
+      "zhSha256": "a6e7340fb6a3e4af03119e9a5a330fca677d099df75be0025b91ced3befe3bd7"
+    },
+    {
+      "pdfPage": 326,
+      "printedPage": "312",
+      "status": "verified",
+      "scope": "NormalbasisTh13.1 fullfiniteGalois statement/infinitebaseproof, t_sigma,tau=X_sigma^-1tau, determinantnonzeroevaluation and conjugatebasislinearrelation; group-ringrank1 and integerGaloismoduleremarks; full EN/ZH.",
+      "enSha256": "ba78ed81dfd59bebcb3ea65551a532ed8921c7dc6f029a8803ab6456f25fce17",
+      "zhSha256": "e689c5864690881ca3664f3d33a52d45b9e39b86860b6072848d1a1b1735ddf1"
+    },
+    {
+      "pdfPage": 327,
+      "printedPage": "313",
+      "status": "verified",
+      "scope": "InfiniteGalois inverse-limitTh14.1 normalfinitefield family, kerneltrivial and compatibleautomorphism construction; pcyclotomictower Z_p* isomorphism, sourceparenthesisnote personally confirmed; full EN/ZH.",
+      "enSha256": "d6ab7a99003156f43b3fb57b7e0ede5071ca15a2c35e8127a910c37e2cc6f87a",
+      "zhSha256": "ccb45c3a81d125db1e6060d6bfde0e63cd911a74c28ac2a46b6fb0d09a96d967"
+    },
+    {
+      "pdfPage": 328,
+      "printedPage": "314",
+      "status": "verified",
+      "scope": "Ellipticcurve y²=4x³-g2x-g3 and discriminant, torsion E[p^r] twofactor group, GL2 representations and EndC=Z condition; ShafarevichConj14.2 countablefreegroup completion; full EN/ZH.",
+      "enSha256": "c760858b1e069e09828fcb4e551eff9b206a74d9d3554f1779a711447ee22c2b",
+      "zhSha256": "8e56194b4b0524c949c3181449164e3f9474b5b528e2b090c3e442985e887ac0"
+    },
+    {
+      "pdfPage": 329,
+      "printedPage": "315",
+      "status": "verified",
+      "scope": "Full§14 bibliography; §15 introduction inverseGalois/abelian/classfield historicaldiscussion; integerDedekindring and primeideal P∩Z=(p); full EN/ZH.",
+      "enSha256": "057755d5daf58ad8e7d1bcd15733c1e69981dc10d61b2c679198f44ad9b23e56",
+      "zhSha256": "d898aa1a0a035f76f1c7731c947d148c8e298e0e445473921f4f912231a35a3b"
+    },
+    {
+      "pdfPage": 330,
+      "printedPage": "316",
+      "status": "verified",
+      "scope": "Frobenius lift preservesQ and alpha^qmodQ, conjugacy/abelianuniqueness; Th15.1 idealclass Frobeniuscriterion allP1,P2 (alpha∈K equivalent toalpha∈F since equality forcesit); cyclotomic Frζ=ζp congruencep1p2; full EN/ZH.",
+      "enSha256": "7cf9e626b666d0823e54cd3f702957a67f2cdd934b8bb6789ab00e1dbc10d38c",
+      "zhSha256": "9a81a22460fe9838500b1faf4ba169dfaf2052d45bafc3f11e80b915212c5400"
+    },
+    {
+      "pdfPage": 331,
+      "printedPage": "317",
+      "status": "verified",
+      "scope": "Modularconnection linearrepresentation GLn/GL2/PGL2, traceanddet 2x2, Delta qproduct exponent24 andqcoeff; Th15.2 trFr=a_pmodl,detFr=p11 and exceptionlist2,3,5,7,23,691,eleventhpower image; full EN/ZH. Final ZH matrix dimensions rechecked against source after last edit.",
+      "enSha256": "cc1311b576cf74c66bd629e56cb1ad97497384bb369c5c0cf9763993d8514715",
+      "zhSha256": "28123bac911abf9fed2176aa97216e726024d7cf6b635e9d4b8fc67705e26cfe"
+    },
+    {
+      "pdfPage": 332,
+      "printedPage": "318",
+      "status": "verified",
+      "scope": "Delta weight12, congruencesubgroups Gamma(N)/Gamma1/Gamma0 allmatrixconditions; SL2R slashaction power-k and fraction, holomorphic/cusps/invariance conditionsMk1..3 and cuspzeroconstant; full EN/ZH.",
+      "enSha256": "1421ad30034d05321162573be81a0b18472cef4c515b72df612d47dcdec93c52",
+      "zhSha256": "4ed0f603cdfa6c9e3803afb9e85cf9542de84a5a4e24cf07f74d7fc7190a9605"
+    },
+    {
+      "pdfPage": 333,
+      "printedPage": "319",
+      "status": "verified",
+      "scope": "qexpansion periodicity, quotient dmodN Dirichletcharacter odd/even, type(k,epsilon); weight1 Hecke eigenform normalizeda1 DeligneSerre Frobenius charpoly X²-a_pX+epsilon(p), cuspidaliffirreducible; full EN/ZH.",
+      "enSha256": "8dedd13536d766ee64cf3fe7956e94fb619eebd3b5d70615b2044ac1c199c285",
+      "zhSha256": "7b23d0263850f33700389b87a8c69a6e0d97813cb46c04b9a244cbb179050c06"
+    },
+    {
+      "pdfPage": 334,
+      "printedPage": "320",
+      "status": "verified",
+      "scope": "Complete§15 bibliography with allreferencetitles/authors/pages and Galoisformulas; Exercise1(a)–(g) exactpolynomials/basefields and squarefreeinteger exclusions; full EN/ZH.",
+      "enSha256": "141a415d5e0805bb09c0f857e43f7ce668d98dead557e167c7a8aff02b0c4e88",
+      "zhSha256": "77de29a8a7ea098f07f28713dd3d537120d01f49225f5fc995e165fc1dc20bcd"
+    },
+    {
+      "pdfPage": 335,
+      "printedPage": "321",
+      "status": "verified",
+      "scope": "Exercise1h–n allpolynomials/basefields,2a–g seven cubics,3a–f C(t) cubics; Ex4 all3quadraticGaloisconditions/cycliccriterion, Ex5 discriminantfieldinequality degrees12/6, Ex6 cyclicquartic norm-z identities and converse; full EN/ZH.",
+      "enSha256": "226900ae9488a1376d986fd32d8aaefa46477470d0d0cd6410abd4e170b27f72",
+      "zhSha256": "2f78c3c21f19617eeca0c6dacdb1747dd71a20c62628a00a89e8624d9ccb1638"
+    },
+    {
+      "pdfPage": 336,
+      "printedPage": "322",
+      "status": "verified",
+      "scope": "Exercises7–14 fullsubparts, quarticsandD8casecriterion alpha/beta-beta/alpha, prime-degreeconjugatecondition, Sn irreducibility/automorphisms/alpha^n, reciprocal nonrealunitroot, explicitpolynomials13 andmodhint14; F/fnote verified; full EN/ZH.",
+      "enSha256": "a7a777c69a78bd430f081a10f72e8cf9eb7f415e09b5c84fb95ea214f90a3a23",
+      "zhSha256": "8a31a27d7a92724f933d6da202d10ddf05386af867238144d9ca956a0d0137c6"
+    },
+    {
+      "pdfPage": 337,
+      "printedPage": "323",
+      "status": "verified",
+      "scope": "Ex14hint continuation,15normalizer,16normalbasissubsetsums;17–19 characteristic2n/unitroots/quadraticfields/norm1-zeta;20infiniteprimevaluesandBouniakowski/BatemanHorn conditions/primecountdefinition; full EN/ZH.",
+      "enSha256": "65c12ead02192735f757a3dba42b49a83d10913766b8c16f012b743b757870ee",
+      "zhSha256": "3362e3dd9037f8741f8a71a5c0cb911b534dcacc2aa119e1f191461226a0774a"
+    },
+    {
+      "pdfPage": 338,
+      "printedPage": "324",
+      "status": "verified",
+      "scope": "BatemanHorn primecountasymptotic and Eulerproduct, lowerlimit0/absoluteconvergence notes verified by X²+1 factors; Ex21cyclotomicorder, Ex22prime-rootsclosure hint expansion with explicit p3,q2,r1 exception added; Ex23a; full EN/ZH.",
+      "enSha256": "2759ebf68b32c8382d3ec79d718c7089b97f5db32f2647c23dd054f7f7ebfbae",
+      "zhSha256": "701e5b10dc1ef26561d04d40a06cb72dbff0d35a5bdd7b31d854d9be64cf65d5"
+    },
+    {
+      "pdfPage": 339,
+      "printedPage": "325",
+      "status": "verified",
+      "scope": "Ex23b infiniteabelianextensions;24cubicsquares;25–28cyclicfiniteextensions/maximalomittedsqrt2/fixedfield/rootforallpolynomials conditions;29ArtinSchreier cyclicp^m allparts/sigma*;30cycliccohomology;31normtraceonto;32discriminantmatrixchange; full EN/ZH.",
+      "enSha256": "a13b080c666aa12c54342d42be030f5439d29baa43ef44d12aa45e0bc382aab6",
+      "zhSha256": "96e60a13af1eaabd7e85781a5fd554da5e4b9d08fc592c662b16abdcc92477a4"
+    },
+    {
+      "pdfPage": 340,
+      "printedPage": "326",
+      "status": "verified",
+      "scope": "Ex32b–d discriminantbasefield/normderivative signedn(n-1)/2 and transposeAA trace matrix;33dihedralrationalfixedfield;34degree2twofields;35rationaldegree/automorphismsfraction/generators;36 finitefieldMobius fragment; full EN/ZH.",
+      "enSha256": "4fe2e6b484cf6cf57f3e1e383b9471e4e6fd5d9c16628c829f59149c0d30ed47",
+      "zhSha256": "673b77248c2fb2ca583ca2360d60ac05d1d2352b2257f0cf0a0e875e9e4f12be"
+    },
+    {
+      "pdfPage": 341,
+      "printedPage": "327",
+      "status": "verified",
+      "scope": "Ex36 PGL2finitefieldorder and fixedY quotient exponentsq+1,q²+1, affine/translation fixedT/Z; Ex37finitepowerindices; Ex38squarefreeK_p degrees and compositeodd/evenconditions;39saturatedGamma and Kummerquotients/intersection hint; full EN/ZH.",
+      "enSha256": "1dfd42fd15a252af3192cb228056f678eb12f91658448fbabc92441c7640fe18",
+      "zhSha256": "94388b42fff0322f7e9646be3feee07abe9e72cc844ea22dc23eac9795f9721b"
+    },
+    {
+      "pdfPage": 342,
+      "printedPage": "328",
+      "status": "verified",
+      "scope": "Ex39c,d KummerHomisomorphism/commutator maximalabelianquotient;40 pdivisionstability and p^(m(r+1)) withmu_p/mu4;41relativeinvariants all(a)–(e), characters,crossratios,multiplicativeindependence/algebraicindependence and polynomialgcd/factor claims; full EN/ZH.",
+      "enSha256": "6006844e2475e25264a94a1b6b745c3dca32d57bd441f90f55962945958f2fb6",
+      "zhSha256": "1236701b2546d25688de96adf0982904923121da4162ef0fa204a18acfa563c2"
+    },
+    {
+      "pdfPage": 343,
+      "printedPage": "329",
+      "status": "verified",
+      "scope": "Ex42unitroot-preservingrationalfunction monomial/generaldivisiongroup;43Krulltopology all(a)–(f) compactclosedsubgroupsandclosure;44procycliclimit productZp;45perfectfixedfield/allKpcomposita, eithertrivialorinfinitecyclic and irrationalpunit sigma^u fragment; full EN/ZH.",
+      "enSha256": "28292b232dcbe60ad94f4c66ba6db93aa330f3b291e769d244afed4f6223bfa3",
+      "zhSha256": "a4673e5f7b98fcb0e99a8c3cdd3aee4e0f41a7f659a8ca2cd9c0d511c57800c9"
+    },
+    {
+      "pdfPage": 344,
+      "printedPage": "330",
+      "status": "verified",
+      "scope": "Ex45 end rank2 freeabelian samefixedfield; Ex46 bigWitt ghostsum, formal logarithmicderivative, f_x product, universal multiplication lcm/gcd exponents, integerpolynomial integrality/functor; plus-sign note independently checked; full EN/ZH.",
+      "enSha256": "e8fa901f2adbf9f8e1ac51e664bbb830c2cb067d993645f7681e23c6e388493d",
+      "zhSha256": "0d32b65e3216c56a74e4e741627509a32d15b593b0f6f8aaf2a1da7232f393d0"
+    },
+    {
+      "pdfPage": 345,
+      "printedPage": "331",
+      "status": "verified",
+      "scope": "Ex47 ptypical indexing, V/F ghostidentities; Ex48 characteristicp px=VF and Vproduct, Teichmullerexpansion/unitgeometricseries; printed pj/pi corrected to j/i note checked with Fp(t) counterexample; Ex49 Hilbert90 W_n cohomology and wp; Ex50 induction/kernel p^n and fieldcoordinates; full EN/ZH.",
+      "enSha256": "4484351923ecbee334c298f975930aac83145256c5bba240915e9882d3e914d0",
+      "zhSha256": "14e61e8e490622976d94b409fb9c58b43979b76e3aba073ae16c3c534aa9040f"
+    },
+    {
+      "pdfPage": 346,
+      "printedPage": "332",
+      "status": "verified",
+      "scope": "Ex50 cyclicdegree p^n iff x0notwp(k), Ex51 ArtinSchreierWitt Kummer subgroupbijection B containingwpW_n(k); fullhistoricalprogress/bibliography. BrCDT2001 page-range correction externally verified at King's College London authorinstitution record; full EN/ZH.",
+      "enSha256": "5bab0e87139e7eeda044b9ede5c23472bc09bfe1f280a09691fda24fdeeddd97",
+      "zhSha256": "b05a534dd73813f4b7d93eecea21f1d083c1f2e18fe2cd879f0b3dac21453668"
+    }
+  ],
+  "corrections": [
+    {
+      "pdfPage": 289,
+      "language": "zh",
+      "location": "Example9, subgroup-to-subfield and subgroup-to-cover correspondences",
+      "before": "H 属于 K 的子域; H 属于一个有限覆盖",
+      "after": "H 对应于 K 的子域; H 对应于一个有限覆盖",
+      "reason": "Source 'belongs to' denotes the Galois/covering correspondence, not element membership in a field or covering. Formula K^H remains unchanged."
+    },
+    {
+      "pdfPage": 310,
+      "language": "zh",
+      "location": "Witt1937 bibliography German title",
+      "before": "具有特征p的完备剩余类域",
+      "after": "具有特征p的完美剩余类域",
+      "reason": "vollkommenem Restklassenkörper is perfect residue field, not complete. Same title uses perfekter Körper and ZH's established 完美域."
+    },
+    {
+      "pdfPage": 322,
+      "language": "zh",
+      "location": "Cor11.2 free Gamma",
+      "before": "自由群",
+      "after": "自由阿贝尔群",
+      "reason": "Gamma is a subgroup of abelian A, and its free basis is as a Z-module. Generic 自由群 denotes a nonabelian free group for rank>1."
+    },
+    {
+      "pdfPage": 324,
+      "language": "zh",
+      "location": "Final general definition algebraic independence",
+      "before": "∀x∈K",
+      "after": "∀x∈A plus visible译校注",
+      "reason": "Section's homomorphisms lambda_i:A→K have domain A. EN preserves printed K; following automorphism application specializes A=K."
+    },
+    {
+      "pdfPage": 326,
+      "language": "zh",
+      "location": "Normalbasis determinant evaluation",
+      "before": "将X_id代入1，并将X_sigma代入0",
+      "after": "在X_id处代入1，并在X_sigma处代入0",
+      "reason": "Source substitutes constants for variables; corrected reversed phrasing to express the actual evaluation."
+    },
+    {
+      "pdfPage": 338,
+      "language": "en+zh",
+      "location": "Ex22hint",
+      "before": "Unqualified r≥1 primeexists/q²notdivideb assertion",
+      "after": "Source preserved, visible note adds p3,q2,r1 exception and explains sufficient arbitrarilylargeprimepowerdegrees",
+      "reason": "b=4 forces allprimefactors2 with order3mod2=1, andq²=4 dividesb. Highprimepowers still give all lowerfielddegrees as subfields."
+    }
+  ],
+  "sourceNotesVerified": [
+    {
+      "pdfPage": 286,
+      "location": "Complex square-root proof, final paragraph",
+      "source": "The last two expressions are positive",
+      "resolution": "ZH says nonnegative with explicit visible note. If b=0 one of c²,d² can be zero; c²,d²≥0 follows from sqrt(a²+b²)≥|a|. English preserves source."
+    },
+    {
+      "pdfPage": 290,
+      "location": "Rational conjugacy class character criterion",
+      "source": "Every character of G has values in Q (no restriction to C printed).",
+      "resolution": "ZH explicitly supplies 'on C'. Rational power-class criterion ⇔χ(g)∈Q for all characters and g∈C, via cyclotomic conjugation χ(g)↦χ(g^s) and character separation of classes. Source preserved EN."
+    },
+    {
+      "pdfPage": 291,
+      "location": "Coprime roots-of-unity direct product counting",
+      "source": "m,n relatively prime and group product consequently has mn elements",
+      "resolution": "Visible ZH note correctly qualifies count when both integers are prime to characteristic, while preserving displayed isomorphism valid even if a characteristic factor occurs. In characteristicp use prime-to-p parts; no formula changed."
+    },
+    {
+      "pdfPage": 303,
+      "location": "Th6.2 converse distinctroots proof",
+      "source": "a∈k allowed; proof asserts all roots distinct without a≠0.",
+      "resolution": "Correct ZH note: a=0 gives alpha=0, k(alpha)=k, d=1; proof using root quotient and distinctness concerns a≠0. Statement unchanged, English source preserved."
+    },
+    {
+      "pdfPage": 307,
+      "location": "Th7.2 converse Galois closure",
+      "source": "smallest Galois extension K of E containing k",
+      "resolution": "Visible ZH note correctly reverses the mistaken base/contained fields to smallest Galois extension of k containing E, as immediately confirmed by conjugate-compositum description and G(K/k) later. English preserves source."
+    },
+    {
+      "pdfPage": 316,
+      "location": "Cyclic cohomology trace remark",
+      "source": "Suppose G is cyclic; sum_sigma∈G sigma(a).",
+      "resolution": "Visible EN/ZH notes correctly identify finite cyclic requirement for arbitrary abelian A; otherwise infinite sum is undefined and H1 infinite-cyclic uses A/(gamma-1)A. Original statement remains unchanged."
+    },
+    {
+      "pdfPage": 320,
+      "location": "Homothety use of SahLemma",
+      "source": "[1] and[c] are in center of G",
+      "resolution": "EN/ZH notes accurately distinguish central automorphisms[2],[1+c] from difference endomorphisms[1],[c]; c is divisible by relevant primes so[c] need not be invertible."
+    },
+    {
+      "pdfPage": 321,
+      "location": "Th11.1 substitution ct=t0",
+      "source": "cσy-cy=σct-cy",
+      "resolution": "Image confirms finalcy printed; substitution gives σct-ct, yielding G-fixed c(y-t). ZH corrected and exact visible note, EN preserved."
+    },
+    {
+      "pdfPage": 322,
+      "location": "Cor11.2 proof coefficient",
+      "source": "c_M(Gamma)=1",
+      "resolution": "Only e_M(Gamma) defined prior; coprime M and index implies gcd(exponent,M)=1. ZH correction/visible note exact; EN preserved."
+    },
+    {
+      "pdfPage": 322,
+      "location": "Individualvariable degree decrease",
+      "source": "deg_X_i g strictly less than deg_X_i f",
+      "resolution": "EN/ZH notes counterexample f=X1X2 ⇒g=X1Y2+Y1X2 valid. Individual degrees ≤; totalXdegree strictly falls for nonconstant f by cancellation of highest purely-X terms. ZH correction explicit, EN preserved."
+    },
+    {
+      "pdfPage": 324,
+      "location": "Final general algebraicindependence definition domain",
+      "source": "for all x∈K",
+      "resolution": "ZH visible note points to domainA of lambda_i:A→K (PDF322/323). General definition must quantifyx∈A; nextpage automorphisms takesA=K. EN preserved."
+    },
+    {
+      "pdfPage": 327,
+      "location": "Cyclotomictower Gal expressions",
+      "source": "Gal(Q(mu[p^n]/Q)) and Gal(Q(mu[p^infinity]/Q))",
+      "resolution": "Original viewed: denominator included inside Q(...) parentheses. EN preserved, ZH correctly Q(mu[...])/Q with explicit exact note."
+    },
+    {
+      "pdfPage": 336,
+      "location": "Exercise7b polynomial name",
+      "source": "alpha a root of F",
+      "resolution": "Image confirms capitalF but only lowercase f just defined; ENpreserves,ZH f explicit visible note correct."
+    },
+    {
+      "pdfPage": 338,
+      "location": "BatemanHorn integral",
+      "source": "lowerlimit0",
+      "resolution": "(logt)^-r singularat1 not ordinaryintegrable forintegerr≥1; fixedlower2 givesproperasymptotic. EN source preserved and ZH exact correctionnote."
+    },
+    {
+      "pdfPage": 338,
+      "location": "BatemanHorn absolute convergence",
+      "source": "converges absolutely",
+      "resolution": "For X²+1 oddp Eulerfactor (1-1/p)^-1(1-N(p)/p)=1∓1/(p-1) accordingpmod4. Sumabsdeviations divergent by primereciprocals, so existing note valid."
+    },
+    {
+      "pdfPage": 338,
+      "location": "Ex22hint universal r",
+      "source": "For allr≥1 existsprimeordermodl q^r; q²doesnotdivideb",
+      "resolution": "Explicitexamplep3,q2,r1 contradicts both. Bilingualvisible note exact, proof onlyneedsunboundedq-powerdegrees, lowerdegrees are subfielddegrees. Source and formulas preserved."
+    },
+    {
+      "pdfPage": 344,
+      "location": "Ex46 Witt-vector sum generating product",
+      "source": "middle product has 1+(x+y)_n t^n",
+      "resolution": "EN preserved source; ZH uses minus with explicit exact note. Definition f_x=product(1-x_n t^n) and t-coefficient -(x1+y1) prove correction."
+    },
+    {
+      "pdfPage": 345,
+      "location": "Ex48 product of shifted Witt vectors",
+      "source": "F exponents pj and pi",
+      "resolution": "For F the componentwise p-power map, correct exponents are j and i. Vx*y=V(x*Fy), and VF=p in characteristicp imply general formula. Fp(t),x=1,y={t},i1,j0 gives V{t^p}, whereas printed formula V{t^(p^p)} differs. EN preserves source, ZH exact correction visible."
+    },
+    {
+      "pdfPage": 345,
+      "location": "Ex49 Hilbert90 requested first homology",
+      "source": "first homology group",
+      "resolution": "Coboundary construction and Th10.1 refer to H^1 cohomology. EN preserves printed homology with editorial note; ZH cohomology correction has exact visible note."
+    },
+    {
+      "pdfPage": 346,
+      "location": "BrCDT01 bibliography pagination",
+      "source": "843–839",
+      "resolution": "Author institution King's College London record https://kclpure.kcl.ac.uk/portal/en/publications/on-the-modularity-of-elliptic-curves-over-q-wild-3-adic-exercises/ personally opened 2026-10-11 confirms pages843–939, DOI10.1090/S0894-0347-01-00370-8. EN preserves descending source range; ZH corrected with linked visible note."
+    },
+    {
+      "pdfPage": 325,
+      "location": "Th12.2 Frobenius-powers called automorphisms",
+      "source": "the automorphisms {sigma_i^(p^r)}",
+      "resolution": "Pointwise p-power maps are multiplicativecharacters; notnecessarily surjective for imperfectK. New final EN/ZH note verified after firsthand originalimage reinspection; ZH changes term tocharacters. All formula indices unchanged and proof via characterindependence valid."
+    }
+  ],
+  "unresolved": [],
+  "completion": {
+    "originalPagesPersonallyViewed": 72,
+    "bilingualPagesCompared": 72,
+    "manuscriptsBoundBySha256": 144,
+    "unreviewedPages": 0,
+    "unresolvedIssues": 0,
+    "finalHashRecheck": "All144filehashes checked; changed325ENZH and331ZH independently reread against original before recording newhashes."
+  }
+}

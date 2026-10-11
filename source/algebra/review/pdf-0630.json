@@ -1,0 +1,12 @@
+{
+  "pdfPage": 630,
+  "printedPage": "621",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed original630 and preceding629 for ring context; all coefficients, indices and exact arrows checked. Source lemma uses A twice despite base ring R and proof coefficients inR; EN preserves A, ZH explicit note explains usingR."
+  ]
+}

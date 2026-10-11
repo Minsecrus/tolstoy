@@ -1,0 +1,12 @@
+{
+  "unresolved": [],
+  "pdfPage": 814,
+  "chineseTranslated": true,
+  "englishTranscribed": true,
+  "notes": [
+    "Independent second visual audit: the claimed dimension bound d-n requires d>=n; for d<n shifting in degrees p>=1 only yields positive-degree acyclicity. ZH adds split vector-space Ext example with d=0,n=1 and nonzero Hom(Q,k)."
+  ],
+  "visualReviewed": true,
+  "formulaChecked": true,
+  "printedPage": "806"
+}

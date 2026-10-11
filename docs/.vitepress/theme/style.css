@@ -1,5 +1,5 @@
 /* 仅保留长篇中文正文需要的排版调整，其余全部使用 VitePress 默认主题。 */
-.vp-doc:has(.reading-meta) {
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) {
   max-width: 760px;
 }
 
@@ -9,23 +9,60 @@
   font-size: 14px;
 }
 
-.vp-doc:has(.reading-meta) p:not(.reading-meta) {
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) p:not(.reading-meta) {
   font-size: 17px;
   line-height: 1.9;
   text-align: justify;
 }
 
-.vp-doc:has(.reading-meta) > p:not(.reading-meta):not(:has(img)) {
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) > p:not(.reading-meta):not(:has(img:not(.math-svg))) {
   text-indent: 2em;
 }
 
-.vp-doc:has(.reading-meta) > p:has(img) {
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) > p:has(img:not(.math-svg)) {
   text-align: center;
 }
 
-.vp-doc:has(.reading-meta) > p:has(img) + p:has(> em:only-child) {
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) > p:has(img:not(.math-svg)) + p:has(> em:only-child) {
   text-indent: 0;
   text-align: center;
+}
+
+/* 保留长公式的完整宽度，让窄屏阅读时可横向滚动核对。 */
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) mjx-container[display="true"] {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 0.25em;
+  text-indent: 0;
+}
+
+/* Standalone local SVGs preserve MathJax's ex dimensions and inline baseline. */
+.vp-doc img.math-svg {
+  display: inline-block;
+  max-width: none;
+  margin: 0;
+}
+
+.vp-doc .math-display {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 0.25em;
+  margin-block: 1em;
+  text-align: center;
+  text-indent: 0;
+}
+
+.vp-doc .math-display img.math-svg {
+  display: block;
+  margin-inline: auto;
+  vertical-align: middle !important;
+}
+
+/* SVG image documents use black currentColor; invert locally in the dark theme. */
+.dark .vp-doc img.math-svg {
+  filter: invert(1);
 }
 
 .footnote-ref {
@@ -41,7 +78,7 @@
   text-decoration: none;
 }
 
-.vp-doc:has(.reading-meta) .footnote-definition {
+:is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) .footnote-definition {
   scroll-margin-top: 96px;
   padding-left: 2em;
   text-indent: -2em !important;
@@ -64,7 +101,23 @@
 }
 
 @media (max-width: 640px) {
-  .vp-doc:has(.reading-meta) p:not(.reading-meta) {
+  :is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) p:not(.reading-meta) {
     text-align: left;
   }
+}
+
+/* Source-page links remain addressable without interrupting chapter text. */
+.algebra-reading .original-page-anchor {
+  font-size: 0;
+  line-height: 0;
+  scroll-margin-top: 96px;
+}
+
+.algebra-reading .vp-doc > p:has(> .original-page-anchor:only-child) {
+  height: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+  text-indent: 0;
 }

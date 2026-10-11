@@ -1,0 +1,13 @@
+{
+  "pdfPage": 589,
+  "printedPage": "580",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "厄米型正定定义原书对所有 x∈E 要求 <x,x>>0，漏非零限定；由 <0,0>=0 明确矛盾。EN保留，ZH补非零并紧邻引用原条件、说明线性性理由。",
+    "Independent second audit: source A=0 polarization conclusion retained, with adjacent Chinese note explicitly distinguishing A(E) subset rad g for general hermitian forms from A=0 under nondegeneracy (e.g. positive definiteness). Preceding section context rechecked; no conjectured author repair."
+  ]
+}

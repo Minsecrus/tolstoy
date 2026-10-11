@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "source": "D:/Download/Algebra.pdf",
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "reviewer": "/root",
+  "status": "complete",
+  "assignedPdfPages": [
+    1,
+    17
+  ],
+  "originalImagePagesViewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "method": "Root personally reopened all17 original whole-page images and compared full saved bodies and source formulas/diagrams/identifiers. Pages1–4 were initially transcribed by this reviewer, so their second pass is not claimed independent. Pages5–17 were transcribed by other agents and received this independent root pass. No extraction or rendering was counted as visual review.",
+  "findings": [
+    {
+      "pdfPage": 14,
+      "kind": "translation_terminology",
+      "change": "linearly disjoint译法由线性不交统一为线性无交；数学与原文未改变。"
+    },
+    {
+      "pdfPage": 16,
+      "kind": "translation_terminology",
+      "change": "Personally reopened original contents page; resolution translated consistently as 解消 in chapter XXI and section2, with no changes to English or page numbers."
+    }
+  ],
+  "pages": [
+    {
+      "pdfPage": 1,
+      "printedPage": null,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Cover title, author, Revised Third Edition, printed Volume1, publisher.",
+      "englishSha256": "fb5999e9fac656980663c31163dbc5d9d7419d1d52353bb6a77646c262c2edd7",
+      "chineseSha256": "7c21ed06a92ebc486fd0a9934f0519fd36a116bb9f968639f519d89c05711fe6"
+    },
+    {
+      "pdfPage": 2,
+      "printedPage": null,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "GTM211 heading and three editorial board names.",
+      "englishSha256": "93354ab523b308e3ead5a74dbdcceeae9cc064d04429afa83fbbe296724b823b",
+      "chineseSha256": "5e6fb5cb3c5058beb0349445e75b239509fd4dc9c02fe9bf9833c91bb5964a00"
+    },
+    {
+      "pdfPage": 3,
+      "printedPage": null,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Every related-book title, author, edition, year and ISBN; SL2(R) subscript in other-books list; both full bodies compared.",
+      "englishSha256": "e3194e21ade5d35519b8e175aa2fce9d38efcd14b44bca8f0b0f8f85b2e1b611",
+      "chineseSha256": "a68e28c9b155a950eb5a76a94e5ca1dd6c5b13c8d34676df01cc5310aaea16ec"
+    },
+    {
+      "pdfPage": 4,
+      "printedPage": null,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Title, author, revised edition, publisher.",
+      "englishSha256": "48018c548eccd6479e3e621ee41d56778fc19faea2d6131b38189d111d646f30",
+      "chineseSha256": "128106ab518d1df7d03cf2b1d5ea9b1b786f132182cb088814210e3b5499a559"
+    },
+    {
+      "pdfPage": 5,
+      "printedPage": null,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "All editorial/address/cataloguing/copyright/printing information; all codes, ISBNs, DOI, numbers, names and both bodies compared.",
+      "englishSha256": "5df65fd71793663b443abc0bea0847ed85796d637bc03d6e6cc817c78be90c24",
+      "chineseSha256": "c0455f21aa1b9a2803e06a07fbefc402f34103c71b34c91985d0d60c62dfc474"
+    },
+    {
+      "pdfPage": 6,
+      "printedPage": "v",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Entire foreword opening: all paragraphs, abc conjecture, graduate course scope, exercise discussion, first organization paragraph.",
+      "englishSha256": "aaf93691e6482c0eb4c63a342cc5d8396a77a5aa804f729e0bce70b35c33fec4",
+      "chineseSha256": "c2778243d8e89ab528fd37ef8a050a825c040cff2f634910cd85615f442a2680"
+    },
+    {
+      "pdfPage": 7,
+      "printedPage": "vi",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Complete foreword organization and textbook/reference paragraphs; every Part/Chapter/section crossreference; GL2 and GL2(F) formulas.",
+      "englishSha256": "12070e2691dd4c4e00f1d5542fd335e9f8af1d56fc1df963083eb554f9ce8739",
+      "chineseSha256": "20746e62d0b0b6e259a24b7795444099221d3e129bbc2d97ef44898ca81f315e"
+    },
+    {
+      "pdfPage": 8,
+      "printedPage": "vii",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Entire audience/background and topic/course discussion; every sentence compared in both languages.",
+      "englishSha256": "864c373f9cdd4b718d0dfc9e0c5821fe315e3034996e8d8320b2bf9d6992b808",
+      "chineseSha256": "57891c9a1f0740e5be7fdce89cd89e13d8218d5cf9b492e910f1ab95891610d4"
+    },
+    {
+      "pdfPage": 9,
+      "printedPage": "viii",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "All paragraphs/acknowledgements/names/date; SLn/GLn/R/C and Spherical Inversion formula/title; every sentence compared.",
+      "englishSha256": "4c8a90450796b4666d6ba3e6a26acd5b8b993c95fa3605d6a411dcbe31d83a99",
+      "chineseSha256": "36717dc9931ab8b71646ae033ad600e823ba4f4fb78a09f42a8a2b5b861775ad"
+    },
+    {
+      "pdfPage": 10,
+      "printedPage": "ix",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Complete mapping/set definitions; every set relation, quantifier, function/mapsto, restriction, inverse image; two diagrams and all arrows/labels.",
+      "englishSha256": "781c178a66498cfd0ac06bd469c8550965c55a93b6f268e914e96a51e6041e0e",
+      "chineseSha256": "6dbb90bb1d5a9fa06d6d6e234465d561d039cdd7fb206f7f4c79c7ff030639c5"
+    },
+    {
+      "pdfPage": 11,
+      "printedPage": "x",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Complete text and every chain arrow/index/composition, families, equivalence classes, products, Zorn/cardinality formulas.",
+      "englishSha256": "7a1d23d42e3089115505740d970b9d5b196c7d9ee6a871c595c1a9a2730c3c66",
+      "chineseSha256": "6a465994b95e39f45f90a79e29762531a90d1fe552eab2dac80b6dfd4cd56af6"
+    },
+    {
+      "pdfPage": 12,
+      "printedPage": "xi",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Every TOC entry/number/printed target page in PartsI and ChaptersI–III, both languages.",
+      "englishSha256": "c2420615d5169ae298fca511db56bb8d14784b4d4b193125be4227d02f96bddd",
+      "chineseSha256": "543750b929ada7094624dcfcc73e7011e1d573af7551176ac3b06234e3d5e5d5"
+    },
+    {
+      "pdfPage": 13,
+      "printedPage": "xii",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Every TOC entry/number/printed target page for ChaptersIV–VII and PartII; abc and X^n-a equations.",
+      "englishSha256": "cc918ef1d9ef8e6d796b38f15986b12724e49b24b0ed19575a5edf513f0a4cba",
+      "chineseSha256": "66873007886d0fb024fed6dba544fcdf2255c6400f67c03ad2b4220bb52f895b"
+    },
+    {
+      "pdfPage": 14,
+      "printedPage": "xiii",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Every TOC entry/number/printed target page for ChaptersVIII–XIII and PartIII; standardized linearly disjoint translation to线性无交.",
+      "englishSha256": "ad5a89807e82bcf64e1aace4da5e48d70a3288cd86d1c150dab333d630fa0c6b",
+      "chineseSha256": "158e003ce45f18b5ae5e99d2373117fdf4aa92e49dd3252d48076e87e7ddc0e3"
+    },
+    {
+      "pdfPage": 15,
+      "printedPage": "xiv",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Every TOC entry/number/printed target page for ChaptersXIII–XVII; SL2/±1, SLn and n≥3.",
+      "englishSha256": "4464c667d641163cc23c1564c4fef20c7248fc1924d06784e39520d06133263b",
+      "chineseSha256": "a1ff1eaf4e07ef846cac82a1df0688040c3f40d749b75da02049f9ea235d786d"
+    },
+    {
+      "pdfPage": 16,
+      "printedPage": "xv",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "Every TOC entry/number/printed target page for ChaptersXVIII–XXI/PartIV/appendices/bibliography/index; GL2, e and pi. Reopened original contents page and confirmed both Finite Free Resolutions headings translated consistently as 有限自由解消, preserving page numbers835 and839.",
+      "englishSha256": "37d44058365e45ac9b21fadc1c89c7f1dfdfbc78f517dee61587fa51825fb411",
+      "chineseSha256": "2adc935b2ace26589512283e38918d32dcf15f82536b8f4c4bf3cb87d75334e0"
+    },
+    {
+      "pdfPage": 17,
+      "printedPage": null,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "scope": "PartI title and two full introductory paragraphs; complete EN/ZH compared.",
+      "englishSha256": "b7b6981a7a0ce503c7a08918cf621d50b12ab684c229f7a82b8f984c7715ab79",
+      "chineseSha256": "d166f53baed66e8f5ae93d435d4597d8d145ce0a0d71033ca61bfa73e2da12a1"
+    }
+  ],
+  "unreviewedPages": [],
+  "unresolvedFindings": []
+}

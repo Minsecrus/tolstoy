@@ -1,0 +1,12 @@
+{
+  "pdfPage": 847,
+  "printedPage": "839",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "独立二遍核对：原证明结尾 isomorphism 应限定为 homology isomorphism；EN忠实保留，ZH紧邻给出零复形→非零无环复形的反例说明。"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pdfPage": 11,
+  "printedPage": "x",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "逐一核对方形交换条件、两列箭头、复合映射顺序、索引集、集合族、等价类代表元及基数记号。",
+    "第二列箭头按原图从 A_1 到 B_2 开始，末项为 B_m=A_n；未改成 B_1。",
+    "复合映射公式末项按原图为 g_1，纠正参考 OCR 的误识别。",
+    "集合族为 {f(i)}_(i∈I) 与 {a_i}_(i∈I)，数字集合使用原书粗体 Z、Q、R、C。"
+  ]
+}

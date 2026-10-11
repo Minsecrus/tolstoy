@@ -1,0 +1,13 @@
+{
+  "pdfPage": 499,
+  "printedPage": "488",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原书Every element x of K忽略零元素，中文补明非零并注。",
+    "原书every ideal is a power of m忽略零理想，中文补明非零理想并注。"
+  ]
+}

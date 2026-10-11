@@ -1,0 +1,12 @@
+{
+  "pdfPage": 565,
+  "printedPage": "556",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "商模基原印为 bar v_1,...,bar v_n；前m个属于Eprime且商像为零，因此中文修为bar v_(m+1),...,bar v_n，并附可见上下文证据；英文照原。"
+  ]
+}

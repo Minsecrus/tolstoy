@@ -1,0 +1,12 @@
+{
+  "pdfPage": 547,
+  "printedPage": "538",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原书称 e¹ 的稳定子为 U，仅对 SL₂(F) 成立；GL₂(F) 中稳定子为第一列 e¹ 的可逆上三角矩阵。中文附相邻译校注给出明确矩阵集合，并说明后续 Bruhat 分解仍成立。原书 Be¹ 的跨页轨道描述还应排除零向量，已注明。"
+  ]
+}

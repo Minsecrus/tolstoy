@@ -1,0 +1,13 @@
+{
+  "pdfPage": 523,
+  "printedPage": "514",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original full page visually read; all formulas, proof steps, and page fragments checked.",
+    "Enlarged source confirms a_1n e^n misprint; English retains it and Chinese visibly corrects e^1 with coordinate reason."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pdfPage": 735,
+  "printedPage": "726",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 726 Exercise 23(b) prints -d/dt log sigma_t and -d/dt log lambda_{-t} with right sides sum Psi^n t^n. English retains the printed formulas. Chinese gives t d/dt log sigma_t and -t d/dt log lambda_{-t}, with an adjacent visible note deriving the sign and factor t from part (a).",
+    "Printed page 726 Exercise 23(c) second summation has upper limit infinity. English retains it. Chinese uses n with an adjacent visible note explaining coefficient extraction and the undefined negative exterior powers.",
+    "Independent second mathematical audit: 增加习题18–20允许零元时的三个明确反例及条件性说明，保留原题正次数。"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 234,
+  "printedPage": "219",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Source misprint in Exercise 27(d): X^{n-i} should be X^{k-i}, consistent with summation limit and next expansion. Printed expression retained; visible Chinese editorial note added."
+  ]
+}

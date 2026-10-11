@@ -1,0 +1,12 @@
+{
+  "pdfPage": 270,
+  "printedPage": "255",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independent second review verified a source overstatement in the Hasse paragraph: alpha need not be nonreal quadratic when q is a square and the Frobenius polynomial has a repeated root. English preserves the source; Chinese adds a visible editorial note allowing alpha=conjugate(alpha)=±sqrt(q), with the example y^2=x^3+1 over F25 (35 affine points, 36 including infinity, trace -10, Frobenius polynomial (T+5)^2). The count was independently enumerated in F5[u]/(u^2-2)."
+  ]
+}

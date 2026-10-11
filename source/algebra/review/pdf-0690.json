@@ -1,0 +1,12 @@
+{
+  "pdfPage": 690,
+  "printedPage": "681",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原文称任意 v、λ 总能作 v=v_1 且 λ=λ_1 的基及对偶基；由 λ_1(v_1)=1，此说法须附加 λ(v)=1。EN 保留原句，ZH 相邻可见译校注说明必要条件及构造；系数函数定义不受影响。"
+  ]
+}

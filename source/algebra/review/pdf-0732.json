@@ -1,0 +1,12 @@
+{
+  "pdfPage": 732,
+  "printedPage": "723",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 723 Exercise 4 gives the condition psi = [sigma]psi for all sigma in S, which holds automatically for a class function on S. The normal-subgroup induction criterion instead requires psi != [sigma]psi for every sigma outside S. English retains the printed condition; Chinese gives the correct criterion with an adjacent visible translator editorial note explaining both changes."
+  ]
+}

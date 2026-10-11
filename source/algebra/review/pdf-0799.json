@@ -1,0 +1,12 @@
+{
+  "pdfPage": 799,
+  "printedPage": "791",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visible Chinese editorial note: Ext^1(A,M) classifies extensions 0 to M to E to A to 0; the printed reversed sequence classifies Ext^1(M,A), with an explicit integer-module counterexample. English source retained."
+  ]
+}

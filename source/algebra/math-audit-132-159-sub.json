@@ -1,0 +1,621 @@
+{
+  "range": {
+    "start": 132,
+    "end": 159
+  },
+  "status": "complete",
+  "auditor": "independent_second_visual_math_audit",
+  "method": "Every assigned original page PNG is personally viewed. All inline/display formulas and full mathematical hypotheses are independently compared with both saved EN and ZH. High-resolution source crops used for unclear glyphs. Translation edits remain with assigned translators.",
+  "originalViewedPages": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+  ],
+  "englishComparedPages": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+  ],
+  "chineseComparedPages": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+  ],
+  "auditedPages": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+  ],
+  "unreviewedPages": [],
+  "additionalImagesViewed": [
+    "tmp/pdfs/algebra/audit-135-fbar.png",
+    "docs/public/library/volume-86/diagrams/pdf-0140-representations.png",
+    "docs/public/library/volume-86/diagrams/pdf-0140-conjugation.png",
+    "docs/public/library/volume-86/diagrams/pdf-0146-hom-first.png",
+    "docs/public/library/volume-86/diagrams/pdf-0146-hom-second.png",
+    "tmp/pdfs/algebra/audit-153-flat.png",
+    "tmp/pdfs/algebra/audit-158-coeff.png",
+    "tmp/pdfs/algebra/audit-158-corollary.png",
+    "tmp/pdfs/algebra/audit-reference-0326.png",
+    "tmp/pdfs/algebra/audit-148-category.png",
+    "tmp/pdfs/algebra/pages/pdf-0106.png"
+  ],
+  "resolvedFindings": [
+    {
+      "pdfPage": 140,
+      "type": "source_misprint",
+      "printed": "bounded hermitian operator on A",
+      "interpretation": "operator acts on H",
+      "resolution": "EN retains on A; ZH uses H with adjacent visible 译校注; independently accepted."
+    },
+    {
+      "pdfPage": 141,
+      "type": "source_misprint",
+      "printed": "F(id_K)=id_{K′}",
+      "interpretation": "F(id_K)=id_{F(K)}",
+      "resolution": "Identity preservation of the functor requires identity of F(K); EN faithful and ZH corrected with visible 译校注."
+    },
+    {
+      "pdfPage": 143,
+      "type": "source_misprint",
+      "printed": "universal map f is also an A-isomorphism",
+      "interpretation": "f is an A-homomorphism",
+      "resolution": "An arbitrary family of morphisms does not yield a bijection. EN retains print and ZH corrects with visible 译校注."
+    },
+    {
+      "pdfPage": 149,
+      "type": "source_mathematical_assertion",
+      "printed": "category of vector bundles over a topological space is an abelian category",
+      "finding": "False in the usual category of all bundle morphisms: variable-rank morphisms need not have vector bundle kernels/cokernels.",
+      "status": "Sent to parent for translator coordination; saved translation pending.",
+      "resolution": "EN and ZH retain source sentence; visible ZH 译校注 accurately identifies general failure due variable-rank morphisms and lack of bundle kernels/cokernels. Final text personally accepted."
+    },
+    {
+      "pdfPage": 158,
+      "type": "source_notational_misprint",
+      "printed": "with b_i∈K",
+      "finding": "Theorem6.1 is over arbitrary commutative ring A; K is not defined here. Intended coefficients are b_i∈A.",
+      "status": "Sent to parent; saved translation pending.",
+      "resolution": "High-resolution original confirms printed symbol. EN preserves source; ZH corrects to intended A/E with visible precise 译校注. Final text accepted."
+    },
+    {
+      "pdfPage": 158,
+      "type": "source_notational_misprint",
+      "printed": "each x∈V",
+      "finding": "Corollary6.2 constructs E→E∨∨. Intended x∈E; no V defined in corollary.",
+      "status": "Sent to parent; saved translation pending.",
+      "resolution": "High-resolution original confirms printed symbol. EN preserves source; ZH corrects to intended A/E with visible precise 译校注. Final text accepted."
+    },
+    {
+      "pdfPage": 142,
+      "type": "source_context_clarification",
+      "printed": "K is a Galois extension of k; K is isomorphic to k[G] as k[G]-module",
+      "finding": "The sentence does not repeat finite, but preceding PDF141 introduces K as a number field, which implies [K:k] finite. If read independently for an arbitrary Galois extension, the cited normal basis theorem requires finite; original PDF326 expressly says finite.",
+      "status": "Full cross-page context resolves the mathematics; optional visible clarification coordinated with parent/translator. Not an unambiguous source error.",
+      "resolution": "Resolved from full cross-page context: preceding PDF141 specifies K is a number field, so [K:k] is finite. Faithful EN and ZH are acceptable without a required body edit. Optional future note may clarify the inherited hypothesis; this is not a source mathematical error."
+    }
+  ],
+  "unresolvedFindings": [],
+  "pages": [
+    {
+      "pdfPage": 132,
+      "printedPage": "117",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0132.png",
+      "englishFile": "source/algebra/en/pdf-0132.md",
+      "chineseFile": "source/algebra/zh/pdf-0132.md"
+    },
+    {
+      "pdfPage": 133,
+      "printedPage": "118",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original.",
+        "Definition of entire ring rechecked directly against original PDF106: commutative, nonzero and no zero divisors; torsion-submodule hypotheses match."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0133.png",
+      "englishFile": "source/algebra/en/pdf-0133.md",
+      "chineseFile": "source/algebra/zh/pdf-0133.md"
+    },
+    {
+      "pdfPage": 134,
+      "printedPage": "119",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0134.png",
+      "englishFile": "source/algebra/en/pdf-0134.md",
+      "chineseFile": "source/algebra/zh/pdf-0134.md"
+    },
+    {
+      "pdfPage": 135,
+      "printedPage": "120",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0135.png",
+      "englishFile": "source/algebra/en/pdf-0135.md",
+      "chineseFile": "source/algebra/zh/pdf-0135.md"
+    },
+    {
+      "pdfPage": 136,
+      "printedPage": "121",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0136.png",
+      "englishFile": "source/algebra/en/pdf-0136.md",
+      "chineseFile": "source/algebra/zh/pdf-0136.md"
+    },
+    {
+      "pdfPage": 137,
+      "printedPage": "122",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0137.png",
+      "englishFile": "source/algebra/en/pdf-0137.md",
+      "chineseFile": "source/algebra/zh/pdf-0137.md"
+    },
+    {
+      "pdfPage": 138,
+      "printedPage": "123",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0138.png",
+      "englishFile": "source/algebra/en/pdf-0138.md",
+      "chineseFile": "source/algebra/zh/pdf-0138.md"
+    },
+    {
+      "pdfPage": 139,
+      "printedPage": "124",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0139.png",
+      "englishFile": "source/algebra/en/pdf-0139.md",
+      "chineseFile": "source/algebra/zh/pdf-0139.md"
+    },
+    {
+      "pdfPage": 140,
+      "printedPage": "125",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original.",
+        "Both linked original diagram crops inspected independently: all labels and arrow directions correct."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0140.png",
+      "englishFile": "source/algebra/en/pdf-0140.md",
+      "chineseFile": "source/algebra/zh/pdf-0140.md"
+    },
+    {
+      "pdfPage": 141,
+      "printedPage": "126",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0141.png",
+      "englishFile": "source/algebra/en/pdf-0141.md",
+      "chineseFile": "source/algebra/zh/pdf-0141.md"
+    },
+    {
+      "pdfPage": 142,
+      "printedPage": "127",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original.",
+        "Cross-page context from PDF141 specifies K is a number field; finite normal-basis hypothesis follows automatically. Initial standalone-reading source-omission classification retracted; no body change required."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0142.png",
+      "englishFile": "source/algebra/en/pdf-0142.md",
+      "chineseFile": "source/algebra/zh/pdf-0142.md"
+    },
+    {
+      "pdfPage": 143,
+      "printedPage": "128",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0143.png",
+      "englishFile": "source/algebra/en/pdf-0143.md",
+      "chineseFile": "source/algebra/zh/pdf-0143.md"
+    },
+    {
+      "pdfPage": 144,
+      "printedPage": "129",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0144.png",
+      "englishFile": "source/algebra/en/pdf-0144.md",
+      "chineseFile": "source/algebra/zh/pdf-0144.md"
+    },
+    {
+      "pdfPage": 145,
+      "printedPage": "130",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0145.png",
+      "englishFile": "source/algebra/en/pdf-0145.md",
+      "chineseFile": "source/algebra/zh/pdf-0145.md"
+    },
+    {
+      "pdfPage": 146,
+      "printedPage": "131",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original.",
+        "Both linked boxed Hom-isomorphism crops inspected independently; exact source formulas retained."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0146.png",
+      "englishFile": "source/algebra/en/pdf-0146.md",
+      "chineseFile": "source/algebra/zh/pdf-0146.md"
+    },
+    {
+      "pdfPage": 147,
+      "printedPage": "132",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0147.png",
+      "englishFile": "source/algebra/en/pdf-0147.md",
+      "chineseFile": "source/algebra/zh/pdf-0147.md"
+    },
+    {
+      "pdfPage": 148,
+      "printedPage": "133",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0148.png",
+      "englishFile": "source/algebra/en/pdf-0148.md",
+      "chineseFile": "source/algebra/zh/pdf-0148.md"
+    },
+    {
+      "pdfPage": 149,
+      "printedPage": "134",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0149.png",
+      "englishFile": "source/algebra/en/pdf-0149.md",
+      "chineseFile": "source/algebra/zh/pdf-0149.md"
+    },
+    {
+      "pdfPage": 150,
+      "printedPage": "135",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0150.png",
+      "englishFile": "source/algebra/en/pdf-0150.md",
+      "chineseFile": "source/algebra/zh/pdf-0150.md"
+    },
+    {
+      "pdfPage": 151,
+      "printedPage": "136",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0151.png",
+      "englishFile": "source/algebra/en/pdf-0151.md",
+      "chineseFile": "source/algebra/zh/pdf-0151.md"
+    },
+    {
+      "pdfPage": 152,
+      "printedPage": "137",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0152.png",
+      "englishFile": "source/algebra/en/pdf-0152.md",
+      "chineseFile": "source/algebra/zh/pdf-0152.md"
+    },
+    {
+      "pdfPage": 153,
+      "printedPage": "138",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original.",
+        "Finite flat phrase rechecked at high resolution; initial false flag withdrawn and both final translations correct."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0153.png",
+      "englishFile": "source/algebra/en/pdf-0153.md",
+      "chineseFile": "source/algebra/zh/pdf-0153.md"
+    },
+    {
+      "pdfPage": 154,
+      "printedPage": "139",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0154.png",
+      "englishFile": "source/algebra/en/pdf-0154.md",
+      "chineseFile": "source/algebra/zh/pdf-0154.md"
+    },
+    {
+      "pdfPage": 155,
+      "printedPage": "140",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0155.png",
+      "englishFile": "source/algebra/en/pdf-0155.md",
+      "chineseFile": "source/algebra/zh/pdf-0155.md"
+    },
+    {
+      "pdfPage": 156,
+      "printedPage": "141",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0156.png",
+      "englishFile": "source/algebra/en/pdf-0156.md",
+      "chineseFile": "source/algebra/zh/pdf-0156.md"
+    },
+    {
+      "pdfPage": 157,
+      "printedPage": "142",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0157.png",
+      "englishFile": "source/algebra/en/pdf-0157.md",
+      "chineseFile": "source/algebra/zh/pdf-0157.md"
+    },
+    {
+      "pdfPage": 158,
+      "printedPage": "143",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original.",
+        "Printed K and V confirmed with high-resolution original crops; ZH A/E with visible notes accepted."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0158.png",
+      "englishFile": "source/algebra/en/pdf-0158.md",
+      "chineseFile": "source/algebra/zh/pdf-0158.md"
+    },
+    {
+      "pdfPage": 159,
+      "printedPage": "144",
+      "originalViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "notes": [
+        "All inline and display formulas, math definitions/hypotheses and proof calculations compared with original."
+      ],
+      "originalImage": "tmp/pdfs/algebra/pages/pdf-0159.png",
+      "englishFile": "source/algebra/en/pdf-0159.md",
+      "chineseFile": "source/algebra/zh/pdf-0159.md"
+    }
+  ],
+  "withdrawnFindings": [
+    {
+      "pdfPage": 153,
+      "initialFinding": "Suspected missing projective qualification in 'finite module over local ring is free'.",
+      "recheck": "Original high-resolution crop unequivocally prints 'finite flat module'. Source is correct; initial finding came from missed word flat at small full-page size.",
+      "resolution": "Proposed note/change withdrawn immediately. Final PDF153 EN correctly preserves finite flat module and ZH correctly has 有限平坦模; personally verified no erroneous modification."
+    },
+    {
+      "pdfPage": 142,
+      "initialFinding": "Initially classified unprinted finite hypothesis as a source omission.",
+      "recheck": "Cross-page context immediately preceding this sentence makes K a number field; finite extension then follows automatically.",
+      "resolution": "Reclassified as context clarification. Original is correct if its preceding number-field hypothesis is carried; optional note must acknowledge this context."
+    }
+  ],
+  "completedCoverage": {
+    "originalPageImagesViewed": 28,
+    "englishPagesCompared": 28,
+    "chinesePagesCompared": 28,
+    "inlineAndDisplayFormulasAndMathHypotheses": "all in PDF132–159",
+    "linkedOriginalDiagramCropsViewed": 4
+  },
+  "limit": "This records an independent visual comparison of every assigned original page with both transcriptions and mathematical annotations; it is not a claim to prove every mathematical assertion in the whole book."
+}

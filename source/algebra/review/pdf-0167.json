@@ -1,0 +1,13 @@
+{
+  "pdfPage": 167,
+  "printedPage": "152",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves d terms in the printed proof; Chinese corrects d to s with adjacent translator note matching the displayed s-term decomposition.",
+    "The printed ideal equation (b_1)=...=(b_j)=1 is retained."
+  ]
+}

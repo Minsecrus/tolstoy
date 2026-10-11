@@ -1,0 +1,12 @@
+{
+  "pdfPage": 111,
+  "printedPage": "96",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independent visual audit restores the printed a = 1 + x p^r (mod p^{r+1} Z) in both languages; this is conventional congruence notation, not a mathematical source error."
+  ]
+}

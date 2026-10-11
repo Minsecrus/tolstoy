@@ -1,0 +1,15 @@
+{
+  "pdfPage": 509,
+  "printedPage": "498",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "维特展开指数xi_i^(p^(-i))经原PDF四倍渲染核对。",
+    "习题17(b)原引用Exercise15，但特殊代表系见16；中文改16并注。",
+    "习题18原文psi_i(x)k[x]漏印in符号；中文补并注，另明确psi_i(0)非零指至少一系数。",
+    "习题19原引用Exercise17的逆命题，应为18；中文改18并注。"
+  ]
+}

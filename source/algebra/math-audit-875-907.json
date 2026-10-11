@@ -1,0 +1,419 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "reviewer": "Independent second reviewer /root/library_integration; this range was transcribed and translated by other agents.",
+  "completedAt": "2026-10-11T02:25:58.722Z",
+  "scope": {
+    "pdfPageStart": 875,
+    "pdfPageEnd": 907,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "content": "Appendix1 printed867–873, Appendix2 printed875–893 including all14exercises and hints, bibliography printed895–901 with163entries.",
+    "method": "Personally viewed every original full-page PNG via view_image, read complete English and Chinese manuscripts, and compared all paragraphs, definitions, theorem statements, proof steps, formulas, exponents, indices, quantifiers and cross-page fragments. For bibliography compared every entry's key, authors, original and translated title, publication, series/volume/issue/year/page data and all edition/reprint/conference qualifiers. No review flag, embedded OCR or another agent's assertion was used as evidence. SHA-256 values bind each review to the complete final EN and ZH file bytes; hashes captured after corrections and earlier hashes checked for drift."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    904,
+    905,
+    906,
+    907
+  ],
+  "auditedPages": [
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    904,
+    905,
+    906,
+    907
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 875,
+      "printedPage": "867",
+      "scope": "Full appendix title, two introductory paragraphs, entire and meromorphic order definitions, nested C^(R^rho) growth bound, differential-stability and transcendence-degree hypotheses, values fi(wν) and m bound, Hermite–Lindemann corollary.",
+      "enSha256": "ff603e811cc245b2275a4a5f2844919d02189cac7ea9bf8768e97f3c2899f5c5",
+      "zhSha256": "59f9c1c1112328666feafd994e92e9c5dbe4a35aa7f5028864c3c05b42afeffa",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 876,
+      "printedPage": "868",
+      "scope": "Full Hermite–Lindemann and Gelfond–Schneider proofs, both exponential functions and evaluation sequences; Siegel Lemma1 full coefficient system, integral-solution bound, pigeonhole proof, norm convention, B exponent and final integral-closure cross-page paragraph.",
+      "enSha256": "074568ad52ce0932b7237c116dec28210bfb7c670909d1478c0d587583627961",
+      "zhSha256": "fabef364f9f537874a689c46708184638709a79c0dc8d2e5ef40f113c8b7a7f9",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 877,
+      "printedPage": "869",
+      "scope": "Full size/conjugate/vector definitions, integral and trace-dual bases, coefficient trace identity, all of Lemma2 and its rM-equation/nM-unknown reduction and constants.",
+      "enSha256": "a51a1b9064b8efaa241f5f40fcf31c265ceef6eae7e66db0037684862f462fa4",
+      "zhSha256": "bf85f42d2c64fcb94b83277d7c0cf93e2e067b7db1614f998ccfcdc11097e99c",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 878,
+      "printedPage": "870",
+      "scope": "Polynomial size and denominator definitions, dominance including addition/product/partial derivatives; full Lemma3 derivative and denominator bounds, ring derivation construction, degrees h and r, all dominating-polynomial formulas and cross-page proof.",
+      "enSha256": "2021370f38d395889a9f1273bf926c7aac20c9d2890bee5e5684f67b21888c7b",
+      "zhSha256": "00a1122989efc507a763b329b9f487bb471ae7eec4ae7f719bf71d909a286094",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 879,
+      "printedPage": "871",
+      "scope": "Complete Lemma3 induction and auxiliary-function construction: r divisible by 2m, n=r²/(2m), all mn equations, vanishing orders, integral coefficient bounds, s≥n, gamma, denominator and conjugate estimates, norm inequality (1); restored original norm source/target labels.",
+      "enSha256": "8112ec667126208b2cf9f809da6da8ecac72a68b71f90bbccd55e9ea2262ddae",
+      "zhSha256": "9f7017be712db314ab5a4b00c7ae7c379ebbbe4f8af2dd4c0f59c583a125f2b6",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 880,
+      "printedPage": "872",
+      "scope": "Full entire H(z) construction and denominator product, theta assumptions, maximum-modulus argument, all s/r/rho exponents, R=s^(1/(2rho)), concluding m-bound proof, sharpness examples and full Lindemann algebraic-independence statement.",
+      "enSha256": "aa2c0c1b0a1d0dacbd66f56f9a4958058ec350d953137eadc46c0c55320055b3",
+      "zhSha256": "097bbbfe4ad1a46240a2411f582d45c445a9e4a65078b8f1c885f29a1bb65ebc",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 881,
+      "printedPage": "873",
+      "scope": "Complete Schanuel conjecture, all 2n generators and transcendence-degree inequality; deductions concerning e/pi, 1 and 2pi i, iterated algebraic closures/exponentials and final theorem-deepening paragraph.",
+      "enSha256": "2f50cc096e627728fb8a07e51f5475324f055e361482cab6f45dbc527e4262b2",
+      "zhSha256": "af1c9f6b1d202023eff60530cb411bc29edd8b52a2adbe75eb98c376a8157c90",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 882,
+      "printedPage": "875",
+      "scope": "Entire Appendix2 opening and §1: positive-integer finite counting Jn, uniqueness of n, empty set convention, denumerable/enumeration definitions, bijection composition, full sequence definition and brace conventions. Printed page875 independently read; source jumps over printed874.",
+      "enSha256": "bbb6a2fac1f55a1d101011758c13da1749e8ba4c65adc596b61e9c2ea1445cb9",
+      "zhSha256": "f6cb578b00142d858701a604ae5d67627a23178a8518f2cf2dd1663e7fe1f40f",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 883,
+      "printedPage": "876",
+      "scope": "All sequence examples/conventions, zero-to-one reindexing, repetitions versus subsets, subsequence inequalities, finite/infinite/finite-sequence definitions and complete increasing-enumeration Proposition1.1 proof.",
+      "enSha256": "16153fcda0b383e53a4d07764f12bba5dea8db60b91a7837387d7a21bb2cc76c",
+      "zhSha256": "f8243b8d7ec08b0af17fd65bc890a1c76b94e48b5fed4dd7bc22a0f27236d0f2",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 884,
+      "printedPage": "877",
+      "scope": "Corollary1.2 and Propositions1.3–1.5 with complete proofs, all choice/induction and injectivity steps, exponential encoding (m,n)↦2^n3^m, and full statement of Proposition1.6.",
+      "enSha256": "ed79ae03d4b48efea784cfb5b27eba2e9aef31991b9e40e07a1a82dcb6964708",
+      "zhSha256": "eadf839d4e63cc8463e4886e6a939bbd67962563ddf10e0a6fcf3b913515f649",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 885,
+      "printedPage": "878",
+      "scope": "Complete countable-union proof with all enumeration rows, source codomain D and confirmed Chinese explanation; Corollary1.7 proof, countable definition, §2 introduction, ordering definition and ORD1–ORD3 axioms. Removed non-source English editorial addition.",
+      "enSha256": "7c9eaa36e522493666deea405241eca23912876f63f9cfb909b446d1968e6171",
+      "zhSha256": "65ac8959657208ddaabdbe3ca9ea6c74c5ac61cb1196856bef66990e5a3d188c",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 886,
+      "printedPage": "879",
+      "scope": "All partial/total-order distinctions, Examples1–4 (subgroups, left ideals, subsets, integers/reals), induced/restricted order, least/greatest/maximal elements and uniqueness, upper bound/least upper bound definitions and final cross-page fragment.",
+      "enSha256": "c182865b14a179dda823d0375770d6e7621a85e7a2d3eaf13a0514710794d244",
+      "zhSha256": "8e0780212c5c1bbd49fbde4d49308114da16422aec1c3f6a8b9741ef3ade14ef",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 887,
+      "printedPage": "880",
+      "scope": "Inductive/strictly inductive ordering definitions, all three union-of-chain subgroup steps and proofs, Zorn lemma, full principal-ring free-submodule theorem and maximal-pair construction through the ending intersection equation.",
+      "enSha256": "b2175448de79df0c5ddc71281d92e486eddf49072431e291edeed08598d44ddd",
+      "zhSha256": "5de42704d55ae82b3450774d67b232dcfb4b73ffb19078b63f920ef9c2a02a2a",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 888,
+      "printedPage": "881",
+      "scope": "Complete continuation of free-submodule proof with coefficient ideal/generator, basis extension and J versus J′ note; full motivation for Zorn, increasing-map convention, all three admissibility conditions and Bourbaki fixed-point theorem/proof opening.",
+      "enSha256": "00540cc23823c5fd35715e1cff02e49d1194fd3da5437613eb0f9a06a6610b74",
+      "zhSha256": "91a8f57342168429ffc2bd0059929ecd4cc75f15f846ae87c5530183e3ea3f44",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 889,
+      "printedPage": "882",
+      "scope": "Complete reduction to minimal admissible M, intersection proof, all iteration chains D0,D1,D2 and bracketed explanatory paragraphs, both structural properties preceding Lemmas2.2/2.3.",
+      "enSha256": "9e3dfdc58e4ed2f0cb083a6c1a94dff02049d0fa4aaac4449ee45b9a2420be68",
+      "zhSha256": "948702d7b030fe6f476db1d3190ea5aa219f52a9c5f916ef6dfc7b881152fadf",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 890,
+      "printedPage": "883",
+      "scope": "Extreme-point/Mc definitions, complete admissibility proofs of Lemmas2.2 and2.3 with all cases, upper-bound contradictions and inequalities; final total-order proof and conclusion of Theorem2.1.",
+      "enSha256": "05e8abebb7e269fc353d256afd0cec7b51c72a4252adadc58e58b90abe5def0c",
+      "zhSha256": "f8970a654aca40d1bb96677380293ff394d2ea3004bfea9989372f70f495cd77",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 891,
+      "printedPage": "884",
+      "scope": "Complete Corollaries2.4 and2.5 proofs, selected increasing map, chain-family inclusion order, union Z and all maximal-element contradictions; §3 cardinal-equality definition.",
+      "enSha256": "cb612b1efb39f13cf4631529a6e5eb50d57b740648e7adac175002f7fb4f7d13",
+      "zhSha256": "862a9e545ffbd733b2aa81dffb948d86e6cc04d78113b2f4b276b58d392a3e71",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 892,
+      "printedPage": "885",
+      "scope": "All cardinal inequality/composition/surjection arguments, both Zorn comparability statements including bold repeated text, full Schroeder–Bernstein theorem and inverse-chain partition A1/A2 proof through the closing inverse-map display.",
+      "enSha256": "6251edadc1ba40635361b059c7d920d0b4cf7d45ed0608f92c56087762adfda4",
+      "zhSha256": "65cd14ff32b653aaae5bdfa03a83fba8ba9cc7ad82ab51bf242e551451cfd834",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 893,
+      "printedPage": "886",
+      "scope": "Full Schroeder–Bernstein surjectivity conclusion (original bold), repeated infinite-set/countable-subset argument, covering/disjoint-covering definitions, complete Lemma3.2 maximal covering setup and chain union proof through cross-page ending.",
+      "enSha256": "5a1bdaa0a97c0512641445413c65915515a90f7544da30c4067a98b3345e4224",
+      "zhSha256": "9c1022e9fa4d19051edcecf8f3fb80d0cdf6f7f82abdf87645046d765ae32395",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 894,
+      "printedPage": "887",
+      "scope": "Full Lemma3.2 proof completion including finite complement replacement D1; Theorem3.3 countable product proof, Corollary3.4 and its cardinal inequalities under continued infinite-A context; Corollary3.5 hypotheses.",
+      "enSha256": "61b965e4d067543392af2cf83b9af52cc0cf8d5a7214248e47c7b42b3a1e0078",
+      "zhSha256": "913078d35a66d2fbdeea837c6b919bbceadf2e123b5464930a089d68174a39fb",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 895,
+      "printedPage": "888",
+      "scope": "Full Corollary3.5 sum/cardinality proof and bold original paragraphs; Theorem3.6 entire maximal-bijection setup, all extension-order conditions, union M, g definition/well-definedness and surjectivity proof through ending fragment.",
+      "enSha256": "d1a521f283e2dadedf1b6f334619d7a9494508990c86040e0813f4e9f3b0a7d3",
+      "zhSha256": "a3422f4f07c00cd11f78ee4e6e031b0fbee58f8b9e64d60fafe1ee0e61bc94b8",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 896,
+      "printedPage": "889",
+      "scope": "Complete cardinal-square maximality proof, both complement-cardinality cases, fourfold product union, M2 and g1 extension, final Exercise14 qualification; Corollaries3.7/3.8 including finite products and all assumptions.",
+      "enSha256": "36e7824b1fc7c4010a92b5656588f91e6f963b1497489bd65e335980f4a9c7c7",
+      "zhSha256": "b9c42830212d8599530113bfd1f82ded81991d63539cd5f959652e076b766b21",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 897,
+      "printedPage": "890",
+      "scope": "Full Corollary3.8 proof, Corollary3.9 finite-subset cardinality proof with all selected tuple injections and inequalities; confirmed empty-set omission note and removed non-source EN note; complete Theorem3.10 hypotheses and strict power-set inequality.",
+      "enSha256": "5ec5fb9eb8bbd41f62339be63607edc4e944b969d02637c60824a6b561a5b55b",
+      "zhSha256": "0a8e6e9537d3c38bdd3ef8110a78f8bf5a84fb9005bf8384fd0064d49ad69516",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 898,
+      "printedPage": "891",
+      "scope": "Complete Cantor diagonal proof with both complementary values, characteristic-function Corollary3.11 and full hint; §4 well-order definition and Examples1/2, all bijection and appended-largest-element conditions.",
+      "enSha256": "0beb896e3cf35b455ec55b169e40e03673d7d2abe1d7e0f53e0f09555c633f97",
+      "zhSha256": "4303e58c7d202d2f7c4a18a5707d2a16f5582225aea0a34859e640e42c1f142d",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 899,
+      "printedPage": "892",
+      "scope": "Complete Example2 proof and validated Chinese A/S note; full well-ordering Theorem4.1 proof, initial-segment condition, chain union, maximal extension and original Note; Exercises1–3 and all cardinal inequalities.",
+      "enSha256": "19d36bf984f432a91d4ee151631a2770cbaba78a45236d363ce2c79e27a4816d",
+      "zhSha256": "58206a3c237338cfec3ac0a22e7dece3761d2fae1afeb3a6ec0fd9d26654343a",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 900,
+      "printedPage": "893",
+      "scope": "All Exercises4–14, every hypothesis, formula and subpart, full algebraic-closure hint, cardinal sum/product/exponent definitions, Ex11 n=1 counterexample note, Ex13 bracketed question and 1994 Solovay addition, complete final Zorn hint.",
+      "enSha256": "3bb364d292515370b1db0e0332f97043e025bf997a5983195efd30e2d76ccb1e",
+      "zhSha256": "96082e6e4dc0102e4dfceca02a82c6e7bcba2e7bb57e73dbbdb81ec37728b5e8",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 901,
+      "printedPage": "895",
+      "scope": "All bibliography entries [Ad62] through [Boun1854] opening: authors, German/French/English titles and faithful Chinese titles, keys, journals, volumes/supplements, years, ranges, reprint qualification, Q[z1,…,zn] and x³−y²; original missing closing parenthesis retained. Printed895 independently read (skip894).",
+      "bibliographyEntriesStarted": 24,
+      "enSha256": "433e29358c622c6e1281a809087c80ceeb8b4cc67e0227afaea3d55463abad53",
+      "zhSha256": "6947570ac6178d01d5d4e6f0fcb2c11e83e1f792e7c56add487dbc2cd98ba3a3",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 902,
+      "printedPage": "896",
+      "scope": "Full Boun1854 cross-page continuation and every entry Bour82 through Fr87: all authors including accents, titles, b^n±1 bases, Q/3-adic notation, conference/series/editor qualifiers, editions, years, pages and complete Chinese matching.",
+      "bibliographyEntriesStarted": 20,
+      "enSha256": "4867aca9f5e785833b0a1fa9b286ddd14951b3ad6f12db13ed4a7115a0f918d7",
+      "zhSha256": "93eb9b49e4217a26aa24d991a0492c0fed91f9020effa103335f6c02894d22c8",
+      "status": "verified"
+    },
+    {
+      "pdfPage": 903,
+      "printedPage": "897",
+      "scope": "Every bibliography entry Fro83 through Ja79, full author/title/journal/year/range details, translated/expanded/reprinted/second-edition qualifiers, x³−y²=k and p-adic projective notation; source oddities Stuctures, 1938–01971 and volume548 preserved. Chinese étale completed as 平展.",
+      "enSha256": "42bebd4b56311fdd83aba53290e584f26bb549ee1a2d0df48dc06c1c80730ccb",
+      "zhSha256": "6a0bfba5e9ad06ff16be904c9d08f68adaab5084e2615a777ccb28ae0cf14ec5",
+      "bibliographyEntriesStarted": 24,
+      "status": "verified"
+    },
+    {
+      "pdfPage": 904,
+      "printedPage": "898",
+      "scope": "Every bibliography entry Ja85 through Mack53, all French/German/English titles and full Chinese equivalents, SLn(R)/GL2 math, series numbers, editions/reprints/supersession/collected-paper qualifiers, ranges; source Mack53 year1973 and Jou90 year1991 retained.",
+      "enSha256": "a50e602b8b5aec6a57e966bb2b27ee40cd2b26fb5ffefae09e999830d04f986b",
+      "zhSha256": "6512194facdfc666fc3712182828a992fe5c17d4201e96a7843ce50cd31b7827",
+      "bibliographyEntriesStarted": 28,
+      "status": "verified"
+    },
+    {
+      "pdfPage": 905,
+      "printedPage": "899",
+      "scope": "All bibliography Man69 through Schulz37, entire conference/series references, three-part Ph91–95 details, Gal(Qa/Q), p-adic/field/Galois titles, resolutions terminology, theorem references and original key/year mismatches preserved; completed Chinese étale translation.",
+      "enSha256": "a54f8e68240891619f3adc20f1fdb51e0cc4dfda3e6e3cfdfa4bc35c2a7cda00",
+      "zhSha256": "e104d708eac7b6069ae79b378630022402f6a3bd9795dcc72b5b2fd143559c08",
+      "bibliographyEntriesStarted": 25,
+      "status": "verified"
+    },
+    {
+      "pdfPage": 906,
+      "printedPage": "900",
+      "scope": "Every bibliography entry Schur31 through Sol01: German/French titles, complete Chinese translations, p/l-adic and Gal(Qa/Q) formulas, edition/reprint/conference/translation qualifiers, journals/volumes/dates/ranges and abc title.",
+      "enSha256": "ebeb6886925bdf9fccfc1ffee1d5997f62237f9dbe468b7923c8676413e3f21a",
+      "zhSha256": "ab389cf33a609b7fcc3d6e3ffe9ed08d6ab47ca7488bbe8848bb1b0868c78f16",
+      "bibliographyEntriesStarted": 24,
+      "status": "verified"
+    },
+    {
+      "pdfPage": 907,
+      "printedPage": "901",
+      "scope": "All18 final bibliography entries Sou90 through Za95, complete bilingual titles, full authors/keys/publication data, both Win91 parts, l/p-adic symbols, p^f/p^n/f³−g² exponents; original identites/Wit35 year1936 preserved and Witt37 perfect-field terminology checked.",
+      "bibliographyEntriesStarted": 18,
+      "enSha256": "3defdad58783c68972f491c65764cef57f5cb6b5a3ff078b2d67f43774c1fe1d",
+      "zhSha256": "ddc8be6397a8aae32f0feb0a00e7184b978aecd104c1cea0d864280c09c84fc7",
+      "status": "verified"
+    }
+  ],
+  "findings": [
+    {
+      "pdfPage": 879,
+      "type": "corrected transcription",
+      "detail": "Restored the printed source/target notation N^K_Q(cγ) in inequality (1) in both languages; manuscripts previously simplified this to N_K."
+    },
+    {
+      "pdfPage": 885,
+      "type": "removed non-source English addition; confirmed source erratum",
+      "detail": "Removed a translator-added English Editorial note to keep the English body a source transcription. Retained original codomain D and the justified Chinese note that the union is S."
+    },
+    {
+      "pdfPage": 888,
+      "type": "removed non-source English addition; confirmed source erratum",
+      "detail": "Removed a translator-added English Editorial note. Retained the original basis index j∈J in the English transcription and the Chinese note explaining j∈J′ from w:J′→F_J."
+    },
+    {
+      "pdfPage": 897,
+      "type": "removed non-source English addition; confirmed source qualification",
+      "detail": "Removed English Editorial note not present in the book. Kept the printed union over n≥1 and the Chinese adjacent note adding the empty subset, with cardinality invariance justified by Corollary3.5."
+    },
+    {
+      "pdfPage": 899,
+      "type": "removed non-source English addition; confirmed source erratum",
+      "detail": "Removed non-source English Editorial note; preserved printed a∈A and B∩A and the Chinese note explaining S from Example2's established well-order."
+    },
+    {
+      "pdfPage": 900,
+      "type": "removed non-source English addition; confirmed missing hypothesis",
+      "detail": "Removed non-source English Editorial note; retained Exercise11 statement and Chinese note requiring n≥2, proved by the n=1 singleton-map counterexample."
+    },
+    {
+      "pdfPage": 903,
+      "type": "translation terminology",
+      "detail": "Translated étale as 平展 in the cited collection title."
+    },
+    {
+      "pdfPage": 904,
+      "type": "translation terminology",
+      "detail": "Rendered sharp effective as 具有最优界的有效 and ring units as 可逆元 in the Ko88/La82 Chinese titles."
+    },
+    {
+      "pdfPage": 905,
+      "type": "translation terminology",
+      "detail": "Translated étale as 平展 in Pop95's Chinese title."
+    }
+  ],
+  "bibliographyEntries": 163,
+  "unresolved": [],
+  "validation": {
+    "pages": 33,
+    "markdownFiles": 66,
+    "mathContainers": 3021,
+    "bibliographyEntries": 163,
+    "matchedBilingualBibliographyKeys": 163,
+    "shaDrift": 0,
+    "mathErrors": 0,
+    "reviewSchemaErrors": 0
+  }
+}

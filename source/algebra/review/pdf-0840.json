@@ -1,0 +1,13 @@
+{
+  "notes": [
+    "Exercise27 extension equivalence clarified as identity on fixed endpoints M,N, implicit classification convention.",
+    "Exercise28(a) lacks a nonzero assumption: Ext1(R,N)=0 but N/0N=N. EN retains, ZH adds counterexample and correct nonzero free-resolution argument."
+  ],
+  "pdfPage": 840,
+  "unresolved": [],
+  "englishTranscribed": true,
+  "formulaChecked": true,
+  "chineseTranslated": true,
+  "visualReviewed": true,
+  "printedPage": "832"
+}

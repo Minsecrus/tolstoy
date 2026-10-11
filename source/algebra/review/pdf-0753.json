@@ -1,0 +1,13 @@
+{
+  "pdfPage": 753,
+  "printedPage": "745",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original full page visually read; all formulas, paragraphs, and proof steps checked.",
+    "English preserves Proposition 2.6 reference and positive integers; Chinese visible notes correct reference to Proposition 2.7 and allow zero as required by n=0 and empty matrix blocks."
+  ]
+}

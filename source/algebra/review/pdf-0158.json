@@ -1,0 +1,14 @@
+{
+  "pdfPage": 158,
+  "printedPage": "143",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "亲自逐页查看原始 PNG；完整英文转录、中文翻译；所有公式、上下标、角括号配对、对偶 vee 记号、箭头及编号已逐项核对。",
+    "原书定理 6.1 证明印 b_i∈K，英文保留，中文更正为 b_i∈A 并附译校注。",
+    "原书推论 6.2 印 x∈V，英文保留，中文更正为 x∈E 并附译校注。"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pdfPage": 10,
+  "printedPage": "ix",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "集合包含符号按作者约定允许相等，未改写为严格包含。",
+    "逐一核对 to 与 mapsto 两种箭头、单射满射双射条件、限制映射、复合映射、原像及像。",
+    "两幅交换图以 LaTeX array 保留对象、箭头方向及全部标签：三角图 A→B 标 f，A→C 标 h，B→C 标 g；方图 A→B 标 f，A→C 标 varphi，B→D 标 g，C→D 标 psi。",
+    "限制映射记号按原页写为 f|A'；方形交换条件续至 PDF 第 11 页。"
+  ]
+}

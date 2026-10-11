@@ -1,0 +1,14 @@
+{
+  "pdfPage": 386,
+  "printedPage": "372",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "定理5.7(b)与下一页证明需要y,z在k上代数独立，源书遗漏此假设；中英附可见说明与char0反例K=k(t,s),y=t^2,z=t^3。原定理陈述保留，遗漏已明确标出。",
+    "独立二审补严证定理5.7(b)反例：T^2+cT^3-W在k[T,W]不可约，Gauss引理给c非零时次数3；c=0次数2；在k(u)同理次数3，泛型正则性也失败。中英现有校注补此论证。",
+    "命题5.5逆向证明原词非可分生成不足以涵盖全部反证情形；中文附可见校注用命题5.2及对偶基给出完整可分代数结论，源句保留。"
+  ]
+}

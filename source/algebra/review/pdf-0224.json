@@ -1,0 +1,12 @@
+{
+  "pdfPage": 224,
+  "printedPage": "209",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "第二遍审校确认原书直接递推说明的两处问题：c0不能任意指定为1（域Q上f=2X给出反例）；模m后续方程应从c0=a_n开始确定c0,c1,…，不是c_n,c_{n+1},…。英文与中文正文均保留原文，中文相邻增加可见译校注，未修改前面正确的除法定理证明。"
+  ]
+}

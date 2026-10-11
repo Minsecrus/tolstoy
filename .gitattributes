@@ -1,0 +1,6 @@
+# Preserve exported PDFs byte-for-byte and avoid text conversion in diffs.
+*.pdf binary
+
+# Reviewed page hashes and generated-page checks require stable line endings.
+source/algebra/** text eol=lf
+docs/library/volume-86/*.md text eol=lf

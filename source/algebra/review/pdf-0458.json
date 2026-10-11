@@ -1,0 +1,14 @@
+{
+  "pdfPage": 458,
+  "printedPage": "445",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "习题 15 提示的前页原印 x_1,...,x_r∈A 应为属于 E；J⊂p 按各坐标应理解为 J⊂pA^r。中文作可见译校注，英文保留原印。",
+    "习题 17 原文声明 d^i:E^i→E^{i+1}，却印 H^i=Ker(d^{i+1})/Im(d^i)、H^0=E^0、H^n=E^n/Im(d^n)，及最后箭头 d^n。中文保留原公式并以可见译校注说明一致编号应为 H^i=Ker(d^i)/Im(d^{i-1})、H^0=Ker(d^0)、H^n=E^n/Im(d^{n-1})，最后箭头为 d^{n-1}。",
+    "原图两个竖直箭头向上，与正文 f_i:E^i→F^i 不一致；原图精确裁切保留于 /library/volume-86/diagrams/pdf-0458-complex-square.png，已视觉核对无截断。中文译校注说明正文方向应向下。"
+  ]
+}

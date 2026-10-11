@@ -1,0 +1,15 @@
+{
+  "pdfPage": 185,
+  "printedPage": "170",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independently viewed the full page; inspected the original Exercise 18 diagram crop and a high-resolution Exercise 21 crop. All labels and arrows retained in both languages using the original diagram image.",
+    "Exercise 18(b) prints T_p(A), although the given group is M. English retains T_p(A); Chinese corrects to T_p(M) with an adjacent visible 译校注.",
+    "The opening is the continuation of Exercise 17(b); Exercise 21 ends with a displayed sequence whose sentence continues on PDF 186. Both page fragments preserved.",
+    "Visually checked inverse/direct limit directions, f_j^k in Exercise 19, and f_j^i/g_j^i and primed modules in Exercise 21."
+  ]
+}

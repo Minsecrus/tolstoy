@@ -1,0 +1,13 @@
+{
+  "pdfPage": 797,
+  "printedPage": "789",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original diagrams cropped at high resolution, personally visually inspected, and linked identically in both languages.",
+    "Three adjacent Chinese editorial notes explain the maps actually descending to quotients and extended by injectivity: dprime f_0, the difference f_0-g_0, and the complete inductive difference subtracting dprime h_{n+1}. Source text and diagrams retained."
+  ]
+}

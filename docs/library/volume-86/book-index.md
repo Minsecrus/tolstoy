@@ -1,0 +1,1185 @@
+---
+title: "索引"
+description: "Serge Lang《Algebra》中文译文。"
+pageClass: algebra-reading
+prev: {"text":"参考文献","link":"/library/volume-86/bibliography"}
+next: false
+---
+
+# 索引
+
+<span class="original-page-anchor" id="pdf-page-908" aria-hidden="true"></span>
+
+- abc 猜想（abc conjecture），195
+- 阿贝尔的（abelian），4
+  - 范畴（category），133
+  - 扩张（extension），266, 278
+  - 群（group），4, 42, 79
+  - Kummer 理论（Kummer theory），293
+  - 塔（tower），18
+- 绝对值（absolute value），465
+- 绝对半单（absolutely semisimple），659
+- 抽象空谈（abstract nonsense），759
+- 收敛于（abut），815
+- 群作用（action of a group），25
+- 无环的（acyclic），795
+- Adams 运算（Adams operations），726, 782
+- 加性范畴（additive category），133
+- 加性函子（additive functor），625, 790
+- 加性多项式（additive polynomial），308
+- 进的（adic）
+  - 完备化（completion），163, 206
+  - 展开（expansion），190
+  - 拓扑（topology），162, 206
+- 伴随（adjoint），533, 581
+- 仿射空间（affine space），383
+- 代数（algebra），121, 629, 749
+- 代数的（algebraic）
+  - 闭包（closure），178, 231, 272
+  - 元素（element），223
+  - 扩张（extension），224
+  - 群（group），549
+  - 整数（integer），371
+  - 集合（set），379
+  - 空间（space），383, 386
+- 在代数意义下（algebraically）
+  - 闭的（closed），272
+  - 独立的（independent），102, 308, 356
+- 几乎所有（almost all），5
+- 交替的（alternating）
+  - 代数（algebra），733
+  - 型（form），511, 526, 530, 571, 598
+  - 群（group），31, 32, 722
+  - 矩阵（matrix），530, 587
+  - 多线性映射（multilinear map），511, 731
+  - 积（product），733, 780
+- 零化子（annihilator），417
+- 反对偶（anti-dual），532
+- 反线性（anti-linear），562
+- 反模（anti-module），532
+- 逼近定理（approximation theorem），467
+- Aramata 定理（Aramata's theorem），701
+- 阿基米德序（archimedean ordering），450
+- Artin（Artin）
+  - 猜想（conjectures），256, 301
+  - 定理（theorems），264, 283, 290, 429
+- 阿廷的（artinian），439, 443, 661
+- Artin–Rees 定理（Artin-Rees theorem），429
+- Artin–Schreier 定理（Artin-Schreier theorem），290
+- 相伴的（associated）
+  - 分次环（graded ring），428, 430
+  - 群与域（group and field），301
+  - 代数集的理想（ideal of algebraic set），381
+  - 线性映射（linear map），507
+  - 双线性映射的矩阵（matrix of bilinear map），528
+  - 对象（object），814
+  - 素理想（prime），418
+- 结合的（associative），3
+- 渐近费马问题（asymptotic Fermat），196
+- 自同构（automorphism），10, 54
+  - 内自同构（inner），26
+  - 型的自同构（of a form），525, 533
+- 巴拿赫空间（Banach space），475
+- 平衡的（balanced），660
+- 基变换（base change），625
+- 基（basis），135, 140
+- Bateman–Horn 猜想（Bateman-Horn conjecture），323
+- 归属（belong）
+  - 群与域（group and field），263
+  - 理想与代数集（ideal and algebraic set），381
+  - 素理想与准素理想（prime and primary ideal），421
+- Bernoulli（Bernoulli）
+  - 数（numbers），218
+  - 多项式（polynomials），219
+- 双函子（bifunctor），806
+- 双射的（bijective），ix
+- 双线性型（bilinear form），146, 522
+
+<span class="original-page-anchor" id="pdf-page-909" aria-hidden="true"></span>
+
+- 双线性映射（bilinear map），48, 121, 144
+- 二项式多项式（binomial polynomial），434
+- Blichfeldt 定理（Blichfeldt theorem），702
+- 块（blocks），555
+- Borel 子群（Borel subgroup），537
+- 边界（boundaries），767
+- 有界复形（bounded complex），762
+- Bourbaki 定理（Bourbaki theorems）
+  - 关于集合（on sets），881
+  - 关于迹与半单性（on traces and semisimplicity），650
+- 括号积（bracket product），121
+- Brauer 定理（Brauer's theorems），701, 709
+- Bruhat 分解（Bruhat decomposition），539
+- Burnside 定理（Burnside theorems）
+  - 关于单模（on simple modules），648
+  - 关于张量表示（on tensor representations），726
+- 蝴蝶引理（butterfly lemma），20
+- $\mathcal C$ 维数（$\mathcal C$-dimension），772
+- 消去律（cancellation law），40
+- 典范映射（canonical map），14, 16
+- 基数（cardinal number），885
+- Cartan 子群（Cartan subgroup），712
+- Casimir（Casimir），628, 639
+- 范畴（category），53
+- 柯西（Cauchy）
+  - 族（family），52
+  - 序列（sequence），51, 162, 206, 469
+- Cayley–Hamilton 定理（Cayley-Hamilton theorem），561
+- 中心（center）
+  - 群的中心（of a group），26, 29
+  - 环的中心（of a ring），84
+- 中心元素（central element），714
+- 中心化子（centralizer），14
+- 链条件（chain condition），407
+- 特征标（character），282, 327, 667, 668
+  - 独立性（independence），283, 676
+- 特征（characteristic），90
+- 特征多项式（characteristic polynomial），256, 434, 561
+  - 张量积的特征多项式（of tensor product），569
+- Chevalley 定理（Chevalley's theorem），214
+- 中国剩余定理（Chinese remainder theorem），94
+- 类公式（class formula），29
+- 类函数（class function），673
+- 类数（class number），674
+- Clifford 代数（Clifford algebra），749, 757
+- 闭的（closed）
+  - 复形（complex），765
+  - 子群（subgroup），329
+  - 在合成律下封闭（under law of composition），6
+- 上边界（coboundary），302
+- 上闭链（cocycle）
+  - $GL_n$（$GL_n$），549
+  - Hilbert 定理（Hilbert's theorem），90, 288
+  - Sah 定理（Sah's theorem），303
+- 系数函数（coefficient function），681
+- 系数（coefficients）
+  - 线性组合的系数（of linear combination），129
+  - 矩阵的系数（of matrix），503
+  - 多项式的系数（of polynomial），98, 101
+- 可余消去的（coerasable），805
+- 共尾的（cofinal），52
+- 上同调（cohomology），288, 302, 303, 549, 764
+  - 群的上同调（of groups），826
+- 余核（cokernel），119, 133
+- 列（column）
+  - 运算（operation），154
+  - 秩（rank），506
+  - 向量（vector），503
+- 交换的（commutative），4
+  - 图（diagram），ix
+  - 群（group），4
+  - 环（ring），83, 84, 86
+- 交换子（commutator），20, 69, 75
+- 交换子群（commutator subgroup），20, 75
+  - $SL_n$ 的交换子群（of $SL_n$），539, 541
+- 可交换（commute），29
+- 紧的（compact）
+  - Krull 拓扑（Krull topology），329
+  - 环的谱（spec of a ring），411
+- 完备的（complete）
+  - 族（family），837
+  - 域（field），469
+  - 环与局部环（ring and local ring），206
+- 完全可约（completely reducible），554
+- 完备化（completion），52, 469, 486
+- 复形；复的（complex），445, 761, 765
+- 复数（complex numbers），272
+- 分量（component），503, 507
+  - 矩阵的分量（of a matrix），503
+- 映射的复合（composition of mappings），85
+- 域的合成域（compositum of fields），226
+- 共轭类（conjugacy class），673
+- 共轭元素（conjugate elements）
+  - 群的共轭元素（of a group），26
+  - 域的共轭元素（of a field），243
+- 共轭的（conjugate）
+  - 嵌入（embeddings），243, 476
+  - 域（fields），243, 477
+  - 子群（subgroups），26, 28, 35
+- 共轭（conjugation），26, 552, 570, 662
+- 连通的（connected），411
+- 连通和（connected sum），6
+- 联络（connection），755
+
+<span class="original-page-anchor" id="pdf-page-910" aria-hidden="true"></span>
+
+- 常数多项式（constant polynomial），175
+- 常数项（constant term），100
+- 系数公因子（content），181
+- 反变表示（contragredient），665
+- 反变函子（contravariant functor），62
+- 收敛（convergence），206
+- 卷积（convolution），85, 116
+- 坐标（coordinates），408
+- 余积（coproduct），59, 80
+  - 交换环的余积（of commutative rings），630
+  - 群的余积（of groups），70, 72
+  - 模的余积（of modules），128
+- 对应（correspondence），76
+- 陪集（coset），12
+  - 代表元（representative），12
+- 可数的（countable），878
+- 协变函子（covariant functor），62
+- Cramer 法则（Cramer's rule），513
+- 三次扩张（cubic extension），270
+- 尖点的（cuspidal），318
+- 闭链；循环（cycle）
+  - 同调中的闭链（in homology），767
+  - 置换中的循环（in permutations），30
+- 循环的（cyclic）
+  - 自同态（endomorphism），96
+  - 扩张（extension），266, 288
+  - 群（group），8, 23, 96, 830
+  - 模（module），147, 149
+  - 塔（tower），18
+- 分圆的（cyclotomic）
+  - 域（field），277–282, 314, 323
+  - 多项式（polynomials），279
+- Davenport 定理（Davenport theorem），195
+- 可分解的（decomposable），439
+- 分解（decomposition）
+  - 域（field），341
+  - 群（group），341
+- Dedekind（Dedekind）
+  - 行列式（determinant），548
+  - 环（ring），88, 116, 168, 353
+- 定义于（defined），710, 769
+- 定号型（definite form），593
+- 次数（degree）
+  - 扩张的次数（of extension），224
+  - 态射的次数（of morphism），765
+  - 多项式的次数（of polynomial），100, 190
+  - 簇的次数（of variety），438
+  - Weierstrass 次数（Weierstrass），208
+- Deligne–Serre 定理（Deligne-Serre theorem），319
+- 稠密性定理（density theorem），647
+- 可列集（denumerable set），875
+- 相关的绝对值（dependent absolute values），465
+- de Rham 复形（de Rham complex），748
+- 导子（derivation），214, 368, 746, 754
+  - 在子域上的导子（over a subfield），369
+  - 通用导子（universal），746
+- 导数（derivative），178
+- 导出函子（derived functor），791
+- 降链条件（descending chain condition），408, 439, 443, 661
+- 行列式（determinant），513
+  - 理想（ideal），738, 739
+  - 上同调的行列式（of cohomology），738
+  - 线性映射的行列式（of linear map），513, 520
+  - 模的行列式（of module），735
+  - Witt 群的行列式（of Witt group），595
+- 对角元素（diagonal element），504
+- 可对角化的（diagonalizable），568
+- 对角化的型（diagonalized form），576
+- 差分方程（difference equations），256
+- 微分（differential），747, 762, 814
+- 二面体群（dihedral group），78, 723
+- 维数（dimension）
+  - 特征标的维数（of character），670
+  - 模的维数（of module），146, 507
+  - 超越扩张的维数（of transcendental extension），355
+  - 向量空间的维数（of vector space），141
+- 同调中的维数（dimension in homology），806, 811, 823
+  - 移维（shifting），805
+- 直的（direct）
+  - 极限（limit），160, 170, 639
+  - 积（product），9, 127
+  - 和（sum），36, 130, 165
+- 有向族（directed family），51, 160
+- 离散赋值环（discrete valuation ring），487
+- 判别式（discriminant），193, 204, 270, 325
+- 特殊扩张（distinguished extensions）
+  - 域的特殊扩张（of fields），227, 242
+  - 环的特殊扩张（of rings），335, 291
+- 特殊多项式（distinguished polynomials），209
+- 分配性（distributivity），83
+- 整除（divide），111, 116
+- 可除的（divisible），50
+- 除环（division ring），84, 642
+- Dolbeault 复形（Dolbeault complex），764
+- 支配（多项式）（dominate (polynomials)），870
+- 双陪集（double coset），75, 693
+- 二重传递的（doubly transitive），80
+- 对偶的（dual）
+  - 基（basis），142, 287
+  - 群（group），46, 145
+  - 模（module），142, 145, 523, 737
+  - 表示（representation），665
+
+<span class="original-page-anchor" id="pdf-page-911" aria-hidden="true"></span>
+
+- 有效特征标（effective character），668, 685
+- 特征值（eigenvalue），562
+- 特征向量（eigenvector），562, 582–585
+- Eisenstein 判别法（Eisenstein criterion），183
+- 初等的（elementary）
+  - 因子（divisors），153, 168, 521, 547
+  - 群（group），705
+  - 矩阵（matrix），540
+  - 对称多项式（symmetric polynomials），190, 217
+- 消元（elimination），391
+  - 理想（ideal），392
+- 嵌入（embedding），11, 120
+  - 域的嵌入（of fields），229
+  - 环的嵌入（of rings），91
+- 自同态（endomorphism），10, 24, 54
+  - 循环群的自同态（of cyclic groups），96
+- 足够多的（enough）
+  - 内射对象（injectives），787
+  - T 正合对象（T-exacts），810
+- 整的（entire），91
+  - 整函数（functions），87
+- 满态射（epimorphism），120
+- 等价的（equivalent）
+  - 范数（norms），470
+  - 位（places），349
+  - 赋值（valuations），480
+- 可消去的（erasable），800
+- 欧几里得算法（euclidean algorithm），173, 207
+- Euler 示性数（Euler characteristic），769
+- Euler–Grothendieck 群（Euler-Grothendieck group），771
+- Euler $\varphi$ 函数（Euler phi function），94
+- Euler–Poincaré（Euler-Poincaré）
+  - 示性数（characteristic），769, 824
+  - 映射（map），156, 433, 435, 770
+- 求值（evaluation），98, 101
+- 偶置换（even permutation），31
+- 正合的（exact），15, 120
+  - 函子的正合性（for a functor），619
+  - 复形的正合列（sequence of complexes），767
+- 行列式的展开（expansion of determinant），515
+- 指数（exponent）
+  - 元素的指数（of an element），23, 149
+  - 域扩张的指数（of a field extension），293
+  - 群的指数（of a group），23
+  - 模的指数（of a module），149
+- 指数函数（exponential），497
+- Ext（Ext），791, 808, 810, 831, 857
+- 扩张（extension）
+  - 基扩张（of base），623
+  - 导子的扩张（of derivations），375
+  - 域的扩张（of fields），223
+  - 同态的扩张（of homomorphisms），347, 378
+  - 模的扩张（of modules），831
+- 外的（exterior）
+  - 代数（algebra），733
+  - 积（product），733
+- 极端点（extreme point），883
+- 商（factor）
+  - 群（group），14
+  - 模（module），119, 141
+  - 环（ring），89
+- 唯一分解的（factorial），111, 115, 175, 209
+- 忠实的（faithful），28, 334, 649, 664
+- 忠实平坦的（faithfully flat），638
+- 费马定理（Fermat theorem），195, 319
+- 纤维积（fiber product），61, 81
+- 域（field），93
+  - 表示的定义域（of definition of a representation），710
+- 滤过复形（filtered complex），817
+- 滤过（filtration），156, 172, 426, 814, 817
+- 有限的（finite）
+  - 复形（complex），762
+  - 维数（dimension），141, 772, 823
+  - 扩张（extension），223
+  - 域（field），244
+  - 自由消解（free resolution），840
+  - 同调维数（homological dimension），772, 823
+  - 模（module），129
+  - 消解（resolution），763
+  - 序列（sequence），877
+  - 集合（set），877
+  - 型（type），129
+  - 在位下有限（under a place），349
+- 有限生成的（finitely generated）
+  - 代数（algebra），121
+  - 扩张（extension），226
+  - 群（group），66
+  - 模（module），129
+  - 环（ring），90
+- 有限呈示的（finitely presented），171
+- Fitting 理想（Fitting ideal），738–745
+- Fitting 引理（Fitting lemma），440
+- 五引理（five lemma），169
+- 不动的（fixed）
+  - 域（field），261
+  - 点（point），28, 34, 80
+- 平坦的（flat），612, 808
+  - 模的平坦性（for a module），616
+- 遗忘函子（forgetful functor），62
+- 型（form）
+  - 多线性的（multilinear），450, 466
+  - 多项式的（polynomial），384
+- 形式幂级数（formal power series），205
+- Fourier 系数（Fourier coefficients），679
+
+<span class="original-page-anchor" id="pdf-page-912" aria-hidden="true"></span>
+
+- 分式理想（fractional ideal），88
+- 分式（fractions），107
+- 自由的（free）
+  - 阿贝尔群（abelian group），38, 39
+  - 扩张（extension），362
+  - 生成元（generators），137
+  - 群（group），66, 82
+  - 模（module），135
+  - 由集合生成的模（module generated by a set），137
+  - 消解（resolution），763
+- Frey 多项式（Frey polynomial），198
+- Frobenius（Frobenius）
+  - 元素（element），180, 246, 316, 346
+  - 互反律（reciprocity），686, 689
+- 泛函（functionals），142
+- 函子（functor），62
+- 基本群（fundamental group），63
+- $G$ 模或 $(G,k)$ 模（$G$ or $(G,k)$-module），664, 779
+- $G$ 同态（$G$-homomorphism），779
+- $G$ 对象（$G$-object），55
+- $G$ 正则的（$G$-regular），829
+- $G$ 集（$G$-set），25, 27, 55
+- 伽罗瓦（Galois）
+  - 上同调（cohomology），288, 302
+  - 扩张（extension），261
+  - 群（group），252, 262, 269
+  - 理论（theory），262
+- Gauss 引理（Gauss lemma），181, 209, 495
+- Gauss 和（Gauss sum），277
+- 最大公因子（g.c.d.），111
+- Gelfand–Mazur 定理（Gelfand-Mazur theorem），471
+- Gelfand–Naimark 定理（Gelfand-Naimark theorem），406
+- Gelfond–Schneider（Gelfond-Schneider），868
+- 生成与生成元（generate and generators）
+  - 群的（for a group），9, 23, 68
+  - 理想的（for an ideal），87
+  - 模的（for a module），660
+  - 环的（for a ring），90
+- 生成函数或生成幂级数（generating function or power series），211
+- 生成元与关系（generators and relations），68
+- 一般的（generic）
+  - 型（forms），390, 392
+  - 超平面（hyperplane），374
+  - Pfaffian（pfaffian），589
+  - 点（point），383, 408
+  - 多项式（polynomial），272, 345
+- 幽灵分量（ghost components），330
+- $GL_2$（$GL_2$），300, 317, 537, 715
+- $GL_n$（$GL_n$），19, 521, 543, 546, 547
+- 整体截面（global sections），792
+- Goursat 引理（Goursat's lemma），75
+- 分次的（graded）
+  - 代数（algebra），172, 631
+  - 模（module），427, 751, 765
+  - 态射（morphism），765, 766
+  - 对象（object），814
+  - 环（ring），631
+- Gram–Schmidt 正交化（Gram-Schmidt orthogonalization），579, 599
+- Grassman 代数（Grassman algebra），733
+- 最大公因子（greatest common divisor），111
+- Grothendieck（Grothendieck）
+  - 代数与环（algebra and ring），778–782
+  - 群（group），40, 139
+  - 幂级数（power series），218
+  - 谱序列（spectral sequence），819
+- 群（group），7
+  - 代数（algebra），104, 121
+  - 自同构（automorphism），10
+  - 扩张（extensions），827
+  - 同态（homomorphism），10
+  - 对象（object），65
+  - 环（ring），85, 104, 126
+- Hall 猜想（Hall conjecture），197
+- 调和多项式（harmonic polynomials），354, 550
+- Hasse $\zeta$ 函数（Hasse zeta function），255
+- 高度（height），167
+- Herbrand 商（Herbrand quotient），79
+- Hermite–Lindemann（Hermite-Lindemann），867
+- 埃尔米特的（hermitian）
+  - 型（form），533, 571, 579
+  - 线性映射（linear map），534
+  - 矩阵（matrix），535
+- Hilbert（Hilbert）
+  - 零点定理（Nullstellensatz），380, 551
+  - 多项式（polynomial），433
+  - –Serre 定理（-Serre theorem），431
+  - 合冲定理（syzygy theorem），862
+  - 关于多项式环的定理（theorem on polynomial rings），185
+  - 定理 90（theorem 90），288
+  - –Zariski 定理（-Zariski theorem），409
+- 齐次的（homogeneous），410, 427, 631
+  - 代数空间（algebraic space），385
+  - 理想（ideal），385, 436, 733
+  - 整闭包（integral closure），409
+  - 点（point），385
+  - 多项式（polynomial），103, 107, 190, 384, 436
+  - 二次映射（quadratic map），575
+- 同调（homology），445, 767
+  - 同构（isomorphism），767, 836
+- 范畴中的同态（homomorphisms in categories），765
+- 同态（homomorphism）
+  - 复形的同态（of complex），445, 765
+
+<span class="original-page-anchor" id="pdf-page-913" aria-hidden="true"></span>
+
+- 同态（续）（homomorphism (continued)）
+  - 群的同态（of groups），10
+  - 逆系统的同态（of inverse systems），163
+  - 模的同态（of modules），119, 122
+  - 幺半群的同态（of monoid），10
+  - 表示的同态（of representations），125
+  - 环的同态（of rings），88
+- 复形的同伦（homotopies of complexes），787
+- Horrock 定理（Horrock's theorem），847
+- Howe 的证明（Howe's proof），258
+- 双曲的（hyperbolic）
+  - 扩充（enlargement），593
+  - 对（pair），586, 590
+  - 平面（plane），586, 590
+  - 空间（space），590
+- 超平面（hyperplane），542
+  - 截面（section），374, 410
+- 理想（Ideal），86
+  - 类群（class group），88, 126
+- 幂等元（idempotent），443
+- 像（image），11
+- 不可分解的（indecomposable），440
+- 独立的（independent）
+  - 绝对值（absolute values），465
+  - 特征标（characters），283, 676
+  - 模的元素（elements of module），151
+  - 扩张（extensions），362
+  - 变量（variables），102, 103
+- 指数（index），12
+- 诱导的（induced）
+  - 特征标（character），686
+  - 同态（homomorphism），16
+  - 模（module），688
+  - 序（ordering），879
+  - 表示（representation），688
+- 归纳有序的（inductively ordered），880
+- 惯性的（inertia）
+  - 型（form），393
+  - 群（group），344
+- 无限的（infinite）
+  - 循环群（cyclic group），8, 23
+  - 循环模（cyclic module），147
+  - 扩张（extension），223, 235
+  - 伽罗瓦扩张（Galois extensions），313
+  - 周期（period），8, 23
+  - 集合（set），876
+  - 在位下无限（under a place），349
+- 无穷地（infinitely）
+  - 大（large），450
+  - 小（small），450
+- 单射的；内射的（injective）
+  - 映射（map），ix
+  - 模（module），782, 830
+  - 消解（resolution），788, 801, 819
+- 内自同构（inner automorphism），26
+- 不可分的（inseparable）
+  - 次数（degree），249
+  - 扩张（extension），247
+- 模 $n$ 的整数（integers mod $n$），94
+- 整的（integral），334, 351, 352, 409
+  - 闭包（closure），336, 409
+  - 环（domain），91
+  - 方程（equation），334
+  - 扩张（extension），340
+  - 同态（homomorphism），337
+  - 映射（map），357
+  - 根判别法（root test），185
+  - 值多项式（valued polynomials），216, 435
+- 整闭的（integrally closed），337
+- 整性判别法（integrality criterion），352, 409
+- 不变的（invariant）
+  - 基（bases），550
+  - 子模（submodule），665
+- 不变量（invariant）
+  - 线性映射的不变量（of linear map），557, 560
+  - 矩阵的不变量（of matrix），557
+  - 模的不变量（of module），153, 557, 563
+  - 子模的不变量（of submodule），153, 154
+- 逆（inverse），ix, 7
+- 逆极限（inverse limit），50, 51, 161, 163, 169
+  - 伽罗瓦群的逆极限（of Galois groups），313, 328
+- 逆矩阵（inverse matrix），518
+- 可逆的（invertible），84
+- $\operatorname{Irr}(z,k,X)$（$\operatorname{Irr}(z,k,X)$），224
+- 不可约的（irreducible）
+  - 代数集（algebraic set），382, 408
+  - 特征标（character），669, 696
+  - 元素（element），111
+  - 模（module），554
+  - 多项式（polynomial），175, 183
+  - 域元素的不可约多项式（polynomial of a field element），224
+- 无关素理想（irrelevant prime），436
+- 孤立素理想（isolated prime），422
+- 等距同构（isometry），572
+- 同构（isomorphism），10, 54
+  - 表示的同构（of representations），56, 667
+- 稳定子群（isotropy group），27
+- Iss'sa–Hironaka 定理（Iss'sa-Hironaka theorem），498
+- Jacobson（Jacobson）
+  - 稠密性（density），647
+  - 根（radical），658
+- Jordan–Hölder（Jordan-Hölder），22, 156
+- Jordan 标准形（Jordan canonical form），559
+
+<span class="original-page-anchor" id="pdf-page-914" aria-hidden="true"></span>
+
+- $K$ 族（$K$-family），771
+- $K$ 理论（$K$-theory），139, 771–782
+- 核（kernel）
+  - 双线性映射的核（of bilinear map），48, 144, 522, 572
+  - 同态的核（of homomorphism），11, 133
+- Kolchin 定理（Kolchin's theorem），661
+- Koszul 复形（Koszul complex），853
+- Krull（Krull）
+  - 定理（theorem），429
+  - 拓扑（topology），329
+- Krull–Remak–Schmidt（Krull-Remak-Schmidt），441
+- Kummer 扩张（Kummer extensions）
+  - 阿贝尔的（abelian），294–296, 332
+  - 非阿贝尔的（non-abelian），297, 304, 326
+- $L$ 函数（$L$-functions），727
+- $\lambda$ 运算（lambda operation），217
+- $\lambda$ 环（lambda-ring），218, 780
+- Langlands 猜想（Langlands conjectures），316, 319
+- 格（lattice），662
+- 合成律（law of composition），3
+- Lazard 定理（Lazard's theorem），639
+- 首项系数（leading coefficient），100
+- 最小的（least）
+  - 公倍数（common multiple），113
+  - 元素（element），879
+  - 上界（upper bound），879
+- 左的（left）
+  - 陪集（coset），12
+  - 导出函子（derived functor），791
+  - 正合的（exact），790
+  - 理想（ideal），86
+  - 模（module），117
+- 长度（length）
+  - 复形的长度（of complex），765
+  - 滤过的长度（of filtration），433
+  - 模的长度（of module），433, 644
+- 李代数（Lie algebra），548
+- 位于上方（lie above）
+  - 素理想（prime），338
+  - 赋值环（valuation ring），350
+- 提升（lifting），227
+- 线性的（linear）
+  - 组合（combination），129
+  - 相关性（dependence），130
+  - 独立性（independence），129, 150, 283
+  - 映射（map），119
+  - 多项式（polynomial），100
+- 线性无交的（linearly disjoint），360
+- 局部的（local）
+  - 次数（degree），477
+  - 同态（homomorphism），444
+  - 范数（norm），478
+  - 参数（parameter），487
+  - 环（ring），110, 425, 441
+  - 一致化（uniformization），498
+- 局部化（localization），110
+- 局部幂零的（locally nilpotent），418
+- 对数（logarithm），497, 597
+- 对数导数（logarithmic derivative），214, 375
+- Mackey 定理（Mackey's theorems），694
+- MacLane 判别法（MacLane's criterion），364
+- 映射柱（mapping cylinder），838
+- Maschke 定理（Maschke's theorem），666
+- Mason–Stothers 定理（Mason-Stothers theorem），194, 220
+- 矩阵（matrix），503
+  - 双线性映射的矩阵（of bilinear map），528
+  - 非交换环上的矩阵（over non-commutative ring），641
+- 极大的（maximal）
+  - 阿贝尔扩张（abelian extension），269
+  - 阿基米德的（archimedean），450
+  - 元素（element），879
+  - 理想（ideal），92
+- 度量线性映射（metric linear map），573
+- 极小多项式（minimal polynomial），556, 572
+- Mittag–Leffler 条件（Mittag-Leffler condition），164
+- 模形式（modular forms），318, 319
+- 模（module），117
+  - 主理想环上的模（over principal ring），146, 521
+- 模一个理想（modulo an ideal），90
+- Möbius 反演（Moebius inversion），116, 254
+- 首一的（monic），175
+- 幺半群（monoid），3
+  - 代数（algebra），106, 126
+  - 同态（homomorphism），10
+- 单项式（monomial），101
+- 单态射（monomorphism），120
+- Morita 定理（Morita's theorem），660
+- 态射（morphism），53
+  - 复形的态射（of complex），765
+  - 函子的态射（of functor），65, 625, 800
+  - 或表示（or representation），125
+- 多线性映射（multilinear map），511, 521, 602
+- 重根（multiple root），178, 247
+- 乘法的（multiplicative）
+  - 函数（function），116
+  - 域的乘法子群（subgroup of a field），177
+  - 子集（subset），107
+- 重数（multiplicity）
+  - 特征标的重数（of character），670
+  - 根的重数（of root），178
+  - 单模的重数（of simple module），644
+- Nakayama 引理（Nakayama's lemma），424, 661
+- 自然变换（natural transformation），65
+
+<span class="original-page-anchor" id="pdf-page-915" aria-hidden="true"></span>
+
+- 负的（negative），449
+  - 定号的（definite），578
+- Newton 逼近（Newton approximation），493
+- 幂零的（nilpotent），416, 559, 569
+- Noether 正规化（Noether normalization），357
+- 诺特的（Noetherian），186, 210, 408–409, 415, 427
+  - 分次环（graded ring），427
+  - 模（module），413
+- 非交换变量（non-commutative variables），633
+- 非退化的（non-degenerate），522, 572
+- 非奇异的（non-singular），523, 529
+- 范数（norm），284, 578, 637
+  - 向量空间上的范数（on a vector space），469
+  - 有限生成阿贝尔群上的范数（on a finitely generated abelian group），166
+- 正规的（normal）
+  - 基定理（basis theorem），312
+  - 自同态（endomorphism），597
+  - 扩张（extension），238
+  - 子群（subgroup），14
+  - 塔（tower），18
+- 正规化子（normalizer），14
+- Northcott 定理（Northcott theorems），864
+- 零的（null）
+  - 序列（sequence），52
+  - 空间（space），586
+- 零点定理（nullstellensatz），380, 383
+- 出现（occur），102, 176
+- 奇置换（odd permutation），31
+- 一维的（one-dimensional）
+  - 特征标（character），671
+  - 表示（representation），671
+- 开复形（open complex），761
+- 开集（open set），406
+- 作用（operate）
+  - 在模上（on a module），664
+  - 在对象上（on an object），55
+  - 在集合上（on a set），25, 76
+- 轨道（orbit），28
+  - 分解公式（decomposition formula），29
+- 阶（order）
+  - 群的阶（of a group），12
+  - 在 $p$ 处的阶（at $p$），113, 488
+  - 在赋值处的阶（at a valuation），488
+  - 零点的阶（of a zero），488
+- 序（ordering），449, 480, 878
+- 通常的张量积（ordinary tensor product），630
+- 正交的（orthogonal）
+  - 基（basis），572–585
+  - 元素（element），48, 144, 572
+  - 群（group），535
+  - 映射（map），535
+  - 和（sum），572
+- 正交关系（orthogonality relations），677
+- 正交化（orthogonalization），579
+- 标准正交的（orthonormal），577
+- 在映射之上（over a map），229
+- $p$ 进的（$p$-adic）
+  - 整数（integers），51, 162, 169, 488
+  - 数（numbers），488
+- $p$ 类（$p$-class），706
+- $p$ 共轭的（$p$-conjugate），706
+- $p$ 可除的（$p$-divisible），50
+- $p$ 初等的（$p$-elementary），705
+- $p$ 群（$p$-group），33
+- $p$ 正则的（$p$-regular），705
+- $p$ 奇异的（$p$-singular），705
+- $p$ 子群（$p$-subgroup），33
+- 配对（pairing），48
+- 平行四边形法则（parallelogram law），598
+- 部分分式（partial fractions），187
+- 分拆（partition），79
+  - 函数（function），211
+- 完美的（perfect），252
+- 周期（period），23, 148
+- Clifford 代数的周期性（periodicity of Clifford algebra），758
+- 置换（permutation），8, 30
+- 垂直的（perpendicular），48, 144, 522
+- Pfaffian（Pfaffian），589
+- Pic 或 Picard 群（Pic or Picard group），88, 126
+- 位（place），349, 482
+- Poincaré 级数（Poincaré series），211, 431
+- 点（point）
+  - 代数集的点（of algebraic set），383
+  - 域中的点（in a field），408
+- 极分解（polar decomposition），584
+- 极化恒等式（polarization identity），580
+- 极点（pole），488
+- 多项式（polynomial），97
+  - 代数（algebra），97, 633
+  - 函数（function），98
+  - 不变量（invariants），557
+  - 不可约的（irreducible），175, 183
+  - 诺特的（Noetherian），185
+- Pontrjagin 对偶（Pontrjagin dual），145
+- 正的（positive），449
+  - 定号的（definite），578, 583
+- 幂映射（power map），10
+- 幂级数（power series），205
+  - 唯一分解的（factorial），209
+  - 诺特的（Noetherian），210
+- 准素的（primary）
+  - 分解（decomposition），422
+  - 理想（ideal），421
+  - 模（module），421
+
+<span class="original-page-anchor" id="pdf-page-916" aria-hidden="true"></span>
+
+- 素的（prime）
+  - 元素（element），113
+  - 域（field），90
+  - 理想（ideal），92
+  - 环（ring），90
+- 本原的（primitive）
+  - 元素（element），243, 244
+  - 群（group），80
+  - 作用（operation），79
+  - 多项式（polynomials），181, 182
+  - 幂级数（power series），209
+  - 根（root），301
+  - 单位根（root of unity），277, 278
+- 主的（principal）
+  - 同态（homomorphism），418
+  - 理想（ideal），86, 88
+  - 模（module），554, 556
+  - 表示（representation），554
+  - 环（ring），86, 146, 521
+- 积（product）
+  - 范畴中的积（in category），58
+  - 群的积（of groups），9
+  - 模的积（of modules），127
+  - 环的积（of rings），91
+- 有限群的逆极限；投射有限的（profinite），51
+- 投影（projection），388
+- 投射的（projective）
+  - 模（module），137, 168, 848, 850
+  - 消解（resolution），763
+  - 空间（space），386
+- 真包含的（proper），ix
+  - 同余（congruence），492
+- 拉回（pull-back），61
+- 纯不可分的（purely inseparable）
+  - 元素（element），249
+  - 扩张（extension），250
+- 推出（push-out），62, 81
+- 二次的（quadratic）
+  - 扩张（extension），269
+  - 型（form），575
+  - 映射（map），574
+  - 符号（symbol），281
+- 二次闭的（quadratically closed），462
+- 四元数（quaternions），9, 545, 723, 758
+- Quillen–Suslin 定理（Quillen-Suslin theorem），848
+- 商（quotient）
+  - 域（field），110
+  - 环（ring），107
+- 根（radical）
+  - 理想的根（of an ideal），388, 417
+  - 环的根（of a ring），661
+  - 整数的根基（of an integer），195
+- Ramanujan 幂级数（Ramanujan power series），212
+- 分歧指数（ramification index），483
+- 秩（rank），42, 46
+  - 矩阵的秩（of a matrix），506
+- 有理的（rational）
+  - 共轭类（conjugacy class），276, 326, 725
+  - 元素（element），714
+  - 函数（function），110
+- 实的（real），451
+  - 闭的（closed），451
+  - 闭包（closure），452
+  - 位（place），462
+  - 零点（zero），457
+- 约化的（reduced）
+  - 分解（decomposition），422, 443
+  - 多项式（polynomial），177
+- 约化（reduction）
+  - 判别法（criterion），185
+  - 映射（map），99, 102
+  - 模理想约化（modulo an ideal），446, 623
+  - 模 $p$ 约化（mod $p$），623
+- 塔的加细（refinement of a tower），18
+- 正则的（regular）
+  - 特征标（character），675, 699
+  - 扩张（extension），366
+  - 模（module），699, 829
+  - 表示（representation），675, 829
+  - 序列（sequence），850
+- 关系（relations），68
+- 相对不变量（relative invariant），171, 327
+- 互素的（relatively prime），113
+- 表示（representation），55, 124, 126
+  - 函子（functor），64
+  - 群的表示（of a group），55, 317, 664
+  - 环的表示（of a ring），553
+  - 空间（space），667
+- 剩余类（residue class），91
+  - 次数（degree），422, 483
+  - 环（ring），91
+- 消解（resolution），763, 798
+- 结式（resultant），200, 398, 410
+  - 系（system），403
+  - 簇（variety），393
+- Ribet（Ribet），319
+- Rieffel 定理（Rieffel's theorem），655
+- 黎曼曲面（Riemann surface），275
+- Riemann–Roch（Riemann-Roch），212, 218, 220, 258
+- 右的（right）
+  - 陪集（coset），12, 75
+  - 导出函子（derived functor），791
+  - 正合函子（exact functor），791, 798
+
+<span class="original-page-anchor" id="pdf-page-917" aria-hidden="true"></span>
+
+- 右的（续）（right (continued)）
+  - 理想（ideal），66
+  - 模（module），117
+- 刚性的（rigid），275
+- 刚性定理（rigidity theorem），276
+- 环（ring），83
+  - 同态（homomorphism），88
+  - 分式环（of fractions），107
+- 根（root），175
+  - 单位根（of unity），177, 276
+- 行（row）
+  - 运算（operation），154
+  - 秩（rank），506
+  - 向量（vector），503
+- $S_3$ 与 $S_4$（$S_3$ and $S_4$），722
+- 标量积（scalar product），571
+- Schanuel（Schanuel）
+  - 猜想（conjecture），873
+  - 引理（lemma），841
+- Schreier 定理（Schreier's theorem），22
+- Schroeder–Bernstein 定理（Schroeder-Bernstein theorem），885
+- Schur（Schur）
+  - 伽罗瓦群（Galois groups），274
+  - 引理（lemma），643
+- Schwarz 不等式（Schwarz inequality），578, 580
+- 截面（section），64, 792
+- 自伴随的（self-adjoint），581
+- 半直积（semidirect product），15, 76
+- 半线性的（semilinear），532
+- 半范数（seminorm），166, 475
+- 半正的（semipositive），583, 597
+- 半单的（semisimple）
+  - 自同态（endomorphism），569, 661
+  - 模（module），554, 647, 659
+  - 表示（representation），554, 712
+  - 环（ring），651
+- 可分的（separable）
+  - 闭包（closure），243
+  - 次数（degree），239
+  - 元素（element），240
+  - 扩张（extension），241, 658
+  - 多项式（polynomial），241
+- 可分生成的（separably generated），363
+- 分离超越基（separating transcendence basis），363
+- 序列（sequence），875
+- Serre 猜想（Serre's conjecture），848
+  - 定理（theorem），844
+- 半双线性型（sesquilinear form），532
+- Shafarevich 猜想（Shafarevich conjecture），314
+- 层（sheaf），792
+- 置换的符号（sign of a permutation），31, 77
+- 单的（simple）
+  - 特征标（character），669
+  - 群（group），20
+  - 模（module），156, 554, 643
+  - 环（ring），653, 655
+  - 根（root），247
+- $SL_n$ 的单性（simplicity of $SL_n$），539, 542
+- 矩阵的大小（size of a matrix），503
+- 斜对称的（skew symmetric），526
+- $SL_2$（$SL_2$），69, 537, 539, 546
+  - 生成元与关系（generators and relations），69, 70, 537
+- $SL_n$（$SL_n$），521, 539, 541, 547
+- 蛇引理（snake lemma），158, 169, 614–621
+- Snyder 的证明（Snyder's proof），220
+- 可解的（solvable）
+  - 扩张（extension），291, 314
+  - 群（group），18, 293, 314
+  - 根式可解的（by radicals），292
+- 环的谱（spec of a ring），405, 410
+- 特殊线性群（special linear group），14, 52, 59, 69, 541, 546, 547
+- 特化（specializing），101
+- 特化（specialization），384
+- 谱的（spectral）
+  - 序列（sequence），815–825
+  - 定理（theorem），581, 583, 585
+- 分裂正合列（split exact sequence），132
+- 分裂域（splitting field），235
+- 方形；平方（square）
+  - 矩阵（matrix），504
+  - 四元群（group），9, 77, 270
+  - 算子的平方根（root of operator），584
+- 稳定自由的（stably free），840
+  - 维数（dimension），840
+- 稳定同构的（stably isomorphic），841
+- 茎（stalk），161
+- 标准的（standard）
+  - 复形（complex），764
+  - 交替矩阵（alternating matrix），587
+- Steinberg 定理（Steinberg theorem），726
+- Stewart–Tijdeman（Stewart-Tijdeman），196
+- 严格归纳有序的（strictly inductively ordered），881
+- 遗忘函子（stripping functor），62
+- Sturm 定理（Sturm's theorem），454
+- 子群（subgroup），9
+- 子模（submodule），118
+- 子幺半群（submonoid），6
+- 子对象（subobject），134
+- 子环（subring），84
+- 子序列（subsequence），876
+- 子空间（subspace），141
+- 代入（substituting），98, 101
+
+<span class="original-page-anchor" id="pdf-page-918" aria-hidden="true"></span>
+
+- 超的（super）
+  - 代数（algebra），632
+  - 交换子（commutator），757
+  - 积（product），631, 751
+  - 张量积（tensor product），632, 751
+- 超可解的（supersolvable），702
+- 支集（support），419
+- 满射的（surjective），ix
+- 西洛群（Sylow group），33
+- Sylvester 定理（Sylvester's theorem），577
+- 对称的（symmetric）
+  - 代数（algebra），635
+  - 自同态（endomorphism），525, 585, 597
+  - 型（form），525, 571
+  - 群（group），28, 30, 269, 272–274
+  - 矩阵（matrix），530
+  - 多线性映射（multilinear map），635
+  - 多项式（polynomial），190, 217
+  - 积（product），635, 781, 861
+- 辛的（symplectic），535
+  - 基（basis），599
+- 合冲定理（syzygy theorem），862
+- Szpiro 猜想（Szpiro conjecture），198
+- Taniyama–Shimura 猜想（Taniyama-Shimura conjecture），316, 319
+- Tate 群（Tate group），50, 163, 169
+  - 极限（limit），598
+- Taylor 级数（Taylor series），213
+- 张量（tensor），581, 628
+  - 代数（algebra），633
+  - 正合的（exact），612
+  - 积（product），602, 725
+  - 复形的张量积（product of complexes），832, 851
+  - 张量积表示（product representation），725, 799
+- Tits 的自由群构造（Tits construction of free group），81
+- tor（表示挠）（tor (for torsion)），42, 47, 149
+- Tor（Tor），622, 791
+  - 维数（dimension），622
+- Tornheim 的证明（Tornheim proof），471
+- 挠（torsion）
+  - 无挠的（free），45, 147
+  - 模（module），147, 149
+- 全的（total）
+  - 复形（complex），815
+  - 次数（degree），103
+- 全序的（totally ordered），879
+- 塔（tower）
+  - 域塔（of fields），225
+  - 群塔（of groups），18
+- 迹（trace）
+  - 元素的迹（of element），284, 666
+  - 线性映射的迹（of linear map），511, 570
+  - 矩阵的迹（of matrix），505, 511
+- 超越（transcendence）
+  - 基（basis），356
+  - 次数（degree），355
+  - $e$ 的超越性（of $e$），867
+- 超越的（transcendental），99
+- 传递的（transitive），28, 79
+- 平移（translation），26, 227
+- 转置（transpose）
+  - 双函子的转置（of bifunctor），808
+  - 线性映射的转置（of linear map），524
+  - 矩阵的转置（of matrix），505
+- 对换（transposition），13
+- 剪切变换（transvection），542
+- 三角次数（trigonometric degree），115
+  - 三角多项式（polynomial），114, 115
+- 平凡的（trivial）
+  - 特征标（character），282
+  - 作用（operation），664
+  - 表示（representation），664
+  - 子群（subgroup），9
+  - 赋值（valuation），465
+- 双边理想（two-sided ideal），86, 655
+- 类型（type）
+  - 阿贝尔群的类型（of abelian group），43
+  - 模的类型（of module），149
+- 幺模的（unimodular），846
+  - 扩张性质（extension property），849
+- 幺幂的（unipotent），714
+- 唯一分解（unique factorization），111, 116
+- 唯一可除的（uniquely divisible），575
+- 可逆元（unit），84
+  - 单位元（element），3, 83
+  - 单位理想（ideal），87
+- 酉的（unitary），535, 583
+- 通用的（universal），37
+  - $\delta$ 函子（delta-functor），800
+  - 导子（derivation），746
+- 普遍地（universally）
+  - 吸引的（attracting），57
+  - 排斥的（repelling），57
+- 上界（upper bound），879
+- 上三角群（upper diagonal group），19
+- 赋值（valuation），465
+- 赋值环（valuation ring），348, 481
+  - 由序决定的赋值环（determined by ordering），450, 452
+- 值群（value group），480
+- Vandermonde 行列式（Vandermonde determinant），257–259, 516
+- 消失理想（vanishing ideal），38
+- 变量（variable），99, 104
+- 符号变化数（variation of signs），454
+
+<span class="original-page-anchor" id="pdf-page-919" aria-hidden="true"></span>
+
+- 簇（variety），382
+- 向量空间（vector space），118, 139
+- 体积（volume），735
+- Warning 定理（Warning's theorem），214
+- Wedderburn 定理（Wedderburn's theorem），649
+- Weierstrass（Weierstrass）
+  - 次数（degree），208
+  - 多项式（polynomial），208
+  - 预备定理（preparation theorem），208
+- 权（weight），191
+- 性态良好的（well-behaved），410, 478
+- 良定义的（well-defined），x
+- 良序（well-ordering），891
+- Weyl 群（Weyl group），570
+- Witt 群（Witt group），594, 599
+  - 定理（theorem），591
+  - 向量（vector），330, 492
+- Witt–Grothendieck 群（Witt-Grothendieck group），595
+- Zariski–Matsusaka 定理（Zariski-Matsusaka theorem），372
+- Zariski 拓扑（Zariski topology），407
+- Zassenhaus 引理（Zassenhaus lemma），20
+- 零（zero）
+  - 因子（divisor），91
+  - 元素（element），3
+  - 理想的零点（of ideal），390, 405
+  - 多项式的零点（of polynomial），102, 175, 379, 390
+- $\zeta$ 函数（zeta function），211, 212, 255
+- Zorn 引理（Zorn's lemma），880, 884

@@ -1,0 +1,1390 @@
+{
+  "schemaVersion": 1,
+  "source": "D:/Download/Algebra.pdf",
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "chapter": "IV. Polynomials (PDF188–235); Part Two introduction (PDF236–237)",
+  "assignedPdfPages": [
+    188,
+    237
+  ],
+  "printedPages": [
+    "173",
+    "222"
+  ],
+  "status": "complete",
+  "reviewer": "/root/algebra_preface",
+  "reviewedAt": "2026-10-11",
+  "integrityValidation": {
+    "command": "python -X utf8 tmp/pdfs/algebra/verify-audit-preface-188-237.py",
+    "auditedPages": 50,
+    "markdownFiles": 100,
+    "matchingDigestPairs": 50,
+    "errors": []
+  },
+  "method": "Personally viewed every original PNG for PDF188–237 and compared the complete English transcription and Chinese translation, including every inline/display formula, heading, paragraph, proof step, exercise and hint, cross-page fragment, and printed source-correction note. The determinant crop was separately viewed and compared with the original. Unclear equality on PDF217 was checked with an original high-resolution crop. Equivalence and implicit context were distinguished from genuine source errors. No delegation was used for this independent second review.",
+  "originalImagePagesViewed": [
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237
+  ],
+  "englishChinesePagesCompared": [
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237
+  ],
+  "unreviewedPages": [],
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 188,
+      "printedPage": "173",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all headings, paragraphs, definitions, statements, proof steps and cross-page fragments",
+      "notes": [
+        "核对第 IV 章开篇、§1 和定理 1.1 的跨页条件；保留原文 Chapter XV 引用。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        188,
+        188
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0188.md",
+      "chinesePath": "source/algebra/zh/pdf-0188.md",
+      "englishSha256": "1c25539cc86005f58de71ad8f6228b555b6f4ee286ca44ff71b3fb2638c4e729",
+      "chineseSha256": "5e1ff25d0849340ed9dce816afa19efa8b01e63ee2cae588eb0665f68fb70597",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 189,
+      "printedPage": "174",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all headings, paragraphs, definitions, statements, proof steps and cross-page fragments",
+      "notes": [
+        "逐式核对欧几里得除法存在性与唯一性证明，以及定理 1.2。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        189,
+        189
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0189.md",
+      "chinesePath": "source/algebra/zh/pdf-0189.md",
+      "englishSha256": "8a10c55f75a78448b77667b1eecfb342ceb11e66c0a5195aedacf8e4d24ea804",
+      "chineseSha256": "acc3a5dd5df5bd6dc543629567504cfd19e651de2a5837dbb3599eeadbdfef44",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 190,
+      "printedPage": "175",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all headings, paragraphs, definitions, statements, proof steps and cross-page fragments",
+      "notes": [
+        "核对主理想证明、唯一分解推论、不可约/首一定义、根及零点定义、定理 1.4 与证明。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        190,
+        190
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0190.md",
+      "chinesePath": "source/algebra/zh/pdf-0190.md",
+      "englishSha256": "c2192736f109f3aa91dbfedf7c01a654492a916dec630cd094d0419404aa0c92",
+      "chineseSha256": "4f1512667eeb3ab1153687c5f34bc80014ee7412d5f3b7dae112b1d9dcb54be0",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 191,
+      "printedPage": "176",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all statements, definitions, paragraphs, proofs and cross-page fragments",
+      "notes": [
+        "核对无限集合上的多项式函数推论 1.5–1.7、归纳证明及有限域降幂。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        191,
+        191
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0191.md",
+      "chinesePath": "source/algebra/zh/pdf-0191.md",
+      "englishSha256": "b0f7dfcec91749fa78f5e0a46aa08dab37adbc60b161f727df1db9c60aebb3b0",
+      "chineseSha256": "fe0049182f8f8d36707b85b3aa18abed82d0f0d1786f477bee26b83ddf889127",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 192,
+      "printedPage": "177",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all statements, definitions, paragraphs, proofs and cross-page fragments",
+      "notes": [
+        "核对推论 1.8、约化多项式唯一性、乘法子群循环性和单位根。",
+        "原书 Theorem 1.8 与实际 Corollary 1.8 不一致；英文保持、中文已有清晰译校注，确认该注正确。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        192,
+        192
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0192.md",
+      "chinesePath": "source/algebra/zh/pdf-0192.md",
+      "englishSha256": "f93ca205ca9fa95ac2c6ede520809797df2ab8525a3dc2949d1a48a8c3c3c899",
+      "chineseSha256": "e471d0dbd1d0b04edff4565a1a448b902b6ac50a9a3ed8132faf38b7022b4e98",
+      "existingReviewNotesCompared": [
+        "原文 Theorem 1.8 是对本页 Corollary 1.8 的误称；英文照原保留，中文以推论引用并附可见译校注。"
+      ]
+    },
+    {
+      "pdfPage": 193,
+      "printedPage": "178",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all statements, definitions, paragraphs, proofs and cross-page fragments",
+      "notes": [
+        "核对单位根指数、代数闭分解式、导数及乘积法则、重数定义。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        193,
+        193
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0193.md",
+      "chinesePath": "source/algebra/zh/pdf-0193.md",
+      "englishSha256": "8fdbeed1973ea26e4dbdd28a095bbc6ad9fe028d0023c7ab13784b6dac2f7113",
+      "chineseSha256": "baf39a40fe473c889c5858ee29f652f7bfccb8602bab53c3f3595a4f6fccfdb9",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 194,
+      "printedPage": "179",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all hypotheses, statements, definitions, paragraphs, proof steps and cross-page fragments",
+      "notes": [
+        "核对重根导数判别、特征 p 中零导数的指数条件、二项式及 Frobenius 迭代。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        194,
+        194
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0194.md",
+      "chinesePath": "source/algebra/zh/pdf-0194.md",
+      "englishSha256": "ae21acca7f9689ce1efcc38738ef72f6c84ea5be5abfdf88c7509c64f1edc9e1",
+      "chineseSha256": "bc2cea9c19f198a9580f37b1f8ff4dbb3c2ae240be1fde856a7a2df12592839a",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 195,
+      "printedPage": "180",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all hypotheses, statements, definitions, paragraphs, proof steps and cross-page fragments",
+      "notes": [
+        "核对 p^r 次幂、唯一根重数、§2 中 p 处阶的定义与乘积加法式。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        195,
+        195
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0195.md",
+      "chinesePath": "source/algebra/zh/pdf-0195.md",
+      "englishSha256": "4048860c2aaf5ebde22d569d110c2d7c1a482b32b6af3be58809acedb1d6a1be",
+      "chineseSha256": "017bf3dcc725b81ba2b50dfeb371cf3d778ee6d36c4122c6f0265eaf4145f2f8",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 196,
+      "printedPage": "181",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all hypotheses, statements, definitions, paragraphs, proof steps and cross-page fragments",
+      "notes": [
+        "核对 content 定义、Gauss 引理、a_r/b_s 系数选择及 r+s 次项完整展开和证明。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        196,
+        196
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0196.md",
+      "chinesePath": "source/algebra/zh/pdf-0196.md",
+      "englishSha256": "7f4a1340f22900596fc0df60835561913357fb71780a62769239ec2a4d136b3e",
+      "chineseSha256": "1b45f21755870d0062d27cbc18bfe941fdbf3815872b825ddf62e0e8b3e769a2",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 197,
+      "printedPage": "182",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all statements, hypotheses, examples, paragraphs and proof steps",
+      "notes": [
+        "核对约化法第二证明、Corollary 2.2 与多项式环唯一分解证明。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        197,
+        197
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0197.md",
+      "chinesePath": "source/algebra/zh/pdf-0197.md",
+      "englishSha256": "19d3950281a76a41a4a80612e6a473e091346b67c3588d69462f7e108ddc4f45",
+      "chineseSha256": "4732ca062c30bcf2cb2668c3a66bce156b3a56134d8a4666433cae3a5ec0cfe6",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 198,
+      "printedPage": "183",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all statements, hypotheses, examples, paragraphs and proof steps",
+      "notes": [
+        "核对 n 元多项式推论、非主理想例子、X^4+4 分解及 Eisenstein 三项假设。",
+        "K[X] 在此沿用变量元组约定，不将该记法当作原书错误。"
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        198,
+        198
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0198.md",
+      "chinesePath": "source/algebra/zh/pdf-0198.md",
+      "englishSha256": "6dba8d61e02013186f7d5ac63031ac4b17a3369ce7ff9e7199387a88dccbd3d0",
+      "chineseSha256": "03a4091fa9ddaf0e9de326be73771370de2e14b0769ca38fd49a9a86ecbae9be",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 199,
+      "printedPage": "184",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "all statements, hypotheses, examples, paragraphs and proof steps",
+      "notes": [
+        "核对 Eisenstein 完整证明、无平方因子例、分圆多项式及平移后分式。"
+      ],
+      "changes": [
+        "中文将 content 误用的“容量”改为本节既定数学术语“容度”。"
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        199,
+        199
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0199.md",
+      "chinesePath": "source/algebra/zh/pdf-0199.md",
+      "englishSha256": "2b5abb86977a284adfa44b6f04b5963caa5f6c3606443aad30c63f5366a60071",
+      "chineseSha256": "5e797f97adf0288243df7741475089156612aaedfd4f2f460dd33ca6b027f316",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 200,
+      "printedPage": "185",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete continuation, Theorem 3.2 and proof, reduction examples, Proposition 3.3 Integral Root Test and all divisibility hypotheses.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        200,
+        200
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0200.md",
+      "chinesePath": "source/algebra/zh/pdf-0200.md",
+      "englishSha256": "e96154c9a72ee9131b1453eb31563072040fdc34a8cd2c4892c545b1fa392e61",
+      "chineseSha256": "957391f5094c0f1da02b228a46c47db51e17d8aaeb3d329eef51472d77632492",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 201,
+      "printedPage": "186",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete Integral Root Test continuation, §4 Hilbert theorem, ascending leading-coefficient ideals, generator array and induction fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        201,
+        201
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0201.md",
+      "chinesePath": "source/algebra/zh/pdf-0201.md",
+      "englishSha256": "6cf5575b57dbeb723eeef1e28f33fa1bb9827f9c77b55660302231f08f7d482e",
+      "chineseSha256": "97a63c5a9347c9a14f214366c5b1f10e5efcc599117c66bba2bb3a36b3e159e1",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 202,
+      "printedPage": "187",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete Hilbert theorem induction, quotient ideal proof, Corollary 4.2 and proof, §5 Partial Fractions and Theorem 5.1 opening.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        202,
+        202
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0202.md",
+      "chinesePath": "source/algebra/zh/pdf-0202.md",
+      "englishSha256": "ea4d787d497c9e3d22ac84820ada918be9fdfa4d530f4a4a6508cf94bc9cb1e2",
+      "chineseSha256": "5a2affb2a623f4631510711ea56a6e701ba7f13bea542d96eb46fa6dbabf4dd1",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 203,
+      "printedPage": "188",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 5.1 completion and full existence/uniqueness proof; rational function application and normalization.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        203,
+        203
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0203.md",
+      "chinesePath": "source/algebra/zh/pdf-0203.md",
+      "englishSha256": "9fc290228783bea51e37644750b071cd146eaa7f1584a3d48d5a1323729c0f73",
+      "chineseSha256": "a315a8161954ed60286f5ddc630681c12069a4335b24a4e565b1c76fca0b7c03",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 204,
+      "printedPage": "189",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorems 5.2–5.3, all coprimality/degree conditions, full proofs through final page fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        204,
+        204
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0204.md",
+      "chinesePath": "source/algebra/zh/pdf-0204.md",
+      "englishSha256": "6467a5b5d01180ed10e421df138ed0e60d6c436b560ee8905cfb1deebb3447ca",
+      "chineseSha256": "f526309c0788e7a911600777734dc0f34442d4a0b60391fbc6db0d532ad9a053",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 205,
+      "printedPage": "190",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 5.3 uniqueness completion, g-adic expansion, remark, §6 symmetric polynomials and complete opening definitions.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        205,
+        205
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0205.md",
+      "chinesePath": "source/algebra/zh/pdf-0205.md",
+      "englishSha256": "f7bea06402b6cbcfaf11b42ec0688de7ec8747399f117541ebd2c53d42723353",
+      "chineseSha256": "cb549791c8564e5a16710cde3c4f193e230449614bd97bd7a138c30d37c8fbc6",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 206,
+      "printedPage": "191",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Weight definitions and Theorem 6.1; both induction arguments and all leading/product factors.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        206,
+        206
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0206.md",
+      "chinesePath": "source/algebra/zh/pdf-0206.md",
+      "englishSha256": "bc9752c62823343899e655f2ddbfe3ad226af5d776775eba7e9dc26f060f7f0a",
+      "chineseSha256": "c247e5616ecc8850ec53021b6739fbf06bc1f97baead0a624e6e051e9919b8f8",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 207,
+      "printedPage": "192",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 6.1 completion; full algebraic independence proof and discriminant example opening.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        207,
+        207
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0207.md",
+      "chinesePath": "source/algebra/zh/pdf-0207.md",
+      "englishSha256": "097eeeb11dbf31a6c338e5bddc3b3b4aab9c078541aa93dac062402e46f7ae3d",
+      "chineseSha256": "3ede440e85909a7cf55756cbbbb1dc37decc31ec4b199d0c0f4d4339697c48ce",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 208,
+      "printedPage": "193",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Discriminant definitions, quadratic/cubic cases, weight equation and two universal coefficient evaluations; existing source-misprint note evaluated.",
+      "notes": [
+        "The depressed cubic has t1+t2+t3=0; source two-root-variable homogeneity is valid after eliminating t3."
+      ],
+      "changes": [
+        "Restored Chinese t1,t2 and removed unsupported source-misprint note alleging omitted t3; review notes corrected."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        208,
+        208
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0208.md",
+      "chinesePath": "source/algebra/zh/pdf-0208.md",
+      "englishSha256": "a231353dd6ad8810d676c778be761d5db361fd71f615fa6fe8565cdaba1d3d67",
+      "chineseSha256": "fb5b123701e40163a2c73c0779d21e5cfc8f7add5f1ac51ea33eda0092a139ab",
+      "existingReviewNotesCompared": [
+        "第二遍审校恢复原文关于 t1,t2 为6次齐次的表述，移除将其判定为遗漏 t3 的校注。此处 f=X³+aX+b 的根满足 t1+t2+t3=0，消去 t3 后判别式确为 t1,t2 的六次齐次式；不能将隐含根关系当作原书错误。"
+      ]
+    },
+    {
+      "pdfPage": 209,
+      "printedPage": "194",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "General cubic translation and root differences, §7 definitions and Theorem 7.1 opening/proof; nondegeneracy source note checked.",
+      "notes": [
+        "The existing visible note is valid: the printed Mason–Stothers hypotheses allow nonzero constants 1+1=2, which violate the printed bound; nonzero, not-all-constant conditions are needed."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        209,
+        209
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0209.md",
+      "chinesePath": "source/algebra/zh/pdf-0209.md",
+      "englishSha256": "6f2a8feee7164dd906c0be8f971864933eaac470199bb25971c221510664c897",
+      "chineseSha256": "2b41b8818db20bd750b2173a023178ee8816d54bfa4c6583b90527e829bf030f",
+      "existingReviewNotesCompared": [
+        "Mason-Stothers 定理原文漏写 a,b,c 非零且不全为常数的必要条件；英文照原，中文保留原表述并附可见译校注与常数反例。"
+      ]
+    },
+    {
+      "pdfPage": 210,
+      "printedPage": "195",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete logarithmic derivative proof, polynomial Fermat application, Davenport theorem with degree inequality.",
+      "notes": [
+        "Cross-checked PDF230 Exercise 13(a) and PDF214 extremal example: +1 is the sharp bound; printed −1 is weaker rather than false."
+      ],
+      "changes": [
+        "Added visible Chinese cross-reference clarifying the stronger +1 Davenport bound without changing printed −1."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        210,
+        210
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0210.md",
+      "chinesePath": "source/algebra/zh/pdf-0210.md",
+      "englishSha256": "de831d3a7784df9c977abf900ec56403dc8d2304708e1b51f036bf977e77be91",
+      "chineseSha256": "50cef483d95786cb6a35dec455eb941239f95fc8ec28d8b227c1cb134de6259e",
+      "existingReviewNotesCompared": [
+        "第二遍审校对照PDF230习题13(a)和PDF214极值例：正文Davenport界印作1/2 deg f−1，习题锐利界为+1。英文与中文正文保留较弱原式，中文添加可见交叉说明；没有将较弱的真不等式判定为假。"
+      ]
+    },
+    {
+      "pdfPage": 211,
+      "printedPage": "196",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "abc radical/conjecture, epsilon counterexamples, natural-number rearrangement note, asymptotic Fermat theorem.",
+      "notes": [
+        "Natural-number note accurately distinguishes the displayed signed equation from its equivalent positive reordering; original expression retained."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        211,
+        211
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0211.md",
+      "chinesePath": "source/algebra/zh/pdf-0211.md",
+      "englishSha256": "a235749f9686335731468554e22fd23d1713ec51bd522a3257d4504e0940ad5a",
+      "chineseSha256": "7146171b9d36cec562f323e9042c7267c5a3da852a271c9178f058b6b057b194",
+      "existingReviewNotesCompared": [
+        "原文要求自然数 a,b,c，却写 3^(2^n)-1=c_n 作 a_n+b_n=c_n 例子。中文可见译校注给出等价正整数重排；正文与英文保留印出方程。"
+      ]
+    },
+    {
+      "pdfPage": 212,
+      "printedPage": "197",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete Hall conjecture and explanatory text, all Lang–Waldschmidt bounds/exponents (1); source mv note checked.",
+      "notes": [
+        "Source explicitly prints mv>m+n; note explaining mn>m+n is justified by denominator positivity and exponent roles."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        212,
+        212
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0212.md",
+      "chinesePath": "source/algebra/zh/pdf-0212.md",
+      "englishSha256": "2ee2be75981fe271caf2f9f799c651148f8fae73b70b323e90c48e57a048ecad",
+      "chineseSha256": "4c82e81ff3a15696cae0e4efd5b22072d611659fdc06da356c66e2a13656ed14",
+      "existingReviewNotesCompared": [
+        "Source misprint: mv>m+n should read mn>m+n; visually confirmed with enlarged crop. Printed expression retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 213,
+      "printedPage": "198",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete bounds (2), bounded-common-factor argument, generalized Szpiro explanation, Frey polynomial and translation.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        213,
+        213
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0213.md",
+      "chinesePath": "source/algebra/zh/pdf-0213.md",
+      "englishSha256": "36ddfe51d1cca8c2392714f078fbfd767c68fee6d24f815f6bc5cd90769d385a",
+      "chineseSha256": "e430a9e9cbf7fbe784caaec7648c6a5a38a9b0a52c5964d1faddfd646c4b0341",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 214,
+      "printedPage": "199",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete generalized Szpiro implication, polynomial example and all four bibliography entries; source Frey sign note checked.",
+      "notes": [
+        "Source x(x−3a)(x−3b) sign note is valid for preceding Frey polynomial and claimed 3^6(abc)^2 discriminant.",
+        "Source Davenport inequality on PDF210 has −1 while this extremal example uses +1; retained for further exercise cross-check."
+      ],
+      "changes": [
+        "Chinese asymptotic Fermat 猜想 corrected to 定理, consistent with PDF211 named theorem."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        214,
+        214
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0214.md",
+      "chinesePath": "source/algebra/zh/pdf-0214.md",
+      "englishSha256": "61392e45397cd54f05105b90371edc56c0c9f6f6db2dfc1f3495f6f376bfe44a",
+      "chineseSha256": "318e459b57f97c7204e1da75276b6cf00318bffaabd42b7c2dc4e6e827409d7c",
+      "existingReviewNotesCompared": [
+        "Source misprint: x(x-3a)(x-3b) should read x(x-3a)(x+3b), consistent with the preceding Frey polynomial and discriminant. Printed expression retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 215,
+      "printedPage": "200",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete seven bibliography entries, §8 assumptions and two general polynomials, full resultant determinant image and blank-space instruction.",
+      "notes": [
+        "Personally viewed the embedded determinant crop: full braces m,n,m+n and all shifted coefficient rows are preserved."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        215,
+        215
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0215.md",
+      "chinesePath": "source/algebra/zh/pdf-0215.md",
+      "englishSha256": "6ac23d344a350657ca5c58527deb7546b5e89cdb5c5cca08605bc542d6621f31",
+      "chineseSha256": "324ed07b95467dc57e9aebfe11633ba299fa78f69ded5bdd72bf5ed1725694db",
+      "existingReviewNotesCompared": [
+        "Original resultant determinant cropped at high resolution, visually inspected, and preserved as /library/volume-86/diagrams/pdf-0215-resultant.png."
+      ]
+    },
+    {
+      "pdfPage": 216,
+      "printedPage": "201",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Specialization definition, bidegrees/monomial, full linear equation array and Cramer relation; off-by-one source note checked.",
+      "notes": [
+        "Matrix has m+n columns; source C_0,…,C_{m+n} and associated determinant indices are one too large. Existing adjacent note correct."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        216,
+        216
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0216.md",
+      "chinesePath": "source/algebra/zh/pdf-0216.md",
+      "englishSha256": "2ed8ef3d3d4631dde200f2a908efa6544955604d0ca469105322ae804c941dd7",
+      "chineseSha256": "483550fd3bea3f4ac70d50ce23528d05b7d0effa8f3bbbec678e9d0b6ec4d65f",
+      "existingReviewNotesCompared": [
+        "Source off-by-one column indices: m+n columns numbered from C_0 end at C_{m+n-1}. Printed indices retained; visible Chinese editorial note gives corrected determinant relation."
+      ]
+    },
+    {
+      "pdfPage": 217,
+      "printedPage": "202",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Universal Bezout relation, specialization, Proposition 8.1, Lemma 8.2, root/coefficient substitutions and Proposition 8.3; resultant parameter source notes checked.",
+      "notes": [
+        "Source prints Res(f_v,f_w) and Res(f_a,f_b); existing note correctly identifies g_w,g_b as the defined second polynomial.",
+        "Inspected high-resolution original polynomial equality after potentially unclear raster; both equality signs present and transcription accurate."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        217,
+        217
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0217.md",
+      "chinesePath": "source/algebra/zh/pdf-0217.md",
+      "englishSha256": "8a93d7b4bf370b3748d88ee4b28781cb1754a8e3547ee5910a189043729bd484",
+      "chineseSha256": "de55f60ec36b7875e60a6d46ce6b92d3ad097724c2841f6769e27b25c8111c00",
+      "existingReviewNotesCompared": [
+        "Source misprints in two resultant expressions: f_w and f_b should be g_w and g_b. Printed expressions retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 218,
+      "printedPage": "203",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Proposition 8.3 proof with product formulas (1)–(3), coefficient comparison, Corollary 8.4 and proof opening.",
+      "notes": [
+        "Source beta_n instead of beta_m is a genuine degree-index mismatch; existing note accurately identifies it."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        218,
+        218
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0218.md",
+      "chinesePath": "source/algebra/zh/pdf-0218.md",
+      "englishSha256": "52ed393b95579293bffa3814318b3eda8dee48851ab245a2c555067b2047d3f2",
+      "chineseSha256": "0aa3a151ba819894b2462ebb40c0b5dec58e53572cb5e6c56448c5465add0183",
+      "existingReviewNotesCompared": [
+        "Source misprint: final root of degree-m polynomial g_b printed beta_n, should be beta_m. Printed expression retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 219,
+      "printedPage": "204",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Corollary 8.4 continuation, derivative products (4), discriminant definition and Proposition 8.5 (5), sign explanation and references.",
+      "notes": [
+        "Source f_a,f_b common-root statement uses the undefined second f instead of g_b; existing note correct. Discriminant signs and exponents checked."
+      ],
+      "changes": [
+        "Chinese bibliography locator restored to neutral '第 I 卷，50' rather than inferring source 50 means section 50."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        219,
+        219
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0219.md",
+      "chinesePath": "source/algebra/zh/pdf-0219.md",
+      "englishSha256": "1f8e02c18797fca5141fb3d218dd7dcf26be31f6206228bf0cde0b2a9753bde8",
+      "chineseSha256": "b3002cc2d37e9109939d15bea7c4e07fe85d65c3ef244c2d36e4f125b9f4983d",
+      "existingReviewNotesCompared": [
+        "Source misprint: f_a,f_b in common-root conclusion should be f_a,g_b. Printed wording retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 220,
+      "printedPage": "205",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete §9 formal power series definition, convolution product, addition, multivariable ring and iterated-ring statement.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        220,
+        220
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0220.md",
+      "chinesePath": "source/algebra/zh/pdf-0220.md",
+      "englishSha256": "a06d7631ff68d3cf7b680fb9bfc5a2c4fce75190da070b07a6e761ff179e596e",
+      "chineseSha256": "268495ac17ce6bc67b0e95c27a02d3e1781f2c0055a3cf8d402136e8f3210215",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 221,
+      "printedPage": "206",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete I-adic Cauchy/completeness definitions, local power series inverse proof, iterated ring identification and final fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        221,
+        221
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0221.md",
+      "chinesePath": "source/algebra/zh/pdf-0221.md",
+      "englishSha256": "a45f7585b6d561f0a99e677c4cefb0e3815b298797df38ebc91f16637f1b8f27",
+      "chineseSha256": "2b531d91da4f4ecac9442b78d4bd0ca2b4e9496286e92f36c88ddd8f2b91b2e4",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 222,
+      "printedPage": "207",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 9.1 all local-ring assumptions, full alpha/tau projection formulas and Manin proof through operator inversion.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        222,
+        222
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0222.md",
+      "chinesePath": "source/algebra/zh/pdf-0222.md",
+      "englishSha256": "b00f22f8f48dcddf5476d871409faeb43b5801fe228e33ab21002f30df7b7d53",
+      "chineseSha256": "f3535b33552fab325604f7a4bddb2bb07258cf03106f0903e364a3d562701a0e",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 223,
+      "printedPage": "208",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 9.1 inversion completion, Theorem 9.2 and proof, distinguished polynomial definitions and complete recursion system.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        223,
+        223
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0223.md",
+      "chinesePath": "source/algebra/zh/pdf-0223.md",
+      "englishSha256": "65b2a8c5867838f9860912bc4c6b1376d57be7c59cbd754780ad3ab7db899f90",
+      "chineseSha256": "c63bcee1d11d0771e8bc1d4308ebd0da3901a4ec13daf9733872b4d3b3d2d7cd",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 224,
+      "printedPage": "209",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete direct-recursion remark, Theorem 9.3 proof with both coordinate-change cases and all factorizations; Anderson/Salmon remark opening.",
+      "notes": [
+        "Source direct-recursion c0=1 choice and c_n… start are mathematically incorrect; visible Chinese note uses explicit Q,f=2X counterexample and modular coefficient equations."
+      ],
+      "changes": [
+        "Added adjacent Chinese source caution for direct-recursion issues; English and Chinese source wording retained and review notes updated."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        224,
+        224
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0224.md",
+      "chinesePath": "source/algebra/zh/pdf-0224.md",
+      "englishSha256": "1d72fee7188153c74e315e0c74ff5e7ae9819c8fc3e048c54d7e0b1a2c52b2cb",
+      "chineseSha256": "4ee217e620bcbf4e6befd88f2ce34e615221a1daa17bf6ef8203b78d7237e0bf",
+      "existingReviewNotesCompared": [
+        "第二遍审校确认原书直接递推说明的两处问题：c0不能任意指定为1（域Q上f=2X给出反例）；模m后续方程应从c0=a_n开始确定c0,c1,…，不是c_n,c_{n+1},…。英文与中文正文均保留原文，中文相邻增加可见译校注，未修改前面正确的除法定理证明。"
+      ]
+    },
+    {
+      "pdfPage": 225,
+      "printedPage": "210",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Salmon citation and regular-ring caveat, Theorem 9.4 full ascending-ideal proof and coefficient series, Corollary 9.5, examples.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        225,
+        225
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0225.md",
+      "chinesePath": "source/algebra/zh/pdf-0225.md",
+      "englishSha256": "b9d6fc758a3fbb0861cb80f4bb04032b4b236d80a6b181d2d2353260c7289146",
+      "chineseSha256": "324de49a80d62e9ec637032396974d9c43a18253d30e469c5c9116bfbbe87902",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 226,
+      "printedPage": "211",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Generating functions and Poincare/dynamics/zeta examples, all iteration/derivative formulas, partition generating product and final fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        226,
+        226
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0226.md",
+      "chinesePath": "source/algebra/zh/pdf-0226.md",
+      "englishSha256": "31c3a094ab0cc89b579cd8782aba11120e7a26d12a38018f2516da6c16fc4ee1",
+      "chineseSha256": "83628795390655ded2af63a6a31a361836820096f7466eeb66cdafd53a487da1",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 227,
+      "printedPage": "212",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete Ramanujan product/series, K-theory paragraph and all twelve bibliography entries.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        227,
+        227
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0227.md",
+      "chinesePath": "source/algebra/zh/pdf-0227.md",
+      "englishSha256": "78b23bbb12046b1434c50fb537be5d75242510df6a16a7c3653d9b59cad779bd",
+      "chineseSha256": "e00fe58c19a901aa5049e24aa5a86769a4181bb1c52197563199d1d0ff3f6ed9",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 228,
+      "printedPage": "213",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Full Exercises 1–7(b) through page fragment, all subparts, field/characteristic/degree conditions and Chevalley hint.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        228,
+        228
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0228.md",
+      "chinesePath": "source/algebra/zh/pdf-0228.md",
+      "englishSha256": "d925fe3fa30a725d58137ab90fd9c22ccad185008841f6d7b51c41e38a14b2ae",
+      "chineseSha256": "f91fecc8262f8c4f3df99334daa6da8054751f0cfd7209540362741214860265",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 229,
+      "printedPage": "214",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercises 7(b) continuation through 11(c) opening, full Warning formulas, automorphisms, derivation extension and hints.",
+      "notes": [
+        "Exercise 7 uses psi(0) implicitly: the finite-field sum of x^0 is q=0 in k; no transcription correction warranted."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        229,
+        229
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0229.md",
+      "chinesePath": "source/algebra/zh/pdf-0229.md",
+      "englishSha256": "98b595fbfffb8792f3b21c8f0ca7f5d13efd7a7a671959fe55e1a01bb559de37",
+      "chineseSha256": "ffc703aecbae89538165656f9d4004e579c700f72e8102a941993eb9da2410fa",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 230,
+      "printedPage": "215",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercises 11(c) completion and 12–17 opening; complete discriminant coefficients, Davenport (a)–(c), resultant estimate and all hypotheses/hints.",
+      "notes": [
+        "Original Exercise 13(a) has +1 Davenport bound, confirming PDF210/214 cross-reference."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        230,
+        230
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0230.md",
+      "chinesePath": "source/algebra/zh/pdf-0230.md",
+      "englishSha256": "7f499b995a9d7851464ef0ec05f7660edb048d9e48e26a4e4fc8711e5776997c",
+      "chineseSha256": "acd74e4aeef015c5c5b3e7422db87fff4f05d63501966eaa8884f3b2b3eee090",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 231,
+      "printedPage": "216",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercise 17 continuation and construction, Exercise 18 (a)–(c) all integer-valued/difference statements, Exercise 19(a)–(b).",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        231,
+        231
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0231.md",
+      "chinesePath": "source/algebra/zh/pdf-0231.md",
+      "englishSha256": "9cc941c2ba947528f3b45faddca1f0556bbd1a422882949630e579fa64430dff",
+      "chineseSha256": "7720619b5bfd091900e5c932529372909ee9c2f93c967d9f35199b4aa669b7b5",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 232,
+      "printedPage": "217",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercise 19(c)–(d), Exercise 20 nilpotence statement/full hint/note, lambda-ring introduction and all defining relations.",
+      "notes": [
+        "Original a_n^{r_n} uses the g-polynomial degree n although a-coefficients run to m; existing visible note correct."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        232,
+        232
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0232.md",
+      "chinesePath": "source/algebra/zh/pdf-0232.md",
+      "englishSha256": "21aa30be866a1899216629f0512a46fb17c584cb44d250efec6c26c08f3e4219",
+      "chineseSha256": "36e7b77a890951c53aa1b1c60453d8dc0cb523c371de320dfab77713ced69e41",
+      "existingReviewNotesCompared": [
+        "Source misprint in Exercise 20: final coefficient monomial a_n^{r_n} should be a_m^{r_m}, according to f degree m. Printed expression retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 233,
+      "printedPage": "218",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete lambda-series formalism, Exercises 21–25 with all subparts, gamma change of variable and Bernoulli generating function; source lambda(1) note checked.",
+      "notes": [
+        "Additive lambda-operation axioms do not imply lambda_t(1)=1+t; existing visible note accurately supplies the normalization needed by Exercises 23(b,c),24."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        233,
+        233
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0233.md",
+      "chinesePath": "source/algebra/zh/pdf-0233.md",
+      "englishSha256": "9c611513e4ff186e3ed88ac021509be4af5f328bb96fc71e3f68b42c9a265a60",
+      "chineseSha256": "e474c346760e088afe7cb772ee57eed19aeefb89548b5e5ab5c1f83dbf996745",
+      "existingReviewNotesCompared": [
+        "Exercises 23(b),(c) and 24 require the additional standard normalization lambda_t(1)=1+t, which is not listed among the preceding additive lambda-operation axioms. Original exercises retained; visible Chinese editorial note states the missing condition."
+      ]
+    },
+    {
+      "pdfPage": 234,
+      "printedPage": "219",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercises 25(a)–(b), 26(a)–(e), 27(a)–(d), all Bernoulli definitions and formula indices plus closing note fragment.",
+      "notes": [
+        "Source generalized Bernoulli formula X^{n−i} should use k; existing visible note correct and second-line expansion confirms."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        234,
+        234
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0234.md",
+      "chinesePath": "source/algebra/zh/pdf-0234.md",
+      "englishSha256": "34edca3bc3229372014387a10993f68bfdca356bb2695dc7cc23773c5ead2913",
+      "chineseSha256": "e0a864d98176a07dc649f6b22ecba5355937889080149d20565a4133257d3f6b",
+      "existingReviewNotesCompared": [
+        "Source misprint in Exercise 27(d): X^{n-i} should be X^{k-i}, consistent with summation limit and next expansion. Printed expression retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 235,
+      "printedPage": "220",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Closing Bernoulli discussion, full Further Comments 1996–2001 and all four bibliography entries.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        235,
+        235
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0235.md",
+      "chinesePath": "source/algebra/zh/pdf-0235.md",
+      "englishSha256": "883f4e71b186a9575b38ded21bf331250a82473cb9464d9eacc7f7b5159d93b1",
+      "chineseSha256": "0cbf6f290353442773cde50b1a8e064452d2e7f21425cc9cebc9d29cb439e28f",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 236,
+      "printedPage": "221",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Full Part Two title and introduction, all polynomial/variable indices and chapter references.",
+      "notes": [
+        "Source polynomial-list f_n versus equation-range r inconsistency is real; existing visible note correct."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        236,
+        236
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0236.md",
+      "chinesePath": "source/algebra/zh/pdf-0236.md",
+      "englishSha256": "2ee951e8b97605de1f83752de24502fe3f410a67967bfbe15490b48d1ba940c3",
+      "chineseSha256": "b5cb8241db49a28ea24507255638d93d55f22dd2af4cd78c2744c19192c7c769",
+      "existingReviewNotesCompared": [
+        "Source index inconsistency: polynomial list f_1,...,f_n followed by equations i=1,...,r. List should end f_r, with n the variable count. Printed wording retained; visible Chinese editorial note added."
+      ]
+    },
+    {
+      "pdfPage": 237,
+      "printedPage": "222",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete Part Two introduction continuation, universal homogeneous-zero and reality/metric structures paragraphs.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        237,
+        237
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0237.md",
+      "chinesePath": "source/algebra/zh/pdf-0237.md",
+      "englishSha256": "1a45c22528ebf2dc93bbcd3f77359711b40419a5d9808e1227244355da1aa228",
+      "chineseSha256": "b083de7cf24faa560048d2914c50bd26a88847cf1ef8f86ba25c0166ae9ae180",
+      "existingReviewNotesCompared": []
+    }
+  ],
+  "changes": [
+    {
+      "pdfPage": 199,
+      "changes": [
+        "中文将 content 误用的“容量”改为本节既定数学术语“容度”。"
+      ]
+    },
+    {
+      "pdfPage": 208,
+      "changes": [
+        "Restored Chinese t1,t2 and removed unsupported source-misprint note alleging omitted t3; review notes corrected."
+      ]
+    },
+    {
+      "pdfPage": 210,
+      "changes": [
+        "Added visible Chinese cross-reference clarifying the stronger +1 Davenport bound without changing printed −1."
+      ]
+    },
+    {
+      "pdfPage": 214,
+      "changes": [
+        "Chinese asymptotic Fermat 猜想 corrected to 定理, consistent with PDF211 named theorem."
+      ]
+    },
+    {
+      "pdfPage": 219,
+      "changes": [
+        "Chinese bibliography locator restored to neutral '第 I 卷，50' rather than inferring source 50 means section 50."
+      ]
+    },
+    {
+      "pdfPage": 224,
+      "changes": [
+        "Added adjacent Chinese source caution for direct-recursion issues; English and Chinese source wording retained and review notes updated."
+      ]
+    }
+  ],
+  "sourceIssuePolicy": "Original English retained; existing source notes independently checked. PDF208 mistaken omission claim withdrawn because the depressed cubic eliminates the third root. PDF210 weak versus sharp Davenport bounds cross-referenced rather than calling a weaker valid inequality false. PDF224 incorrect direct-recursion choice and index start visibly explained while source wording retained.",
+  "diagramChecks": [
+    {
+      "pdfPage": 215,
+      "path": "docs/public/library/volume-86/diagrams/pdf-0215-resultant.png",
+      "personallyViewed": true,
+      "comparison": "Complete coefficient rows and braces labeled m, n, m+n preserved against original."
+    }
+  ]
+}

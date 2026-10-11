@@ -1,0 +1,12 @@
+{
+  "pdfPage": 233,
+  "printedPage": "218",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Exercises 23(b),(c) and 24 require the additional standard normalization lambda_t(1)=1+t, which is not listed among the preceding additive lambda-operation axioms. Original exercises retained; visible Chinese editorial note states the missing condition."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 360,
+  "printedPage": "346",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "本页特化论证使用命题2.8需特化多项式可分；仅不可约在正特征不足。中文增可见译校注并给严证反例k=F2(a), g_w=X^2+wX+a，泛型分裂域C2，w=0纯不可分。英文原文未改。"
+  ]
+}

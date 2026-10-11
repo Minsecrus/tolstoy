@@ -1,0 +1,12 @@
+{
+  "pdfPage": 693,
+  "printedPage": "684",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "定理 5.16 原印系数函数为正交基及展开因子 1/d_i。按原双线性配对与定理 5.11，〈ρ^{(i)}_{νμ},ρ^{(j)}_{ab}〉=δ_ij δ_{μa}δ_{bν}/d_i，非对角函数与转置指标函数配对。正确展开须为 Σ_iΣ_{νμ}d_i〈f,ρ^{(i)}_{μν}〉ρ^{(i)}_{νμ}。EN 与 ZH 正文保留原印，ZH 以邻接可见译校注给出推导与正确公式。已高分辨率复看原印公式。"
+  ]
+}

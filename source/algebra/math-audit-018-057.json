@@ -1,0 +1,490 @@
+{
+  "scope": {
+    "pdfPageStart": 18,
+    "pdfPageEnd": 57,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Independent visual comparison of original rendered page PNGs against every displayed and inline formula in saved English transcription and Chinese translation; raster matrix and butterfly diagram checked separately."
+  },
+  "auditedPages": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
+  ],
+  "unreviewedPages": [],
+  "status": "complete",
+  "pages": [
+    {
+      "page": 18,
+      "status": "verified",
+      "scope": "All EN/ZH mathematical expressions visually compared with PDF: S×S→S, associativity, ex=x=xe and e=ee'=e'.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "5f78511f86a0e7c858c2504df1bd46e1385076bc2dc2a81320a1796e10db218b",
+        "zh": "42569b9ca488a73121b67cbfb89a56577557104e13fa99e4c7d5ee77d7a76e1e"
+      }
+    },
+    {
+      "page": 19,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: μ/ν product bounds, x_{m+ν}, empty product bounds 1 to 0, law domains S_1×S_2→S_3 and S×T→T.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "02699d04520ed526cd8dc16eaaa5b2f6f2d1912a08ccd724b99a4813254acd67",
+        "zh": "32fb4e5627ba4e6aac93efeba4365cefde0429c7ac4065c5d0c286664cdc7536"
+      }
+    },
+    {
+      "page": 20,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: reordered products, ψ(k)=n, φ(ν) two cases ν<k/ν≥k, φ(k−1+ν), I_0 restricted product.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "fb47f113bd57138f4a78ca19a0af41b37f9f5a82bb814fea3750dfb6fd27c520",
+        "zh": "1f0812b32d69c61534eeeabb5e532ae1e59378af579d07d517b0e81bf0655bb3"
+      }
+    },
+    {
+      "page": 21,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: doubly indexed product exchange, power identities including nm, subset associativity, D_0/D'_0 and complements.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "87b42f947c966a02b66b3537512bd580f5370450ab5da74c52c3e18337a9741d",
+        "zh": "801bb76eb0d062357da2e88389ac4d9f64cb5f15e0ff75343b080091ca4eb86b"
+      }
+    },
+    {
+      "page": 22,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: surface σ=nτ+mπ with m∈{0,1,2}, 3π=τ+π, inverse chain y'=⋯=y, x^{-n}, bab=eb=b and ab=e.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "e662c1d112e0bfe4ff64b2216a75b341f18dbc6f4f64c74cd4e8f24b3fe9dcdc",
+        "zh": "f4ff202cf6f1231dbc48fd37e9e093fe700ba97c03ad9b665f192a19f9241443"
+      }
+    },
+    {
+      "page": 23,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: ae=aba=ea=a, pointwise f^{-1}(x)=f(x)^{-1}, GL(n,k), n≥2 and roots e^{2πi/n}/e^{2πir/n}.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "ec4359e8c6f33c4ff0d952086b92c56a10c34164efb1691aa2753e6a1fceb61e",
+        "zh": "d5784938ece901f6a1392b2af25716a3ca3438ce2cdae32a05255b32f24ca2bc"
+      }
+    },
+    {
+      "page": 24,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: componentwise products/inverses, nested x_{i_r}^{k_r}, dihedral σ^4=τ^2=e/τσ τ^{-1}=σ^3, quaternion i^2=j^2=k^2=m and ij=mji.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "1a9a577444d4920c22435f0964c8101b28137565c53329d6832b2243101864f6",
+        "zh": "deb83d795018990eec35470e2df84bb859f23e3b2ccbd0088cf46c67e1611fcf"
+      }
+    },
+    {
+      "page": 25,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: f(x^{-1})=f(x)^{-1}, e'=f(e)=f(xx^{-1}), G≈G', power map and p_i:G→G_i. Higher-resolution original inspected to confirm tilde f in last statement.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "e1055eca2e1856382fdce2b8cfbdc1cd4e8f9af177e8ff14017bf8a9b2aee9ce",
+        "zh": "00e3c395923daba3290e658324b57426df1b791b4525c2f12ea114536a34c3b7"
+      }
+    },
+    {
+      "page": 26,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: composition g∘f, inverse isomorphism f^{-1}:G'→G, e/e', f(xy^{-1}), embedding hooked arrow, H∩K=e and HK=G.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "9ea8ab7189405675ee3ff08f6187b584548b064328c2278b46d2359388d9c75b",
+        "zh": "887b131f67903bf360a289ce2e8c5a1e1e88403c9202ddc2e4cc65be5fb2b546"
+      }
+    },
+    {
+      "page": 27,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: H_{i+1}∩(H_1⋯H_i)=e, coset equality a=b yx^{-1}, (G:H)(H:1)=(G:1), disjoint unions indexed i,j with y_jx_iK.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "52a3558771820646ce0311585c94e82c9a5771e6ae81f9ec237b9d3561388d04",
+        "zh": "26b9dc77c0a99c7be277f427772c80a68c5846433738f8ad4118770e3eda90eb"
+      }
+    },
+    {
+      "page": 28,
+      "status": "verified",
+      "scope": "Every formula EN/ZH checked visually: double prime indices j',i', index product, permutation σ_i(n)=i, S_{n-1}, kernel f^{-1} and xHx^{-1}.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "7224bafffb31119438a963594ab90fbb30bfb244ee332212f6fe7dea7926716b",
+        "zh": "42e971c8fd1c2f017cb36744564e1056730e3656ed73138635352414179ae08c"
+      }
+    },
+    {
+      "page": 29,
+      "status": "verified",
+      "scope": "Every formula EN/ZH checked visually: inclusions xH⊂Hx and H⊂xHx^{-1}, coset product, indexed intersection, N_S and Z_S.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "6817ce604c52707f5b580497e0c1f0c46a4822158417c3b37cd19b3af07455f7",
+        "zh": "0cf266dcac8196bed7b0cad6248358f258aa8c700e8c08421d68c367d92b9aa3"
+      }
+    },
+    {
+      "page": 30,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: affine map indices a,b and 1,b, R*, xy^{-1}/y^{-1}x, exact sequence arrows f_i and Ker f_{i+1}.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "7b6cee45a9e8296af63d2fc70f1c9226be86b18bcf327971170168c0aa525874",
+        "zh": "5dd91d47a380a05d61808e63859ab2e3c02255b2d5b52db3705d691008183710"
+      }
+    },
+    {
+      "page": 31,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: exact sequence diagram directions and 3 vertical maps, induced f_* factorization, λ, triangular diagram and f_*(xN)=f(x).",
+      "findings": [],
+      "sourceSha256": {
+        "en": "66b7cf7412c326577e4db8c6158a79d71e3805957ce81b872bcbce039099d72a",
+        "zh": "ae7dcef51442aec6646cbe68dc4b66f8850612afd27286ec38a438048dc349db"
+      }
+    },
+    {
+      "page": 32,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: both boxed isomorphisms, can/can/id vertical directions, H→HK/K, inverse image diagram arrows up, bar f:G/H→G'/H'.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "bb0f8bdaeca77dd70b8fc45a3df79ecadb0d6cb22dd978b6df28303a6e13a9de",
+        "zh": "c33eb7c87c14cf445bee4616ff02ba84a2b777561595058e92181472bdb8a034"
+      }
+    },
+    {
+      "page": 33,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: f/bar f diagram labels, towers G_i and G'_i including i+1, inverse image and quotient injection, G_m={e}.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "f9d22bb4eab8f9a7ba2046a5563968ca91e1caa3a78d4fe273edc3d99f3d01a7",
+        "zh": "5a5db2224dd90c6e240dbb7db3026b2ce557c4aa663cf5ba72974b5ae01f2643"
+      }
+    },
+    {
+      "page": 34,
+      "status": "verified",
+      "scope": "All EN/ZH formulas and preserved matrix image visually compared: N^{r−1}, first row a_{1r}, middle a_{2,r+1}, a_{n−r+1,n}; U_r=I+N^r, upper diagonal tuple, exact tower and H_i quotient.",
+      "findings": [
+        {
+          "type": "preserved_raster_formula",
+          "description": "Matrix formula retained as crop. Actual crop inspected independently and matches original."
+        }
+      ],
+      "sourceSha256": {
+        "en": "f245b1842bb4db90b9beebb76aac1bbafaf794eca5e5314b3f308640d1027dff",
+        "zh": "2c267d6e53f56aaa7690f1c964fed06dd57b43fd7e54f252b57d79038a58237c"
+      }
+    },
+    {
+      "page": 35,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: commutator xyx^{-1}y^{-1}, G^c and bar variables, n=rs/r,s>1, PSL_n(F), butterfly lower/upper u,U,v,V and quotient order.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "a971b8bb0401b9056a2683436c06c80b689ef617ec82f6217844ca48e143b8d0",
+        "zh": "1934c69811197740f9af08b09c15771d27ce7483bfb68f8ec968d3df66e08471"
+      }
+    },
+    {
+      "page": 36,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: 3 butterfly quotients, H/(H∩N)≈HN/N, u/U/v/V distinctions, towers r/s; actual preserved butterfly crop also inspected and matches.",
+      "findings": [
+        {
+          "type": "preserved_raster_diagram",
+          "description": "Butterfly crop preserves all 10 labels, dots, edges and three quotient marks against original."
+        }
+      ],
+      "sourceSha256": {
+        "en": "f3df7a3b0ce84d686bc6c670930f3bb738e7ef55e52522312dd1a94b1281a8e7",
+        "zh": "053aa51e8acf7bfe3f3fb12c8e2ffd357a2f7f72b8f2614047e521972fa73609"
+      }
+    },
+    {
+      "page": 37,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: H_{i'}/H_{i'+1}, G_{ij}/H_{ji}, j+1 and i+1 quotient indices, refinement endpoints, (r−1)(s−1)+1 count, Jordan–Hölder equality.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "5aaec19fb8e0a10186a1d8211ea71e96e707e1ffaf7669005356680eaa073186",
+        "zh": "1780295992aba4ecae019ff9267766d8f5cbe0cf639c15b9763a27a50bb641db"
+      }
+    },
+    {
+      "page": 38,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: 0≤r<a, f(n)=a^n, m>0 quantifier, d and a^{d-1}.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "660df416416255098e2eec1750506ea658a2e4a27cce195de6d4b4f155cdf5ff",
+        "zh": "e3d5d498fd6b5e74a82cc6408ac3ccc0a3c545245ab831967dbdc7fd01ecb7cc"
+      }
+    },
+    {
+      "page": 39,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: bounds on r,s,s−r, f^{-1}(H)=mZ, Z/kZ≈G, v^{-1}∘u and x^v, subgroup divisor d.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "091fac17dabc697359f380c7ad90926aabf9c5004138cb782b23de4559a843b5",
+        "zh": "a61c05ca3f952c5cd1680e5b0ed2f07a3240bf5ee6f1dc271bd97bce1a471d5e"
+      }
+    },
+    {
+      "page": 40,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: cyclic quotient Z/mZ≈G/f(mZ), f^{-1}, k↦(a^k,b^k), π:G→Perm(S) and π_x.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "b743c78770bb730160557c48b546ed2d44b3e5fea6836723fdd8bd3764c98e97",
+        "zh": "e8f09fa8d4264df57a5872b04a8a5a440b5d6d464d9adcc99e92dbf5be0d4c9d"
+      }
+    },
+    {
+      "page": 41,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: π_x, c_{x^{-1}}(y), y^{(xz)}=(y^x)^z, left superscripts {}^z({}^xy)={}^{zx}y, T_x.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "7cf0ced48f069799c3b8fb2590bfd59c41abc47c13078db6f6578f982648ece7",
+        "zh": "ca0298d06125c30a1a0badf0bd5f8a5d98cb5f4a3b1714a9ebb3ac1123aa75c0"
+      }
+    },
+    {
+      "page": 42,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: G/H and right cosets H\\G, action maps, f(xs)=xf(s), G_{s'}=yG_sy^{-1}, K=∩G_s.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "8adedea91e11b20d93cba80229e8d5e1c6be40cf6d3c2ec061a0f466b126788f",
+        "zh": "52f25dd9d20b42b94c92ff9e04731f6e3612839ed038adf2f85af445698526c6"
+      }
+    },
+    {
+      "page": 43,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: K={e}, H=G_s, f(xH)=xs, orbit index (G:G_s), N_H, S_n action and p:X'→X with π_1(X), p^{-1}(x).",
+      "findings": [],
+      "sourceSha256": {
+        "en": "78e2a584da0bbc781cf1780feeeabae4bced2edb294a2cbfaaab06fa77c67cbd",
+        "zh": "190e02192bdbcbe4543096e272136ac5d06c924ee52c81ce5642c950429192d1"
+      }
+    },
+    {
+      "page": 44,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: SL_2(R), Möbius (az+b)/(cz+d), isotropy matrix minus at lower-left, coproduct orbits, G_{s_i} nested subscript and class sum x∈C.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "9623378285de66d6a28ae8a08e97c82807f45e8a3bc5f190dec7da9143b2fb0e",
+        "zh": "22d021532b36591fcc2f6d10bdcf420c348cb52ad963d811e18c29b2a3e4151a"
+      }
+    },
+    {
+      "page": 45,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: cycles σ(i_r)=i_1, [132], σ^2/σ^3, π(στ)=π(σ)π(τ) and nested x_{στ(1)} through x_{στ(n)}.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "9304aa9f437462b61aeb3b2c0a4ae9d9f9c9920078e6ba2e85dac14d481d9ce9",
+        "zh": "6845a9d2e2163d0d7ef27a03b8b8ef6303fa634131ef07a9490468c08f250353"
+      }
+    },
+    {
+      "page": 46,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: Δ=Π_{i<j}(x_j−x_i), τ(j)/τ(i), all 3 pair cases and inequalities, ε(σ)=(−1)^m, commutator στσ^{-1}τ^{-1}=[rki].",
+      "findings": [],
+      "sourceSha256": {
+        "en": "fa1fde30c6871a11465b58c64919f8085061d7c5bce61f30e76708e40736e088",
+        "zh": "e18a594db57d4991a15cdbf9d294f3a4fea4dec22fd03e6d03d196f39cfa7a6e"
+      }
+    },
+    {
+      "page": 47,
+      "status": "verified_with_source_correction_note",
+      "scope": "All EN/ZH formulas visually compared: descending H_0⋯H_m chain, source reversed quotient H_v/H_{v−1}, sign ε_n/ε_m, A_m∩S_n=A_n, [ij][rs]=[ijr][jrs], γ conjugation, primes i'/j'/k' and σ≠id.",
+      "findings": [
+        {
+          "type": "source_error",
+          "printed": "H_v/H_{v-1}",
+          "correctReading": "H_{v-1}/H_v",
+          "resolution": "Printed text preserved; visible English Editorial note and Chinese 译校注 explicitly give correct quotient. Both notes read and mathematically verified."
+        }
+      ],
+      "sourceSha256": {
+        "en": "ac72d45977a4bf3e3f24a967195e41620047df19da6b0d98607f35c827c24662",
+        "zh": "f06f53c9b2ea6b830c1c1e449c4315fe449b61c67c1d28dc7ff367c60b216a46"
+      }
+    },
+    {
+      "page": 48,
+      "status": "verified",
+      "scope": "All displayed and inline formulas in EN and ZH checked visually against original PNG. Commutator τστ^{-1}σ^{-1}, cycles [rsk]/[krs], n≥0, indices and exponents correct.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "4027570089123029d56e235d57000a586c2754d793c0095f539e16f65185f380",
+        "zh": "f126e5b840c714cbcbe26073ec8a6fdd941800df4fa7958ea0ba86c4a5e9fe77"
+      }
+    },
+    {
+      "page": 49,
+      "status": "verified",
+      "scope": "All formulas checked against original. Class sum, p^{n-1}, f^{-1}(K'), K/H≈K', mod p congruences and stabilizer H_{s_i} accurate.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "3584ed36ed8d8980e72540cfcd89fe3ad2f618ce8a6192b4dd40ff4c81125d51",
+        "zh": "b3c992e488f816910d3bd95147f2f7e667809aeba3ba06186cedff12a965d824"
+      }
+    },
+    {
+      "page": 50,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: Sylow congruence, (HP:P)=(H:H∩P), class equation, G_i normal in G and G_{i+1}/G_i.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "56ff8e438b443373c921cdf363b4f84682420bf130666b12ee135f6bec74ca1b",
+        "zh": "fe25f3f74de64268f3bdf4766de3f162329ef32bc2b7c5b94d35e6a7b03ad867"
+      }
+    },
+    {
+      "page": 51,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: normalizer N(H), p!, (p−1)!, (G:K)=p(H:K), H_5→Aut(H_7), direct sum indices.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "637e45e3d6fcd1c3e128a916f8ab577abff1d9f2cf170d14ea2dda1e5095f726",
+        "zh": "fc44fbfa9c05e6cd147def77f7ae60dab885b843c4197cafa5b351356d806b64"
+      }
+    },
+    {
+      "page": 52,
+      "status": "verified_with_source_correction_note",
+      "scope": "All EN/ZH formulas visually compared: λ_j:A_j→A, f∘λ_j=f_j, indexed sum f((x_i)), direct sum mapping, B_{i+1}∩(B_1+⋯+B_i)=0.",
+      "findings": [
+        {
+          "type": "source_index_inconsistency",
+          "description": "Original says 'Then λ_i is an injective homomorphism' after defining λ_j; transcription and Chinese faithfully retain λ_i. Translator notified; no unmarked correction made.",
+          "resolution": "Added and read visible English Editorial note and Chinese 译校注 specifying λ_j as correct fixed-index reading; original λ_i retained in main text."
+        }
+      ],
+      "sourceSha256": {
+        "en": "533bad59216cfec7cd3f63b8302b7d34e9cb8bd62c1b58af7637e1096df471dc",
+        "zh": "c66329d5818c024876e8a14dcbfb655f5843ccbcb662e5bac8083dae62655caf"
+      }
+    },
+    {
+      "page": 53,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: A≈⊕Z_i, Z⟨S⟩ angle brackets, k'_x/k_x coefficient comparison, g_* finite sum and g_*∘f=g.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "e4001b906aeb15ef2de7341235da2d8a9f01e1aac8928c6ffb138fb9ba8fd3bc",
+        "zh": "2bda10d2072b7ba489e9e5e2dd9fd265328f795350993ff13a0f9f4cac9af841"
+      }
+    },
+    {
+      "page": 54,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: functor square f_S/f_{S'}, λ/bar λ, (f_{S'}∘λ)_*, F_ab, Grothendieck triangle γ top and f/f_* downward diagonals, [x+y]−[x]−[y].",
+      "findings": [],
+      "sourceSha256": {
+        "en": "384cb1e275452800bcaa338cb20498789d84bfed236351e7e6dc4e79fd5570b8",
+        "zh": "5bae716317c1e8bf60b4bb65ecbd1b9493c17beee48d388e2b4f05157041cd34"
+      }
+    },
+    {
+      "page": 55,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: F_ab(M)/B, cancellation identity, pair equivalence y+x'=x+y', x↦class(0,x), lifting basis f(x_i)=x'_i, Σn_ix_i=0.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "74d94b76ba421552b21648c5bc205f9f7fe20d7fa190f3f702f6500c98340287",
+        "zh": "c9f75dcf7c4ad7b741e7c00a03e3bdb4ae3b42ca1c0d0f68e330d96eaadd960c"
+      }
+    },
+    {
+      "page": 56,
+      "status": "verified",
+      "scope": "All EN/ZH formulas visually compared: Σn_if(x_i)=Σn_ix'_i, lift x−Σn_ix_i=b, projection to Zx_1, B=B_1⊕C_1 and all cardinality ≤ relations.",
+      "findings": [],
+      "sourceSha256": {
+        "en": "c2185a7ad9f6726f73d33624d0d2de5e491e89a796755d8c4881ac65501d152d",
+        "zh": "1e8b78e1d5c77afb6264bda601c39535ae45d6e0bc94ae4b56b98d9a8364d127"
+      }
+    },
+    {
+      "page": 57,
+      "status": "verified_with_source_correction_note",
+      "scope": "All EN/ZH formulas visually compared: B/pB, p^r≤p^m, A_tor/A_t, A(p), x_q=Σ_{p≠q}(−x_p), mx_q/q^rx_q/dx_q.",
+      "findings": [
+        {
+          "type": "source_possible_typo",
+          "description": "Original visually prints x_q≠0 in lcm sentence referring to elements x_p. EN/ZH preserve x_q exactly; translator already documented and independent review confirms.",
+          "resolution": "Added and read visible English Editorial note and Chinese 译校注 specifying x_p≠0 as the correct nonzero-term selection; original x_q≠0 retained in main text."
+        }
+      ],
+      "sourceSha256": {
+        "en": "3c42bf00f2e53d76d2809fe446bed89121bd04f10b73bde592c20bb1ef4bbb7c",
+        "zh": "2d14044fc9c46f15cf00091bbaaea96dfa4327323cea31e03ea45eb24c1bd1a3"
+      }
+    }
+  ],
+  "pendingVisibleNotes": [],
+  "originalImagesInspectedOnly": [],
+  "auditedPageCount": 40,
+  "limitations": "This ledger verifies mathematical transcription and formula preservation for PDF18–57 in English/Chinese. It is not an assertion that all 923 pages of the book are translated or independently reviewed. SHA-256 snapshots identify the source files after the reviewed visible source correction notes were added."
+}

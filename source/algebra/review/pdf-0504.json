@@ -1,0 +1,13 @@
+{
+  "pdfPage": 504,
+  "printedPage": "493",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "推论7.3原式A+pi^(r+1)C1+pi^(r+2)C2+...首次修正指数偏一，中文改从r起并加命题v=0依据及f=X-pi,A=0,r=1反例。",
+    "参考文献句原页缺右括号，英文、中文按原页保留。"
+  ]
+}

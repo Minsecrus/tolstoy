@@ -1,0 +1,15 @@
+---
+title: "第一部分导言：代数的基本对象"
+description: "Serge Lang《Algebra》中文译文。"
+pageClass: algebra-reading
+prev: {"text":"原书目录","link":"/library/volume-86/contents"}
+next: {"text":"第一章 群","link":"/library/volume-86/chapter-001"}
+---
+
+# 第一部分导言：代数的基本对象
+
+<span class="original-page-anchor" id="pdf-page-17" aria-hidden="true"></span>
+
+本部分介绍代数的基本概念。对于初学者，主要的困难是在短时间内掌握一定数量的术语。每个概念本身都不难，但新概念累积起来，有时会让人感到负担沉重。
+
+为了理解本书后面的各部分，读者基本上只需掌握第一部分中的基本定义。当然，某个定理在后文中可能会用于一些具体而独立的应用，但总体而言，我们避免形成相互依赖的长篇逻辑链条。

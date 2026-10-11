@@ -1,0 +1,13 @@
+{
+  "pdfPage": 734,
+  "printedPage": "725",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 725 Exercise 15 has f(h_1 sigma h_2) and Hom_R(F_1^G,F_2^G). English retains both. Chinese gives f(h_2 sigma h_1) and Hom_{R[G]}, with an adjacent visible translator editorial note deriving the equivariance from f(sigma)=p_2 rho_2^G(sigma) T j_1 and giving a dimension counterexample for the original Hom_R.",
+    "Printed page 725 Exercise 16(a) final statement prints rho_2 tensor rho_2, while the representation on G_1 times G_2 just defined is rho_1 tensor rho_2. English retains rho_2 tensor rho_2; Chinese corrects it with an adjacent visible translator editorial note."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pdfPage": 307,
+  "printedPage": "293",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Resolved source wording inversion: smallest Galois extension of E containing k should be smallest Galois extension of k containing E. English preserved; Chinese corrected with visible 译校注.",
+    "Original field diagram preserved in a manually inspected crop."
+  ]
+}

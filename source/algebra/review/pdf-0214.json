@@ -1,0 +1,12 @@
+{
+  "pdfPage": 214,
+  "printedPage": "199",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Source misprint: x(x-3a)(x-3b) should read x(x-3a)(x+3b), consistent with the preceding Frey polynomial and discriminant. Printed expression retained; visible Chinese editorial note added."
+  ]
+}

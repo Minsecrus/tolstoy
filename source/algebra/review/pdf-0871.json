@@ -1,0 +1,12 @@
+{
+  "pdfPage": 871,
+  "printedPage": "863",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independent visual audit: restored printed N in the proof of Lemma 4.17 in English and Chinese; added adjacent Chinese note identifying I as the positive-degree ideal used in the argument, with N=A as counterexample to the literal wording."
+  ]
+}

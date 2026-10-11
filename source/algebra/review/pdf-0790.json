@@ -1,0 +1,12 @@
+{
+  "pdfPage": 790,
+  "printedPage": "782",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visible Chinese editorial note: the logarithmic derivative definition has zero constant term, whereas the source displays 1; also the displayed powers of cl(E) apply to rank-one classes and fail for a rank-two example. Source expression retained."
+  ]
+}

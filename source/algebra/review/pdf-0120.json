@@ -1,0 +1,14 @@
+{
+  "pdfPage": 120,
+  "printedPage": "105",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "逐式核对卷积结合律四步求和、单位元 delta、形式和的加法乘法及 phi_0/f_0 嵌入。",
+    "原书三元组的正文记号印作 (u v,y)，u 与 v 之间漏逗号；英文保留，中文补逗号并附可见译校注，三重求和下标印作 (u,v,y)。",
+    "Independent audit preserves the printed phi_0 embedding assertion and adds a visible Chinese note: injectivity requires the coefficient ring A to be nonzero (or G to be a singleton); the chapter explicitly permits the zero ring."
+  ]
+}

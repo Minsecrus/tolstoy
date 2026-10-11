@@ -1,0 +1,12 @@
+{
+  "pdfPage": 208,
+  "printedPage": "193",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "第二遍审校恢复原文关于 t1,t2 为6次齐次的表述，移除将其判定为遗漏 t3 的校注。此处 f=X³+aX+b 的根满足 t1+t2+t3=0，消去 t3 后判别式确为 t1,t2 的六次齐次式；不能将隐含根关系当作原书错误。"
+  ]
+}

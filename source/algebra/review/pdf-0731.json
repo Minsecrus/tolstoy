@@ -1,0 +1,12 @@
+{
+  "pdfPage": 731,
+  "printedPage": "722",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "MathJax compatibility only: replaced the printed two-column spanning type header with a normal type cell and an empty second cell, preserving all four columns, all four table rows, all labels and formulas. Original PDF page 731 (printed 722) and complete EN/ZH were personally rechecked; full-page strict MathJax rendering passed."
+  ]
+}

@@ -3,13 +3,16 @@ import { librarySidebar } from './library.generated.mjs'
 import { additionalLibrarySidebar } from './library.additional.mjs'
 import { psychologyLibrarySidebar } from './library.psychology.mjs'
 import { historyProblemLibrarySidebar } from './library.history-problem.mjs'
+import { algebraLibrarySidebar } from './library.algebra.mjs'
 import { curateLibrarySidebar } from './library.sidebar.manual.mjs'
+import { installMathRenderer } from '../../scripts/algebra-math-renderer.mjs'
 
 const curatedLibrarySidebar = curateLibrarySidebar([
   ...librarySidebar,
   ...additionalLibrarySidebar,
   ...psychologyLibrarySidebar,
-  ...historyProblemLibrarySidebar
+  ...historyProblemLibrarySidebar,
+  ...algebraLibrarySidebar
 ])
 
 const librarySidebarByPath = {
@@ -69,6 +72,10 @@ export default defineConfig({
     }
   },
   markdown: {
+    math: true,
+    config(md) {
+      installMathRenderer(md, { base: process.env.VITEPRESS_BASE || '/' })
+    },
     typographer: true,
     headers: {
       level: [2, 3]

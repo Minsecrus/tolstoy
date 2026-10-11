@@ -1,0 +1,12 @@
+{
+  "pdfPage": 274,
+  "printedPage": "259",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 259 first determinant has V(x_1,...,x_n)a_{d-1}(F) on the left, although the determinant has d rows and the exercise has d variables. English retains x_n; Chinese reads x_d with a visible translator editorial note explaining the correction."
+  ]
+}

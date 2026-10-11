@@ -1,0 +1,15 @@
+{
+  "pdfPage": 186,
+  "printedPage": "171",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independently viewed the full page and inspected the high-resolution original Exercise 26 diagram crop; all three vertical arrows, the two rows and all labels are retained in both languages.",
+    "Exercise 23 states the Hom/direct-limit equality for any module N; the finite-presentation hypothesis is missing. English faithfully retains the printed statement; Chinese supplies finite presentation with an adjacent visible 译校注 referring to Exercise 26.",
+    "The opening completes the sentence and exactness assertion from Exercise 21 on PDF 185.",
+    "Visually checked direct sums versus products in Exercise 22, the approximate-equality sign in Exercise 25, finite presentation F_1→F_0→M→0, and the map and diagram in Exercise 26."
+  ]
+}

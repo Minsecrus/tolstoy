@@ -1,0 +1,12 @@
+{
+  "pdfPage": 286,
+  "printedPage": "272",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Resolved source wording: positive should be nonnegative for the square-root formula right sides, which can equal zero. English preserved; Chinese corrected with visible 译校注. Formulas unchanged."
+  ]
+}

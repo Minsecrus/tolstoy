@@ -1,0 +1,12 @@
+{
+  "pdfPage": 168,
+  "printedPage": "153",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves the printed direct-sum generator ebar_j. Chinese corrects it to ebar_{s+j}, with adjacent translator note citing a_{s+j}=q_j and the vanishing of the first s basis classes."
+  ]
+}

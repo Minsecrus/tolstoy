@@ -1,0 +1,13 @@
+{
+  "pdfPage": 765,
+  "printedPage": "757",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original full page visually read; every formula, paragraph, proof, exercise, and hint on this page checked.",
+    "English preserves printed eigvalues 1,-1 and missing exterior algebra symbol in End target; Chinese visibly corrects to i,-i and End of exterior algebra using J^2=-id and next-page target. Both languages retain printed -2 contraction coefficient. Conditional Chinese note explains g versus -g pairing convention without guessing an unspecified pairing."
+  ]
+}

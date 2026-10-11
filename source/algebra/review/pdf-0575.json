@@ -1,0 +1,12 @@
+{
+  "pdfPage": 575,
+  "printedPage": "566",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原文任意自同态的det取值于域乘法群并延到Euler-Grothendieck群的断言缺可逆条件。中文保留源文并附一维零自同态反例及正确适用范围；英文照原。"
+  ]
+}

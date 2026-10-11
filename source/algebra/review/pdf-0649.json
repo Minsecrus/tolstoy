@@ -1,0 +1,12 @@
+{
+  "pdfPage": 649,
+  "printedPage": "640",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed original649 and enlarged Casimir detail. B-dual primes, δ_ij, omega indices, Lie notation, transpose superscripts and sign of definiteness checked. Ex15(d) retains source hypotheses: visible ZH condition note explains inherited nondegeneracy requirement of Ex14 construction; trace form on sl_n degenerates if positive characteristic divides n, since I_n is in radical. This is a contextual condition clarification, without silently changing the exercise."
+  ]
+}

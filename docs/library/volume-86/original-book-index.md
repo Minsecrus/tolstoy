@@ -1,0 +1,1185 @@
+---
+title: "Index"
+description: "Serge Lang《Algebra》English。"
+pageClass: algebra-reading
+prev: {"text":"Bibliography","link":"/library/volume-86/original-bibliography"}
+next: false
+---
+
+# Index
+
+<span class="original-page-anchor" id="pdf-page-908" aria-hidden="true"></span>
+
+- abc conjecture, 195
+- abelian, 4
+  - category, 133
+  - extension, 266, 278
+  - group, 4, 42, 79
+  - Kummer theory, 293
+  - tower, 18
+- absolute value, 465
+- absolutely semisimple, 659
+- abstract nonsense, 759
+- abut, 815
+- action of a group, 25
+- acyclic, 795
+- Adams operations, 726, 782
+- additive category, 133
+- additive functor, 625, 790
+- additive polynomial, 308
+- adic
+  - completion, 163, 206
+  - expansion, 190
+  - topology, 162, 206
+- adjoint, 533, 581
+- affine space, 383
+- algebra, 121, 629, 749
+- algebraic
+  - closure, 178, 231, 272
+  - element, 223
+  - extension, 224
+  - group, 549
+  - integer, 371
+  - set, 379
+  - space, 383, 386
+- algebraically
+  - closed, 272
+  - independent, 102, 308, 356
+- almost all, 5
+- alternating
+  - algebra, 733
+  - form, 511, 526, 530, 571, 598
+  - group, 31, 32, 722
+  - matrix, 530, 587
+  - multilinear map, 511, 731
+  - product, 733, 780
+- annihilator, 417
+- anti-dual, 532
+- anti-linear, 562
+- anti-module, 532
+- approximation theorem, 467
+- Aramata's theorem, 701
+- archimedean ordering, 450
+- Artin
+  - conjectures, 256, 301
+  - theorems, 264, 283, 290, 429
+- artinian, 439, 443, 661
+- Artin-Rees theorem, 429
+- Artin-Schreier theorem, 290
+- associated
+  - graded ring, 428, 430
+  - group and field, 301
+  - ideal of algebraic set, 381
+  - linear map, 507
+  - matrix of bilinear map, 528
+  - object, 814
+  - prime, 418
+- associative, 3
+- asymptotic Fermat, 196
+- automorphism, 10, 54
+  - inner, 26
+  - of a form, 525, 533
+- Banach space, 475
+- balanced, 660
+- base change, 625
+- basis, 135, 140
+- Bateman-Horn conjecture, 323
+- belong
+  - group and field, 263
+  - ideal and algebraic set, 381
+  - prime and primary ideal, 421
+- Bernoulli
+  - numbers, 218
+  - polynomials, 219
+- bifunctor, 806
+- bijective, ix
+- bilinear form, 146, 522
+
+<span class="original-page-anchor" id="pdf-page-909" aria-hidden="true"></span>
+
+- bilinear map, 48, 121, 144
+- binomial polynomial, 434
+- Blichfeldt theorem, 702
+- blocks, 555
+- Borel subgroup, 537
+- boundaries, 767
+- bounded complex, 762
+- Bourbaki theorems
+  - on sets, 881
+  - on traces and semisimplicity, 650
+- bracket product, 121
+- Brauer's theorems, 701, 709
+- Bruhat decomposition, 539
+- Burnside theorems
+  - on simple modules, 648
+  - on tensor representations, 726
+- butterfly lemma, 20
+- $\mathcal C$-dimension, 772
+- cancellation law, 40
+- canonical map, 14, 16
+- cardinal number, 885
+- Cartan subgroup, 712
+- Casimir, 628, 639
+- category, 53
+- Cauchy
+  - family, 52
+  - sequence, 51, 162, 206, 469
+- Cayley-Hamilton theorem, 561
+- center
+  - of a group, 26, 29
+  - of a ring, 84
+- central element, 714
+- centralizer, 14
+- chain condition, 407
+- character, 282, 327, 667, 668
+  - independence, 283, 676
+- characteristic, 90
+- characteristic polynomial, 256, 434, 561
+  - of tensor product, 569
+- Chevalley's theorem, 214
+- Chinese remainder theorem, 94
+- class formula, 29
+- class function, 673
+- class number, 674
+- Clifford algebra, 749, 757
+- closed
+  - complex, 765
+  - subgroup, 329
+  - under law of composition, 6
+- coboundary, 302
+- cocycle
+  - $GL_n$, 549
+  - Hilbert's theorem, 90, 288
+  - Sah's theorem, 303
+- coefficient function, 681
+- coefficients
+  - of linear combination, 129
+  - of matrix, 503
+  - of polynomial, 98, 101
+- coerasable, 805
+- cofinal, 52
+- cohomology, 288, 302, 303, 549, 764
+  - of groups, 826
+- cokernel, 119, 133
+- column
+  - operation, 154
+  - rank, 506
+  - vector, 503
+- commutative, 4
+  - diagram, ix
+  - group, 4
+  - ring, 83, 84, 86
+- commutator, 20, 69, 75
+- commutator subgroup, 20, 75
+  - of $SL_n$, 539, 541
+- commute, 29
+- compact
+  - Krull topology, 329
+  - spec of a ring, 411
+- complete
+  - family, 837
+  - field, 469
+  - ring and local ring, 206
+- completely reducible, 554
+- completion, 52, 469, 486
+- complex, 445, 761, 765
+- complex numbers, 272
+- component, 503, 507
+  - of a matrix, 503
+- composition of mappings, 85
+- compositum of fields, 226
+- conjugacy class, 673
+- conjugate elements
+  - of a group, 26
+  - of a field, 243
+- conjugate
+  - embeddings, 243, 476
+  - fields, 243, 477
+  - subgroups, 26, 28, 35
+- conjugation, 26, 552, 570, 662
+- connected, 411
+- connected sum, 6
+- connection, 755
+
+<span class="original-page-anchor" id="pdf-page-910" aria-hidden="true"></span>
+
+- constant polynomial, 175
+- constant term, 100
+- content, 181
+- contragredient, 665
+- contravariant functor, 62
+- convergence, 206
+- convolution, 85, 116
+- coordinates, 408
+- coproduct, 59, 80
+  - of commutative rings, 630
+  - of groups, 70, 72
+  - of modules, 128
+- correspondence, 76
+- coset, 12
+  - representative, 12
+- countable, 878
+- covariant functor, 62
+- Cramer's rule, 513
+- cubic extension, 270
+- cuspidal, 318
+- cycle
+  - in homology, 767
+  - in permutations, 30
+- cyclic
+  - endomorphism, 96
+  - extension, 266, 288
+  - group, 8, 23, 96, 830
+  - module, 147, 149
+  - tower, 18
+- cyclotomic
+  - field, 277–282, 314, 323
+  - polynomials, 279
+- Davenport theorem, 195
+- decomposable, 439
+- decomposition
+  - field, 341
+  - group, 341
+- Dedekind
+  - determinant, 548
+  - ring, 88, 116, 168, 353
+- defined, 710, 769
+- definite form, 593
+- degree
+  - of extension, 224
+  - of morphism, 765
+  - of polynomial, 100, 190
+  - of variety, 438
+  - Weierstrass, 208
+- Deligne-Serre theorem, 319
+- density theorem, 647
+- denumerable set, 875
+- dependent absolute values, 465
+- de Rham complex, 748
+- derivation, 214, 368, 746, 754
+  - over a subfield, 369
+  - universal, 746
+- derivative, 178
+- derived functor, 791
+- descending chain condition, 408, 439, 443, 661
+- determinant, 513
+  - ideal, 738, 739
+  - of cohomology, 738
+  - of linear map, 513, 520
+  - of module, 735
+  - of Witt group, 595
+- diagonal element, 504
+- diagonalizable, 568
+- diagonalized form, 576
+- difference equations, 256
+- differential, 747, 762, 814
+- dihedral group, 78, 723
+- dimension
+  - of character, 670
+  - of module, 146, 507
+  - of transcendental extension, 355
+  - of vector space, 141
+- dimension in homology, 806, 811, 823
+  - shifting, 805
+- direct
+  - limit, 160, 170, 639
+  - product, 9, 127
+  - sum, 36, 130, 165
+- directed family, 51, 160
+- discrete valuation ring, 487
+- discriminant, 193, 204, 270, 325
+- distinguished extensions
+  - of fields, 227, 242
+  - of rings, 335, 291
+- distinguished polynomials, 209
+- distributivity, 83
+- divide, 111, 116
+- divisible, 50
+- division ring, 84, 642
+- Dolbeault complex, 764
+- dominate (polynomials), 870
+- double coset, 75, 693
+- doubly transitive, 80
+- dual
+  - basis, 142, 287
+  - group, 46, 145
+  - module, 142, 145, 523, 737
+  - representation, 665
+
+<span class="original-page-anchor" id="pdf-page-911" aria-hidden="true"></span>
+
+- effective character, 668, 685
+- eigenvalue, 562
+- eigenvector, 562, 582–585
+- Eisenstein criterion, 183
+- elementary
+  - divisors, 153, 168, 521, 547
+  - group, 705
+  - matrix, 540
+  - symmetric polynomials, 190, 217
+- elimination, 391
+  - ideal, 392
+- embedding, 11, 120
+  - of fields, 229
+  - of rings, 91
+- endomorphism, 10, 24, 54
+  - of cyclic groups, 96
+- enough
+  - injectives, 787
+  - T-exacts, 810
+- entire, 91
+  - functions, 87
+- epimorphism, 120
+- equivalent
+  - norms, 470
+  - places, 349
+  - valuations, 480
+- erasable, 800
+- euclidean algorithm, 173, 207
+- Euler characteristic, 769
+- Euler-Grothendieck group, 771
+- Euler phi function, 94
+- Euler-Poincaré
+  - characteristic, 769, 824
+  - map, 156, 433, 435, 770
+- evaluation, 98, 101
+- even permutation, 31
+- exact, 15, 120
+  - for a functor, 619
+  - sequence of complexes, 767
+- expansion of determinant, 515
+- exponent
+  - of an element, 23, 149
+  - of a field extension, 293
+  - of a group, 23
+  - of a module, 149
+- exponential, 497
+- Ext, 791, 808, 810, 831, 857
+- extension
+  - of base, 623
+  - of derivations, 375
+  - of fields, 223
+  - of homomorphisms, 347, 378
+  - of modules, 831
+- exterior
+  - algebra, 733
+  - product, 733
+- extreme point, 883
+- factor
+  - group, 14
+  - module, 119, 141
+  - ring, 89
+- factorial, 111, 115, 175, 209
+- faithful, 28, 334, 649, 664
+- faithfully flat, 638
+- Fermat theorem, 195, 319
+- fiber product, 61, 81
+- field, 93
+  - of definition of a representation, 710
+- filtered complex, 817
+- filtration, 156, 172, 426, 814, 817
+- finite
+  - complex, 762
+  - dimension, 141, 772, 823
+  - extension, 223
+  - field, 244
+  - free resolution, 840
+  - homological dimension, 772, 823
+  - module, 129
+  - resolution, 763
+  - sequence, 877
+  - set, 877
+  - type, 129
+  - under a place, 349
+- finitely generated
+  - algebra, 121
+  - extension, 226
+  - group, 66
+  - module, 129
+  - ring, 90
+- finitely presented, 171
+- Fitting ideal, 738–745
+- Fitting lemma, 440
+- five lemma, 169
+- fixed
+  - field, 261
+  - point, 28, 34, 80
+- flat, 612, 808
+  - for a module, 616
+- forgetful functor, 62
+- form
+  - multilinear, 450, 466
+  - polynomial, 384
+- formal power series, 205
+- Fourier coefficients, 679
+
+<span class="original-page-anchor" id="pdf-page-912" aria-hidden="true"></span>
+
+- fractional ideal, 88
+- fractions, 107
+- free
+  - abelian group, 38, 39
+  - extension, 362
+  - generators, 137
+  - group, 66, 82
+  - module, 135
+  - module generated by a set, 137
+  - resolution, 763
+- Frey polynomial, 198
+- Frobenius
+  - element, 180, 246, 316, 346
+  - reciprocity, 686, 689
+- functionals, 142
+- functor, 62
+- fundamental group, 63
+- $G$ or $(G,k)$-module, 664, 779
+- $G$-homomorphism, 779
+- $G$-object, 55
+- $G$-regular, 829
+- $G$-set, 25, 27, 55
+- Galois
+  - cohomology, 288, 302
+  - extension, 261
+  - group, 252, 262, 269
+  - theory, 262
+- Gauss lemma, 181, 209, 495
+- Gauss sum, 277
+- g.c.d., 111
+- Gelfand-Mazur theorem, 471
+- Gelfand-Naimark theorem, 406
+- Gelfond-Schneider, 868
+- generate and generators
+  - for a group, 9, 23, 68
+  - for an ideal, 87
+  - for a module, 660
+  - for a ring, 90
+- generating function or power series, 211
+- generators and relations, 68
+- generic
+  - forms, 390, 392
+  - hyperplane, 374
+  - pfaffian, 589
+  - point, 383, 408
+  - polynomial, 272, 345
+- ghost components, 330
+- $GL_2$, 300, 317, 537, 715
+- $GL_n$, 19, 521, 543, 546, 547
+- global sections, 792
+- Goursat's lemma, 75
+- graded
+  - algebra, 172, 631
+  - module, 427, 751, 765
+  - morphism, 765, 766
+  - object, 814
+  - ring, 631
+- Gram-Schmidt orthogonalization, 579, 599
+- Grassman algebra, 733
+- greatest common divisor, 111
+- Grothendieck
+  - algebra and ring, 778–782
+  - group, 40, 139
+  - power series, 218
+  - spectral sequence, 819
+- group, 7
+  - algebra, 104, 121
+  - automorphism, 10
+  - extensions, 827
+  - homomorphism, 10
+  - object, 65
+  - ring, 85, 104, 126
+- Hall conjecture, 197
+- harmonic polynomials, 354, 550
+- Hasse zeta function, 255
+- height, 167
+- Herbrand quotient, 79
+- Hermite-Lindemann, 867
+- hermitian
+  - form, 533, 571, 579
+  - linear map, 534
+  - matrix, 535
+- Hilbert
+  - Nullstellensatz, 380, 551
+  - polynomial, 433
+  - -Serre theorem, 431
+  - syzygy theorem, 862
+  - theorem on polynomial rings, 185
+  - theorem 90, 288
+  - -Zariski theorem, 409
+- homogeneous, 410, 427, 631
+  - algebraic space, 385
+  - ideal, 385, 436, 733
+  - integral closure, 409
+  - point, 385
+  - polynomial, 103, 107, 190, 384, 436
+  - quadratic map, 575
+- homology, 445, 767
+  - isomorphism, 767, 836
+- homomorphisms in categories, 765
+- homomorphism
+  - of complex, 445, 765
+
+<span class="original-page-anchor" id="pdf-page-913" aria-hidden="true"></span>
+
+- homomorphism (continued)
+  - of groups, 10
+  - of inverse systems, 163
+  - of modules, 119, 122
+  - of monoid, 10
+  - of representations, 125
+  - of rings, 88
+- homotopies of complexes, 787
+- Horrock's theorem, 847
+- Howe's proof, 258
+- hyperbolic
+  - enlargement, 593
+  - pair, 586, 590
+  - plane, 586, 590
+  - space, 590
+- hyperplane, 542
+  - section, 374, 410
+- Ideal, 86
+  - class group, 88, 126
+- idempotent, 443
+- image, 11
+- indecomposable, 440
+- independent
+  - absolute values, 465
+  - characters, 283, 676
+  - elements of module, 151
+  - extensions, 362
+  - variables, 102, 103
+- index, 12
+- induced
+  - character, 686
+  - homomorphism, 16
+  - module, 688
+  - ordering, 879
+  - representation, 688
+- inductively ordered, 880
+- inertia
+  - form, 393
+  - group, 344
+- infinite
+  - cyclic group, 8, 23
+  - cyclic module, 147
+  - extension, 223, 235
+  - Galois extensions, 313
+  - period, 8, 23
+  - set, 876
+  - under a place, 349
+- infinitely
+  - large, 450
+  - small, 450
+- injective
+  - map, ix
+  - module, 782, 830
+  - resolution, 788, 801, 819
+- inner automorphism, 26
+- inseparable
+  - degree, 249
+  - extension, 247
+- integers mod $n$, 94
+- integral, 334, 351, 352, 409
+  - closure, 336, 409
+  - domain, 91
+  - equation, 334
+  - extension, 340
+  - homomorphism, 337
+  - map, 357
+  - root test, 185
+  - valued polynomials, 216, 435
+- integrally closed, 337
+- integrality criterion, 352, 409
+- invariant
+  - bases, 550
+  - submodule, 665
+- invariant
+  - of linear map, 557, 560
+  - of matrix, 557
+  - of module, 153, 557, 563
+  - of submodule, 153, 154
+- inverse, ix, 7
+- inverse limit, 50, 51, 161, 163, 169
+  - of Galois groups, 313, 328
+- inverse matrix, 518
+- invertible, 84
+- $\operatorname{Irr}(z,k,X)$, 224
+- irreducible
+  - algebraic set, 382, 408
+  - character, 669, 696
+  - element, 111
+  - module, 554
+  - polynomial, 175, 183
+  - polynomial of a field element, 224
+- irrelevant prime, 436
+- isolated prime, 422
+- isometry, 572
+- isomorphism, 10, 54
+  - of representations, 56, 667
+- isotropy group, 27
+- Iss'sa-Hironaka theorem, 498
+- Jacobson
+  - density, 647
+  - radical, 658
+- Jordan-Hölder, 22, 156
+- Jordan canonical form, 559
+
+<span class="original-page-anchor" id="pdf-page-914" aria-hidden="true"></span>
+
+- $K$-family, 771
+- $K$-theory, 139, 771–782
+- kernel
+  - of bilinear map, 48, 144, 522, 572
+  - of homomorphism, 11, 133
+- Kolchin's theorem, 661
+- Koszul complex, 853
+- Krull
+  - theorem, 429
+  - topology, 329
+- Krull-Remak-Schmidt, 441
+- Kummer extensions
+  - abelian, 294–296, 332
+  - non-abelian, 297, 304, 326
+- $L$-functions, 727
+- lambda operation, 217
+- lambda-ring, 218, 780
+- Langlands conjectures, 316, 319
+- lattice, 662
+- law of composition, 3
+- Lazard's theorem, 639
+- leading coefficient, 100
+- least
+  - common multiple, 113
+  - element, 879
+  - upper bound, 879
+- left
+  - coset, 12
+  - derived functor, 791
+  - exact, 790
+  - ideal, 86
+  - module, 117
+- length
+  - of complex, 765
+  - of filtration, 433
+  - of module, 433, 644
+- Lie algebra, 548
+- lie above
+  - prime, 338
+  - valuation ring, 350
+- lifting, 227
+- linear
+  - combination, 129
+  - dependence, 130
+  - independence, 129, 150, 283
+  - map, 119
+  - polynomial, 100
+- linearly disjoint, 360
+- local
+  - degree, 477
+  - homomorphism, 444
+  - norm, 478
+  - parameter, 487
+  - ring, 110, 425, 441
+  - uniformization, 498
+- localization, 110
+- locally nilpotent, 418
+- logarithm, 497, 597
+- logarithmic derivative, 214, 375
+- Mackey's theorems, 694
+- MacLane's criterion, 364
+- mapping cylinder, 838
+- Maschke's theorem, 666
+- Mason-Stothers theorem, 194, 220
+- matrix, 503
+  - of bilinear map, 528
+  - over non-commutative ring, 641
+- maximal
+  - abelian extension, 269
+  - archimedean, 450
+  - element, 879
+  - ideal, 92
+- metric linear map, 573
+- minimal polynomial, 556, 572
+- Mittag-Leffler condition, 164
+- modular forms, 318, 319
+- module, 117
+  - over principal ring, 146, 521
+- modulo an ideal, 90
+- Moebius inversion, 116, 254
+- monic, 175
+- monoid, 3
+  - algebra, 106, 126
+  - homomorphism, 10
+- monomial, 101
+- monomorphism, 120
+- Morita's theorem, 660
+- morphism, 53
+  - of complex, 765
+  - of functor, 65, 625, 800
+  - or representation, 125
+- multilinear map, 511, 521, 602
+- multiple root, 178, 247
+- multiplicative
+  - function, 116
+  - subgroup of a field, 177
+  - subset, 107
+- multiplicity
+  - of character, 670
+  - of root, 178
+  - of simple module, 644
+- Nakayama's lemma, 424, 661
+- natural transformation, 65
+
+<span class="original-page-anchor" id="pdf-page-915" aria-hidden="true"></span>
+
+- negative, 449
+  - definite, 578
+- Newton approximation, 493
+- nilpotent, 416, 559, 569
+- Noether normalization, 357
+- Noetherian, 186, 210, 408–409, 415, 427
+  - graded ring, 427
+  - module, 413
+- non-commutative variables, 633
+- non-degenerate, 522, 572
+- non-singular, 523, 529
+- norm, 284, 578, 637
+  - on a vector space, 469
+  - on a finitely generated abelian group, 166
+- normal
+  - basis theorem, 312
+  - endomorphism, 597
+  - extension, 238
+  - subgroup, 14
+  - tower, 18
+- normalizer, 14
+- Northcott theorems, 864
+- null
+  - sequence, 52
+  - space, 586
+- nullstellensatz, 380, 383
+- occur, 102, 176
+- odd permutation, 31
+- one-dimensional
+  - character, 671
+  - representation, 671
+- open complex, 761
+- open set, 406
+- operate
+  - on a module, 664
+  - on an object, 55
+  - on a set, 25, 76
+- orbit, 28
+  - decomposition formula, 29
+- order
+  - of a group, 12
+  - at $p$, 113, 488
+  - at a valuation, 488
+  - of a zero, 488
+- ordering, 449, 480, 878
+- ordinary tensor product, 630
+- orthogonal
+  - basis, 572–585
+  - element, 48, 144, 572
+  - group, 535
+  - map, 535
+  - sum, 572
+- orthogonality relations, 677
+- orthogonalization, 579
+- orthonormal, 577
+- over a map, 229
+- $p$-adic
+  - integers, 51, 162, 169, 488
+  - numbers, 488
+- $p$-class, 706
+- $p$-conjugate, 706
+- $p$-divisible, 50
+- $p$-elementary, 705
+- $p$-group, 33
+- $p$-regular, 705
+- $p$-singular, 705
+- $p$-subgroup, 33
+- pairing, 48
+- parallelogram law, 598
+- partial fractions, 187
+- partition, 79
+  - function, 211
+- perfect, 252
+- period, 23, 148
+- periodicity of Clifford algebra, 758
+- permutation, 8, 30
+- perpendicular, 48, 144, 522
+- Pfaffian, 589
+- Pic or Picard group, 88, 126
+- place, 349, 482
+- Poincaré series, 211, 431
+- point
+  - of algebraic set, 383
+  - in a field, 408
+- polar decomposition, 584
+- polarization identity, 580
+- pole, 488
+- polynomial, 97
+  - algebra, 97, 633
+  - function, 98
+  - invariants, 557
+  - irreducible, 175, 183
+  - Noetherian, 185
+- Pontrjagin dual, 145
+- positive, 449
+  - definite, 578, 583
+- power map, 10
+- power series, 205
+  - factorial, 209
+  - Noetherian, 210
+- primary
+  - decomposition, 422
+  - ideal, 421
+  - module, 421
+
+<span class="original-page-anchor" id="pdf-page-916" aria-hidden="true"></span>
+
+- prime
+  - element, 113
+  - field, 90
+  - ideal, 92
+  - ring, 90
+- primitive
+  - element, 243, 244
+  - group, 80
+  - operation, 79
+  - polynomials, 181, 182
+  - power series, 209
+  - root, 301
+  - root of unity, 277, 278
+- principal
+  - homomorphism, 418
+  - ideal, 86, 88
+  - module, 554, 556
+  - representation, 554
+  - ring, 86, 146, 521
+- product
+  - in category, 58
+  - of groups, 9
+  - of modules, 127
+  - of rings, 91
+- profinite, 51
+- projection, 388
+- projective
+  - module, 137, 168, 848, 850
+  - resolution, 763
+  - space, 386
+- proper, ix
+  - congruence, 492
+- pull-back, 61
+- purely inseparable
+  - element, 249
+  - extension, 250
+- push-out, 62, 81
+- quadratic
+  - extension, 269
+  - form, 575
+  - map, 574
+  - symbol, 281
+- quadratically closed, 462
+- quaternions, 9, 545, 723, 758
+- Quillen-Suslin theorem, 848
+- quotient
+  - field, 110
+  - ring, 107
+- radical
+  - of an ideal, 388, 417
+  - of a ring, 661
+  - of an integer, 195
+- Ramanujan power series, 212
+- ramification index, 483
+- rank, 42, 46
+  - of a matrix, 506
+- rational
+  - conjugacy class, 276, 326, 725
+  - element, 714
+  - function, 110
+- real, 451
+  - closed, 451
+  - closure, 452
+  - place, 462
+  - zero, 457
+- reduced
+  - decomposition, 422, 443
+  - polynomial, 177
+- reduction
+  - criterion, 185
+  - map, 99, 102
+  - modulo an ideal, 446, 623
+  - mod $p$, 623
+- refinement of a tower, 18
+- regular
+  - character, 675, 699
+  - extension, 366
+  - module, 699, 829
+  - representation, 675, 829
+  - sequence, 850
+- relations, 68
+- relative invariant, 171, 327
+- relatively prime, 113
+- representation, 55, 124, 126
+  - functor, 64
+  - of a group, 55, 317, 664
+  - of a ring, 553
+  - space, 667
+- residue class, 91
+  - degree, 422, 483
+  - ring, 91
+- resolution, 763, 798
+- resultant, 200, 398, 410
+  - system, 403
+  - variety, 393
+- Ribet, 319
+- Rieffel's theorem, 655
+- Riemann surface, 275
+- Riemann-Roch, 212, 218, 220, 258
+- right
+  - coset, 12, 75
+  - derived functor, 791
+  - exact functor, 791, 798
+
+<span class="original-page-anchor" id="pdf-page-917" aria-hidden="true"></span>
+
+- right (continued)
+  - ideal, 66
+  - module, 117
+- rigid, 275
+- rigidity theorem, 276
+- ring, 83
+  - homomorphism, 88
+  - of fractions, 107
+- root, 175
+  - of unity, 177, 276
+- row
+  - operation, 154
+  - rank, 506
+  - vector, 503
+- $S_3$ and $S_4$, 722
+- scalar product, 571
+- Schanuel
+  - conjecture, 873
+  - lemma, 841
+- Schreier's theorem, 22
+- Schroeder-Bernstein theorem, 885
+- Schur
+  - Galois groups, 274
+  - lemma, 643
+- Schwarz inequality, 578, 580
+- section, 64, 792
+- self-adjoint, 581
+- semidirect product, 15, 76
+- semilinear, 532
+- seminorm, 166, 475
+- semipositive, 583, 597
+- semisimple
+  - endomorphism, 569, 661
+  - module, 554, 647, 659
+  - representation, 554, 712
+  - ring, 651
+- separable
+  - closure, 243
+  - degree, 239
+  - element, 240
+  - extension, 241, 658
+  - polynomial, 241
+- separably generated, 363
+- separating transcendence basis, 363
+- sequence, 875
+- Serre's conjecture, 848
+  - theorem, 844
+- sesquilinear form, 532
+- Shafarevich conjecture, 314
+- sheaf, 792
+- sign of a permutation, 31, 77
+- simple
+  - character, 669
+  - group, 20
+  - module, 156, 554, 643
+  - ring, 653, 655
+  - root, 247
+- simplicity of $SL_n$, 539, 542
+- size of a matrix, 503
+- skew symmetric, 526
+- $SL_2$, 69, 537, 539, 546
+  - generators and relations, 69, 70, 537
+- $SL_n$, 521, 539, 541, 547
+- snake lemma, 158, 169, 614–621
+- Snyder's proof, 220
+- solvable
+  - extension, 291, 314
+  - group, 18, 293, 314
+  - by radicals, 292
+- spec of a ring, 405, 410
+- special linear group, 14, 52, 59, 69, 541, 546, 547
+- specializing, 101
+- specialization, 384
+- spectral
+  - sequence, 815–825
+  - theorem, 581, 583, 585
+- split exact sequence, 132
+- splitting field, 235
+- square
+  - matrix, 504
+  - group, 9, 77, 270
+  - root of operator, 584
+- stably free, 840
+  - dimension, 840
+- stably isomorphic, 841
+- stalk, 161
+- standard
+  - complex, 764
+  - alternating matrix, 587
+- Steinberg theorem, 726
+- Stewart-Tijdeman, 196
+- strictly inductively ordered, 881
+- stripping functor, 62
+- Sturm's theorem, 454
+- subgroup, 9
+- submodule, 118
+- submonoid, 6
+- subobject, 134
+- subring, 84
+- subsequence, 876
+- subspace, 141
+- substituting, 98, 101
+
+<span class="original-page-anchor" id="pdf-page-918" aria-hidden="true"></span>
+
+- super
+  - algebra, 632
+  - commutator, 757
+  - product, 631, 751
+  - tensor product, 632, 751
+- supersolvable, 702
+- support, 419
+- surjective, ix
+- Sylow group, 33
+- Sylvester's theorem, 577
+- symmetric
+  - algebra, 635
+  - endomorphism, 525, 585, 597
+  - form, 525, 571
+  - group, 28, 30, 269, 272–274
+  - matrix, 530
+  - multilinear map, 635
+  - polynomial, 190, 217
+  - product, 635, 781, 861
+- symplectic, 535
+  - basis, 599
+- syzygy theorem, 862
+- Szpiro conjecture, 198
+- Taniyama-Shimura conjecture, 316, 319
+- Tate group, 50, 163, 169
+  - limit, 598
+- Taylor series, 213
+- tensor, 581, 628
+  - algebra, 633
+  - exact, 612
+  - product, 602, 725
+  - product of complexes, 832, 851
+  - product representation, 725, 799
+- Tits construction of free group, 81
+- tor (for torsion), 42, 47, 149
+- Tor, 622, 791
+  - dimension, 622
+- Tornheim proof, 471
+- torsion
+  - free, 45, 147
+  - module, 147, 149
+- total
+  - complex, 815
+  - degree, 103
+- totally ordered, 879
+- tower
+  - of fields, 225
+  - of groups, 18
+- trace
+  - of element, 284, 666
+  - of linear map, 511, 570
+  - of matrix, 505, 511
+- transcendence
+  - basis, 356
+  - degree, 355
+  - of $e$, 867
+- transcendental, 99
+- transitive, 28, 79
+- translation, 26, 227
+- transpose
+  - of bifunctor, 808
+  - of linear map, 524
+  - of matrix, 505
+- transposition, 13
+- transvection, 542
+- trigonometric degree, 115
+  - polynomial, 114, 115
+- trivial
+  - character, 282
+  - operation, 664
+  - representation, 664
+  - subgroup, 9
+  - valuation, 465
+- two-sided ideal, 86, 655
+- type
+  - of abelian group, 43
+  - of module, 149
+- unimodular, 846
+  - extension property, 849
+- unipotent, 714
+- unique factorization, 111, 116
+- uniquely divisible, 575
+- unit, 84
+  - element, 3, 83
+  - ideal, 87
+- unitary, 535, 583
+- universal, 37
+  - delta-functor, 800
+  - derivation, 746
+- universally
+  - attracting, 57
+  - repelling, 57
+- upper bound, 879
+- upper diagonal group, 19
+- valuation, 465
+- valuation ring, 348, 481
+  - determined by ordering, 450, 452
+- value group, 480
+- Vandermonde determinant, 257–259, 516
+- vanishing ideal, 38
+- variable, 99, 104
+- variation of signs, 454
+
+<span class="original-page-anchor" id="pdf-page-919" aria-hidden="true"></span>
+
+- variety, 382
+- vector space, 118, 139
+- volume, 735
+- Warning's theorem, 214
+- Wedderburn's theorem, 649
+- Weierstrass
+  - degree, 208
+  - polynomial, 208
+  - preparation theorem, 208
+- weight, 191
+- well-behaved, 410, 478
+- well-defined, x
+- well-ordering, 891
+- Weyl group, 570
+- Witt group, 594, 599
+  - theorem, 591
+  - vector, 330, 492
+- Witt-Grothendieck group, 595
+- Zariski-Matsusaka theorem, 372
+- Zariski topology, 407
+- Zassenhaus lemma, 20
+- zero
+  - divisor, 91
+  - element, 3
+  - of ideal, 390, 405
+  - of polynomial, 102, 175, 379, 390
+- zeta function, 211, 212, 255
+- Zorn's lemma, 880, 884

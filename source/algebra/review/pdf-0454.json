@@ -1,0 +1,12 @@
+{
+  "pdfPage": 454,
+  "printedPage": "441",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Fitting 引理证明原印 x=x-u^n(y)+u^n(y)，但前页选择 y∈u^n(E) 且 u^n(x)=u^n(y)，应使用 x=(x-y)+y。中文作可见译校注，英文保留原印。"
+  ]
+}

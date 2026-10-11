@@ -1,0 +1,13 @@
+{
+  "pdfPage": 561,
+  "printedPage": "552",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原书投影段落先定义Q_n^M，随后两次印Q_n^H；中文据相邻定义校为Q_n^M，附译校注，英文照印。",
+    "原书子模M上限制泛函非平凡的论述隐含M非零；中文相邻警示注明。"
+  ]
+}

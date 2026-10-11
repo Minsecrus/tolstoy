@@ -1,0 +1,14 @@
+{
+  "pdfPage": 489,
+  "printedPage": "478",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原书将此命题编号印为 Proposition 3.8，英文和中文均照录，未改成 3.5。",
+    "范数公式原书的元素范围为 alpha in K，照录。",
+    "独立二审补可见重数说明：原书由范数乘积改为和的迹句须按共轭重数求和，Tr=p^r sum_sigma sigma(alpha)，不是sum_sigma(sigma(alpha))^(p^r)。char2纯不可分二次扩张中alpha=1的迹0而后式1，严证歧读不可用。"
+  ]
+}

@@ -1,0 +1,3928 @@
+{
+  "method": "Multiscale normalized template correlation against the original 145 DPI page renders; physical dimensions derive from original PDF page geometry, not PNG metadata.",
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "sourceRenderDpi": 145.0,
+  "opencvVersion": "5.0.0",
+  "images": {
+    "pdf-0034-matrix.png": {
+      "sourcePdfPage": 34,
+      "widthPt": 220.740113,
+      "heightPt": 111.661699,
+      "dpi": 145.0,
+      "matchScore": 0.999997,
+      "cropPixels": [
+        445,
+        225
+      ],
+      "matchedSourcePixels": [
+        250,
+        605,
+        445,
+        225
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.789916,
+      "assetSha256": "b071988426f2c4c26d9d741dadc9d62abbed05ca6b2683967efea3e31cd2d96b"
+    },
+    "pdf-0036-butterfly.png": {
+      "sourcePdfPage": 36,
+      "widthPt": 198.914124,
+      "heightPt": 170.718331,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        401,
+        344
+      ],
+      "matchedSourcePixels": [
+        248,
+        101,
+        401,
+        344
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.818517,
+      "assetSha256": "6d926ce9d90f60066f63d3145a2ddd3322d40acd72cd55dfe2cf889675efb9fd"
+    },
+    "pdf-0071-diagram-1.png": {
+      "sourcePdfPage": 71,
+      "widthPt": 86.80791,
+      "heightPt": 65.011923,
+      "dpi": 288.0,
+      "matchScore": 0.945255,
+      "cropPixels": [
+        348,
+        261
+      ],
+      "matchedSourcePixels": [
+        369,
+        294,
+        175,
+        131
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.47909,
+      "assetSha256": "214508298d071d23c2cd848a4e57c2a9207efe9cd20ac111eb5a12b7a05063f4"
+    },
+    "pdf-0071-diagram-2.png": {
+      "sourcePdfPage": 71,
+      "widthPt": 92.264407,
+      "heightPt": 65.011923,
+      "dpi": 286.56,
+      "matchScore": 0.924716,
+      "cropPixels": [
+        368,
+        259
+      ],
+      "matchedSourcePixels": [
+        364,
+        544,
+        186,
+        131
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.449232,
+      "assetSha256": "1af632727969ac3ddff35b2044575f9b56e9093df89cef25f8171e87fb905b2b"
+    },
+    "pdf-0071-diagram-3.png": {
+      "sourcePdfPage": 71,
+      "widthPt": 86.311864,
+      "heightPt": 57.071535,
+      "dpi": 289.44,
+      "matchScore": 0.963333,
+      "cropPixels": [
+        348,
+        229
+      ],
+      "matchedSourcePixels": [
+        360,
+        892,
+        174,
+        115
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.54364,
+      "assetSha256": "843a91036f1a432530cfe41b24d816386286b7c585f2f71d1f336456f6ea1f00"
+    },
+    "pdf-0072-diagram-1.png": {
+      "sourcePdfPage": 72,
+      "widthPt": 76.887006,
+      "heightPt": 70.470939,
+      "dpi": 289.44,
+      "matchScore": 0.958058,
+      "cropPixels": [
+        309,
+        283
+      ],
+      "matchedSourcePixels": [
+        379,
+        450,
+        155,
+        142
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.477937,
+      "assetSha256": "c12d90d69051503c257960d58d1b3cf00a056a163d04b05ffac2030e230c3027"
+    },
+    "pdf-0072-diagram-2.png": {
+      "sourcePdfPage": 72,
+      "widthPt": 65.477966,
+      "heightPt": 48.138599,
+      "dpi": 288.0,
+      "matchScore": 0.946359,
+      "cropPixels": [
+        263,
+        192
+      ],
+      "matchedSourcePixels": [
+        381,
+        941,
+        132,
+        97
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.578585,
+      "assetSha256": "3a4f7afc369f4e1b7957a15c9d8d0a642cb2784628fde92fb1df96ab0f3bd929"
+    },
+    "pdf-0073-diagram-1.png": {
+      "sourcePdfPage": 73,
+      "widthPt": 95.240678,
+      "heightPt": 56.575261,
+      "dpi": 288.0,
+      "matchScore": 0.954089,
+      "cropPixels": [
+        382,
+        227
+      ],
+      "matchedSourcePixels": [
+        345,
+        827,
+        192,
+        114
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.638982,
+      "assetSha256": "493006468ba3f8dd5988b85248b66b058dd08132d2939de7ccdf04031a3dcf26"
+    },
+    "pdf-0073-diagram-2.png": {
+      "sourcePdfPage": 73,
+      "widthPt": 67.958192,
+      "heightPt": 59.552906,
+      "dpi": 288.0,
+      "matchScore": 0.971535,
+      "cropPixels": [
+        272,
+        239
+      ],
+      "matchedSourcePixels": [
+        374,
+        1060,
+        137,
+        120
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.699846,
+      "assetSha256": "2cfddb5a28573baba11765defa058243fb07d39fe64f9bcf85aeb909bad3a0f7"
+    },
+    "pdf-0074-diagram-1.png": {
+      "sourcePdfPage": 74,
+      "widthPt": 97.720904,
+      "heightPt": 63.5231,
+      "dpi": 288.0,
+      "matchScore": 0.93266,
+      "cropPixels": [
+        392,
+        255
+      ],
+      "matchedSourcePixels": [
+        344,
+        887,
+        197,
+        128
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.492592,
+      "assetSha256": "bdceec2b08250b4d26de390729415bfde230fb769c6b5547c06075a0768c7bb3"
+    },
+    "pdf-0076-diagram-1.png": {
+      "sourcePdfPage": 76,
+      "widthPt": 64.485876,
+      "heightPt": 59.552906,
+      "dpi": 288.0,
+      "matchScore": 0.982576,
+      "cropPixels": [
+        259,
+        239
+      ],
+      "matchedSourcePixels": [
+        379,
+        318,
+        130,
+        120
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.555716,
+      "assetSha256": "03a4dfac560f6a33539d943e6c769d35fa2b2af77b835c64ceb6984a82fdbccb"
+    },
+    "pdf-0076-diagram-2.png": {
+      "sourcePdfPage": 76,
+      "widthPt": 83.831638,
+      "heightPt": 61.538003,
+      "dpi": 288.0,
+      "matchScore": 0.952341,
+      "cropPixels": [
+        336,
+        247
+      ],
+      "matchedSourcePixels": [
+        358,
+        526,
+        169,
+        124
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.448827,
+      "assetSha256": "6ac35f383cd7a2ff92785431a1fed301f6cded1bec8284e094c3806ff8ceb6d7"
+    },
+    "pdf-0076-diagram-3.png": {
+      "sourcePdfPage": 76,
+      "widthPt": 84.823729,
+      "heightPt": 66.997019,
+      "dpi": 286.56,
+      "matchScore": 0.912938,
+      "cropPixels": [
+        338,
+        267
+      ],
+      "matchedSourcePixels": [
+        363,
+        1089,
+        171,
+        135
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.473991,
+      "assetSha256": "57b5f15e3c67daa9b99e1503acf449df98fb3e69317de48df566e361c27068db"
+    },
+    "pdf-0077-diagram-1.png": {
+      "sourcePdfPage": 77,
+      "widthPt": 99.20904,
+      "heightPt": 62.034277,
+      "dpi": 286.56,
+      "matchScore": 0.953692,
+      "cropPixels": [
+        396,
+        247
+      ],
+      "matchedSourcePixels": [
+        349,
+        156,
+        200,
+        125
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.557893,
+      "assetSha256": "aed682c66b8eade2d721e60c70d6f37b7d9e77865620b967e8d76c683dbd9afd"
+    },
+    "pdf-0077-diagram-2.png": {
+      "sourcePdfPage": 77,
+      "widthPt": 86.311864,
+      "heightPt": 62.530551,
+      "dpi": 289.44,
+      "matchScore": 0.945108,
+      "cropPixels": [
+        348,
+        251
+      ],
+      "matchedSourcePixels": [
+        359,
+        435,
+        174,
+        126
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.528325,
+      "assetSha256": "451149796f81c2c57da9ae9c014418e11b41732bb40a9b782d845d69a6d2ec44"
+    },
+    "pdf-0080-natural-transformation.png": {
+      "sourcePdfPage": 80,
+      "widthPt": 106.649718,
+      "heightPt": 86.351714,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        215,
+        174
+      ],
+      "matchedSourcePixels": [
+        335,
+        433,
+        215,
+        174
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.883269,
+      "assetSha256": "7ecb93277359618fe3950871d6c05bdd95dd77883369c129de8e164051b6ac58"
+    },
+    "pdf-0081-generation.png": {
+      "sourcePdfPage": 81,
+      "widthPt": 66.470056,
+      "heightPt": 61.041729,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        134,
+        123
+      ],
+      "matchedSourcePixels": [
+        378,
+        637,
+        134,
+        123
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.873635,
+      "assetSha256": "ad04ddf5ed58f5f43accb048dccd1754d011b9b1b7d886c6b94625d6db5d006b"
+    },
+    "pdf-0081-morphism.png": {
+      "sourcePdfPage": 81,
+      "widthPt": 76.887006,
+      "heightPt": 61.538003,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        155,
+        124
+      ],
+      "matchedSourcePixels": [
+        375,
+        871,
+        155,
+        124
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.875511,
+      "assetSha256": "844b59698cbe3160953b0a895a25d642b9bb969310b35b81d6445f7ca4927e32"
+    },
+    "pdf-0082-projection.png": {
+      "sourcePdfPage": 82,
+      "widthPt": 88.79209,
+      "heightPt": 66.500745,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        179,
+        134
+      ],
+      "matchedSourcePixels": [
+        370,
+        980,
+        179,
+        134
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.831473,
+      "assetSha256": "8b6847167b05f9a9429fa2aaea01b9aec26347e399e5382d2c57e06393c2be01"
+    },
+    "pdf-0082-universal-map.png": {
+      "sourcePdfPage": 82,
+      "widthPt": 74.40678,
+      "heightPt": 60.545455,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        150,
+        122
+      ],
+      "matchedSourcePixels": [
+        372,
+        696,
+        150,
+        122
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.866829,
+      "assetSha256": "1a725394eb9a160f28a61e010a1bdee6ed5efa17e79556db03e931e384c32cbd"
+    },
+    "pdf-0083-functor.png": {
+      "sourcePdfPage": 83,
+      "widthPt": 101.689266,
+      "heightPt": 73.448584,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        205,
+        148
+      ],
+      "matchedSourcePixels": [
+        366,
+        327,
+        205,
+        148
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.862694,
+      "assetSha256": "1f79b037b40f4f2b4c949ae9dd81ea94a16bcda375be1c01e2d5e2053da3e7a3"
+    },
+    "pdf-0097-tits-discs.png": {
+      "sourcePdfPage": 97,
+      "widthPt": 187.00904,
+      "heightPt": 99.254844,
+      "dpi": 145.0,
+      "matchScore": 0.999995,
+      "cropPixels": [
+        377,
+        200
+      ],
+      "matchedSourcePixels": [
+        260,
+        570,
+        377,
+        200
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.781014,
+      "assetSha256": "d972441d4a65f0f9060b87038176a42da4a3e77ad54b45ab6c3120485b9d2920"
+    },
+    "pdf-0140-conjugation.png": {
+      "sourcePdfPage": 140,
+      "widthPt": 104.665537,
+      "heightPt": 74.441133,
+      "dpi": 289.44,
+      "matchScore": 0.972015,
+      "cropPixels": [
+        422,
+        299
+      ],
+      "matchedSourcePixels": [
+        376,
+        1084,
+        211,
+        150
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.567948,
+      "assetSha256": "e8385a6b8c817b384869c110745329aabc55cfe6815656342895a2ed67cbb4d4"
+    },
+    "pdf-0140-representations.png": {
+      "sourcePdfPage": 140,
+      "widthPt": 102.681356,
+      "heightPt": 66.997019,
+      "dpi": 289.44,
+      "matchScore": 0.942347,
+      "cropPixels": [
+        414,
+        270
+      ],
+      "matchedSourcePixels": [
+        354,
+        903,
+        207,
+        135
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.4768,
+      "assetSha256": "a06649fddaf47ac6dba225e80aff242219402bdef7c0a1aed9ef3fac1b227b4b"
+    },
+    "pdf-0146-hom-first.png": {
+      "sourcePdfPage": 146,
+      "widthPt": 258.935593,
+      "heightPt": 37.220566,
+      "dpi": 289.44,
+      "matchScore": 0.898986,
+      "cropPixels": [
+        1042,
+        150
+      ],
+      "matchedSourcePixels": [
+        185,
+        514,
+        522,
+        75
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.420396,
+      "assetSha256": "fa51aec17d98cd195bd171f9082efd0d34dd4cd050b65aab4ed8a34e4d2f94b1"
+    },
+    "pdf-0146-hom-second.png": {
+      "sourcePdfPage": 146,
+      "widthPt": 260.423729,
+      "heightPt": 36.228018,
+      "dpi": 288.0,
+      "matchScore": 0.925459,
+      "cropPixels": [
+        1042,
+        145
+      ],
+      "matchedSourcePixels": [
+        183,
+        649,
+        525,
+        73
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.439066,
+      "assetSha256": "09f2af1fc90747163061b8aa9b3d0221dc3747cc79f16b292f4f2fb84faddff9"
+    },
+    "pdf-0170-normal-form.png": {
+      "sourcePdfPage": 170,
+      "widthPt": 161.710734,
+      "heightPt": 117.61699,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        326,
+        237
+      ],
+      "matchedSourcePixels": [
+        303,
+        112,
+        326,
+        237
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.833784,
+      "assetSha256": "b819341949155c4f74471d5034b2640f50aedeb932c8032f590e37d3a32810da"
+    },
+    "pdf-0174-snake-completed.png": {
+      "sourcePdfPage": 174,
+      "widthPt": 277.785311,
+      "heightPt": 161.289121,
+      "dpi": 145.0,
+      "matchScore": 0.999997,
+      "cropPixels": [
+        560,
+        325
+      ],
+      "matchedSourcePixels": [
+        175,
+        640,
+        560,
+        325
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.761974,
+      "assetSha256": "5f2515b0f36eb05336608516f29dc9ff3d37ddadb620c1100901519d89958c85"
+    },
+    "pdf-0175-direct-cone.png": {
+      "sourcePdfPage": 175,
+      "widthPt": 74.40678,
+      "heightPt": 64.515648,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        150,
+        130
+      ],
+      "matchedSourcePixels": [
+        375,
+        385,
+        150,
+        130
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.87423,
+      "assetSha256": "eba9a87baa2cce9af64d5c21a3cb7e066883478d1e68633648812c9194833623"
+    },
+    "pdf-0175-direct-universal.png": {
+      "sourcePdfPage": 175,
+      "widthPt": 80.855367,
+      "heightPt": 104.217586,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        163,
+        210
+      ],
+      "matchedSourcePixels": [
+        368,
+        640,
+        163,
+        210
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.869166,
+      "assetSha256": "8a68fea625ad1731a90603ba9e29744a0dc2d432d65692bff20d409076179bdf"
+    },
+    "pdf-0176-inverse-cone.png": {
+      "sourcePdfPage": 176,
+      "widthPt": 76.39096,
+      "heightPt": 63.5231,
+      "dpi": 145.0,
+      "matchScore": 0.999995,
+      "cropPixels": [
+        154,
+        128
+      ],
+      "matchedSourcePixels": [
+        366,
+        1030,
+        154,
+        128
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.899875,
+      "assetSha256": "97baf16d20df6e1037769678e7fc9127088c82f32dd362ccf1c2455ad59121aa"
+    },
+    "pdf-0179-inverse-morphism.png": {
+      "sourcePdfPage": 179,
+      "widthPt": 77.383051,
+      "heightPt": 68.485842,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        156,
+        138
+      ],
+      "matchedSourcePixels": [
+        365,
+        140,
+        156,
+        138
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.845619,
+      "assetSha256": "fb832422f2aacba6e076394f90c4648c5abc3e556506b554ff927d344d856882"
+    },
+    "pdf-0184-ex14-snake.png": {
+      "sourcePdfPage": 184,
+      "widthPt": 205.362712,
+      "heightPt": 65.011923,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        414,
+        131
+      ],
+      "matchedSourcePixels": [
+        258,
+        323,
+        414,
+        131
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.789975,
+      "assetSha256": "18e71c6ba0f091a9392e2009a10250ef5ef6d421ae546b78f6d8879c8adda2a7"
+    },
+    "pdf-0184-ex15-five-lemma.png": {
+      "sourcePdfPage": 184,
+      "widthPt": 215.779661,
+      "heightPt": 61.538003,
+      "dpi": 145.0,
+      "matchScore": 0.999994,
+      "cropPixels": [
+        435,
+        124
+      ],
+      "matchedSourcePixels": [
+        248,
+        675,
+        435,
+        124
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.763272,
+      "assetSha256": "3143413dbaf7f85d009a023726bdebafda2367253336c745e56ddfebf885932b"
+    },
+    "pdf-0185-ex18.png": {
+      "sourcePdfPage": 185,
+      "widthPt": 105.161582,
+      "heightPt": 51.612519,
+      "dpi": 289.44,
+      "matchScore": 0.934343,
+      "cropPixels": [
+        424,
+        208
+      ],
+      "matchedSourcePixels": [
+        371,
+        337,
+        212,
+        104
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.541215,
+      "assetSha256": "85b193ef9027de6fbcce89c3d71836dcfd40bc906ec5c630e745b3c96beed9fc"
+    },
+    "pdf-0186-ex26.png": {
+      "sourcePdfPage": 186,
+      "widthPt": 314.492655,
+      "heightPt": 66.997019,
+      "dpi": 288.0,
+      "matchScore": 0.938353,
+      "cropPixels": [
+        1260,
+        268
+      ],
+      "matchedSourcePixels": [
+        151,
+        1098,
+        634,
+        135
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.338506,
+      "assetSha256": "b3b3d6d17f3c5aa68ff76827dda229c2c4f649ce7e1af80954c836ce319054af"
+    },
+    "pdf-0215-resultant.png": {
+      "sourcePdfPage": 215,
+      "widthPt": 124.011299,
+      "heightPt": 146.400894,
+      "dpi": 216.0,
+      "matchScore": 0.977454,
+      "cropPixels": [
+        373,
+        440
+      ],
+      "matchedSourcePixels": [
+        311,
+        895,
+        250,
+        295
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.247448,
+      "assetSha256": "3103f06b7f1042041764b47cc3712cf160bcae6881f2881e462f602096309ca8"
+    },
+    "pdf-0242-compositum.png": {
+      "sourcePdfPage": 242,
+      "widthPt": 54.564972,
+      "heightPt": 72.456036,
+      "dpi": 289.44,
+      "matchScore": 0.969593,
+      "cropPixels": [
+        220,
+        291
+      ],
+      "matchedSourcePixels": [
+        389,
+        245,
+        110,
+        146
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.581842,
+      "assetSha256": "ee17e663a5856d3b9c6e341054573c552ce8448652a6802b59959070e74f1c5a"
+    },
+    "pdf-0243-extension-properties.png": {
+      "sourcePdfPage": 243,
+      "widthPt": 224.708475,
+      "heightPt": 95.28465,
+      "dpi": 288.0,
+      "matchScore": 0.920689,
+      "cropPixels": [
+        900,
+        381
+      ],
+      "matchedSourcePixels": [
+        215,
+        136,
+        453,
+        192
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.259122,
+      "assetSha256": "cdacd49cac2aab8b63bf9e9b529171677edb1f62f89e2f940ec8211507aa7988"
+    },
+    "pdf-0244-embeddings.png": {
+      "sourcePdfPage": 244,
+      "widthPt": 161.710734,
+      "heightPt": 64.515648,
+      "dpi": 288.0,
+      "matchScore": 0.921861,
+      "cropPixels": [
+        648,
+        259
+      ],
+      "matchedSourcePixels": [
+        279,
+        676,
+        326,
+        130
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.337648,
+      "assetSha256": "96c965bf861215306638c75c2e1dea26a7015aca6a55e7ba320cc0f95bbf1ffa"
+    },
+    "pdf-0254-separable-degree.png": {
+      "sourcePdfPage": 254,
+      "widthPt": 106.649718,
+      "heightPt": 69.47839,
+      "dpi": 288.0,
+      "matchScore": 0.913509,
+      "cropPixels": [
+        428,
+        279
+      ],
+      "matchedSourcePixels": [
+        337,
+        482,
+        215,
+        140
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.372266,
+      "assetSha256": "3f09f7e4391d6ebcda2c3621e2e3b9eee5de05169d8678f093b027960b89f70b"
+    },
+    "pdf-0266-separable-inseparable.png": {
+      "sourcePdfPage": 266,
+      "widthPt": 84.327684,
+      "heightPt": 69.47839,
+      "dpi": 288.0,
+      "matchScore": 0.932848,
+      "cropPixels": [
+        338,
+        279
+      ],
+      "matchedSourcePixels": [
+        362,
+        314,
+        170,
+        140
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.42632,
+      "assetSha256": "86980b630188a398a2133d4f57cea3c60f570a6008f0fc76169c5d21fe9cb037"
+    },
+    "pdf-0267-normal-decomposition.png": {
+      "sourcePdfPage": 267,
+      "widthPt": 114.090395,
+      "heightPt": 126.053651,
+      "dpi": 288.0,
+      "matchScore": 0.900571,
+      "cropPixels": [
+        456,
+        504
+      ],
+      "matchedSourcePixels": [
+        329,
+        539,
+        230,
+        254
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.46692,
+      "assetSha256": "7b131e3428cd54813f6cbee87802867c2e8ab39ea74f90d2ad4225967bab0368"
+    },
+    "pdf-0279-isomorphism.png": {
+      "sourcePdfPage": 279,
+      "widthPt": 65.974011,
+      "heightPt": 65.011923,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        133,
+        131
+      ],
+      "matchedSourcePixels": [
+        380,
+        155,
+        133,
+        131
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.841585,
+      "assetSha256": "362e4dba2ac9b55223ac597098fe7e02d34ca96ce40fa933160283f328f689c8"
+    },
+    "pdf-0281-compositum.png": {
+      "sourcePdfPage": 281,
+      "widthPt": 108.633898,
+      "heightPt": 125.061103,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        219,
+        252
+      ],
+      "matchedSourcePixels": [
+        335,
+        165,
+        219,
+        252
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.883263,
+      "assetSha256": "7975db0de70aa194b1eeee5cd66f1ca20c687d2f607afec7bc51ee0f6ca13178"
+    },
+    "pdf-0282-two-extensions.png": {
+      "sourcePdfPage": 282,
+      "widthPt": 106.153672,
+      "heightPt": 134.986587,
+      "dpi": 145.0,
+      "matchScore": 0.999987,
+      "cropPixels": [
+        214,
+        272
+      ],
+      "matchedSourcePixels": [
+        335,
+        396,
+        214,
+        272
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.883801,
+      "assetSha256": "a05655f9444f3d1a3215932acb5513c9b6abc36d331cf3cc96a9602b4b100a8c"
+    },
+    "pdf-0285-degrees.png": {
+      "sourcePdfPage": 285,
+      "widthPt": 96.232768,
+      "heightPt": 89.329359,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        194,
+        180
+      ],
+      "matchedSourcePixels": [
+        346,
+        441,
+        194,
+        180
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.891532,
+      "assetSha256": "28bd474c42c8fde4358c893552e368e6e4ac7eba835d3e8df92a7759dde9c2db"
+    },
+    "pdf-0285-subgroup-lattice.png": {
+      "sourcePdfPage": 285,
+      "widthPt": 338.302825,
+      "heightPt": 116.128167,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        682,
+        234
+      ],
+      "matchedSourcePixels": [
+        104,
+        951,
+        682,
+        234
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.712483,
+      "assetSha256": "c535cdcdb381c20c7495550a8f59a228ed763e57c5f828e31b0ebb7d4f006072"
+    },
+    "pdf-0306-solvable-tower.png": {
+      "sourcePdfPage": 306,
+      "widthPt": 59.525424,
+      "heightPt": 132.008942,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        120,
+        266
+      ],
+      "matchedSourcePixels": [
+        390,
+        340,
+        120,
+        266
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.908636,
+      "assetSha256": "4072dfc4b8fad640a9a52d0eb0478add6c1d2fb91906fccc10af0c22e2a50d9a"
+    },
+    "pdf-0307-radical-compositum.png": {
+      "sourcePdfPage": 307,
+      "widthPt": 86.311864,
+      "heightPt": 80.892697,
+      "dpi": 145.0,
+      "matchScore": 0.999999,
+      "cropPixels": [
+        174,
+        163
+      ],
+      "matchedSourcePixels": [
+        366,
+        194,
+        174,
+        163
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.877458,
+      "assetSha256": "7ccd321dce3069ac96f573a70a3e4d863f6d591ddb134b9f1e6c913cf0d959b2"
+    },
+    "pdf-0315-field-tower.png": {
+      "sourcePdfPage": 315,
+      "widthPt": 173.615819,
+      "heightPt": 94.292101,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        350,
+        190
+      ],
+      "matchedSourcePixels": [
+        280,
+        255,
+        350,
+        190
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.900881,
+      "assetSha256": "626363199e6d4324b7917ba509b54cde3f7fdeabd754cfa2c5966cc6810952b0"
+    },
+    "pdf-0319-kummer-lattice.png": {
+      "sourcePdfPage": 319,
+      "widthPt": 171.135593,
+      "heightPt": 79.900149,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        345,
+        161
+      ],
+      "matchedSourcePixels": [
+        280,
+        340,
+        345,
+        161
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.927331,
+      "assetSha256": "31c855cc2968c571158ff213931d0ba870f88f711c0eb9215a9b655de59cc01d"
+    },
+    "pdf-0375-linear-disjoint-fields.png": {
+      "sourcePdfPage": 375,
+      "widthPt": 99.20904,
+      "heightPt": 146.400894,
+      "dpi": 145.0,
+      "matchScore": 0.999997,
+      "cropPixels": [
+        200,
+        295
+      ],
+      "matchedSourcePixels": [
+        380,
+        898,
+        200,
+        295
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.866823,
+      "assetSha256": "8c5d1617ebfc7ce3053b6a6c44ad50a6eb4aa29837f0c36b4c19ad3762df647b"
+    },
+    "pdf-0376-free-fields.png": {
+      "sourcePdfPage": 376,
+      "widthPt": 103.177401,
+      "heightPt": 84.366617,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        208,
+        170
+      ],
+      "matchedSourcePixels": [
+        365,
+        1024,
+        208,
+        170
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.871287,
+      "assetSha256": "5833f9978ce977c30685a6fde63617e2b51541e99f16664ef3ed96d8666e641c"
+    },
+    "pdf-0387-zariski-matsusaka-fields.png": {
+      "sourcePdfPage": 387,
+      "widthPt": 198.418079,
+      "heightPt": 201.487332,
+      "dpi": 145.0,
+      "matchScore": 0.999994,
+      "cropPixels": [
+        400,
+        406
+      ],
+      "matchedSourcePixels": [
+        250,
+        389,
+        400,
+        406
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.739501,
+      "assetSha256": "1f3b0ae10dc680753d8ba7dc8cca75a33958d206531baceb8c60562a36c5c045"
+    },
+    "pdf-0458-complex-square.png": {
+      "sourcePdfPage": 458,
+      "widthPt": 105.657627,
+      "heightPt": 79.900149,
+      "dpi": 288.0,
+      "matchScore": 0.977156,
+      "cropPixels": [
+        424,
+        320
+      ],
+      "matchedSourcePixels": [
+        356,
+        973,
+        213,
+        161
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.444304,
+      "assetSha256": "25ba75aa2f9e060a3e46fa6c3adba33856cb6cbde9b7c41cb92e78ca07fb640c"
+    },
+    "pdf-0512-general-matrix.png": {
+      "sourcePdfPage": 512,
+      "widthPt": 87.303955,
+      "heightPt": 45.657228,
+      "dpi": 289.44,
+      "matchScore": 0.96605,
+      "cropPixels": [
+        352,
+        184
+      ],
+      "matchedSourcePixels": [
+        347,
+        919,
+        176,
+        92
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.462413,
+      "assetSha256": "bfa538b3ed93327d5df5e290d76aded693fec29dc474717cc65af98d8be8f808"
+    },
+    "pdf-0513-identity-matrix.png": {
+      "sourcePdfPage": 513,
+      "widthPt": 124.011299,
+      "heightPt": 78.907601,
+      "dpi": 288.0,
+      "matchScore": 0.919265,
+      "cropPixels": [
+        496,
+        316
+      ],
+      "matchedSourcePixels": [
+        319,
+        798,
+        250,
+        159
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.423263,
+      "assetSha256": "3df52d587c2129c48588cc0f9c1334fa847747ca2eef7242dda6cc65b6b92131"
+    },
+    "pdf-0549-elementary-matrix-agent537.png": {
+      "sourcePdfPage": 549,
+      "widthPt": 121.035028,
+      "heightPt": 77.915052,
+      "dpi": 288.0,
+      "matchScore": 0.944423,
+      "cropPixels": [
+        485,
+        311
+      ],
+      "matchedSourcePixels": [
+        325,
+        781,
+        244,
+        157
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.412768,
+      "assetSha256": "9f8979b54c4672b4e1a4f85c87058b146bce9e339e6d631d80f1a5b87677c36b"
+    },
+    "pdf-0562-representation-triangle.png": {
+      "sourcePdfPage": 562,
+      "widthPt": 108.137853,
+      "heightPt": 73.944858,
+      "dpi": 288.0,
+      "matchScore": 0.940791,
+      "cropPixels": [
+        432,
+        296
+      ],
+      "matchedSourcePixels": [
+        346,
+        1086,
+        218,
+        149
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.630371,
+      "assetSha256": "336c47f6fb07e399c363d1e92e9d1ff76e90578d7be21cdd663d68eda2d33af4"
+    },
+    "pdf-0564-block-matrix.png": {
+      "sourcePdfPage": 564,
+      "widthPt": 121.035028,
+      "heightPt": 84.862891,
+      "dpi": 288.0,
+      "matchScore": 0.917897,
+      "cropPixels": [
+        484,
+        340
+      ],
+      "matchedSourcePixels": [
+        332,
+        383,
+        244,
+        171
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.380785,
+      "assetSha256": "4ffb951a04ec2fc630201209d5393a11216158d87a0e7d2da436a59b5ec929e4"
+    },
+    "pdf-0566-companion-matrix.png": {
+      "sourcePdfPage": 566,
+      "widthPt": 140.380791,
+      "heightPt": 99.254844,
+      "dpi": 289.44,
+      "matchScore": 0.979716,
+      "cropPixels": [
+        564,
+        400
+      ],
+      "matchedSourcePixels": [
+        292,
+        232,
+        283,
+        200
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.348134,
+      "assetSha256": "791386f154d8b378b03bdb30242c54fc6d72b3e178458d248c4926d17e1aeebd"
+    },
+    "pdf-0567-jordan-block.png": {
+      "sourcePdfPage": 567,
+      "widthPt": 101.689266,
+      "heightPt": 91.81073,
+      "dpi": 288.0,
+      "matchScore": 0.9508,
+      "cropPixels": [
+        408,
+        368
+      ],
+      "matchedSourcePixels": [
+        358,
+        1038,
+        205,
+        185
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.388209,
+      "assetSha256": "c4eb02eb4065cbfb8e3add1341aea6f9098ae57855289cd0af58cd4a959aac5d"
+    },
+    "pdf-0576-exercise-2-matrix.png": {
+      "sourcePdfPage": 576,
+      "widthPt": 113.098305,
+      "heightPt": 70.967213,
+      "dpi": 288.0,
+      "matchScore": 0.92051,
+      "cropPixels": [
+        452,
+        284
+      ],
+      "matchedSourcePixels": [
+        344,
+        773,
+        228,
+        143
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.435497,
+      "assetSha256": "decd097318e5bb9dc52a724650d385e30c3adb0ee7821cf6dffca90723b622c5"
+    },
+    "pdf-0596-alternating-normal-form.png": {
+      "sourcePdfPage": 596,
+      "widthPt": 249.014689,
+      "heightPt": 155.33383,
+      "dpi": 217.08,
+      "matchScore": 0.90356,
+      "cropPixels": [
+        752,
+        469
+      ],
+      "matchedSourcePixels": [
+        204,
+        296,
+        502,
+        313
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.490824,
+      "assetSha256": "e5c6192b98408974b75a709028bbdc6695b1ca33b9d073d89473e768c4ab023d"
+    },
+    "pdf-0611-universal-triangle.png": {
+      "sourcePdfPage": 611,
+      "widthPt": 111.610169,
+      "heightPt": 63.5231,
+      "dpi": 217.08,
+      "matchScore": 0.983779,
+      "cropPixels": [
+        337,
+        192
+      ],
+      "matchedSourcePixels": [
+        332,
+        361,
+        225,
+        128
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.368558,
+      "assetSha256": "734fdf5caabf1c16d784183a4447d001ed0b454cc63cd656c4d7f77013c150d0"
+    },
+    "pdf-0612-free-module-triangle.png": {
+      "sourcePdfPage": 612,
+      "widthPt": 111.114124,
+      "heightPt": 68.982116,
+      "dpi": 216.0,
+      "matchScore": 0.964297,
+      "cropPixels": [
+        334,
+        207
+      ],
+      "matchedSourcePixels": [
+        332,
+        179,
+        224,
+        139
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.366265,
+      "assetSha256": "927c7489d9cbe78a14d1c74a69d76e3dc0187b8d7929940e1d172965b22470be"
+    },
+    "pdf-0612-quotient-triangle.png": {
+      "sourcePdfPage": 612,
+      "widthPt": 119.050847,
+      "heightPt": 68.982116,
+      "dpi": 216.0,
+      "matchScore": 0.934383,
+      "cropPixels": [
+        357,
+        207
+      ],
+      "matchedSourcePixels": [
+        325,
+        449,
+        240,
+        139
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.364497,
+      "assetSha256": "12d543e2f259ab4f8ac7e304858b118840828eb11f9642fdc3f252e286c2ac63"
+    },
+    "pdf-0614-tensor-functor-square.png": {
+      "sourcePdfPage": 614,
+      "widthPt": 181.056497,
+      "heightPt": 66.004471,
+      "dpi": 217.08,
+      "matchScore": 0.94097,
+      "cropPixels": [
+        547,
+        199
+      ],
+      "matchedSourcePixels": [
+        274,
+        1080,
+        365,
+        133
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.218884,
+      "assetSha256": "c1b2b930cad9da3f851ff1d7aaeabd50b7c38ae2a67a0ddd4237f9ce735bd7db"
+    },
+    "pdf-0624-flat-snake-diagram.png": {
+      "sourcePdfPage": 624,
+      "widthPt": 250.00678,
+      "heightPt": 189.080477,
+      "dpi": 217.08,
+      "matchScore": 0.936807,
+      "cropPixels": [
+        754,
+        570
+      ],
+      "matchedSourcePixels": [
+        194,
+        145,
+        504,
+        381
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.240785,
+      "assetSha256": "d3940fa70c3ac727765074f62178db82b840ea776f3f0dae53298043871f7a9d"
+    },
+    "pdf-0625-flat-comparison.png": {
+      "sourcePdfPage": 625,
+      "widthPt": 251.99096,
+      "heightPt": 108.187779,
+      "dpi": 216.0,
+      "matchScore": 0.93964,
+      "cropPixels": [
+        757,
+        324
+      ],
+      "matchedSourcePixels": [
+        192,
+        167,
+        508,
+        218
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.28597,
+      "assetSha256": "437654cb9868cea682eb665727adfdeb056590b5d9ca4d1b8dfc8f161d3804e8"
+    },
+    "pdf-0626-subquotient-sequences.png": {
+      "sourcePdfPage": 626,
+      "widthPt": 187.505085,
+      "heightPt": 60.545455,
+      "dpi": 217.08,
+      "matchScore": 0.906484,
+      "cropPixels": [
+        566,
+        183
+      ],
+      "matchedSourcePixels": [
+        253,
+        145,
+        378,
+        122
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.296601,
+      "assetSha256": "6dbf9b11da64ab77d38a8f124bf2d5a29fb9c86792a7b472b162b271fcfa3894"
+    },
+    "pdf-0626-subquotient-snake.png": {
+      "sourcePdfPage": 626,
+      "widthPt": 249.014689,
+      "heightPt": 146.400894,
+      "dpi": 217.08,
+      "matchScore": 0.933976,
+      "cropPixels": [
+        751,
+        442
+      ],
+      "matchedSourcePixels": [
+        196,
+        319,
+        502,
+        295
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.257383,
+      "assetSha256": "93a5513e675ca5e0d9c2e9800a96021b4cda4d3f767dc1affa53732adddaacbb"
+    },
+    "pdf-0627-direct-sum-sequences.png": {
+      "sourcePdfPage": 627,
+      "widthPt": 192.961582,
+      "heightPt": 103.225037,
+      "dpi": 216.0,
+      "matchScore": 0.927647,
+      "cropPixels": [
+        580,
+        310
+      ],
+      "matchedSourcePixels": [
+        250,
+        152,
+        389,
+        208
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.362108,
+      "assetSha256": "055b61b3d12e0869653f00a55387937ae9e5022835347042d60639d135ed085c"
+    },
+    "pdf-0627-direct-sum-tensor-sequences.png": {
+      "sourcePdfPage": 627,
+      "widthPt": 252.487006,
+      "heightPt": 104.217586,
+      "dpi": 217.08,
+      "matchScore": 0.956917,
+      "cropPixels": [
+        762,
+        315
+      ],
+      "matchedSourcePixels": [
+        190,
+        425,
+        509,
+        210
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.276998,
+      "assetSha256": "bfa93b3d695314cb1015e44f4f33377c5d94d4afeb826c553682a5a742994721"
+    },
+    "pdf-0629-finite-presentation.png": {
+      "sourcePdfPage": 629,
+      "widthPt": 191.473446,
+      "heightPt": 62.530551,
+      "dpi": 216.0,
+      "matchScore": 0.934227,
+      "cropPixels": [
+        575,
+        187
+      ],
+      "matchedSourcePixels": [
+        250,
+        878,
+        386,
+        126
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.344302,
+      "assetSha256": "334993116a1e35a80463b86b39a6490b0e40c75e96bf77f128d9d4f7415a9803"
+    },
+    "pdf-0629-local-flat-module.png": {
+      "sourcePdfPage": 629,
+      "widthPt": 219.251977,
+      "heightPt": 62.034277,
+      "dpi": 217.08,
+      "matchScore": 0.922025,
+      "cropPixels": [
+        662,
+        187
+      ],
+      "matchedSourcePixels": [
+        226,
+        144,
+        442,
+        125
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.354907,
+      "assetSha256": "90196a0e6e1bff247b2390884fb6b931e2eab7e60cf7428a34134429e128b028"
+    },
+    "pdf-0632-base-diamond.png": {
+      "sourcePdfPage": 632,
+      "widthPt": 125.00339,
+      "heightPt": 74.441133,
+      "dpi": 216.0,
+      "matchScore": 0.960858,
+      "cropPixels": [
+        376,
+        224
+      ],
+      "matchedSourcePixels": [
+        324,
+        838,
+        252,
+        150
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.326686,
+      "assetSha256": "48fd99253fcf20174ad467ef14f74c8c53b1f6dd766db8dac67a19d563a93b09"
+    },
+    "pdf-0633-algebra-diamond.png": {
+      "sourcePdfPage": 633,
+      "widthPt": 136.412429,
+      "heightPt": 73.944858,
+      "dpi": 217.08,
+      "matchScore": 0.953453,
+      "cropPixels": [
+        411,
+        223
+      ],
+      "matchedSourcePixels": [
+        349,
+        1100,
+        275,
+        149
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.408184,
+      "assetSha256": "4c61b7133e6a053f62c579fbac03729ab026ce134e83b2894c18d73e20ea949c"
+    },
+    "pdf-0640-coproduct-diamond.png": {
+      "sourcePdfPage": 640,
+      "widthPt": 85.319774,
+      "heightPt": 67.989568,
+      "dpi": 217.08,
+      "matchScore": 0.953472,
+      "cropPixels": [
+        257,
+        205
+      ],
+      "matchedSourcePixels": [
+        359,
+        133,
+        172,
+        137
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.380226,
+      "assetSha256": "c8309ec6569ebe2bacad34ca036ba4d1205f27f258fdc8b475546df2effbac4c"
+    },
+    "pdf-0645-symmetric-triangle.png": {
+      "sourcePdfPage": 645,
+      "widthPt": 89.288136,
+      "heightPt": 40.694486,
+      "dpi": 217.08,
+      "matchScore": 0.968456,
+      "cropPixels": [
+        269,
+        123
+      ],
+      "matchedSourcePixels": [
+        354,
+        704,
+        180,
+        82
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.442703,
+      "assetSha256": "2bbe1d0469b136984a1933a6a826af34f0fe04ddb4e3540c561db4efd866f953"
+    },
+    "pdf-0648-hom-flatness.png": {
+      "sourcePdfPage": 648,
+      "widthPt": 325.901695,
+      "heightPt": 70.967213,
+      "dpi": 216.0,
+      "matchScore": 0.845481,
+      "cropPixels": [
+        978,
+        213
+      ],
+      "matchedSourcePixels": [
+        129,
+        160,
+        657,
+        143
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.261999,
+      "assetSha256": "f7ec72bc74927ab91d674074090ca1518acc40ab757e15e87b59ae159ce21d0e"
+    },
+    "pdf-0653-block-endomorphisms.png": {
+      "sourcePdfPage": 653,
+      "widthPt": 112.60226,
+      "heightPt": 63.5231,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        227,
+        128
+      ],
+      "matchedSourcePixels": [
+        348,
+        184,
+        227,
+        128
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.84912,
+      "assetSha256": "1518a26fee9d5741c972671f5d261934de414be08de5b0d9f40956009d3e692f"
+    },
+    "pdf-0666-first-column-ideal.png": {
+      "sourcePdfPage": 666,
+      "widthPt": 109.625989,
+      "heightPt": 68.982116,
+      "dpi": 145.0,
+      "matchScore": 1.0,
+      "cropPixels": [
+        221,
+        139
+      ],
+      "matchedSourcePixels": [
+        335,
+        601,
+        221,
+        139
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 144.0,
+      "runnerUpScore": 0.874908,
+      "assetSha256": "c000ce317ea982fdf9b965c4c45702caa3d5552e902ee6af7411254c55081ccd"
+    },
+    "pdf-0697-morphism-triangle.png": {
+      "sourcePdfPage": 697,
+      "widthPt": 56.549153,
+      "heightPt": 58.560358,
+      "dpi": 289.44,
+      "matchScore": 0.947077,
+      "cropPixels": [
+        228,
+        236
+      ],
+      "matchedSourcePixels": [
+        387,
+        665,
+        114,
+        118
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.586112,
+      "assetSha256": "daef04bced3a3e7a4108265c3b59fcff3ccdb304b5f12056eaaea21041a21b7f"
+    },
+    "pdf-0697-universal-triangle.png": {
+      "sourcePdfPage": 697,
+      "widthPt": 95.240678,
+      "heightPt": 65.508197,
+      "dpi": 289.44,
+      "matchScore": 0.931161,
+      "cropPixels": [
+        384,
+        264
+      ],
+      "matchedSourcePixels": [
+        385,
+        1088,
+        192,
+        132
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.538144,
+      "assetSha256": "564b8b365be46b04966eecb44c58f4fb5e07b95a0ca9061c0d754c8ae8d0ed3c"
+    },
+    "pdf-0698-induced-morphism-square.png": {
+      "sourcePdfPage": 698,
+      "widthPt": 137.900565,
+      "heightPt": 75.929955,
+      "dpi": 288.0,
+      "matchScore": 0.937955,
+      "cropPixels": [
+        552,
+        304
+      ],
+      "matchedSourcePixels": [
+        330,
+        614,
+        278,
+        153
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.500922,
+      "assetSha256": "aef7308ddd925d7eb350876ece5f34f1d1615b93cf4c75e5ced25d93baedbe49"
+    },
+    "pdf-0740-induced-tensor.png": {
+      "sourcePdfPage": 740,
+      "widthPt": 78.871186,
+      "heightPt": 63.026826,
+      "dpi": 288.0,
+      "matchScore": 0.940419,
+      "cropPixels": [
+        316,
+        252
+      ],
+      "matchedSourcePixels": [
+        362,
+        546,
+        159,
+        127
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.588078,
+      "assetSha256": "5e8e7e87a1c4aeb0186d5c2b3697922ca84da58301f1e12489a43722cfecbd7b"
+    },
+    "pdf-0740-universal-alternating.png": {
+      "sourcePdfPage": 740,
+      "widthPt": 79.863277,
+      "heightPt": 66.004471,
+      "dpi": 288.0,
+      "matchScore": 0.944482,
+      "cropPixels": [
+        320,
+        264
+      ],
+      "matchedSourcePixels": [
+        362,
+        318,
+        161,
+        133
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.596594,
+      "assetSha256": "d49ab79b33700dbe410ed5c6fdb8ca2704376406a149764ca8ae38530485f0d8"
+    },
+    "pdf-0742-r-relation.png": {
+      "sourcePdfPage": 742,
+      "widthPt": 29.266667,
+      "heightPt": 14.888227,
+      "dpi": 429.84,
+      "matchScore": 0.91999,
+      "cropPixels": [
+        174,
+        90
+      ],
+      "matchedSourcePixels": [
+        682,
+        102,
+        59,
+        30
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.450866,
+      "assetSha256": "69b5c6eed3bb4a802759379e5ff25653d95f14e74f614376c304ecbbed170f64"
+    },
+    "pdf-0749-relations-W.png": {
+      "sourcePdfPage": 749,
+      "widthPt": 164.687006,
+      "heightPt": 96.773472,
+      "dpi": 288.0,
+      "matchScore": 0.946695,
+      "cropPixels": [
+        660,
+        388
+      ],
+      "matchedSourcePixels": [
+        280,
+        530,
+        332,
+        195
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.459506,
+      "assetSha256": "afb8072ef8d63c42289022e9ce8762a476a0067578a3ae44cd085db397647315"
+    },
+    "pdf-0749-relations-Z.png": {
+      "sourcePdfPage": 749,
+      "widthPt": 152.285876,
+      "heightPt": 74.441133,
+      "dpi": 289.44,
+      "matchScore": 0.963544,
+      "cropPixels": [
+        612,
+        300
+      ],
+      "matchedSourcePixels": [
+        296,
+        1040,
+        307,
+        150
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.390981,
+      "assetSha256": "a9d1c049367705d395486b82b3a8f0a88e3d01c6701e2425f9f1cbb23d9b3a9a"
+    },
+    "pdf-0754-universal-derivation.png": {
+      "sourcePdfPage": 754,
+      "widthPt": 51.588701,
+      "heightPt": 59.552906,
+      "dpi": 289.44,
+      "matchScore": 0.955729,
+      "cropPixels": [
+        208,
+        240
+      ],
+      "matchedSourcePixels": [
+        393,
+        550,
+        104,
+        120
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.602841,
+      "assetSha256": "4513ae93b4a41aec12a2b20aa113bd2f4b75b87e8d23014b8e9dbf8f8e0890e7"
+    },
+    "pdf-0755-differentials-universal.png": {
+      "sourcePdfPage": 755,
+      "widthPt": 66.966102,
+      "heightPt": 60.04918,
+      "dpi": 288.0,
+      "matchScore": 0.928731,
+      "cropPixels": [
+        268,
+        240
+      ],
+      "matchedSourcePixels": [
+        378,
+        1017,
+        135,
+        121
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.584033,
+      "assetSha256": "1dbbd08fd5265e0a3de8c38089c745d2609bb58272f4663528ecf559d0e2d9f7"
+    },
+    "pdf-0757-clifford-universal.png": {
+      "sourcePdfPage": 757,
+      "widthPt": 66.966102,
+      "heightPt": 60.04918,
+      "dpi": 288.0,
+      "matchScore": 0.96377,
+      "cropPixels": [
+        268,
+        240
+      ],
+      "matchedSourcePixels": [
+        378,
+        955,
+        135,
+        121
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.587594,
+      "assetSha256": "652434060a20d8381c9b1a5632888c7cb5abcfa5206ba269e23081124359b67c"
+    },
+    "pdf-0770-exact-complex.png": {
+      "sourcePdfPage": 770,
+      "widthPt": 248.022599,
+      "heightPt": 98.262295,
+      "dpi": 217.08,
+      "matchScore": 0.904495,
+      "cropPixels": [
+        748,
+        296
+      ],
+      "matchedSourcePixels": [
+        198,
+        728,
+        500,
+        198
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.251147,
+      "assetSha256": "4531cffe6172f9da8ac3bafb2a1157cd9c50c3d256c1784f1c63a90a20b8df19"
+    },
+    "pdf-0773-closed-complex.png": {
+      "sourcePdfPage": 773,
+      "widthPt": 97.720904,
+      "heightPt": 26.798808,
+      "dpi": 216.0,
+      "matchScore": 0.928991,
+      "cropPixels": [
+        293,
+        80
+      ],
+      "matchedSourcePixels": [
+        348,
+        530,
+        197,
+        54
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.353699,
+      "assetSha256": "8ebf007b296b5386e6ae7b3bc23025c2db79f5a926a677d1522bddf82a896bc7"
+    },
+    "pdf-0773-degree-r-morphism.png": {
+      "sourcePdfPage": 773,
+      "widthPt": 106.153672,
+      "heightPt": 66.004471,
+      "dpi": 217.08,
+      "matchScore": 0.94338,
+      "cropPixels": [
+        321,
+        199
+      ],
+      "matchedSourcePixels": [
+        337,
+        916,
+        214,
+        133
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.290116,
+      "assetSha256": "0fc297c485be67379b304283fb7adabe4e2e4e0725c288fec4d14e29f9c75131"
+    },
+    "pdf-0774-complex-kernel.png": {
+      "sourcePdfPage": 774,
+      "widthPt": 144.349153,
+      "heightPt": 59.056632,
+      "dpi": 216.0,
+      "matchScore": 0.954219,
+      "cropPixels": [
+        434,
+        178
+      ],
+      "matchedSourcePixels": [
+        295,
+        167,
+        291,
+        119
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.338705,
+      "assetSha256": "3b8d043c1a4d2dfd4cfb347bf35fd2962bad7a883b2383f464e434463147160d"
+    },
+    "pdf-0776-homology-triangle.png": {
+      "sourcePdfPage": 776,
+      "widthPt": 90.280226,
+      "heightPt": 64.019374,
+      "dpi": 217.08,
+      "matchScore": 0.980167,
+      "cropPixels": [
+        273,
+        193
+      ],
+      "matchedSourcePixels": [
+        371,
+        876,
+        182,
+        129
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.386391,
+      "assetSha256": "0389b513c170aca466ef4826a513e476f4830383966851c49369f6f435c2f09a"
+    },
+    "pdf-0776-short-exact-complexes.png": {
+      "sourcePdfPage": 776,
+      "widthPt": 234.629379,
+      "heightPt": 213.397914,
+      "dpi": 216.0,
+      "matchScore": 0.896964,
+      "cropPixels": [
+        704,
+        640
+      ],
+      "matchedSourcePixels": [
+        208,
+        148,
+        473,
+        430
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.208313,
+      "assetSha256": "0690349ddd0736e583ba1508a1fce7ebf78794cb3d733a0c89a0ad76da90f9b0"
+    },
+    "pdf-0781-comparison-kernel.png": {
+      "sourcePdfPage": 781,
+      "widthPt": 191.969492,
+      "heightPt": 103.721311,
+      "dpi": 216.0,
+      "matchScore": 0.931518,
+      "cropPixels": [
+        577,
+        311
+      ],
+      "matchedSourcePixels": [
+        250,
+        369,
+        387,
+        209
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.342444,
+      "assetSha256": "460dac4a517b86f8d2bdb79566e59456fa7d632b8e690685b162ffa9b7353580"
+    },
+    "pdf-0782-common-cover.png": {
+      "sourcePdfPage": 782,
+      "widthPt": 83.831638,
+      "heightPt": 70.470939,
+      "dpi": 216.0,
+      "matchScore": 0.96441,
+      "cropPixels": [
+        252,
+        212
+      ],
+      "matchedSourcePixels": [
+        378,
+        185,
+        169,
+        142
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.399539,
+      "assetSha256": "133ac0f8340cbba335b8fadf0cf7645b525b81dd7270c7c66d7ac7f5f4a73bf2"
+    },
+    "pdf-0782-inductive-comparison.png": {
+      "sourcePdfPage": 782,
+      "widthPt": 107.145763,
+      "heightPt": 106.202683,
+      "dpi": 217.08,
+      "matchScore": 0.948399,
+      "cropPixels": [
+        324,
+        320
+      ],
+      "matchedSourcePixels": [
+        336,
+        993,
+        216,
+        214
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.297623,
+      "assetSha256": "21123ec058e191af754c2d8be9c593e46bc34d4e1133259146bfe6dc81c3735f"
+    },
+    "pdf-0782-resolutions-common-cover.png": {
+      "sourcePdfPage": 782,
+      "widthPt": 107.145763,
+      "heightPt": 185.110283,
+      "dpi": 217.08,
+      "matchScore": 0.907532,
+      "cropPixels": [
+        324,
+        558
+      ],
+      "matchedSourcePixels": [
+        336,
+        576,
+        216,
+        373
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.309006,
+      "assetSha256": "0e33b403a4c34392610232103dbf6db50682670376e2222966650ed43e952e5e"
+    },
+    "pdf-0783-inductive-boundaries.png": {
+      "sourcePdfPage": 783,
+      "widthPt": 173.615819,
+      "heightPt": 103.721311,
+      "dpi": 216.0,
+      "matchScore": 0.945123,
+      "cropPixels": [
+        522,
+        312
+      ],
+      "matchedSourcePixels": [
+        273,
+        198,
+        350,
+        209
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.237573,
+      "assetSha256": "715ea619281f611ac5c3c9ee157a472a3cc0149ea2d0ce7c6d74c9acc4a4585b"
+    },
+    "pdf-0784-exact-resolutions.png": {
+      "sourcePdfPage": 784,
+      "widthPt": 202.882486,
+      "heightPt": 104.217586,
+      "dpi": 217.08,
+      "matchScore": 0.952853,
+      "cropPixels": [
+        613,
+        314
+      ],
+      "matchedSourcePixels": [
+        259,
+        494,
+        409,
+        210
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 288.0,
+      "runnerUpScore": 0.266568,
+      "assetSha256": "ea0d0659d9909563229b5a0008cfdc652a6a29c2aa7be10fcfb444958a759ab1"
+    },
+    "pdf-0784-horseshoe-first-step.png": {
+      "sourcePdfPage": 784,
+      "widthPt": 193.457627,
+      "heightPt": 104.217586,
+      "dpi": 217.08,
+      "matchScore": 0.958197,
+      "cropPixels": [
+        584,
+        315
+      ],
+      "matchedSourcePixels": [
+        251,
+        836,
+        390,
+        210
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.307821,
+      "assetSha256": "f09677a055a5008c656c0eb53f789ffb8c72494097057985af3b1a2247dd6a85"
+    },
+    "pdf-0791-injective-extension.png": {
+      "sourcePdfPage": 791,
+      "widthPt": 107.145763,
+      "heightPt": 60.545455,
+      "dpi": 216.0,
+      "matchScore": 0.9848,
+      "cropPixels": [
+        322,
+        182
+      ],
+      "matchedSourcePixels": [
+        374,
+        174,
+        216,
+        122
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 288.0,
+      "runnerUpScore": 0.476458,
+      "assetSha256": "eb4f113b44f7c34a6c2ceead3778e0e936c9458a3ec0170599b4db63f51ccf3b"
+    },
+    "pdf-0791-injective-retraction.png": {
+      "sourcePdfPage": 791,
+      "widthPt": 101.689266,
+      "heightPt": 59.056632,
+      "dpi": 216.0,
+      "matchScore": 0.956261,
+      "cropPixels": [
+        305,
+        178
+      ],
+      "matchedSourcePixels": [
+        342,
+        741,
+        205,
+        119
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 240.0,
+      "runnerUpScore": 0.492577,
+      "assetSha256": "661eeb614d71947150e36acf1d23262bc30608b9406566e8cfaa5960b050d43b"
+    },
+    "pdf-0791-pushout-input.png": {
+      "sourcePdfPage": 791,
+      "widthPt": 104.665537,
+      "heightPt": 60.545455,
+      "dpi": 218.16,
+      "matchScore": 0.962148,
+      "cropPixels": [
+        317,
+        183
+      ],
+      "matchedSourcePixels": [
+        339,
+        936,
+        211,
+        122
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 288.0,
+      "runnerUpScore": 0.566166,
+      "assetSha256": "a58eb8d01fe9eeda6e2256e1db1e1b5134123ee0c6a60ed6395546189b602f77"
+    },
+    "pdf-0791-pushout-square.png": {
+      "sourcePdfPage": 791,
+      "widthPt": 120.042938,
+      "heightPt": 61.538003,
+      "dpi": 217.08,
+      "matchScore": 0.917955,
+      "cropPixels": [
+        363,
+        185
+      ],
+      "matchedSourcePixels": [
+        324,
+        1103,
+        242,
+        124
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.332441,
+      "assetSha256": "902f421616ee8776cb79584f7eebcd3e16d1d8a2fd220295d7450f4601ec8582"
+    },
+    "pdf-0794-coinduced-injective.png": {
+      "sourcePdfPage": 794,
+      "widthPt": 285.225989,
+      "heightPt": 67.989568,
+      "dpi": 216.0,
+      "matchScore": 0.911928,
+      "cropPixels": [
+        857,
+        204
+      ],
+      "matchedSourcePixels": [
+        158,
+        637,
+        575,
+        137
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 288.0,
+      "runnerUpScore": 0.259413,
+      "assetSha256": "90750310613da8cf25bd9287e97d50937574c2381b69fae5cc7dd4c5a7a8831b"
+    },
+    "pdf-0796-comparison-first-square.png": {
+      "sourcePdfPage": 796,
+      "widthPt": 63.989831,
+      "heightPt": 65.011923,
+      "dpi": 216.0,
+      "matchScore": 0.913292,
+      "cropPixels": [
+        192,
+        195
+      ],
+      "matchedSourcePixels": [
+        378,
+        1077,
+        129,
+        131
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.379602,
+      "assetSha256": "f464b7f644c2a459d4713499912471fbe60e206c1f3c8b4291375fbf4c3f9a64"
+    },
+    "pdf-0796-injective-comparison.png": {
+      "sourcePdfPage": 796,
+      "widthPt": 244.054237,
+      "heightPt": 60.545455,
+      "dpi": 216.0,
+      "matchScore": 0.942516,
+      "cropPixels": [
+        733,
+        181
+      ],
+      "matchedSourcePixels": [
+        199,
+        698,
+        492,
+        122
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.337516,
+      "assetSha256": "e35de0b8e23f52f177b5c93c4d929101fe9b94269b364d184a2a199724dae954"
+    },
+    "pdf-0797-comparison-second-square.png": {
+      "sourcePdfPage": 797,
+      "widthPt": 117.066667,
+      "heightPt": 60.04918,
+      "dpi": 217.08,
+      "matchScore": 0.946687,
+      "cropPixels": [
+        353,
+        181
+      ],
+      "matchedSourcePixels": [
+        320,
+        148,
+        236,
+        121
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.414914,
+      "assetSha256": "5ea5599720075ea03bc2d79cfe2dfb2e294f3c483a561106fe48d5af9c7ce826"
+    },
+    "pdf-0797-homotopy-extension.png": {
+      "sourcePdfPage": 797,
+      "widthPt": 156.750282,
+      "heightPt": 62.034277,
+      "dpi": 216.0,
+      "matchScore": 0.892721,
+      "cropPixels": [
+        470,
+        186
+      ],
+      "matchedSourcePixels": [
+        291,
+        948,
+        316,
+        125
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.453158,
+      "assetSha256": "2fd9a92d5a9d3dd16d30e9ef51d371ac0cec0861ee31326b0c647fa1d2c6c457"
+    },
+    "pdf-0801-derived-naturality-input.png": {
+      "sourcePdfPage": 801,
+      "widthPt": 193.457627,
+      "heightPt": 60.04918,
+      "dpi": 217.08,
+      "matchScore": 0.893237,
+      "cropPixels": [
+        584,
+        181
+      ],
+      "matchedSourcePixels": [
+        284,
+        762,
+        390,
+        121
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.320943,
+      "assetSha256": "7509e0d6832c1e62cbd30425d4cb58aa146a9e8fe5947d3b8d1e1c11e8887b8f"
+    },
+    "pdf-0801-derived-naturality-square.png": {
+      "sourcePdfPage": 801,
+      "widthPt": 129.963842,
+      "heightPt": 64.019374,
+      "dpi": 217.08,
+      "matchScore": 0.961398,
+      "cropPixels": [
+        392,
+        193
+      ],
+      "matchedSourcePixels": [
+        348,
+        939,
+        262,
+        129
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.305984,
+      "assetSha256": "244d49976228cfe612ddfe6c387942757934bd8731d52e7386335dcf1aef0a91"
+    },
+    "pdf-0802-injective-horseshoe-initial.png": {
+      "sourcePdfPage": 802,
+      "widthPt": 196.433898,
+      "heightPt": 101.736215,
+      "dpi": 216.0,
+      "matchScore": 0.916594,
+      "cropPixels": [
+        590,
+        306
+      ],
+      "matchedSourcePixels": [
+        246,
+        213,
+        396,
+        205
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.297729,
+      "assetSha256": "d5edd3bcbab013a770e45224f709b3a4ed3a14d1968c5c1c53e80fb98abb45e8"
+    },
+    "pdf-0802-injective-horseshoe-quotients.png": {
+      "sourcePdfPage": 802,
+      "widthPt": 193.953672,
+      "heightPt": 188.087928,
+      "dpi": 217.08,
+      "matchScore": 0.935172,
+      "cropPixels": [
+        585,
+        567
+      ],
+      "matchedSourcePixels": [
+        250,
+        824,
+        391,
+        379
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.281227,
+      "assetSha256": "384e4ad726f35d1cec20cffe31359f0fca0d0cd3691a4a1774cec2fb29ae51b6"
+    },
+    "pdf-0803-compatible-injective-resolutions.png": {
+      "sourcePdfPage": 803,
+      "widthPt": 196.929944,
+      "heightPt": 106.202683,
+      "dpi": 216.0,
+      "matchScore": 0.942011,
+      "cropPixels": [
+        592,
+        319
+      ],
+      "matchedSourcePixels": [
+        246,
+        223,
+        397,
+        214
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.332573,
+      "assetSha256": "6303514bc7eede9bd5320c89c830d5198f9ccb331154227c5cee79a6d116029c"
+    },
+    "pdf-0804-acyclic-cokernels.png": {
+      "sourcePdfPage": 804,
+      "widthPt": 202.386441,
+      "heightPt": 99.254844,
+      "dpi": 217.08,
+      "matchScore": 0.948925,
+      "cropPixels": [
+        611,
+        300
+      ],
+      "matchedSourcePixels": [
+        241,
+        888,
+        408,
+        200
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.345159,
+      "assetSha256": "aebf5e6ac63d11b0fd753efd73903e1c613214f0904208f909bad077e5ce0202"
+    },
+    "pdf-0805-acyclic-resolution-grid.png": {
+      "sourcePdfPage": 805,
+      "widthPt": 234.629379,
+      "heightPt": 190.073025,
+      "dpi": 288.0,
+      "matchScore": 0.924352,
+      "cropPixels": [
+        940,
+        760
+      ],
+      "matchedSourcePixels": [
+        211,
+        622,
+        473,
+        383
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.284711,
+      "assetSha256": "92bd0d16e9d263cbe32d4cff1fbec33225456aca281ff4d3ce0aa2d137a8f99b"
+    },
+    "pdf-0809-universality-construction.png": {
+      "sourcePdfPage": 809,
+      "widthPt": 197.922034,
+      "heightPt": 66.997019,
+      "dpi": 288.0,
+      "matchScore": 0.93807,
+      "cropPixels": [
+        792,
+        268
+      ],
+      "matchedSourcePixels": [
+        245,
+        544,
+        399,
+        135
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.334061,
+      "assetSha256": "764cfd63130da19e008f736a5761bab756a5b7dc830bd72388b95f07bc368df4"
+    },
+    "pdf-0810-functoriality-cube.png": {
+      "sourcePdfPage": 810,
+      "widthPt": 254.967232,
+      "heightPt": 205.9538,
+      "dpi": 288.0,
+      "matchScore": 0.904574,
+      "cropPixels": [
+        1020,
+        824
+      ],
+      "matchedSourcePixels": [
+        201,
+        703,
+        514,
+        415
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.265796,
+      "assetSha256": "4356b76f47d8ad1bca7b6cc9e6c54a89203c214c5d61aa17f8320140544f049f"
+    },
+    "pdf-0811-delta-compatibility-prism.png": {
+      "sourcePdfPage": 811,
+      "widthPt": 239.589831,
+      "heightPt": 173.695976,
+      "dpi": 288.0,
+      "matchScore": 0.946011,
+      "cropPixels": [
+        960,
+        696
+      ],
+      "matchedSourcePixels": [
+        211,
+        770,
+        483,
+        350
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.289339,
+      "assetSha256": "e005f62a01d98c1455d7c07408ad1fef87c6e70dbd230ec381895fa8238f5d0d"
+    },
+    "pdf-0814-dimension-shifting-zigzag.png": {
+      "sourcePdfPage": 814,
+      "widthPt": 277.785311,
+      "heightPt": 98.758569,
+      "dpi": 288.0,
+      "matchScore": 0.876522,
+      "cropPixels": [
+        1112,
+        396
+      ],
+      "matchedSourcePixels": [
+        163,
+        252,
+        560,
+        199
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.281309,
+      "assetSha256": "42ef71e72184044c4b572cf970618a595b862e29899d0432a30b2f3c239138bd"
+    },
+    "pdf-0826-spectral-differential-lattice.png": {
+      "sourcePdfPage": 826,
+      "widthPt": 240.581921,
+      "heightPt": 129.031297,
+      "dpi": 288.0,
+      "matchScore": 0.962121,
+      "cropPixels": [
+        964,
+        516
+      ],
+      "matchedSourcePixels": [
+        201,
+        580,
+        485,
+        260
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.430449,
+      "assetSha256": "d8e64b8a4b02c33d4d626ffe798e7df1c501a5bf6d920f53e2fadc88f9a184da"
+    },
+    "pdf-0830-fully-injective-grid.png": {
+      "sourcePdfPage": 830,
+      "widthPt": 201.890395,
+      "heightPt": 180.147541,
+      "dpi": 289.44,
+      "matchScore": 0.946129,
+      "cropPixels": [
+        812,
+        724
+      ],
+      "matchedSourcePixels": [
+        242,
+        103,
+        407,
+        363
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 300.0,
+      "runnerUpScore": 0.257875,
+      "assetSha256": "3a039b798f5d455c83ba052bbb523939a0eab659baaaa8f5151329af0121f801"
+    },
+    "pdf-0845-last-square.png": {
+      "sourcePdfPage": 845,
+      "widthPt": 188.99322,
+      "heightPt": 75.433681,
+      "dpi": 216.0,
+      "matchScore": 0.931863,
+      "cropPixels": [
+        568,
+        227
+      ],
+      "matchedSourcePixels": [
+        246,
+        818,
+        381,
+        152
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.330904,
+      "assetSha256": "ee5fa6a7707fb8a70046fa5fe6123537744f3374d4bd275f28cd2c3eb1231140"
+    },
+    "pdf-0846-mapping-cylinder-sequence.png": {
+      "sourcePdfPage": 846,
+      "widthPt": 338.79887,
+      "heightPt": 56.575261,
+      "dpi": 217.08,
+      "matchScore": 0.881867,
+      "cropPixels": [
+        1022,
+        171
+      ],
+      "matchedSourcePixels": [
+        102,
+        801,
+        683,
+        114
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.383615,
+      "assetSha256": "bb034eb93482a8fffb27d10e25723799ad5defdafcdcb240c8811102dd81003c"
+    },
+    "pdf-0851-three-exact-sequences.png": {
+      "sourcePdfPage": 851,
+      "widthPt": 202.882486,
+      "heightPt": 187.591654,
+      "dpi": 217.08,
+      "matchScore": 0.955917,
+      "cropPixels": [
+        613,
+        566
+      ],
+      "matchedSourcePixels": [
+        239,
+        665,
+        409,
+        378
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.34002,
+      "assetSha256": "18f20ae5142c046d4d12a96dcf06231d0677e0a61981403f9da84515343989f2"
+    },
+    "pdf-0861-koszul-calculation.png": {
+      "sourcePdfPage": 861,
+      "widthPt": 327.885876,
+      "heightPt": 162.281669,
+      "dpi": 217.08,
+      "matchScore": 0.938792,
+      "cropPixels": [
+        989,
+        489
+      ],
+      "matchedSourcePixels": [
+        133,
+        738,
+        661,
+        327
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.14106,
+      "assetSha256": "ef70fb03fddab754f92757af38004c3fce4a175f3a1768c2fc9e6f337d470f21"
+    },
+    "pdf-0861-koszul-morphism.png": {
+      "sourcePdfPage": 861,
+      "widthPt": 340.287006,
+      "heightPt": 59.552906,
+      "dpi": 216.0,
+      "matchScore": 0.935032,
+      "cropPixels": [
+        1022,
+        179
+      ],
+      "matchedSourcePixels": [
+        101,
+        378,
+        686,
+        120
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.227617,
+      "assetSha256": "e1cd2bb6cd9b0a6657f8123a43fb8b1393879b6270d696ae8493cb2bf0e8fc92"
+    },
+    "pdf-0862-koszul-short-exact.png": {
+      "sourcePdfPage": 862,
+      "widthPt": 344.751412,
+      "heightPt": 173.695976,
+      "dpi": 216.0,
+      "matchScore": 0.871495,
+      "cropPixels": [
+        1035,
+        521
+      ],
+      "matchedSourcePixels": [
+        100,
+        869,
+        695,
+        350
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.198884,
+      "assetSha256": "62208cf54d6ed109578c56c811dba85228bcdfdd7c1612e47051c59fffa2b044"
+    },
+    "pdf-0863-long-homology-sequence.png": {
+      "sourcePdfPage": 863,
+      "widthPt": 351.2,
+      "heightPt": 62.530551,
+      "dpi": 216.0,
+      "matchScore": 0.931338,
+      "cropPixels": [
+        1055,
+        187
+      ],
+      "matchedSourcePixels": [
+        101,
+        343,
+        708,
+        126
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 192.0,
+      "runnerUpScore": 0.283277,
+      "assetSha256": "c3d9f24660460a4b03f3739c29c142349f9f696218623de2a1fdea4795a4354e"
+    },
+    "pdf-0866-determinant-triangle.png": {
+      "sourcePdfPage": 866,
+      "widthPt": 131.451977,
+      "heightPt": 65.508197,
+      "dpi": 217.08,
+      "matchScore": 0.972831,
+      "cropPixels": [
+        396,
+        197
+      ],
+      "matchedSourcePixels": [
+        344,
+        175,
+        265,
+        132
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.338416,
+      "assetSha256": "83e29cb30104364902fbfe93572581d9398b00203d35e54b058b78d31bc2cb27"
+    },
+    "pdf-0867-exterior-square.png": {
+      "sourcePdfPage": 867,
+      "widthPt": 166.175141,
+      "heightPt": 65.508197,
+      "dpi": 217.08,
+      "matchScore": 0.95744,
+      "cropPixels": [
+        502,
+        197
+      ],
+      "matchedSourcePixels": [
+        309,
+        1056,
+        335,
+        132
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 432.0,
+      "runnerUpScore": 0.240885,
+      "assetSha256": "377b85c6801b8d05a037e855129bb7b155e13f9490fc98a6243a150f7031ffd7"
+    },
+    "pdf-0868-exterior-triangle.png": {
+      "sourcePdfPage": 868,
+      "widthPt": 96.728814,
+      "heightPt": 66.004471,
+      "dpi": 217.08,
+      "matchScore": 0.931302,
+      "cropPixels": [
+        292,
+        199
+      ],
+      "matchedSourcePixels": [
+        344,
+        416,
+        195,
+        133
+      ],
+      "sourcePagePixels": [
+        885,
+        1342
+      ],
+      "sourcePagePoints": [
+        439.0,
+        666.0
+      ],
+      "runnerUpDensity": 200.0,
+      "runnerUpScore": 0.328165,
+      "assetSha256": "3056d2bd5058125392a92cbd1dafd117e9b28dd60d01bb7a73c8287733f8d7fc"
+    }
+  }
+}

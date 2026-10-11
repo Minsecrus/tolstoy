@@ -1,0 +1,14 @@
+{
+  "pdfPage": 13,
+  "printedPage": "xii",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "逐项对照原页图核对第四至第七章及全部节标题、第二部分标题和印刷页码；核对 abc 与 X 的上标 n。",
+    "原目录第五章 Algebraic Extensions 的章首页标为 223，第一节 Finite and algebraic extensions 标为 225；中英文均保留原页数字，未擅自更改。",
+    "The modular connection 译为‘与模函数的联系’；额外查阅本书该节的可提取文字确认涉及 modular functions，不误译为模论。"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pdfPage": 149,
+  "printedPage": "134",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "亲自逐页查看原始 PNG；全部定义、命题、证明、公式与跨页片段完整转录并翻译。",
+    "原书称拓扑空间上的向量丛范畴为阿贝尔范畴。英中忠实保留原句，中文附译校注指出通常不成立：态射秩可变化，核/余核未必为向量丛。",
+    "原文可清晰辨读，译文忠实保留原句；对原书断言的数学说明为已标明的源文问题，不作为未辨明的转录项。"
+  ]
+}

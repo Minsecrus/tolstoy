@@ -1,0 +1,12 @@
+{
+  "pdfPage": 125,
+  "printedPage": "110",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "The tuple space is printed K^(n), with parentheses around the superscript n; this notation is preserved."
+  ]
+}

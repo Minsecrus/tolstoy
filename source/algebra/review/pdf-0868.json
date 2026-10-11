@@ -1,0 +1,13 @@
+{
+  "pdfPage": 868,
+  "printedPage": "860",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "The first sum in the proof of Lemma 4.12 visibly begins j=2. English preserves it; Chinese corrects to j=1 with an adjacent note and the identity-map counterexample. The exterior triangle is a personally inspected original crop. The final Tor display retains the original unmatched grouping parenthesis.",
+    "独立二遍核对：原同调张量公式末尾缺右括号，EN保留原式、ZH补括号并紧邻明确说明；恢复原末段 We can give a specific example … given for a free module，两语完整忠实。"
+  ]
+}

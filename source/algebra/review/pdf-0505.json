@@ -1,0 +1,12 @@
+{
+  "pdfPage": 505,
+  "printedPage": "494",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "归纳步骤2原式max{...}=c，中文改≤c并说明归纳假设只给上界。"
+  ]
+}

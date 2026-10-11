@@ -1,0 +1,12 @@
+{
+  "pdfPage": 736,
+  "printedPage": "727",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 727 Exercise 24 asserts that Psi^n of an irreducible character is irreducible without restricting n. Both languages retain the original exercise. Chinese adds an adjacent visible warning with the S_3 standard-character counterexample Psi^2(chi)=1-sign+chi, and the sufficient condition gcd(n,|G|)=1 via cyclotomic Galois action."
+  ]
+}

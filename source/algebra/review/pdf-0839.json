@@ -1,0 +1,12 @@
+{
+  "notes": [
+    "Exercise23 hint source extends f to M using x-prime in M, though f is defined only on M-prime. EN retains; ZH corrects first step to M-prime+A*x0 and x-prime in M-prime, then Zorn extends to whole M."
+  ],
+  "pdfPage": 839,
+  "unresolved": [],
+  "englishTranscribed": true,
+  "formulaChecked": true,
+  "chineseTranslated": true,
+  "visualReviewed": true,
+  "printedPage": "831"
+}

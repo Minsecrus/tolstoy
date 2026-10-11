@@ -1,0 +1,2004 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "scope": {
+    "pdfPageStart": 706,
+    "pdfPageEnd": 766,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Independent second reviewer personally viewed all 61 original full-page PNGs and every referenced diagram crop with view_image, read complete EN/ZH bodies, and compared each paragraph, condition, displayed/inline formula, proof step, exercise, table, diagram and source editorial note. Existing flags and embedded extraction were not evidence."
+  },
+  "range": [
+    706,
+    766
+  ],
+  "status": "complete",
+  "originalImagesViewed": [
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741,
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757,
+    758,
+    759,
+    760,
+    761,
+    762,
+    763,
+    764,
+    765,
+    766
+  ],
+  "auditedPages": [
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741,
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757,
+    758,
+    759,
+    760,
+    761,
+    762,
+    763,
+    764,
+    765,
+    766
+  ],
+  "unreviewedPages": [],
+  "diagramCropsViewed": [
+    "pdf-0740-universal-alternating.png",
+    "pdf-0740-induced-tensor.png",
+    "pdf-0742-r-relation.png",
+    "pdf-0749-relations-W.png",
+    "pdf-0749-relations-Z.png",
+    "pdf-0754-universal-derivation.png",
+    "pdf-0755-differentials-universal.png",
+    "pdf-0757-clifford-universal.png"
+  ],
+  "findings": [
+    {
+      "pdfPage": 706,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "中文增加原书σ∉S误印的译校注：验证S同态应取σ∈S；给出σ=λ_i反例，英文原印保留。"
+    },
+    {
+      "pdfPage": 707,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "中文增加第三步引用原印定理7.7应为7.11的可见译校注。"
+    },
+    {
+      "pdfPage": 707,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "已确认F_1∩[γ]F_2为原印，现有中文改为张量积并明确给出原式及理由，符合上下文各步。"
+    },
+    {
+      "pdfPage": 710,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "实部正性断言在本段对循环群生成元求和的上下文中理解，未误标为任意非单位元素的错误。"
+    },
+    {
+      "pdfPage": 721,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加F₂分裂Cartan非极大的可见条件性注，给出F₄*三阶反例；保留原句。"
+    },
+    {
+      "pdfPage": 722,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加一般域ψ(H)未必循环及F₂分裂正规化子指数6的可见条件性注；保留原句。"
+    },
+    {
+      "pdfPage": 723,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有中文A正规化子改为C_K的注释与前页非分裂情形相符，EN保留原印。"
+    },
+    {
+      "pdfPage": 726,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "原印θ∘det应为μ∘det的既有中文注与第二类定义一致。"
+    },
+    {
+      "pdfPage": 727,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加F₂时分裂Cartan共轭恒等的交叉条件注，第三类数量仍0。"
+    },
+    {
+      "pdfPage": 730,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加θ^G出现及差有效断言须限制θ≠[w]θ的可见注，以q=2、θ=1_C严证反例；保留原文。"
+    },
+    {
+      "pdfPage": 732,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "亲核原印ψ=[σ]ψ对所有σ∈S是自动成立的条件；现有中文明确注原印并给正确ψ≠[σ]ψ对所有σ∈G−S，符合正规子群Mackey判别。"
+    },
+    {
+      "pdfPage": 734,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有习题15左右H₁/H₂及Hom_R改Hom_R[G]注逐式核对，通过投影函数和维数反例确认。"
+    },
+    {
+      "pdfPage": 734,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有习题16ρ₂⊗ρ₂应ρ₁⊗ρ₂注与源图及积群作用相符。"
+    },
+    {
+      "pdfPage": 735,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加习题18–20允许零元时的三个明确反例及条件性说明，保留原题正次数。"
+    },
+    {
+      "pdfPage": 735,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有23(b)导数缺t及符号的可见注与行列式展开相符。"
+    },
+    {
+      "pdfPage": 735,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有23(c)第二求和∞改n注与本题未定义负次交替幂相符，保留英文原印。"
+    },
+    {
+      "pdfPage": 736,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有24缺少n互素假设的条件性注，S₃二维特征标n=2反例及互素充分条件正确。"
+    },
+    {
+      "pdfPage": 737,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加L_F等型分量行列式与重数空间行列式相差dχ次幂的有限条件说明，原(b)(c)/假设完整保留，不猜N或新的L定义。"
+    },
+    {
+      "pdfPage": 737,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有未定义1/N的译校注，在页面明确写出的L_F乘积定义下，对数导数无该因子，逐次幂计算正确。"
+    },
+    {
+      "pdfPage": 737,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "原L_F按整个χ等型空间的行列式定义，其与通常重数空间行列式相差dχ次幂；用有限条件注说明核对范围，原(b)(c)/附加假设保留而不重构。"
+    },
+    {
+      "pdfPage": 742,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "原首句r与n关系符号的原图保留且已亲看，中文按页末明确r>n给条件说明而不猜具体符号。"
+    },
+    {
+      "pdfPage": 742,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "命题一般R环而原印over k的既有R校注符合证明与维数式。"
+    },
+    {
+      "pdfPage": 746,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "修正既有译校注依据：后页源书也误印S_r^p，故删除并不存在的后页正确印法，改以q列的严格列指标说明。"
+    },
+    {
+      "pdfPage": 746,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "K应S_r^q的更正正确；校注已修正依据。"
+    },
+    {
+      "pdfPage": 747,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "J/K分别S_r^p/S_r^q的校注与矩阵大小一致。"
+    },
+    {
+      "pdfPage": 747,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "原A^(0)/A^(1)写成理想的校注改为I₀/I₁，符合上下文与随后链；EN原印保留。"
+    },
+    {
+      "pdfPage": 747,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "R^p到R^q按作者行向量矩阵约定可成立，未误改为列向量约定。"
+    },
+    {
+      "pdfPage": 748,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "原引10.1添加可见注，给出由上一页2.1外幂乘积到交集包含的推导，保留原印引用。"
+    },
+    {
+      "pdfPage": 748,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有ideal关系子模术语说明准确，核属于R^q模。"
+    },
+    {
+      "pdfPage": 752,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有F_{p+n}改F_{m+q}注与第一情形和Fitting理想增链一致，原印已从图核验。"
+    },
+    {
+      "pdfPage": 753,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有误引2.6改2.7注正确。"
+    },
+    {
+      "pdfPage": 753,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有positive改非负的注与n=0及空块行列式情形相符。"
+    },
+    {
+      "pdfPage": 759,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "源书x/X大小写与⊕嵌入记号均保留，未将作者等价记法标错。"
+    },
+    {
+      "pdfPage": 760,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "增加普适覆盖断言n≥3的条件性注，n=2为圆的二重覆盖而普适覆盖R；保留原句。"
+    },
+    {
+      "pdfPage": 760,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有xx*条件不能脱离偶部/生成群范围的注，经n=3 pseudoscalar计算ω²=1、ω*=−ω确认反例正确。"
+    },
+    {
+      "pdfPage": 762,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "既有两个σs端点改σ(r+s)注与s线性自变量个数和shuffle条件相符，EN原印保留。"
+    },
+    {
+      "pdfPage": 763,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "原引习题6/7增加可见注，应由6给多项式泛导子并由8下降商；原7已假定存在，保留原引用。"
+    },
+    {
+      "pdfPage": 764,
+      "type": "resolved source qualification or editorial clarification",
+      "detail": "水平子模增加可见基环条件注：R子模一般非A子模，以k[t]、d、1和t反例说明。"
+    },
+    {
+      "pdfPage": 765,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "亲核原印本征值1/−1，既有中文i/−i的注严格由J²=−id推出。"
+    },
+    {
+      "pdfPage": 765,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "亲核原End_C(E_C^+)漏外代数，既有补∧注由作用描述与766结论证实。"
+    },
+    {
+      "pdfPage": 765,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "亲核原内乘−2；尖括号未定义故保留原式，既有条件注说明若配对=g则产生C_{−g}平方规则，若配对=−g则匹配C_g，未猜修。"
+    },
+    {
+      "pdfPage": 766,
+      "type": "confirmed existing source note or preserved notation",
+      "detail": "前页18的内乘符号条件性注与本页C_g表示结论一起核验，原结论保留。"
+    },
+    {
+      "pdfPage": 731,
+      "type": "MathJax layout compatibility",
+      "detail": "MathJax compatibility only: replaced the printed two-column spanning type header with a normal type cell and an empty second cell, preserving all four columns, all four table rows, all labels and formulas. Original PDF page 731 (printed 722) and complete EN/ZH were personally rechecked; full-page strict MathJax rendering passed."
+    }
+  ],
+  "unresolvedFindings": [],
+  "pages": [
+    {
+      "pdfPage": 706,
+      "printedPage": "697",
+      "scope": "定理7.10证明续页的S等变性分段式、诱导对偶同构；定理7.11张量投影公式、泛性质证明及函子性同构。",
+      "changes": [
+        "中文增加原书σ∉S误印的译校注：验证S同态应取σ∈S；给出σ=λ_i反例，英文原印保留。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "dfdb0d7ac15ce6a1a01dd733d61be899af8b58b70e1600e7c554cda46d026790",
+      "zhSha256": "275cf442d577aabd47e6f7a2f867fd4332a7b895fce6f024180d7f5f61a1e8c7"
+    },
+    {
+      "pdfPage": 707,
+      "printedPage": "698",
+      "scope": "共轭张量公式(3)、定理7.12四步双陪集张量分解、一般上同调说明与全部五项文献。",
+      "changes": [
+        "中文增加第三步引用原印定理7.7应为7.11的可见译校注。"
+      ],
+      "sourceNotesReviewed": [
+        "已确认F_1∩[γ]F_2为原印，现有中文改为张量积并明确给出原式及理由，符合上下文各步。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "34b917c100698e3f49bc090e69f6173230c5afc5f02f5f4aef614dfe7cc51f73",
+      "zhSha256": "0983e601eca3be2d9914b03cd1bff5f5685fb3a5e74c2e00e6d1a5875e63948c"
+    },
+    {
+      "pdfPage": 708,
+      "printedPage": "699",
+      "scope": "后三节引言、§8命题8.1互反重数、命题8.2正则诱导、推论8.3、u_G定义与Aramata定理8.4全部条件。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "64df98a30c00f4d8522a66876e63dafbb4a8215e06adfd2c292a24180c0a531e",
+      "zhSha256": "b1f889ac6b27d60eb34d7490a5c6841b40a2250d7cbd83647d18970d0a5e874e"
+    },
+    {
+      "pdfPage": 709,
+      "printedPage": "700",
+      "scope": "θ_A分段定义、λ_A的a=1约定、命题8.5两组标量积展开及循环子群求和、命题8.6全部断言。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "623e7ef9ac25b22aa328f6ced12427a728f67f51cbf843e3f833e075d00f93d2",
+      "zhSha256": "3a54d989a45a39c612adf4926169e8de0b937bd8aeb819d0348eed3c94f18fd9"
+    },
+    {
+      "pdfPage": 710,
+      "printedPage": "701",
+      "scope": "命题8.6一般证明的傅里叶系数三行式、生成元上的单位根实部论证、泽塔/L函数背景、Brauer渐近式和五项文献。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "实部正性断言在本段对循环群生成元求和的上下文中理解，未误标为任意非单位元素的错误。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "154c663e2a454a0c773e567fdbf6a98ff629be4d8c100340327e0533a6861a2e",
+      "zhSha256": "eca6c7f89e47af1bec31cc9bf4d95bb8d0906e795bc6998fd7fe517fcc5f6c3f"
+    },
+    {
+      "pdfPage": 711,
+      "printedPage": "702",
+      "scope": "超可解群定义及正规性、命题9.1/9.2中心真包含论证、Blichfeldt定理9.3及忠实性假设、引理9.4完整条件和证明开头。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "39c9f0e882ef7fc0ea8dbf6b4315de67cddf2fde3ede621afda060639bba33d2",
+      "zhSha256": "61cfe9d25c367010902c757600a0bddb7b8759275a303bf13625066d81173528"
+    },
+    {
+      "pdfPage": 712,
+      "printedPage": "703",
+      "scope": "引理9.4权空间直和、忠实性反证、共轭特征ψ_σ、G传递置换、迷向群H_1与陪集和全部式子。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "6cadeeaf33f3e2ef3ede408bf7b60fe21e33383ea039d1fe2182364c204d333d",
+      "zhSha256": "d70ed272c6d843598081151b1aa089381591a179af4d8eca13e46336c9895bdc"
+    },
+    {
+      "pdfPage": 713,
+      "printedPage": "704",
+      "scope": "引理9.4直和及简单性结尾、去掉忠实假设的商群提升、推论9.5递归诱导与§10环X_R(G)设定。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "ae15d010cf233964d82d0741f4d116ad023e3cab37607ab3a0d4b4cb0f78a2b0",
+      "zhSha256": "a85da13e867d50a30b082da299bfb078d1cd0f1a2f6974b9f4a77378efa515e7"
+    },
+    {
+      "pdfPage": 714,
+      "printedPage": "705",
+      "scope": "V_R(G)定义、理想引理10.1、p初等/正则/奇异定义、互素阶因子唯一分解、命题10.2及Z[ζ]基的开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "d2a6c0d90304afe8ca247e54799217f19f84ea6277e0533a8156aecb6f460ec4",
+      "zhSha256": "92ae61e323789bd43efc56e32aee7118082080216f7ae94e00566f4acaab647b"
+    },
+    {
+      "pdfPage": 715,
+      "printedPage": "706",
+      "scope": "引理10.3整数基下降证明及双和/V_R直和、p共轭定义、引理10.4整数值与模p常数条件及循环限制式。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "1b3cd8b82b346bcd1985a5f4d186f7e1a53ca3a5e021ded3dd6ee59bbc45943d",
+      "zhSha256": "e8c763537702338716e0fe9cf3efbdd24dfd115b53bee42a8d97a106f2da6c70"
+    },
+    {
+      "pdfPage": 716,
+      "printedPage": "707",
+      "scope": "引理10.4的p^r次幂模pR式、引理10.5、引理10.6中央化子C和Sylow群P条件、三性质及单位根加权特征ψ公式。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "baa3d221030d00ee3d9988014d69ae179f7dd3f8e0c88a9336f8ca136c65ac7e",
+      "zhSha256": "5f3223acfebb221bbee35278e2aacf5f76fc3dc80a7db7157e21ee7ef84d04d6"
+    },
+    {
+      "pdfPage": 717,
+      "printedPage": "708",
+      "scope": "引理10.6计数μ及整除/支撑/中央化子值证明、引理10.7覆盖群条件、Artin定理10.8整数下降、引理10.9的p^r及Euler幂。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "f5fd324327a8418b8240db00ac001c895f144691c6a7ea89bba169c5128cfc40",
+      "zhSha256": "ffaa8a184226c6bb8fe694bb5a135a9d69ea66b2ed4432a0db46f752853ab611"
+    },
+    {
+      "pdfPage": 718,
+      "printedPage": "709",
+      "scope": "引理10.10常函数下降、Brauer定理10.11全素数初等群覆盖、推论10.12限制判据和两个诱导式、定理10.13一维诱导结论。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "eedb085c263e79da362d053a58d635becf01ab70cbab2501616b0b8626f999e7",
+      "zhSha256": "f2527552b0441739917140308456da62178c1bc4be0db19c4e38559b75531046"
+    },
+    {
+      "pdfPage": 719,
+      "printedPage": "710",
+      "scope": "§11标量扩张作用、命题11.1基及迹不变证明、可在k上定义的定义、命题11.2不相交简单分量的直积分解证明开头。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "7f1af631a5bdd59a4ab82a4adf456f36ff0eb94b3cf597f4efedc7f3919809ac",
+      "zhSha256": "945151c43c3eac80ee56e419b61f453b89d83d24109e692dd1050d36a3dce4d1"
+    },
+    {
+      "pdfPage": 720,
+      "printedPage": "711",
+      "scope": "命题11.2双层直积分解及湮灭分量、推论11.3、Brauer定理11.4指数m/单位根定义域及整数系数非负证明。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "344e12373020faef34447bf8c54836cd4cd881d9066a6f453ce97a15e9ad9c2f",
+      "zhSha256": "981bc9652749739ccaa924f84e8f794f6f93607bc85101174f56a7c00737d9af"
+    },
+    {
+      "pdfPage": 721,
+      "printedPage": "712",
+      "scope": "§12绝对半单定义、可分二次域K及非分裂Cartan、引理12.1的维数证明、分裂Cartan矩阵、引理12.2开篇。",
+      "changes": [
+        "增加F₂分裂Cartan非极大的可见条件性注，给出F₄*三阶反例；保留原句。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "1173eb92ff3d09a5d004d889353ac0f98d22ec5fc7b441859ff05d465602880f",
+      "zhSha256": "711775c7b461bb4891cdab55c78b3466b199be52ffb82d044ff8f6db98ada747"
+    },
+    {
+      "pdfPage": 722,
+      "printedPage": "713",
+      "scope": "引理12.2两本征特征标与K构造证明、命题12.3正规化子指数、分裂和非分裂两矩阵w及正规基。",
+      "changes": [
+        "增加一般域ψ(H)未必循环及F₂分裂正规化子指数6的可见条件性注；保留原句。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "c3a8f1ddd45b1d393563d81d81c732eed41eea59ae9320955cba2effa08b0e85",
+      "zhSha256": "1f07606fbd90abd195fa41c58ab47a33f8bf975d6ffe851f19a1a7f3edb21744"
+    },
+    {
+      "pdfPage": 723,
+      "printedPage": "714",
+      "scope": "M(σ)共轭乘法矩阵式、半单有限阶判据、有限F和G/Z/A/C记号、GL₂阶、三类Jordan矩阵和不可约伴随矩阵。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "既有中文A正规化子改为C_K的注释与前页非分裂情形相符，EN保留原印。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "b5060bfdc1e94b918f740c69ea59f7d764850ceac363000be6b5865a2e791120",
+      "zhSha256": "d288b16f72dd8e0b0cc0abb4efdf0eaa573feb8f12761b535cc8888369f6be99"
+    },
+    {
+      "pdfPage": 724,
+      "printedPage": "715",
+      "scope": "表12.4四类共轭类的条件、数量和大小；Jordan中央化子矩阵以及二次共轭计数。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "aa4c490e67ad0872be26288a79b934f4114417956ecd5a64e5026e69c996730c",
+      "zhSha256": "907579206b23ca16d3fb32a4c14f3cc58b2f686c57891c98dd305cbb85a20aec"
+    },
+    {
+      "pdfPage": 725,
+      "printedPage": "716",
+      "scope": "Borel群B、幺幂群U、B/U同构、群阶；第一类特征标及表12.5(I)四项。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "509ed417703c4787bf22b9a5138995ef3bc4cd9891a33585119688bbd28a252c",
+      "zhSha256": "2bfb14aa0c2a415cb4350a3294382187fd069b40d090dccebccc4cb3431d9981"
+    },
+    {
+      "pdfPage": 726,
+      "printedPage": "717",
+      "scope": "第二类特征标的诱导差定义、表12.5(II)全部四项和中心/非分裂值的证明。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "原印θ∘det应为μ∘det的既有中文注与第二类定义一致。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "a8d7750560a7543d39f73365981a3361c8d7c8e8d00f27dfcc24b8dbc8adca92",
+      "zhSha256": "b168554d15772994f8b04377ad5a8e82722f1dc61c2a65c85c6d01d8c53e0a46"
+    },
+    {
+      "pdfPage": 727,
+      "printedPage": "718",
+      "scope": "第二类Jordan值和单性；第三类共轭特征、二阶交换矩阵及诱导定义全部条件。",
+      "changes": [
+        "增加F₂时分裂Cartan共轭恒等的交叉条件注，第三类数量仍0。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "2711331096f0dbb87901bb0efda891b2ecd8dd361c9852e051f7dbd508184491",
+      "zhSha256": "c6e337c1f8f1b14bb82b753857a878e2a19032cbc2903e22723c2dfc222e77b4"
+    },
+    {
+      "pdfPage": 728,
+      "printedPage": "719",
+      "scope": "表12.5(III)全部四项、Borel共轭求和值、第三类单性的共轭类计数和三项范数展开。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "9fecc98b601cfdd729d48ce6240ea0d3ee641bb3e19de1e27a0568d5332fb6d2",
+      "zhSha256": "8f203b44899649c6e14cd38117ddd6cee34bcf3c253ed7a7281ce80539f2674a"
+    },
+    {
+      "pdfPage": 729,
+      "printedPage": "720",
+      "scope": "第三类范数化简与数量；第四类二次域Frobenius、诱导特征标以及非平凡加法特征λ定义。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "2dbe3e29151e295fc8de099972c672a91531352e9f8706899dc4e9118496138d",
+      "zhSha256": "f66ca8913d8da70652fc50e420e2a1598eecedade3114ec2e5d5adc26a4900f9"
+    },
+    {
+      "pdfPage": 730,
+      "printedPage": "721",
+      "scope": "第四类中间诱导表、θ'差的定义、表12.5(IV)全部值、范数三项式和数量。",
+      "changes": [
+        "增加θ^G出现及差有效断言须限制θ≠[w]θ的可见注，以q=2、θ=1_C严证反例；保留原文。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "f10c935b8ab003a6532ea3fb530136a48753941e6d2eeb3e8d518ad094a3970b",
+      "zhSha256": "4145c0c920a42aa48c5e3a0bc990fc90d83094115494ff4da1999529e6d0932f"
+    },
+    {
+      "pdfPage": 731,
+      "printedPage": "722",
+      "scope": "定理12.6四类不可约特征标完整表、穷尽性证明及S₃习题1(a)–(d)全部条件。 再亲核原图及完整EN/ZH；将表头跨两列改为两个普通单元格（第二格空白），四列与全部表项不变；两语整页严格MathJax渲染无错误。",
+      "changes": [
+        "MathJax compatibility only: replaced the printed two-column spanning type header with a normal type cell and an empty second cell, preserving all four columns, all four table rows, all labels and formulas. Original PDF page 731 (printed 722) and complete EN/ZH were personally rechecked; full-page strict MathJax rendering passed."
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "d9080ec30a242d5ec8eb961a766f2336a1f8802c03870320b55aadcdcde10803",
+      "zhSha256": "615c03421d4bff5b19b13803b0f050226446a470f48c99f4b48103da5531a8e4"
+    },
+    {
+      "pdfPage": 732,
+      "printedPage": "723",
+      "scope": "S₄/A₄习题2(a)–(g)、四元数习题3(a)–(c)三矩阵、Mackey正规子群判别4、Clifford型习题5和二面体习题6开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "亲核原印ψ=[σ]ψ对所有σ∈S是自动成立的条件；现有中文明确注原印并给正确ψ≠[σ]ψ对所有σ∈G−S，符合正规子群Mackey判别。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "c463e5c081340deb15e34a63fc84ee0240dd303553c2771971bc2b575a23a284",
+      "zhSha256": "fc76bcc660c124a7526b91a91fe79518432e642e5ca97059fbd3d499b2c92dab"
+    },
+    {
+      "pdfPage": 733,
+      "printedPage": "724",
+      "scope": "二面体习题6全部关系及诱导次数；半直积轨道/迷向群习题7(a)–(d)、置换8、维数9和SL₂诱导10。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "118ff439670cfc6f21716e0fa3804cadf083f85fc4f5daad1ea2f648f98a8d50",
+      "zhSha256": "e21f75bc5bf68f7062cd4fce9148be30a73f7e30b6e31dac05a0ee9a1213f3a1"
+    },
+    {
+      "pdfPage": 734,
+      "printedPage": "725",
+      "scope": "习题11–17全部条件；有理共轭类RAT1/2；习题15的双等变函数与Hom；外积表示16两项；18线性式开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "既有习题15左右H₁/H₂及Hom_R改Hom_R[G]注逐式核对，通过投影函数和维数反例确认。",
+        "既有习题16ρ₂⊗ρ₂应ρ₁⊗ρ₂注与源图及积群作用相符。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "2f7810dddca962e7b0bf17ea8f231d8a68f9c8562bc8a8f6d9d1d080ddbe527c",
+      "zhSha256": "1060aca76a0c780f1981d8e09d6027cfaaef6bffd4226a06fb86cee5c01104a5"
+    },
+    {
+      "pdfPage": 735,
+      "printedPage": "726",
+      "scope": "习题18正次幂独立、19自同态张量幂、Steinberg20、Burnside21、有效特征标22；对称/交替幂23(a)–(c)生成函数、导数与系数和。",
+      "changes": [
+        "增加习题18–20允许零元时的三个明确反例及条件性说明，保留原题正次数。"
+      ],
+      "sourceNotesReviewed": [
+        "既有23(b)导数缺t及符号的可见注与行列式展开相符。",
+        "既有23(c)第二求和∞改n注与本题未定义负次交替幂相符，保留英文原印。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "16d839e22bb8fb29d264e14d1a23bd27e78ea36c18eede669260e27838f9cc39",
+      "zhSha256": "f2dce04cf58f5ed41060cb02abdd152ef830e76e222f4ad800406acd5f378e03"
+    },
+    {
+      "pdfPage": 736,
+      "printedPage": "727",
+      "scope": "Adams习题24、Grothendieck25(a)–(c)、Artin形式26范畴作用/商对象泛性质、交换方图、同调函子和ZF定义。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "既有24缺少n互素假设的条件性注，S₃二维特征标n=2反例及互素充分条件正确。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "07ef66f148a1de3a60ed03223dafd10999e5865e7ba2db959805b116ca7da5af",
+      "zhSha256": "90ae986b1d9e5c682f99afd4aa638e987614cbfb4bc7bba0e206fab85cdf2b39"
+    },
+    {
+      "pdfPage": 737,
+      "printedPage": "728",
+      "scope": "Artin形式26中心幂等元、L_F原定义、对数导数、附加商多项式假设及(a)–(e)五项等式。",
+      "changes": [
+        "增加L_F等型分量行列式与重数空间行列式相差dχ次幂的有限条件说明，原(b)(c)/假设完整保留，不猜N或新的L定义。"
+      ],
+      "sourceNotesReviewed": [
+        "既有未定义1/N的译校注，在页面明确写出的L_F乘积定义下，对数导数无该因子，逐次幂计算正确。",
+        "原L_F按整个χ等型空间的行列式定义，其与通常重数空间行列式相差dχ次幂；用有限条件注说明核对范围，原(b)(c)/附加假设保留而不重构。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "22612bac98e8629400d6b4feec86563440c3fd0e557e52fbee3cb72ca8a05be0",
+      "zhSha256": "2db2af0b079c628bcefce2807fd03ce5367cd9634fa16611d395936e34b28456"
+    },
+    {
+      "pdfPage": 738,
+      "printedPage": "729",
+      "scope": "习题27模素理想约化：分裂数域及p不整除群阶、局部自由格、约化不可约性和特征标下降(a)–(c)。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "b09d2df142a799c3bdb789eeb514fa19e3e649fc299d7c6b867b91b296b845b3",
+      "zhSha256": "e14d6875c751d51ceebb27172752e76e55145587265bb329f167fb47099ad273"
+    },
+    {
+      "pdfPage": 739,
+      "printedPage": "731",
+      "scope": "第十九章章首、微分几何背景与Howe参考、交替多线性定义、重复因子子模a_r及商定义。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "918f4cfc09042f9ca56268822d4e7e1b95a85120e6f40092d5342ee8b37ab640",
+      "zhSha256": "38be1ce9ca82e12d420dfda7df78eee03c38ce3d55963744962f9142174d4278"
+    },
+    {
+      "pdfPage": 740,
+      "printedPage": "732",
+      "scope": "交错幂泛性质和两个原图三角图、商映射、函子定义、微分形式例与全外代数直和。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "c92592f52041ac87298ec5c26150baa5bafc14eaeb03cd17b02d8c87ee61e336",
+      "zhSha256": "2dcaaa79df105d9be7adab57acdc00eef08abebfa6b37299e3ee7e956f843276"
+    },
+    {
+      "pdfPage": 741,
+      "printedPage": "733",
+      "scope": "齐次理想商的分次代数结构完整构造、重复因子理想、外积与反交换式、外代数函子和齐次乘积公式。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "3e94b849f58b25f872139df37fc1867e9411fd98d56f2528797c84d5e4ff373f",
+      "zhSha256": "38a1f5124796cb13b43e3d9d32254895b1d83c5fe889b34e66819be3c3939063"
+    },
+    {
+      "pdfPage": 742,
+      "printedPage": "734",
+      "scope": "命题1.1自由模外幂基与二项秩、最高幂泛线性式、补指标独立性证明、r=0和r>n结尾；亲看关系符号保留原图。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "原首句r与n关系符号的原图保留且已亲看，中文按页末明确r>n给条件说明而不猜具体符号。",
+        "命题一般R环而原印over k的既有R校注符合证明与维数式。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "03c12b56af789cc5490d18b34c331210db630f9dffc98a4e7acf0a1e3b9c0e2c",
+      "zhSha256": "ca732f7dd687776324b7ca7cb2a97b83da74c4d260f0be7e61ecf769de936b88"
+    },
+    {
+      "pdfPage": 743,
+      "printedPage": "735",
+      "scope": "不用行列式的注、命题1.2正合列行列式同构完整提升独立性证明、det定义和体积范数例。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "73a643adc43e75d4166529180493f12d5bd6718a0dbe23ee0aceb7f071b92a7f",
+      "zhSha256": "9f4e289e98b9f51721a5345948d5470bf058ded296d41ec4ed0300f31d8ecd49"
+    },
+    {
+      "pdfPage": 744,
+      "printedPage": "736",
+      "scope": "Haar测度积分、子模诱导外幂滤过、命题1.3关联商自然同构及完整提升证明、命题1.4直和外幂分解。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "52a12849fac1ac27a7935ef9f7353fc0296bb54d0409304e6547b2699df01d75",
+      "zhSha256": "c4134fab7abccf042ea7031aaebbee9aea55a963045e1ed66c0525475a68ffd5"
+    },
+    {
+      "pdfPage": 745,
+      "printedPage": "737",
+      "scope": "直和外代数超积同构与证明、对偶外幂命题1.5、秩1线的负张量次幂及自然抵消、正合列开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "8a2832f167c0c8bda65e6a82c1f6c916549d922083c059ddc7fec6270af96bbd",
+      "zhSha256": "8b025ec8f8e6f956fa11ed94083d7da99caee52a138f25e443d0252c1b0392e6"
+    },
+    {
+      "pdfPage": 746,
+      "printedPage": "738",
+      "scope": "正合列/上同调行列式、Deligne文献、Fitting理想引言、r阶小行列式所有行列指标与完整矩阵。",
+      "changes": [
+        "修正既有译校注依据：后页源书也误印S_r^p，故删除并不存在的后页正确印法，改以q列的严格列指标说明。"
+      ],
+      "sourceNotesReviewed": [
+        "K应S_r^q的更正正确；校注已修正依据。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "fbb70ba8345ea39d4d695fa07a4d608b4bb857183be264ae410332b325846555",
+      "zhSha256": "f0e6354d5399fd8585bf7205938b451a553e22bbbc1d18e70675b16e6fa7df4b"
+    },
+    {
+      "pdfPage": 747,
+      "printedPage": "739",
+      "scope": "外幂矩阵与行向量映射约定、命题2.1 Cauchy–Binet、有限集合行列式、I_r(A)定义及降链。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "J/K分别S_r^p/S_r^q的校注与矩阵大小一致。",
+        "原A^(0)/A^(1)写成理想的校注改为I₀/I₁，符合上下文与随后链；EN原印保留。",
+        "R^p到R^q按作者行向量矩阵约定可成立，未误改为列向量约定。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "9f085ecf817d1132f07e438526e6e385e52a8f52c26e05a50bb0de1b10c92926",
+      "zhSha256": "4f17330875b429492efcb2574c9793f7df962a12c7679f964af666dd40040670"
+    },
+    {
+      "pdfPage": 748,
+      "printedPage": "740",
+      "scope": "I_r(AB)包含与两端行列式1变换不变、无限关系矩阵I_r(x)、生成关系子模、命题2.2交替形式值刻画。",
+      "changes": [
+        "原引10.1添加可见注，给出由上一页2.1外幂乘积到交集包含的推导，保留原印引用。"
+      ],
+      "sourceNotesReviewed": [
+        "既有ideal关系子模术语说明准确，核属于R^q模。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "32bff0ff066f6b51bf062ef4ea82d88bf78b46419e26b20a969f545c44536c8b",
+      "zhSha256": "faa1f616fe104c4bd61dc4df03a9c5691cd91e23a9e04d6e58a34fdb2534c70f"
+    },
+    {
+      "pdfPage": 749,
+      "printedPage": "741",
+      "scope": "F_k重编号、引理2.3生成元不变性、原图W/Z完整分块关系矩阵、初等列/行变换和两方向包含开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "32a53ea2c6c1675cf10749e63fa32e348ae66f5d70853c06f368b8e55ba300ae",
+      "zhSha256": "474c8b2b7c3ac97d89a9e9c5e2660988b808fa052726c9a520cc0c38fcb6d6b5"
+    },
+    {
+      "pdfPage": 750,
+      "printedPage": "742",
+      "scope": "引理2.3结尾Z'分块式及I_r包含、Fitting理想呈示不变定义、命题2.4(i)–(iii)和有限生成解释。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "098b63630f754eaa5faf44a63103da98c6f519970a483bfb3ec7807570dbcc88",
+      "zhSha256": "ff029396db5b9776c796b3bde334272e19946bbe204b1528b86339b6fe7f52f6"
+    },
+    {
+      "pdfPage": 751,
+      "printedPage": "743",
+      "scope": "自由模F_k分段式、第零Fitting理想、ann界命题2.5双向证明、循环商推论2.6和正合列乘积命题2.7。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "70d7080eb04a13edc87450436941c7f294d972995e81d5f2064a534c5589cb6a",
+      "zhSha256": "fdbeb915f8a41273d1cd3802b0663ef6551b88f10772b14ea3985dc8dfe323c9"
+    },
+    {
+      "pdfPage": 752,
+      "printedPage": "744",
+      "scope": "命题2.7全部分块矩阵证明、两种越界指标情形及包含链、直和等式命题2.8。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "既有F_{p+n}改F_{m+q}注与第一情形和Fitting理想增链一致，原印已从图核验。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "ed4ff42b437a4b4ee7d58f76177393fa2d77e7a7258ebcb1130af3721370f44c",
+      "zhSha256": "53400e6c0746e6c9a5a06b2e2ad9f8704c7d08c60e490dddbef44952e69de8e6"
+    },
+    {
+      "pdfPage": 753,
+      "printedPage": "745",
+      "scope": "命题2.8反向包含的对角块子行列式证明、零大小边界条件、推论2.9理想乘积及证明。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "既有误引2.6改2.7注正确。",
+        "既有positive改非负的注与n=0及空块行列式情形相符。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "fb03d96ade9b09db8b4a75f64cf6bc5740b8ed761d89bcb20458ef4b283d3b45",
+      "zhSha256": "cae19260ee7251086fd78ec641e5a989990d646a213f436eaa70c46ed7eb5b83"
+    },
+    {
+      "pdfPage": 754,
+      "printedPage": "746",
+      "scope": "泛导子定义、Der-Hom表示、原图泛性质三角、平方零理想的两环同态差及完整Leibniz展开。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "03b25f6e5252ff2f356f110e9d351d3353a1c3d2a969d49a5f0693a70144313b",
+      "zhSha256": "ac28a35f1b6381b46c80636ca6f0356335437ee9165dfbf15b9c88a447ff99b2"
+    },
+    {
+      "pdfPage": 755,
+      "printedPage": "747",
+      "scope": "微分模J/J²、乘法核和首因子A作用、直和分解、d差公式、J生成元算式、定理3.1及原图三角。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "127b13b372dad28bddd18abae58926bc419ccd5cc5cc59e59c50221cce6d44de",
+      "zhSha256": "fab15c9f6ad931cb2da60fd052ef86cb70edd7d5c063c9bddceda6d005ce022c"
+    },
+    {
+      "pdfPage": 756,
+      "printedPage": "748",
+      "scope": "定理3.1的泛映射/唯一性证明、Der-Hom公式、Ω外幂、定理3.2分次Leibniz与d²=0、复形及德拉姆定义。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "701efaca5c2562fd6a9c571f71dc9415b4d2dae5bf04216b98a7b8020c40b1b3",
+      "zhSha256": "b280757ef853a68bd40c679f4adae139ce3e3e53e95b45b41d99bde23447416b"
+    },
+    {
+      "pdfPage": 757,
+      "printedPage": "749",
+      "scope": "代数Poincaré引理定理3.3特征0正合列与提示；Clifford代数定义、中心k作用、平方条件和原图泛性质三角。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "01257e612cff111a97cf0a97445264bb932991a5b1cde18ecabd84a5db8f692c",
+      "zhSha256": "15c7ffdd5fb0d9e687dd9c200383bb8aa3f1a7826c382579e47dd3c3efca9ca3"
+    },
+    {
+      "pdfPage": 758,
+      "printedPage": "750",
+      "scope": "ρ平方/反交换关系、定理4.1完整条件、张量商存在构造、特征非2正交基的2^n上界和Z/2分次开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "66196a7430667a8380bb2ccb13d67c2bda6aa3e1cc56c2ed0521e5ea9ae110ea",
+      "zhSha256": "bd0c23706422b49a7aeb33b760cdc03abb6e8f6a9a9a34b9311cad8def64e84d"
+    },
+    {
+      "pdfPage": 759,
+      "printedPage": "751",
+      "scope": "Z/2分次及超张量积的Koszul符号、单变量Clifford因子和2^n构造、嵌入公式、特化说明与定理4.2开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "源书x/X大小写与⊕嵌入记号均保留，未将作者等价记法标错。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "784e6151dc5a4e7ada32691ac2a3ed333e402bdf350d2e39348a72a30281eb85",
+      "zhSha256": "e0fc2967b4fae1c1af0d4a0c0983909b22073b45ada8cc1c0b7127de1d76b25a"
+    },
+    {
+      "pdfPage": 760,
+      "printedPage": "752",
+      "scope": "定理4.2超积同构、实负定Clifford背景、反转对合及Spin定义/范数条件、全部应用和文献开篇。",
+      "changes": [
+        "增加普适覆盖断言n≥3的条件性注，n=2为圆的二重覆盖而普适覆盖R；保留原句。"
+      ],
+      "sourceNotesReviewed": [
+        "既有xx*条件不能脱离偶部/生成群范围的注，经n=3 pseudoscalar计算ω²=1、ω*=−ω确认反例正确。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "55d0bc13eb7a8a9c8d08cae2d74a31a524431106805d83336d1a47a046e996d6",
+      "zhSha256": "98f47d8f76a28af32b406cdea9e0eaf550e0fc228f92a31d9a9e6c6b4ab1b50c"
+    },
+    {
+      "pdfPage": 761,
+      "printedPage": "753",
+      "scope": "五项参考文献、外幂习题1可分解向量、2迹/行列式求和、3对偶行列式配对、4转置及5开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "f8c85936792996cae9a24c4038550a20a80fc9888e2644c80015d4fe3a530cee",
+      "zhSha256": "23a241f7619ad93b325b77c48590b49862063e659594215f5d98b4d18fb09c99"
+    },
+    {
+      "pdfPage": 762,
+      "printedPage": "754",
+      "scope": "习题5交替形式代数的shuffle公式、6多项式泛导子、7相对微分正合列和Hom提示、8商代数开篇。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "既有两个σs端点改σ(r+s)注与s线性自变量个数和shuffle条件相符，EN原印保留。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "ddd18d5be6e77d42e76067488e2cc055d346708ac7bdb82f196cc33c734a0ddf",
+      "zhSha256": "4a1db23144e9f349460e417fe33eadd0d1b189766f31de21bf97676e66fdae2a"
+    },
+    {
+      "pdfPage": 763,
+      "printedPage": "755",
+      "scope": "商微分习题8正合列/Hom提示、9存在、10局部化导数、11平方零扩张乘法与Der、12增广投影两同构、13联络开篇。",
+      "changes": [
+        "原引习题6/7增加可见注，应由6给多项式泛导子并由8下降商；原7已假定存在，保留原引用。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "96f55828784ae601d81cd913ec7b1c9cdd7a8db571c0209a18c8089decf1715b",
+      "zhSha256": "5b6ca5dbe246614c6815074a144d82657655bd974ba96024f7971386281d8ee8"
+    },
+    {
+      "pdfPage": 764,
+      "printedPage": "756",
+      "scope": "联络定义、水平核、13(a)分次延拓、(b)曲率A线性与复合、(c)导子收缩、(d)曲率交换子及复合式。",
+      "changes": [
+        "水平子模增加可见基环条件注：R子模一般非A子模，以k[t]、d、1和t反例说明。"
+      ],
+      "sourceNotesReviewed": [],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "47f72f353738049f714932e4d1b5260fef5fd84c51f5fa6e3672e23c48ba2c33",
+      "zhSha256": "2b876a8b76f1497b1af28c2f18d1c9616e97a15f3243e477314941c9140f17b7"
+    },
+    {
+      "pdfPage": 765,
+      "printedPage": "757",
+      "scope": "14迭代Leibniz/p次导子、15 p曲率、16Clifford关联分次、17超交换子、18复结构本征空间及内外乘算式逐符号。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "亲核原印本征值1/−1，既有中文i/−i的注严格由J²=−id推出。",
+        "亲核原End_C(E_C^+)漏外代数，既有补∧注由作用描述与766结论证实。",
+        "亲核原内乘−2；尖括号未定义故保留原式，既有条件注说明若配对=g则产生C_{−g}平方规则，若配对=−g则匹配C_g，未猜修。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "0b243df42c89198de5492f3058f51f51f95a9f494464fd4c2c4074d181b26e21",
+      "zhSha256": "583e3039db852420271244b0ba85d872f3e90656229416115851853f0411c99a"
+    },
+    {
+      "pdfPage": 766,
+      "printedPage": "758",
+      "scope": "18Clifford表示同构结尾、19四个实Clifford低维同构、20三张量同构及四元数反转、21两步/八步周期性提示和半单结论。",
+      "changes": [],
+      "sourceNotesReviewed": [
+        "前页18的内乘符号条件性注与本页C_g表示结论一起核验，原结论保留。"
+      ],
+      "visualReviewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaChecked": true,
+      "enSha256": "17ceedbfb9d2bb4912f6059806e58ef9819cd9a7cb97516adaecc648a8e47f5c",
+      "zhSha256": "dd5af71cb686928ce5d66d5acf72b1c0f7d235aa00552df0c0e353c24fd7e1ef"
+    }
+  ],
+  "reviewedFiles": [
+    {
+      "pdfPage": 706,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0706.md",
+      "sha256": "dfdb0d7ac15ce6a1a01dd733d61be899af8b58b70e1600e7c554cda46d026790"
+    },
+    {
+      "pdfPage": 706,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0706.md",
+      "sha256": "275cf442d577aabd47e6f7a2f867fd4332a7b895fce6f024180d7f5f61a1e8c7"
+    },
+    {
+      "pdfPage": 707,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0707.md",
+      "sha256": "34b917c100698e3f49bc090e69f6173230c5afc5f02f5f4aef614dfe7cc51f73"
+    },
+    {
+      "pdfPage": 707,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0707.md",
+      "sha256": "0983e601eca3be2d9914b03cd1bff5f5685fb3a5e74c2e00e6d1a5875e63948c"
+    },
+    {
+      "pdfPage": 708,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0708.md",
+      "sha256": "64df98a30c00f4d8522a66876e63dafbb4a8215e06adfd2c292a24180c0a531e"
+    },
+    {
+      "pdfPage": 708,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0708.md",
+      "sha256": "b1f889ac6b27d60eb34d7490a5c6841b40a2250d7cbd83647d18970d0a5e874e"
+    },
+    {
+      "pdfPage": 709,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0709.md",
+      "sha256": "623e7ef9ac25b22aa328f6ced12427a728f67f51cbf843e3f833e075d00f93d2"
+    },
+    {
+      "pdfPage": 709,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0709.md",
+      "sha256": "3a54d989a45a39c612adf4926169e8de0b937bd8aeb819d0348eed3c94f18fd9"
+    },
+    {
+      "pdfPage": 710,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0710.md",
+      "sha256": "154c663e2a454a0c773e567fdbf6a98ff629be4d8c100340327e0533a6861a2e"
+    },
+    {
+      "pdfPage": 710,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0710.md",
+      "sha256": "eca6c7f89e47af1bec31cc9bf4d95bb8d0906e795bc6998fd7fe517fcc5f6c3f"
+    },
+    {
+      "pdfPage": 711,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0711.md",
+      "sha256": "39c9f0e882ef7fc0ea8dbf6b4315de67cddf2fde3ede621afda060639bba33d2"
+    },
+    {
+      "pdfPage": 711,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0711.md",
+      "sha256": "61cfe9d25c367010902c757600a0bddb7b8759275a303bf13625066d81173528"
+    },
+    {
+      "pdfPage": 712,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0712.md",
+      "sha256": "6cadeeaf33f3e2ef3ede408bf7b60fe21e33383ea039d1fe2182364c204d333d"
+    },
+    {
+      "pdfPage": 712,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0712.md",
+      "sha256": "d70ed272c6d843598081151b1aa089381591a179af4d8eca13e46336c9895bdc"
+    },
+    {
+      "pdfPage": 713,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0713.md",
+      "sha256": "ae15d010cf233964d82d0741f4d116ad023e3cab37607ab3a0d4b4cb0f78a2b0"
+    },
+    {
+      "pdfPage": 713,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0713.md",
+      "sha256": "a85da13e867d50a30b082da299bfb078d1cd0f1a2f6974b9f4a77378efa515e7"
+    },
+    {
+      "pdfPage": 714,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0714.md",
+      "sha256": "d2a6c0d90304afe8ca247e54799217f19f84ea6277e0533a8156aecb6f460ec4"
+    },
+    {
+      "pdfPage": 714,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0714.md",
+      "sha256": "92ae61e323789bd43efc56e32aee7118082080216f7ae94e00566f4acaab647b"
+    },
+    {
+      "pdfPage": 715,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0715.md",
+      "sha256": "1b3cd8b82b346bcd1985a5f4d186f7e1a53ca3a5e021ded3dd6ee59bbc45943d"
+    },
+    {
+      "pdfPage": 715,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0715.md",
+      "sha256": "e8c763537702338716e0fe9cf3efbdd24dfd115b53bee42a8d97a106f2da6c70"
+    },
+    {
+      "pdfPage": 716,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0716.md",
+      "sha256": "baa3d221030d00ee3d9988014d69ae179f7dd3f8e0c88a9336f8ca136c65ac7e"
+    },
+    {
+      "pdfPage": 716,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0716.md",
+      "sha256": "5f3223acfebb221bbee35278e2aacf5f76fc3dc80a7db7157e21ee7ef84d04d6"
+    },
+    {
+      "pdfPage": 717,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0717.md",
+      "sha256": "f5fd324327a8418b8240db00ac001c895f144691c6a7ea89bba169c5128cfc40"
+    },
+    {
+      "pdfPage": 717,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0717.md",
+      "sha256": "ffaa8a184226c6bb8fe694bb5a135a9d69ea66b2ed4432a0db46f752853ab611"
+    },
+    {
+      "pdfPage": 718,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0718.md",
+      "sha256": "eedb085c263e79da362d053a58d635becf01ab70cbab2501616b0b8626f999e7"
+    },
+    {
+      "pdfPage": 718,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0718.md",
+      "sha256": "f2527552b0441739917140308456da62178c1bc4be0db19c4e38559b75531046"
+    },
+    {
+      "pdfPage": 719,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0719.md",
+      "sha256": "7f1af631a5bdd59a4ab82a4adf456f36ff0eb94b3cf597f4efedc7f3919809ac"
+    },
+    {
+      "pdfPage": 719,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0719.md",
+      "sha256": "945151c43c3eac80ee56e419b61f453b89d83d24109e692dd1050d36a3dce4d1"
+    },
+    {
+      "pdfPage": 720,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0720.md",
+      "sha256": "344e12373020faef34447bf8c54836cd4cd881d9066a6f453ce97a15e9ad9c2f"
+    },
+    {
+      "pdfPage": 720,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0720.md",
+      "sha256": "981bc9652749739ccaa924f84e8f794f6f93607bc85101174f56a7c00737d9af"
+    },
+    {
+      "pdfPage": 721,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0721.md",
+      "sha256": "1173eb92ff3d09a5d004d889353ac0f98d22ec5fc7b441859ff05d465602880f"
+    },
+    {
+      "pdfPage": 721,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0721.md",
+      "sha256": "711775c7b461bb4891cdab55c78b3466b199be52ffb82d044ff8f6db98ada747"
+    },
+    {
+      "pdfPage": 722,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0722.md",
+      "sha256": "c3a8f1ddd45b1d393563d81d81c732eed41eea59ae9320955cba2effa08b0e85"
+    },
+    {
+      "pdfPage": 722,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0722.md",
+      "sha256": "1f07606fbd90abd195fa41c58ab47a33f8bf975d6ffe851f19a1a7f3edb21744"
+    },
+    {
+      "pdfPage": 723,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0723.md",
+      "sha256": "b5060bfdc1e94b918f740c69ea59f7d764850ceac363000be6b5865a2e791120"
+    },
+    {
+      "pdfPage": 723,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0723.md",
+      "sha256": "d288b16f72dd8e0b0cc0abb4efdf0eaa573feb8f12761b535cc8888369f6be99"
+    },
+    {
+      "pdfPage": 724,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0724.md",
+      "sha256": "aa4c490e67ad0872be26288a79b934f4114417956ecd5a64e5026e69c996730c"
+    },
+    {
+      "pdfPage": 724,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0724.md",
+      "sha256": "907579206b23ca16d3fb32a4c14f3cc58b2f686c57891c98dd305cbb85a20aec"
+    },
+    {
+      "pdfPage": 725,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0725.md",
+      "sha256": "509ed417703c4787bf22b9a5138995ef3bc4cd9891a33585119688bbd28a252c"
+    },
+    {
+      "pdfPage": 725,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0725.md",
+      "sha256": "2bfb14aa0c2a415cb4350a3294382187fd069b40d090dccebccc4cb3431d9981"
+    },
+    {
+      "pdfPage": 726,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0726.md",
+      "sha256": "a8d7750560a7543d39f73365981a3361c8d7c8e8d00f27dfcc24b8dbc8adca92"
+    },
+    {
+      "pdfPage": 726,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0726.md",
+      "sha256": "b168554d15772994f8b04377ad5a8e82722f1dc61c2a65c85c6d01d8c53e0a46"
+    },
+    {
+      "pdfPage": 727,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0727.md",
+      "sha256": "2711331096f0dbb87901bb0efda891b2ecd8dd361c9852e051f7dbd508184491"
+    },
+    {
+      "pdfPage": 727,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0727.md",
+      "sha256": "c6e337c1f8f1b14bb82b753857a878e2a19032cbc2903e22723c2dfc222e77b4"
+    },
+    {
+      "pdfPage": 728,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0728.md",
+      "sha256": "9fecc98b601cfdd729d48ce6240ea0d3ee641bb3e19de1e27a0568d5332fb6d2"
+    },
+    {
+      "pdfPage": 728,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0728.md",
+      "sha256": "8f203b44899649c6e14cd38117ddd6cee34bcf3c253ed7a7281ce80539f2674a"
+    },
+    {
+      "pdfPage": 729,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0729.md",
+      "sha256": "2dbe3e29151e295fc8de099972c672a91531352e9f8706899dc4e9118496138d"
+    },
+    {
+      "pdfPage": 729,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0729.md",
+      "sha256": "f66ca8913d8da70652fc50e420e2a1598eecedade3114ec2e5d5adc26a4900f9"
+    },
+    {
+      "pdfPage": 730,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0730.md",
+      "sha256": "f10c935b8ab003a6532ea3fb530136a48753941e6d2eeb3e8d518ad094a3970b"
+    },
+    {
+      "pdfPage": 730,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0730.md",
+      "sha256": "4145c0c920a42aa48c5e3a0bc990fc90d83094115494ff4da1999529e6d0932f"
+    },
+    {
+      "pdfPage": 731,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0731.md",
+      "sha256": "d9080ec30a242d5ec8eb961a766f2336a1f8802c03870320b55aadcdcde10803"
+    },
+    {
+      "pdfPage": 731,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0731.md",
+      "sha256": "615c03421d4bff5b19b13803b0f050226446a470f48c99f4b48103da5531a8e4"
+    },
+    {
+      "pdfPage": 732,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0732.md",
+      "sha256": "c463e5c081340deb15e34a63fc84ee0240dd303553c2771971bc2b575a23a284"
+    },
+    {
+      "pdfPage": 732,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0732.md",
+      "sha256": "fc76bcc660c124a7526b91a91fe79518432e642e5ca97059fbd3d499b2c92dab"
+    },
+    {
+      "pdfPage": 733,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0733.md",
+      "sha256": "118ff439670cfc6f21716e0fa3804cadf083f85fc4f5daad1ea2f648f98a8d50"
+    },
+    {
+      "pdfPage": 733,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0733.md",
+      "sha256": "e21f75bc5bf68f7062cd4fce9148be30a73f7e30b6e31dac05a0ee9a1213f3a1"
+    },
+    {
+      "pdfPage": 734,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0734.md",
+      "sha256": "2f7810dddca962e7b0bf17ea8f231d8a68f9c8562bc8a8f6d9d1d080ddbe527c"
+    },
+    {
+      "pdfPage": 734,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0734.md",
+      "sha256": "1060aca76a0c780f1981d8e09d6027cfaaef6bffd4226a06fb86cee5c01104a5"
+    },
+    {
+      "pdfPage": 735,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0735.md",
+      "sha256": "16d839e22bb8fb29d264e14d1a23bd27e78ea36c18eede669260e27838f9cc39"
+    },
+    {
+      "pdfPage": 735,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0735.md",
+      "sha256": "f2dce04cf58f5ed41060cb02abdd152ef830e76e222f4ad800406acd5f378e03"
+    },
+    {
+      "pdfPage": 736,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0736.md",
+      "sha256": "07ef66f148a1de3a60ed03223dafd10999e5865e7ba2db959805b116ca7da5af"
+    },
+    {
+      "pdfPage": 736,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0736.md",
+      "sha256": "90ae986b1d9e5c682f99afd4aa638e987614cbfb4bc7bba0e206fab85cdf2b39"
+    },
+    {
+      "pdfPage": 737,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0737.md",
+      "sha256": "22612bac98e8629400d6b4feec86563440c3fd0e557e52fbee3cb72ca8a05be0"
+    },
+    {
+      "pdfPage": 737,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0737.md",
+      "sha256": "2db2af0b079c628bcefce2807fd03ce5367cd9634fa16611d395936e34b28456"
+    },
+    {
+      "pdfPage": 738,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0738.md",
+      "sha256": "b09d2df142a799c3bdb789eeb514fa19e3e649fc299d7c6b867b91b296b845b3"
+    },
+    {
+      "pdfPage": 738,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0738.md",
+      "sha256": "e14d6875c751d51ceebb27172752e76e55145587265bb329f167fb47099ad273"
+    },
+    {
+      "pdfPage": 739,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0739.md",
+      "sha256": "918f4cfc09042f9ca56268822d4e7e1b95a85120e6f40092d5342ee8b37ab640"
+    },
+    {
+      "pdfPage": 739,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0739.md",
+      "sha256": "38be1ce9ca82e12d420dfda7df78eee03c38ce3d55963744962f9142174d4278"
+    },
+    {
+      "pdfPage": 740,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0740.md",
+      "sha256": "c92592f52041ac87298ec5c26150baa5bafc14eaeb03cd17b02d8c87ee61e336"
+    },
+    {
+      "pdfPage": 740,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0740.md",
+      "sha256": "2dcaaa79df105d9be7adab57acdc00eef08abebfa6b37299e3ee7e956f843276"
+    },
+    {
+      "pdfPage": 741,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0741.md",
+      "sha256": "3e94b849f58b25f872139df37fc1867e9411fd98d56f2528797c84d5e4ff373f"
+    },
+    {
+      "pdfPage": 741,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0741.md",
+      "sha256": "38a1f5124796cb13b43e3d9d32254895b1d83c5fe889b34e66819be3c3939063"
+    },
+    {
+      "pdfPage": 742,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0742.md",
+      "sha256": "03c12b56af789cc5490d18b34c331210db630f9dffc98a4e7acf0a1e3b9c0e2c"
+    },
+    {
+      "pdfPage": 742,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0742.md",
+      "sha256": "ca732f7dd687776324b7ca7cb2a97b83da74c4d260f0be7e61ecf769de936b88"
+    },
+    {
+      "pdfPage": 743,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0743.md",
+      "sha256": "73a643adc43e75d4166529180493f12d5bd6718a0dbe23ee0aceb7f071b92a7f"
+    },
+    {
+      "pdfPage": 743,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0743.md",
+      "sha256": "9f4e289e98b9f51721a5345948d5470bf058ded296d41ec4ed0300f31d8ecd49"
+    },
+    {
+      "pdfPage": 744,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0744.md",
+      "sha256": "52a12849fac1ac27a7935ef9f7353fc0296bb54d0409304e6547b2699df01d75"
+    },
+    {
+      "pdfPage": 744,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0744.md",
+      "sha256": "c4134fab7abccf042ea7031aaebbee9aea55a963045e1ed66c0525475a68ffd5"
+    },
+    {
+      "pdfPage": 745,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0745.md",
+      "sha256": "8a2832f167c0c8bda65e6a82c1f6c916549d922083c059ddc7fec6270af96bbd"
+    },
+    {
+      "pdfPage": 745,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0745.md",
+      "sha256": "8b025ec8f8e6f956fa11ed94083d7da99caee52a138f25e443d0252c1b0392e6"
+    },
+    {
+      "pdfPage": 746,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0746.md",
+      "sha256": "fbb70ba8345ea39d4d695fa07a4d608b4bb857183be264ae410332b325846555"
+    },
+    {
+      "pdfPage": 746,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0746.md",
+      "sha256": "f0e6354d5399fd8585bf7205938b451a553e22bbbc1d18e70675b16e6fa7df4b"
+    },
+    {
+      "pdfPage": 747,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0747.md",
+      "sha256": "9f085ecf817d1132f07e438526e6e385e52a8f52c26e05a50bb0de1b10c92926"
+    },
+    {
+      "pdfPage": 747,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0747.md",
+      "sha256": "4f17330875b429492efcb2574c9793f7df962a12c7679f964af666dd40040670"
+    },
+    {
+      "pdfPage": 748,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0748.md",
+      "sha256": "32bff0ff066f6b51bf062ef4ea82d88bf78b46419e26b20a969f545c44536c8b"
+    },
+    {
+      "pdfPage": 748,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0748.md",
+      "sha256": "faa1f616fe104c4bd61dc4df03a9c5691cd91e23a9e04d6e58a34fdb2534c70f"
+    },
+    {
+      "pdfPage": 749,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0749.md",
+      "sha256": "32a53ea2c6c1675cf10749e63fa32e348ae66f5d70853c06f368b8e55ba300ae"
+    },
+    {
+      "pdfPage": 749,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0749.md",
+      "sha256": "474c8b2b7c3ac97d89a9e9c5e2660988b808fa052726c9a520cc0c38fcb6d6b5"
+    },
+    {
+      "pdfPage": 750,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0750.md",
+      "sha256": "098b63630f754eaa5faf44a63103da98c6f519970a483bfb3ec7807570dbcc88"
+    },
+    {
+      "pdfPage": 750,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0750.md",
+      "sha256": "ff029396db5b9776c796b3bde334272e19946bbe204b1528b86339b6fe7f52f6"
+    },
+    {
+      "pdfPage": 751,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0751.md",
+      "sha256": "70d7080eb04a13edc87450436941c7f294d972995e81d5f2064a534c5589cb6a"
+    },
+    {
+      "pdfPage": 751,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0751.md",
+      "sha256": "fdbeb915f8a41273d1cd3802b0663ef6551b88f10772b14ea3985dc8dfe323c9"
+    },
+    {
+      "pdfPage": 752,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0752.md",
+      "sha256": "ed4ff42b437a4b4ee7d58f76177393fa2d77e7a7258ebcb1130af3721370f44c"
+    },
+    {
+      "pdfPage": 752,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0752.md",
+      "sha256": "53400e6c0746e6c9a5a06b2e2ad9f8704c7d08c60e490dddbef44952e69de8e6"
+    },
+    {
+      "pdfPage": 753,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0753.md",
+      "sha256": "fb03d96ade9b09db8b4a75f64cf6bc5740b8ed761d89bcb20458ef4b283d3b45"
+    },
+    {
+      "pdfPage": 753,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0753.md",
+      "sha256": "cae19260ee7251086fd78ec641e5a989990d646a213f436eaa70c46ed7eb5b83"
+    },
+    {
+      "pdfPage": 754,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0754.md",
+      "sha256": "03b25f6e5252ff2f356f110e9d351d3353a1c3d2a969d49a5f0693a70144313b"
+    },
+    {
+      "pdfPage": 754,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0754.md",
+      "sha256": "ac28a35f1b6381b46c80636ca6f0356335437ee9165dfbf15b9c88a447ff99b2"
+    },
+    {
+      "pdfPage": 755,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0755.md",
+      "sha256": "127b13b372dad28bddd18abae58926bc419ccd5cc5cc59e59c50221cce6d44de"
+    },
+    {
+      "pdfPage": 755,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0755.md",
+      "sha256": "fab15c9f6ad931cb2da60fd052ef86cb70edd7d5c063c9bddceda6d005ce022c"
+    },
+    {
+      "pdfPage": 756,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0756.md",
+      "sha256": "701efaca5c2562fd6a9c571f71dc9415b4d2dae5bf04216b98a7b8020c40b1b3"
+    },
+    {
+      "pdfPage": 756,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0756.md",
+      "sha256": "b280757ef853a68bd40c679f4adae139ce3e3e53e95b45b41d99bde23447416b"
+    },
+    {
+      "pdfPage": 757,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0757.md",
+      "sha256": "01257e612cff111a97cf0a97445264bb932991a5b1cde18ecabd84a5db8f692c"
+    },
+    {
+      "pdfPage": 757,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0757.md",
+      "sha256": "15c7ffdd5fb0d9e687dd9c200383bb8aa3f1a7826c382579e47dd3c3efca9ca3"
+    },
+    {
+      "pdfPage": 758,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0758.md",
+      "sha256": "66196a7430667a8380bb2ccb13d67c2bda6aa3e1cc56c2ed0521e5ea9ae110ea"
+    },
+    {
+      "pdfPage": 758,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0758.md",
+      "sha256": "bd0c23706422b49a7aeb33b760cdc03abb6e8f6a9a9a34b9311cad8def64e84d"
+    },
+    {
+      "pdfPage": 759,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0759.md",
+      "sha256": "784e6151dc5a4e7ada32691ac2a3ed333e402bdf350d2e39348a72a30281eb85"
+    },
+    {
+      "pdfPage": 759,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0759.md",
+      "sha256": "e0fc2967b4fae1c1af0d4a0c0983909b22073b45ada8cc1c0b7127de1d76b25a"
+    },
+    {
+      "pdfPage": 760,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0760.md",
+      "sha256": "55d0bc13eb7a8a9c8d08cae2d74a31a524431106805d83336d1a47a046e996d6"
+    },
+    {
+      "pdfPage": 760,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0760.md",
+      "sha256": "98f47d8f76a28af32b406cdea9e0eaf550e0fc228f92a31d9a9e6c6b4ab1b50c"
+    },
+    {
+      "pdfPage": 761,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0761.md",
+      "sha256": "f8c85936792996cae9a24c4038550a20a80fc9888e2644c80015d4fe3a530cee"
+    },
+    {
+      "pdfPage": 761,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0761.md",
+      "sha256": "23a241f7619ad93b325b77c48590b49862063e659594215f5d98b4d18fb09c99"
+    },
+    {
+      "pdfPage": 762,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0762.md",
+      "sha256": "ddd18d5be6e77d42e76067488e2cc055d346708ac7bdb82f196cc33c734a0ddf"
+    },
+    {
+      "pdfPage": 762,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0762.md",
+      "sha256": "4a1db23144e9f349460e417fe33eadd0d1b189766f31de21bf97676e66fdae2a"
+    },
+    {
+      "pdfPage": 763,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0763.md",
+      "sha256": "96f55828784ae601d81cd913ec7b1c9cdd7a8db571c0209a18c8089decf1715b"
+    },
+    {
+      "pdfPage": 763,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0763.md",
+      "sha256": "5b6ca5dbe246614c6815074a144d82657655bd974ba96024f7971386281d8ee8"
+    },
+    {
+      "pdfPage": 764,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0764.md",
+      "sha256": "47f72f353738049f714932e4d1b5260fef5fd84c51f5fa6e3672e23c48ba2c33"
+    },
+    {
+      "pdfPage": 764,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0764.md",
+      "sha256": "2b876a8b76f1497b1af28c2f18d1c9616e97a15f3243e477314941c9140f17b7"
+    },
+    {
+      "pdfPage": 765,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0765.md",
+      "sha256": "0b243df42c89198de5492f3058f51f51f95a9f494464fd4c2c4074d181b26e21"
+    },
+    {
+      "pdfPage": 765,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0765.md",
+      "sha256": "583e3039db852420271244b0ba85d872f3e90656229416115851853f0411c99a"
+    },
+    {
+      "pdfPage": 766,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0766.md",
+      "sha256": "17ceedbfb9d2bb4912f6059806e58ef9819cd9a7cb97516adaecc648a8e47f5c"
+    },
+    {
+      "pdfPage": 766,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0766.md",
+      "sha256": "dd5af71cb686928ce5d66d5acf72b1c0f7d235aa00552df0c0e353c24fd7e1ef"
+    }
+  ],
+  "pageRenderVerification": [
+    {
+      "pdfPage": 731,
+      "printedPage": "722",
+      "renderer": "Strict MathJax with noerrors/noundefined excluded; native complete Markdown page rendering",
+      "languages": {
+        "en": {
+          "formulaContainers": 22,
+          "errors": [],
+          "sha256": "d9080ec30a242d5ec8eb961a766f2336a1f8802c03870320b55aadcdcde10803"
+        },
+        "zh": {
+          "formulaContainers": 21,
+          "errors": [],
+          "sha256": "615c03421d4bff5b19b13803b0f050226446a470f48c99f4b48103da5531a8e4"
+        }
+      },
+      "errors": [],
+      "stats": {
+        "conversions": 43,
+        "metadataCacheEntries": 0,
+        "metadataCacheLimit": 512,
+        "mathjaxVersion": "3.2.1"
+      }
+    }
+  ]
+}

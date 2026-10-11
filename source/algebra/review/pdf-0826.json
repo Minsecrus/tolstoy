@@ -1,0 +1,12 @@
+{
+  "printedPage": "818",
+  "visualReviewed": true,
+  "formulaChecked": true,
+  "notes": [
+    "Source bigraded sum p,q>=0 covers first-quadrant filtrations. ZH notes general preceding filtered complexes require integer q with p+q>=0, provides K^0=k, F^0=F^1=K,F^2=0 giving E0^(1,-1)=k, and sufficient condition F^pK^m=0 for p>m."
+  ],
+  "englishTranscribed": true,
+  "unresolved": [],
+  "pdfPage": 826,
+  "chineseTranslated": true
+}

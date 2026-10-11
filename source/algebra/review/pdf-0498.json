@@ -1,0 +1,13 @@
+{
+  "pdfPage": 498,
+  "printedPage": "487",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原书completions E-hat of K用语误印，中文根据交换图明确为E与K的完备化。",
+    "两个交换图全部箭头和标签按原图以LaTeX array保留。"
+  ]
+}

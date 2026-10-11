@@ -1,0 +1,13 @@
+{
+  "formulaChecked": true,
+  "visualReviewed": true,
+  "unresolved": [],
+  "notes": [
+    "Source connecting morphism target F^1(A-double-prime) is inconsistent with the preceding delta-functor definition. EN retains; ZH corrects to F^1(A-prime) with explicit n=0 substitution.",
+    "Independent second visual audit identified that uniqueness statement for G with G^0=F^0 is valid among universal delta-functors. ZH adds the two-direction universality argument and split vector-space category counterexample to unrestricted G; EN unchanged."
+  ],
+  "printedPage": "800",
+  "chineseTranslated": true,
+  "englishTranscribed": true,
+  "pdfPage": 808
+}

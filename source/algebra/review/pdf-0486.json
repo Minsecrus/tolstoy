@@ -1,0 +1,12 @@
+{
+  "pdfPage": 486,
+  "printedPage": "475",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original definition of step functions does not restrict intervals to bounded ones or functions to integrable ones. Original retained and Chinese visibly warns that the characteristic function of (0,infinity) has infinite L1 integral; the seminorm construction requires integrable step functions."
+  ]
+}

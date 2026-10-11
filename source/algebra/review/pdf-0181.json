@@ -1,0 +1,13 @@
+{
+  "pdfPage": 181,
+  "printedPage": "166",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "All displayed formulas and subscripts visually checked, including psi_i o phi_j, the real coefficient inequalities, and Z< S > notation. English preserves source Exercise 6 exactly; Chinese includes a visible editorial note with an explicit counterexample to the stated hypotheses.",
+    "Independently audited source issue: Exercise 6 conditions are insufficient; the printed problem is retained and a visible Chinese warning states that no complete correction is claimed. G-stability alone is not asserted to fix the problem. Source Exercise 6 gives only a full-rank subgroup M of Z<S> but concludes the existence of a G-equivariant permutation basis, which implies G-stability. A full-rank subgroup need not be G-stable (e.g. 2Z[s_1] + Z[s_2] under the transposition of s_1,s_2). The exact intended full hypothesis/correction is not determined. Original retained in both languages and visible Chinese editorial note added; visual readings are resolved."
+  ]
+}

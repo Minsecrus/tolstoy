@@ -1,0 +1,13 @@
+{
+  "pdfPage": 138,
+  "printedPage": "123",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "亲自逐页查看原始图像，核对所有公式、Hom 函子方向、希腊字母、上下标及命题编号。",
+    "商模分解三角图以 LaTeX array 保留三条箭头，底边标签为 g，其余两箭头原页无标签。"
+  ]
+}

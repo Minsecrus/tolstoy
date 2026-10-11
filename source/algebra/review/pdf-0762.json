@@ -1,0 +1,13 @@
+{
+  "pdfPage": 762,
+  "printedPage": "754",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original full page visually read; every formula, paragraph, proof, exercise, and hint on this page checked.",
+    "Printed sigma s end indices in shuffle product and order condition preserved in English; adjacent Chinese note corrects to sigma(r+s) using s-linearity argument."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pdfPage": 182,
+  "printedPage": "167",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves the source spelling asume in Exercise 7(b).",
+    "Exercise 7(b): source bound 0 <= n_{j,k} <= d-1 does not specify k. Chinese visible editorial note restricts the bound to k<j and records 1 <= n_{j,j} <= d, with the d=1 counterexample if k=j. English source formula retained.",
+    "All seminorm, height, localization and exact-sequence formulas visually checked."
+  ]
+}

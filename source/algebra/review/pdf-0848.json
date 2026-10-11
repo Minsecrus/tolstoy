@@ -1,0 +1,13 @@
+{
+  "pdfPage": 848,
+  "printedPage": "840",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "定理2.1证明中原 M_1=Ker(E_0→P)，但定理与解消末项是M、P未定义，紧接正合列也为 E_0→M；EN保留P，ZH改M并紧邻给出原式及依据。",
+    "独立二遍核对补回最后正合列中省略号之后通向 E_0 的原印箭头，两语均修复。"
+  ]
+}

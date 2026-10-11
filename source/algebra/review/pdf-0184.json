@@ -1,0 +1,14 @@
+{
+  "pdfPage": 184,
+  "printedPage": "169",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Two original commutative diagrams cropped and visually checked for all labels/arrows and complete boundaries: pdf-0184-ex14-snake.png and pdf-0184-ex15-five-lemma.png.",
+    "Exercise 13(c) source K_0(o) ~= Pic(o) retained without correction. Independently inspected printed p138 (PDF153): Lang defines K(A) as the Grothendieck group and K_0(A) using equivalence modulo addition of finite free modules; the source statement is consistent with this convention.",
+    "All five-lemma hypotheses and p-adic formulas visually checked."
+  ]
+}

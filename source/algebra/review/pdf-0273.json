@@ -1,0 +1,12 @@
+{
+  "pdfPage": 273,
+  "printedPage": "258",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 258 Exercise 34 defines R with Q[[z_1,...,x_d]], although the variables in this exercise are x_1,...,x_d. English retains z_1; Chinese reads x_1 with a visible translator editorial note explaining the correction."
+  ]
+}

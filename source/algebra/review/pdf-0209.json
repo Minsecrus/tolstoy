@@ -1,0 +1,12 @@
+{
+  "pdfPage": 209,
+  "printedPage": "194",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Mason-Stothers 定理原文漏写 a,b,c 非零且不全为常数的必要条件；英文照原，中文保留原表述并附可见译校注与常数反例。"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 127,
+  "printedPage": "112",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "The ascending chain uses strict containment. The later containment (a_n) subset (a) subset (a_n) is printed with ordinary inclusion symbols and is retained without modernizing the author notation."
+  ]
+}

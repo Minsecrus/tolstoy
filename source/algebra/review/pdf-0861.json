@@ -1,0 +1,13 @@
+{
+  "pdfPage": 861,
+  "printedPage": "853",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Personally reviewed the full original page and both original-image crops. The complete complex morphism and multiline calculation are preserved as inspected crops, including the printed omitted-factor notation.",
+    "Independent visual audit: source calculation image retained exactly; adjacent Chinese note identifies missing scalar y_{i_k} when the whole marked exterior factor is omitted, with r=p=1,c11=1,x1=2 counterexample."
+  ]
+}

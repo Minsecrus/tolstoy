@@ -1,0 +1,12 @@
+{
+  "pdfPage": 478,
+  "printedPage": "467",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Chinese uses the direct (n+1)C estimate for n+1 binomial terms and explains the original nC also works if the unspecified constant is doubled; this is a constant-convention clarification, not an invalidation of the original proof."
+  ]
+}

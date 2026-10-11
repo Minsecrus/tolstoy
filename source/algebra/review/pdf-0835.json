@@ -1,0 +1,14 @@
+{
+  "visualReviewed": true,
+  "notes": [
+    "Exercise4(c) source function domain G should be GxG; checked two-variable equation.",
+    "Exercise5(a) ordinary cohomology cocycle assertion requires abelian A with induced G action; ZH specifies this range and distinguishes nonabelian factor set.",
+    "Exercise5(b) source H^1 should be H^2, confirmed next question and degree. ZH explains fixed action and extension-equivalence identity on endpoints for classification."
+  ],
+  "printedPage": "827",
+  "formulaChecked": true,
+  "unresolved": [],
+  "chineseTranslated": true,
+  "englishTranscribed": true,
+  "pdfPage": 835
+}

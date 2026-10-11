@@ -1,0 +1,12 @@
+{
+  "pdfPage": 864,
+  "printedPage": "856",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independent audit: Theorem 4.6(b) retains original statement; adjacent Chinese note explains missing M!=0 under the book's nonzero-quotient regular-sequence definition, with M=0 boundary and Nakayama for nonzero finite M."
+  ]
+}

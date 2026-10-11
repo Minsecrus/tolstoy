@@ -1,0 +1,15 @@
+{
+  "notes": [
+    "Exercise 20: visually confirmed GL_2(C); literal answers are both zero. Chinese note gives degree and invertibility evidence without inventing a corrected question.",
+    "Exercise 24: source right-hand series uses t^m; Chinese corrects to t^{m-1}, justified by differentiating and by the one-dimensional A=1 example. Source also omits characteristic-zero assumption needed for formal exp/log with integer denominators; Chinese note distinguishes the logarithmic derivative identity valid in all characteristics.",
+    "Exercise 25: source introduces V:W->W, while all ensuing formulas use B. English preserves V; Chinese corrects to B with adjacent note.",
+    "Root personally inspected PDF579 original and both EN/ZH files: Exercise 20 GL_2(C) and polynomial expressions are clearly legible. Original question retained, literal answers both zero explained; no conjectured author revision. This is not an OCR reading uncertainty."
+  ],
+  "pdfPage": 579,
+  "visualReviewed": true,
+  "unresolved": [],
+  "chineseTranslated": true,
+  "englishTranscribed": true,
+  "formulaChecked": true,
+  "printedPage": "570"
+}

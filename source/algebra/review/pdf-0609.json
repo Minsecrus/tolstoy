@@ -1,0 +1,12 @@
+{
+  "pdfPage": 609,
+  "printedPage": "600",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independent original-image audit: Exercise 28 actually prints <H_alpha,H>=alpha(H), so prior Y transcription was corrected in English and unsupported Chinese editorial note removed. Exercise 26(b) first basis index restored as H_{1,2}."
+  ]
+}

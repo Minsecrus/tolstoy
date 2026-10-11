@@ -1,0 +1,12 @@
+{
+  "pdfPage": 80,
+  "printedPage": "65",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original commutative diagrams preserved as manually inspected cropped PNGs, with arrows and labels checked against the rendered page."
+  ]
+}

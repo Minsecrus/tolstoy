@@ -1,0 +1,13 @@
+{
+  "pdfPage": 707,
+  "printedPage": "698",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 698 sentence after Theorem 7.12 proof prints F_1 intersection [gamma]F_2. The preceding theorem and every line of its proof concern the tensor product, so Chinese reads F_1 tensor [gamma]F_2 with an adjacent visible translator editorial note; English retains the printed intersection.",
+    "Independent second mathematical audit: 中文增加第三步引用原印定理7.7应为7.11的可见译校注。"
+  ]
+}

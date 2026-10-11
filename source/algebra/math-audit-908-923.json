@@ -1,0 +1,317 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "reviewer": "Independent second reviewer /root/algebra_048_057; manuscripts were authored by another agent.",
+  "completedAt": "2026-10-11 02:15:53 UTC",
+  "scope": {
+    "pdfPageStart": 908,
+    "pdfPageEnd": 923,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "content": "All12indexpages, printed903–914, and4unnumbered Graduate Texts in Mathematics catalogue pages containing volumes1–224.",
+    "method": "Personally viewed every original full-page PNG via view_image and read complete EN and ZH manuscripts; compared every index main entry and child, printed page number/range/Roman numeral, original alphabetic and column order, cross-column/cross-page continuations, Chinese translation with English labels; compared all224catalogue authors, full titles/subtitles, parts/volumes/editions and series qualifiers. Automated hierarchy/page-number and catalogue-ID checks supplement, and do not replace, direct visual comparison."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    908,
+    909,
+    910,
+    911,
+    912,
+    913,
+    914,
+    915,
+    916,
+    917,
+    918,
+    919,
+    920,
+    921,
+    922,
+    923
+  ],
+  "auditedPages": [
+    908,
+    909,
+    910,
+    911,
+    912,
+    913,
+    914,
+    915,
+    916,
+    917,
+    918,
+    919,
+    920,
+    921,
+    922,
+    923
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 908,
+      "printedPage": "903",
+      "scope": "All two-column index entries abc conjecture through bilinear form; abelian/algebraic/alternating/associated and belong nested subitems, page numbers and Chinese-English matching, original order retained.",
+      "status": "verified",
+      "enSha256": "249e5d6a1fa3d7d5c8fe18e88d9d361bdc8b2a0c08516294e90a96e19294b0ca",
+      "zhSha256": "9933905c74226704c5f630929e90c69840cb333cb187747d709308d0599b51ac",
+      "indexMainAndSubEntries": 84
+    },
+    {
+      "pdfPage": 909,
+      "printedPage": "904",
+      "scope": "All two-column index entries bilinear map through connection; Bourbaki/Burnside/Cauchy/center/character/cocycle/coefficient/commutative/commutator/compact/complete/conjugate subitems, Roman ix and GL_n/SL_n notation, page numbers and bilingual matching.",
+      "status": "verified",
+      "enSha256": "e3bed5ac66b99ddf06a0d6d4faab01d62def5c8b05847aa09ad1e44030c34d7e",
+      "zhSha256": "dbbf2e2856f804dc2442142fdbfa1ce08818d300c327ab4708b893b72672a4be",
+      "indexMainAndSubEntries": 103
+    },
+    {
+      "pdfPage": 910,
+      "printedPage": "905",
+      "status": "verified",
+      "scope": "All two-column index entries constant polynomial through dual representation, including coproduct/cycle/cyclic/degree/determinant/dimension/direct/distinguished and dual subitems; printed unusual of-rings page order335,291 retained, full bilingual labels and page numbers.",
+      "enSha256": "28f1e5886c9dd0a0c5f192be8aab8fbb279f72fa32e24f26ee758f5e35f4e1f0",
+      "zhSha256": "a382be2b764a040a05717054471c9ca61416c92bbb97643a38d5a78e82c99a51",
+      "indexMainAndSubEntries": 102
+    },
+    {
+      "pdfPage": 911,
+      "printedPage": "906",
+      "status": "verified",
+      "scope": "All entries effective character through Fourier coefficients; elementary/elimination/embedding/enough/equivalent/exponent/extension cross-column/exterior/factor/finite/finitely generated/fixed/flat/form subitems, ranges and literal printed entire-functions87, bilingual matching.",
+      "enSha256": "ae7b37287189d7ea84c299f557fc3d7e21fb494ff056fa9434cf513b6432cc2a",
+      "zhSha256": "b9e0a7b95d4b26da41a299446f515e0b8ed32ed2a88acd62f4e9bd670694f038",
+      "indexMainAndSubEntries": 104
+    },
+    {
+      "pdfPage": 912,
+      "printedPage": "907",
+      "status": "verified",
+      "scope": "All free through homomorphism entries, all nested free/Frobenius/Galois/generate/generic/graded/Grothendieck/group/hermitian/Hilbert/homogeneous/homology items; GL2/GLn notation, cross-column sequence and page ranges, full Chinese-English labels.",
+      "enSha256": "f816ea0fb2baddf3490fdba8733a2a7f06103dd8dd9992d5cc9d963a2d028486",
+      "zhSha256": "52a0ecc4b382fa4feea0ce04c6d89e42f624a2f4553c9163ba176e83651107ac",
+      "indexMainAndSubEntries": 102
+    },
+    {
+      "pdfPage": 913,
+      "printedPage": "908",
+      "status": "verified",
+      "scope": "Homomorphism continued and all entries through Jordan canonical form; injective children carried to top of right column; independent/induced/infinite/integral/two invariant heads/inverse/irreducible subitems, Irr(z,k,X), all pages and Chinese-English matching.",
+      "enSha256": "cd1f035c6bddaa1a47ab35005d8535965753f86001bd2b109e381d48aeb0f266",
+      "zhSha256": "e4c88bc49409dff1e6e0b6873aaed5f7555416a6f8cd8292299655785ce531e1",
+      "indexMainAndSubEntries": 103
+    },
+    {
+      "pdfPage": 914,
+      "printedPage": "909",
+      "status": "verified",
+      "scope": "All K-family through natural transformation entries; local head continues into right column norm/parameter/ring/uniformization; kernel/Krull/Kummer/least/left/length/linear/matrix/maximal/module/monoid/morphism/multiplicative/multiplicity subitems, all pages and bilingual labels.",
+      "enSha256": "202d083edd500c7964507b3e75829a726db0d3a72084fc32d66b8adf85a46967",
+      "zhSha256": "3f677a67553258ca885e2aaa7c8ad3b461e3dd05bfc58248d31c2d4488cfb917",
+      "indexMainAndSubEntries": 103
+    },
+    {
+      "pdfPage": 915,
+      "printedPage": "910",
+      "status": "verified",
+      "scope": "All negative through primary module entries; Noetherian/norm/normal/null/one-dimensional/operate/orbit/order/orthogonal and p-adic/p-family/partition/point/polynomial/positive/power-series/primary subitems; cross-column continuation, page ranges and bilingual labels.",
+      "enSha256": "d40c7e2ff90b3d8ac4a6cfecd95846cbc5c9a5e8c25adb08fa24778cc2817170",
+      "zhSha256": "2ba45825df7943180c7630dbed12cd8a47c40aefc85aea9e547e5b2d53b4791d",
+      "indexMainAndSubEntries": 104
+    },
+    {
+      "pdfPage": 916,
+      "printedPage": "911",
+      "status": "verified",
+      "scope": "All prime through right exact-functor entries; radical head continues across columns of ring/of integer, primitive/principal/product/projective/quadratic/quotient/rational/real/reduction/regular/representation/residue/resultant/right subitems, pages and bilingual labels.",
+      "enSha256": "c6e50c7c117aa3df6dbd0de3cc415c114418e3f3e493730779ab777d60e092d6",
+      "zhSha256": "eb4916d4c301db51b3b5d81e023a577eb17f79ee1800325a252d6cad9ed5745e",
+      "indexMainAndSubEntries": 103
+    },
+    {
+      "pdfPage": 917,
+      "printedPage": "912",
+      "status": "verified",
+      "scope": "Right continued through substituting; ring/root/row/Schanuel/Schur/semisimple/separable/Serre/simple/SL2/solvable/spectral/square/stably free/standard subitems; SL_n/S3/S4 expressions and page ranges, full bilingual matching.",
+      "enSha256": "b6be3442cdf9f52fd0df340641340a32f7b74fdb64524bcd1009cd4848bf4776",
+      "zhSha256": "cbb1f35fd6fa6ffc6bb0c7f525ccb637b2da65de40fc91d68b92c9ed23a6dd5f",
+      "indexMainAndSubEntries": 102
+    },
+    {
+      "pdfPage": 918,
+      "printedPage": "913",
+      "status": "verified",
+      "scope": "All super through variation-of-signs entries; super/symmetric/symplectic/Tate/tensor/Tor/torsion/total/tower/trace/transcendence/transpose/trigonometric/trivial/type/unimodular/unit/universal/universally/valuation-ring children; all page numbers, ranges and bilingual labels.",
+      "enSha256": "286f66e7f59e8122dc18e5494f87d890f25c640c98f0f4d730dd4a05d6df6f36",
+      "zhSha256": "42757bd312c202bccce241eed1d328de2af015c47f5f1455456416d95cb3cf45",
+      "indexMainAndSubEntries": 102
+    },
+    {
+      "pdfPage": 919,
+      "printedPage": "914",
+      "status": "verified",
+      "scope": "All final index entries variety through Zorn's lemma, Weierstrass/Witt/zero nested children, Roman x, page numbers and bilingual matching; original left-column then right-column order retained.",
+      "enSha256": "b57e65e6da41f401c9f2d897786c17ed63f67f95ae281551c7d7db53e4a94a84",
+      "zhSha256": "2353587b2fa16741de4f63bd076a80ed5ff38137ec7035ab68dbb5c1b85bf8e1",
+      "indexMainAndSubEntries": 28
+    },
+    {
+      "pdfPage": 920,
+      "printedPage": null,
+      "status": "verified-after-correction",
+      "scope": "GTM entries1–63: every author grouping, complete title/subtitle, volume/part and edition; C*-algebras and p-adic notation; Chinese translation plus original title, original left-column1–33/right-column34–63 order.",
+      "enSha256": "e3b100f4fb70db8f4f7a4089c3b3819c5e298512d00da6d481ca5f00a5575d95",
+      "zhSha256": "afb8c87f51e4f3744f81ffe607a12e91fc845c0ae3b4de96b9d65bc1a97771fe",
+      "gtmEntryStart": 1,
+      "gtmEntryEnd": 63,
+      "gtmEntries": 63
+    },
+    {
+      "pdfPage": 921,
+      "printedPage": null,
+      "status": "verified-after-correction",
+      "scope": "GTM entries64–123: all author groupings, titles/subtitles, volumes/parts, edition qualifiers and Readings in Mathematics addenda122–123; SL2(R), Teichmüller/Brønsted/Bröcker typography, full Chinese and original title matching.",
+      "enSha256": "2cdaaf7c6138d7cf76fad13348f732357e6841d25341c4136e2503d209650646",
+      "zhSha256": "ce2321c9701f2826f1e06c80cc86a0dfc322b3725134a7035f4209ccfe9f3f6e",
+      "gtmEntryStart": 64,
+      "gtmEntryEnd": 123,
+      "gtmEntries": 60
+    },
+    {
+      "pdfPage": 922,
+      "printedPage": null,
+      "status": "verified",
+      "scope": "GTM entries124–182, every author/title/subtitle/part/edition and Readings in Mathematics129; Gröbner/Erdélyi and Algebraic K-Theory notation, full Chinese translations plus original titles.",
+      "enSha256": "ba3555c578414aa87dbd4b9e221c9c5d90d6b5418f1f06f95f9fb307d2bf0ef5",
+      "zhSha256": "dce35029d1a33a8d82e7fdcc238a66e68e78a397c34b9ef11c656e78e0334364",
+      "gtmEntryStart": 124,
+      "gtmEntryEnd": 182,
+      "gtmEntries": 59
+    },
+    {
+      "pdfPage": 923,
+      "printedPage": null,
+      "status": "verified",
+      "scope": "GTM entries183–224, every author/title/subtitle/edition and Readings in Mathematics206; p-adic198, Revised3rd ed211, accented authors and final Walschap224, full Chinese translations plus original titles.",
+      "enSha256": "c68cfc1c657f52ac68876df1ceafced51bfc1756b27cba0523f61692b0e81fab",
+      "zhSha256": "3e8030596ad95812a6979722455afb10b8edbd0df70e995173bbd9edb8fe85a7",
+      "gtmEntryStart": 183,
+      "gtmEntryEnd": 224,
+      "gtmEntries": 42
+    }
+  ],
+  "corrections": [
+    {
+      "pdfPage": 920,
+      "language": "en",
+      "location": "GTM36",
+      "source": "KELLEY/NAMIOKA et al. Linear Topological Spaces.",
+      "issue": "Draft has et al..; extra period should be removed.",
+      "resolution": "Removed duplicate period in EN, matching personally inspected source; ZH author wording already correct."
+    },
+    {
+      "pdfPage": 921,
+      "language": "en",
+      "location": "GTM123",
+      "source": "EBBINGHAUS/HERMES et al. Numbers.",
+      "issue": "Draft has et al..; extra period should be removed.",
+      "resolution": "Removed duplicate period in EN, matching personally inspected source; ZH author wording already correct."
+    }
+  ],
+  "sourceIssues": [],
+  "unresolved": [],
+  "initialManuscriptSha256": {
+    "908": {
+      "en": "249e5d6a1fa3d7d5c8fe18e88d9d361bdc8b2a0c08516294e90a96e19294b0ca",
+      "zh": "9933905c74226704c5f630929e90c69840cb333cb187747d709308d0599b51ac"
+    },
+    "909": {
+      "en": "e3bed5ac66b99ddf06a0d6d4faab01d62def5c8b05847aa09ad1e44030c34d7e",
+      "zh": "dbbf2e2856f804dc2442142fdbfa1ce08818d300c327ab4708b893b72672a4be"
+    },
+    "910": {
+      "en": "28f1e5886c9dd0a0c5f192be8aab8fbb279f72fa32e24f26ee758f5e35f4e1f0",
+      "zh": "a382be2b764a040a05717054471c9ca61416c92bbb97643a38d5a78e82c99a51"
+    },
+    "911": {
+      "en": "ae7b37287189d7ea84c299f557fc3d7e21fb494ff056fa9434cf513b6432cc2a",
+      "zh": "b9e0a7b95d4b26da41a299446f515e0b8ed32ed2a88acd62f4e9bd670694f038"
+    },
+    "912": {
+      "en": "f816ea0fb2baddf3490fdba8733a2a7f06103dd8dd9992d5cc9d963a2d028486",
+      "zh": "52a0ecc4b382fa4feea0ce04c6d89e42f624a2f4553c9163ba176e83651107ac"
+    },
+    "913": {
+      "en": "cd1f035c6bddaa1a47ab35005d8535965753f86001bd2b109e381d48aeb0f266",
+      "zh": "e4c88bc49409dff1e6e0b6873aaed5f7555416a6f8cd8292299655785ce531e1"
+    },
+    "914": {
+      "en": "202d083edd500c7964507b3e75829a726db0d3a72084fc32d66b8adf85a46967",
+      "zh": "3f677a67553258ca885e2aaa7c8ad3b461e3dd05bfc58248d31c2d4488cfb917"
+    },
+    "915": {
+      "en": "d40c7e2ff90b3d8ac4a6cfecd95846cbc5c9a5e8c25adb08fa24778cc2817170",
+      "zh": "2ba45825df7943180c7630dbed12cd8a47c40aefc85aea9e547e5b2d53b4791d"
+    },
+    "916": {
+      "en": "c6e50c7c117aa3df6dbd0de3cc415c114418e3f3e493730779ab777d60e092d6",
+      "zh": "eb4916d4c301db51b3b5d81e023a577eb17f79ee1800325a252d6cad9ed5745e"
+    },
+    "917": {
+      "en": "b6be3442cdf9f52fd0df340641340a32f7b74fdb64524bcd1009cd4848bf4776",
+      "zh": "cbb1f35fd6fa6ffc6bb0c7f525ccb637b2da65de40fc91d68b92c9ed23a6dd5f"
+    },
+    "918": {
+      "en": "286f66e7f59e8122dc18e5494f87d890f25c640c98f0f4d730dd4a05d6df6f36",
+      "zh": "42757bd312c202bccce241eed1d328de2af015c47f5f1455456416d95cb3cf45"
+    },
+    "919": {
+      "en": "b57e65e6da41f401c9f2d897786c17ed63f67f95ae281551c7d7db53e4a94a84",
+      "zh": "2353587b2fa16741de4f63bd076a80ed5ff38137ec7035ab68dbb5c1b85bf8e1"
+    },
+    "920": {
+      "en": "6850b28964cb6fecccdca30227c4ecf9f0a7f7489d8a8e296eddd83f05d2658d",
+      "zh": "afb8c87f51e4f3744f81ffe607a12e91fc845c0ae3b4de96b9d65bc1a97771fe"
+    },
+    "921": {
+      "en": "6ed444993dc4291bc4333510a4b360ab0f60b47737c32c49661bcb0364d77936",
+      "zh": "ce2321c9701f2826f1e06c80cc86a0dfc322b3725134a7035f4209ccfe9f3f6e"
+    },
+    "922": {
+      "en": "ba3555c578414aa87dbd4b9e221c9c5d90d6b5418f1f06f95f9fb307d2bf0ef5",
+      "zh": "dce35029d1a33a8d82e7fdcc238a66e68e78a397c34b9ef11c656e78e0334364"
+    },
+    "923": {
+      "en": "c68cfc1c657f52ac68876df1ceafced51bfc1756b27cba0523f61692b0e81fab",
+      "zh": "3e8030596ad95812a6979722455afb10b8edbd0df70e995173bbd9edb8fe85a7"
+    }
+  },
+  "changedManuscripts": [
+    {
+      "pdfPage": 920,
+      "language": "en",
+      "initialSha256": "6850b28964cb6fecccdca30227c4ecf9f0a7f7489d8a8e296eddd83f05d2658d",
+      "finalSha256": "e3b100f4fb70db8f4f7a4089c3b3819c5e298512d00da6d481ca5f00a5575d95"
+    },
+    {
+      "pdfPage": 921,
+      "language": "en",
+      "initialSha256": "6ed444993dc4291bc4333510a4b360ab0f60b47737c32c49661bcb0364d77936",
+      "finalSha256": "2cdaaf7c6138d7cf76fad13348f732357e6841d25341c4136e2503d209650646"
+    }
+  ],
+  "completion": {
+    "originalPagesPersonallyViewed": 16,
+    "bilingualPagePairsCompared": 16,
+    "indexMainAndSubEntriesVerified": 1140,
+    "gtmRecordsVerified": 224,
+    "manuscriptsBoundBySha256": 32,
+    "unreviewedPages": 0,
+    "unresolvedIssues": 0,
+    "finalHashRecheck": "All32 final manuscript hashes computed after corrections; only EN920/GTM36 and EN921/GTM123 changed from initial snapshot, each duplicate period removed to match source."
+  }
+}

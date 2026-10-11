@@ -1,0 +1,12 @@
+{
+  "pdfPage": 564,
+  "printedPage": "555",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "分块对角矩阵保留为原PDF裁片，已查看。原公式左侧印作 phi v，未带 j；结合逐个j的坐标公式及随后的转置矩阵，中文补为phi v_j并附可见译校注；英文照原。"
+  ]
+}

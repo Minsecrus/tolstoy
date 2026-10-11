@@ -1,0 +1,12 @@
+{
+  "pdfPage": 236,
+  "printedPage": "221",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Source index inconsistency: polynomial list f_1,...,f_n followed by equations i=1,...,r. List should end f_r, with n the variable count. Printed wording retained; visible Chinese editorial note added."
+  ]
+}

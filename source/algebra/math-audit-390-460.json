@@ -1,0 +1,1977 @@
+{
+  "schemaVersion": 1,
+  "source": "D:/Download/Algebra.pdf",
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "chapter": "IX. Algebraic Spaces (PDF390–425); X. Noetherian Rings and Modules (PDF426–460)",
+  "assignedPdfPages": [
+    390,
+    460
+  ],
+  "printedPages": [
+    "377",
+    "447"
+  ],
+  "status": "complete",
+  "reviewer": "/root/algebra_preface",
+  "reviewedAt": "2026-10-11",
+  "method": "Personally viewed every original PNG for PDF390–460 and compared complete English transcription and Chinese translation, including every inline/display formula, heading, paragraph, proof step, exercise/subpart/hint, bibliography, cross-page fragment, and source note. Original complex diagram crop was separately viewed. PDF412 final specialization and PDF457 zero-locus glyph were checked with enlarged original crops. Equivalent notation and implicit context were distinguished from source issues. No delegation was used for this independent second review.",
+  "originalImagePagesViewed": [
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460
+  ],
+  "englishChinesePagesCompared": [
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460
+  ],
+  "unreviewedPages": [],
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 390,
+      "printedPage": "377",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Full Chapter IX introduction and imprint; all ring/ideal hypotheses and chapter references.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        390,
+        390
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0390.md",
+      "chinesePath": "source/algebra/zh/pdf-0390.md",
+      "englishSha256": "ebd734eaaa1fb89bba4529d59dde07d2c9ea947647945b98f57331848e9908bd",
+      "chineseSha256": "c704495b4a524b2b1dcb0a300e45739dd80770f27c235c5d77265f498b4c16d4",
+      "existingReviewNotesCompared": [
+        "Personally inspected the complete original page image and all inline formulas."
+      ]
+    },
+    {
+      "pdfPage": 391,
+      "printedPage": "378",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Introduction continuation, §1 and Theorem 1.1 proof through specialization kernel; all coefficient/localization formulas and source denominator note.",
+      "notes": [
+        "Printed a_r denominator conflicts with n leading coefficients; existing bilingual notes correctly explain a_n."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        391,
+        391
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0391.md",
+      "chinesePath": "source/algebra/zh/pdf-0391.md",
+      "englishSha256": "b0d486beda20726d0fde91208ea61b495a30bb0f9c5c34b088b849a6a2716f1f",
+      "chineseSha256": "bf5cec6124afe29e438cba7fdfef7c53808d17ca51efd16b4507432da6aeb5d4",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text and formulas. Printed ring ends with 1/a_r(t) although leading coefficients indexed to n; source retained with visible EN and ZH editorial notes."
+      ]
+    },
+    {
+      "pdfPage": 392,
+      "printedPage": "379",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 1.1 completion, Corollaries 1.2–1.3, algebraic set/ideal definitions, Theorem 1.4.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        392,
+        392
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0392.md",
+      "chinesePath": "source/algebra/zh/pdf-0392.md",
+      "englishSha256": "cb83fe9917a14edbbbf825bc99b0fab7f51922dbbd18ce430364b282e3b65fc3",
+      "chineseSha256": "ca8bc3f458968eacb2913836ce4e76b026c1be9bb402677fdd12b382bea71848",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text and formulas against the original page."
+      ]
+    },
+    {
+      "pdfPage": 393,
+      "printedPage": "380",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 1.4 proof, Theorem 1.5 full Rabinowitsch proof, effective-theorem paragraph and all five references; corollary source note checked.",
+      "notes": [
+        "Printed Corollary 2.2 reference should be 1.2, as independently read on PDF392; existing notes accurate."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        393,
+        393
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0393.md",
+      "chinesePath": "source/algebra/zh/pdf-0393.md",
+      "englishSha256": "92a1c5bc6ee954b6a50ba2f8afac737eeeed793df7ada7e1deb9f686f06ab4f0",
+      "chineseSha256": "160c452ba21410ae93572a9a9d027ef96315812464024edf21657a576a590000",
+      "existingReviewNotesCompared": [
+        "Personally inspected full text, formulas and bibliography. Printed Corollary 2.2 reference points to Corollary 1.2; retained with visible EN/ZH note."
+      ]
+    },
+    {
+      "pdfPage": 394,
+      "printedPage": "381",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "All §2 algebraic-set/associated-ideal definitions, Noetherian duality, Theorem 2.1 proof, irreducibility definition and Theorem 2.2(i)–(ii).",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        394,
+        394
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0394.md",
+      "chinesePath": "source/algebra/zh/pdf-0394.md",
+      "englishSha256": "dbf011e0874f376813a0c4494f0e6a37f245f63ece8baf1fd286dcceac4bc7db",
+      "chineseSha256": "6d4f718661cdb985e675e667f18b5817d7621996e985d33503001f237c732a85",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text, ideal containments and formulas against the page image."
+      ]
+    },
+    {
+      "pdfPage": 395,
+      "printedPage": "382",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 2.2(iii) and full existence/uniqueness proof, Theorem 2.3 proof, base-field irreducibility warning and final fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        395,
+        395
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0395.md",
+      "chinesePath": "source/algebra/zh/pdf-0395.md",
+      "englishSha256": "0900039eac389f33a38d9e6841db7fedce2239413bd9f95f5b86b9b4c7e5543b",
+      "chineseSha256": "7cec3e0772a2f0677f47c40181fc93e2bcf25a387a486e0c6871e507a1c4b29e",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text, containments and formulas against original image."
+      ]
+    },
+    {
+      "pdfPage": 396,
+      "printedPage": "383",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Algebraic-space functor, associated radical, affine-space/generic-point/specialization definitions and final fragment.",
+      "notes": [
+        "Printed k(X) in affine-point correspondence should have polynomial domain k[X]; existing notes correct."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        396,
+        396
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0396.md",
+      "chinesePath": "source/algebra/zh/pdf-0396.md",
+      "englishSha256": "796f16b2a50c2c2f849cc2f7b3af01303024b7a80ef7bb2a8a92651e2a338d62",
+      "chineseSha256": "a7dcaba390095a4eea0f62de7d1c04fc4bee13b1145a52cd9a031d0e6c237bec",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text and formulas. Original prints k(X) in affine-space bijection where k[X] is intended; retained with visible EN/ZH editorial note."
+      ]
+    },
+    {
+      "pdfPage": 397,
+      "printedPage": "384",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Point ideal construction, Theorem 2.4 full factorial-ring proof, homogeneous polynomial/ideal definitions and all degree expressions.",
+      "notes": [],
+      "changes": [
+        "Aligned Chinese content term 容度 with Chapter IV terminology, replacing ambiguous literal 内容."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        397,
+        397
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0397.md",
+      "chinesePath": "source/algebra/zh/pdf-0397.md",
+      "englishSha256": "ab553714c4d222150f38e9dace0b5ffa3e21b616edf19aa96b45eaebd0064b0a",
+      "chineseSha256": "558f8900e0e6f3ac33b5b869936efe249f5171574af2aa35db3ea76085126ca0",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete image, all polynomial indices and displayed formulas."
+      ]
+    },
+    {
+      "pdfPage": 398,
+      "printedPage": "385",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Propositions 2.5–2.7 full proofs, homogeneity definition, transcendental isomorphism and generic homogeneous point fragment.",
+      "notes": [
+        "Printed Remark 3.3 cross-reference corresponds to Theorem 2.2(iii) containment property; existing notes correct."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        398,
+        398
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0398.md",
+      "chinesePath": "source/algebra/zh/pdf-0398.md",
+      "englishSha256": "a998937808ce4a52a0a9728351fe47602fa44958b634117f3ea2adb43ba67038",
+      "chineseSha256": "21763d4ced867f8d72cc60882c741204ebc7a2b4a5f7a7089f6ba14caf1a5a16",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text and formulas. Source reference Remark 3.3 uses containment conclusion Theorem 2.2(iii); printed reference retained and visible explanatory note added."
+      ]
+    },
+    {
+      "pdfPage": 399,
+      "printedPage": "386",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Homogeneous generic point completion, three equivalent conditions, projective equivalence/space definitions, algebraic spaces over rings and specialization map.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        399,
+        399
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0399.md",
+      "chinesePath": "source/algebra/zh/pdf-0399.md",
+      "englishSha256": "be5fb9429cf103dae8447d9645a7af83ae02d0f013227438b1317282a89403b3",
+      "chineseSha256": "a750b2483c4fd054252e50837bee6268a29d3ca3a9393f80f8d8871cf5d5e35d",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete page and formulas, including projective exponent n-1."
+      ]
+    },
+    {
+      "pdfPage": 400,
+      "printedPage": "387",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Functor/algebraic set and R-algebra morphism definitions, full commutative triangle, radicals, affine/projective spaces over rings.",
+      "notes": [
+        "Commutative triangle R→A,R→A′,A→A′ labeled phi accurately retained by array."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        400,
+        400
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0400.md",
+      "chinesePath": "source/algebra/zh/pdf-0400.md",
+      "englishSha256": "6249d3cc8d903ca0038aeb75775cb1785e74c12a37e43f517f73deba92e42279",
+      "chineseSha256": "9b0c5a871905bf6816196cfbcc4f87d59342d66155ba0eed1750dafd7210e7dd",
+      "existingReviewNotesCompared": [
+        "Personally inspected original page, all formulas and unlabeled structure-map triangle. Source projective-space notation P^n retained."
+      ]
+    },
+    {
+      "pdfPage": 401,
+      "printedPage": "388",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "R-variety continuation, §3 projections/elimination, incomplete projection example and generic-point inclusion map.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        401,
+        401
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0401.md",
+      "chinesePath": "source/algebra/zh/pdf-0401.md",
+      "englishSha256": "97a99e625dd05ee947885e2601aabaf3b13ac718dc3ae85ff7f85a463f171492",
+      "chineseSha256": "24992717d5c6aaa96ecbfaa724fbfe3675e51c31553f82b65a508521c2346ee6",
+      "existingReviewNotesCompared": [
+        "Personally inspected full page, all coordinates, containments and projection formulas; retained printed script-space powers."
+      ]
+    },
+    {
+      "pdfPage": 402,
+      "printedPage": "389",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Projective/arithmetic projection setup, full Theorem 3.1 and place proof, remarks and two source-note checks.",
+      "notes": [
+        "Coordinates x′ are in k(x′), so printed transcendence base should be k(w′); existing note valid. Printed Theorem 1.2 below refers to next-page Theorem 3.2."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        402,
+        402
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0402.md",
+      "chinesePath": "source/algebra/zh/pdf-0402.md",
+      "englishSha256": "e8f3431764078682cd6814231de7a201eaf9e9a2f8ef439534851bca9d4edf63",
+      "chineseSha256": "6bf85b4953f38f0b57a7fa0c751156549da97693601ccd8dc88d783a14719218",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete page and coordinate-ratio formulas. Printed 'transcendental over k(x')' and reference 'Theorem 1.2 below' retained with visible EN/ZH notes giving intended k(w') and Theorem 3.2."
+      ]
+    },
+    {
+      "pdfPage": 403,
+      "printedPage": "390",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Coefficient-form definitions (1),(2), Theorem 3.2 proof, Corollary 3.3 and Theorem 3.4 opening.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        403,
+        403
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0403.md",
+      "chinesePath": "source/algebra/zh/pdf-0403.md",
+      "englishSha256": "898458a384c031be6cd4fc9bd661335ea6b99be409b740676c658e82061315fa",
+      "chineseSha256": "f544be4da3f00c105a733ef99bdb1987e5dcbee27d8e49e0e7f22ee8983bb593",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text, generic-form coefficient indices and equation numbers (1),(2)."
+      ]
+    },
+    {
+      "pdfPage": 404,
+      "printedPage": "391",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.4 saturation condition and all-indices claim, complete generic-point/Taylor-expansion proof, formula (3) and field remark fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        404,
+        404
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0404.md",
+      "chinesePath": "source/algebra/zh/pdf-0404.md",
+      "englishSha256": "2120fcd86815f8023b27c0bae6d21887f8846c751851c3082d31769950edb2ba",
+      "chineseSha256": "6d8b795962f7826cce1c11341e360de50a995fa2501eb3d58a48ce06ec541b54",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete original image, starred forms, saturation relation, Taylor formula, exponents and equation (3)."
+      ]
+    },
+    {
+      "pdfPage": 405,
+      "printedPage": "392",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Field remark completion, elimination/resultant ideal terminology and exercise, Theorem 3.5 full transcendence proof and place equations.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        405,
+        405
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0405.md",
+      "chinesePath": "source/algebra/zh/pdf-0405.md",
+      "englishSha256": "3df73eb5e20e2d62d9a5212222957baac857e3ecd65facbac68197735438a9e5",
+      "chineseSha256": "ef35d9b6644f18ee0e8fc37c896fafa07f2680028f9522e718e5a1d2de6cf871",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text, indices and displayed equations against the original image; double-star form notation preserved."
+      ]
+    },
+    {
+      "pdfPage": 406,
+      "printedPage": "393",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Birational remark, Lemma 3.6 full derivative/congruence proof, monomial choices and rational-coordinate expression.",
+      "notes": [
+        "Original coordinate derivative quotient is reversed: lemma gives u_i R_beta=R_alpha; adjacent Chinese note explains correct quotient while preserving printed formula."
+      ],
+      "changes": [
+        "Added visible Chinese source correction for reversed derivative quotient."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        406,
+        406
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0406.md",
+      "chinesePath": "source/algebra/zh/pdf-0406.md",
+      "englishSha256": "72e4469a211af638a40803714e0f1f4d5fb1e63747d9ec3b84e4fbf3d825da62",
+      "chineseSha256": "82d91d0b1773b2ec3262d43433cf294bc2e4d8138dad2b1e86a786d635b144a3",
+      "existingReviewNotesCompared": [
+        "Personally inspected full image and all partial derivatives, monomial indices, powers and fraction evaluation bar.",
+        "Independent second review: printed derivative quotient for u_i is reversed. The preceding lemma and chosen monomials imply u_i R_beta=R_alpha, hence u_i=R_alpha/R_beta when denominator is nonzero. Original English and Chinese formula retained with adjacent visible Chinese correction; field-inclusion conclusion unchanged."
+      ]
+    },
+    {
+      "pdfPage": 407,
+      "printedPage": "394",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Characteristic-p remark, references, resultant generator, product-degree/critical-degree definitions, Lemma 3.7 and partition construction.",
+      "notes": [],
+      "changes": [
+        "Aligned Chinese content term 容度 with Chapter IV terminology."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        407,
+        407
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0407.md",
+      "chinesePath": "source/algebra/zh/pdf-0407.md",
+      "englishSha256": "bffe632b2c8d3463a497bf523cd8c010ad8b2ccc673f608e2582ba9a10bb37d3",
+      "chineseSha256": "dc5a66545746bf8f9d33cea71df3f0af5e793935a92b513601e68645a82e6bc9",
+      "existingReviewNotesCompared": [
+        "Personally inspected all text and indices; Lemma3.7(b) degree D_n in W_n variables and omitted-degree product copied as printed."
+      ]
+    },
+    {
+      "pdfPage": 408,
+      "printedPage": "395",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Lemma 3.7 complete monomial/determinant/adjugate construction, all cardinality/degree arguments and two existing source notes.",
+      "notes": [
+        "Printed M_sigma1 on final partition line should be M_sigman; note correct.",
+        "Independently checked source formula counterexample n=2,d1=d2=1,F1=X1,F2=X2,C=B=I: printed RHS X1+X2 does not equal X1.",
+        "Independently checked proposed coefficient identity: h=C^t M and CB=R_n I imply B^t h=R_n M, giving coefficients B_{sigma_i,sigma}H_{sigma_i}F_i. Existing visible note is valid; actual source issue belongs resolved notes."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        408,
+        408
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0408.md",
+      "chinesePath": "source/algebra/zh/pdf-0408.md",
+      "englishSha256": "315cc8122070efaa2b1c70e5e11826abefc17ebfb088969091c15768026d7d55",
+      "chineseSha256": "caaa06ae47bd2d80379854a845b20d74d3a0531f28f810b51c48b53bad22ec3d",
+      "existingReviewNotesCompared": [
+        "Personally inspected full original image and all matrix indices. Source last monomial line prints M_sigma_1 where M_sigma_n intended; retained with visible EN/ZH correction note.",
+        "Original matrix consequence prints sum B_(i,sigma_i)F_i. Root independently visually confirmed source and checked counterexample n=2,d1=d2=1,F1=X1,F2=X2,C=B=I. Visible EN/ZH editorial notes retain original and give counterexample plus valid identity R_n M_sigma=sum B_(sigma_i,sigma)H_sigma_i F_i from h=C^t M and CB=R_n I. Source error resolved transparently."
+      ]
+    },
+    {
+      "pdfPage": 409,
+      "printedPage": "396",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.8 all properties, Lemma 3.9 and full ideal/divisibility proof, specialized linear-factor discussion fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        409,
+        409
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0409.md",
+      "chinesePath": "source/algebra/zh/pdf-0409.md",
+      "englishSha256": "514c7d145a52d8c38ff9123cebea5ac7c5ec44494028d7ecd1f8df3ec809be6d",
+      "chineseSha256": "2ae51643f1027cba24a17faa918a4c6cf739dd650acaed74a4adf6cda7072f95",
+      "existingReviewNotesCompared": [
+        "Personally inspected original page, monomial exponents, all coefficient-ring subscripts and resultant expressions."
+      ]
+    },
+    {
+      "pdfPage": 410,
+      "printedPage": "397",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.8 degree/primitive proof completion, resultant normalization, Theorem 3.10 and proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        410,
+        410
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0410.md",
+      "chinesePath": "source/algebra/zh/pdf-0410.md",
+      "englishSha256": "2069c0f25243bb71c48ccd57036dbb3c98996c37e144a06782a17b3edbf9052e",
+      "chineseSha256": "7c0d1dd20f760fb94613334275d778c2fe1dcee6c2bd3a7984784551e74b790c",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete page and all resultant normalizations, degree indices and product formulas."
+      ]
+    },
+    {
+      "pdfPage": 411,
+      "printedPage": "398",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.11 full restriction/multiplicativity argument and Lemma 3.12 statement/first proof segment.",
+      "notes": [
+        "Terminal Q_i ring is missing X: verified against next-page ring and homogeneous quadratic/cubic degree comparison. Original retained with visible Chinese note."
+      ],
+      "changes": [
+        "Added visible note explaining source coefficient ring requires X."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        411,
+        411
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0411.md",
+      "chinesePath": "source/algebra/zh/pdf-0411.md",
+      "englishSha256": "2e54b629abee31b1186d0c9d38f25b68ad6c240e6e3c767b1e85f28aa9ca9508",
+      "chineseSha256": "33ee61b26fc99a2b59f80b04821f79ac4864190f23cfe9c5a7e7b49bf42cbc1f",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete page and additionally enlarged coefficient-notation display to confirm W_F indices and 1_(X_n). Source's terminal coefficient ring Q_i in Z[W_H,W_F] retained as printed.",
+        "Independent audit: terminal Q_i ring omits X; generic quadratic/cubic degree comparison shows Z[W_H,W_F,X] is needed, as next page uses. Original retained with visible Chinese note."
+      ]
+    },
+    {
+      "pdfPage": 412,
+      "printedPage": "399",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Lemma 3.12 proof completion; Theorem 3.13 composition degrees and full proof segment through monomial specialization.",
+      "notes": [
+        "Source lowercase f_1 in the generic-form formula is faithfully retained with a justified visible note to F_1. Enlarged source confirms G_i specializes to U_i X_i^d, correctly transcribed."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        412,
+        412
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0412.md",
+      "chinesePath": "source/algebra/zh/pdf-0412.md",
+      "englishSha256": "c13387fbfb9defa48d7dd1761cd13ea9e4bc07ca61094352bd40736e4ae60aca",
+      "chineseSha256": "dc87498b15a1f8184aac1d5bd84ef1ad4376b10e20ebf0ecc9a9304ef26531b1",
+      "existingReviewNotesCompared": [
+        "Personally inspected all original formulas and nested resultant exponents. Source lower-case f_1 in generic-proof resultant retained with visible correction note."
+      ]
+    },
+    {
+      "pdfPage": 413,
+      "printedPage": "400",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.13 specialization proof completion; Corollary 3.14 linear substitution; Theorems 3.15 and 3.16 with full proofs.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        413,
+        413
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0413.md",
+      "chinesePath": "source/algebra/zh/pdf-0413.md",
+      "englishSha256": "95eb7c761846fc8bbbc7677f9c54f96ba00c324890c86de83841ac037b2372e4",
+      "chineseSha256": "717f87bcbacbb7c34650b3ac784e35935fa476d002119702d20d22a286ccddb5",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete page, all resultant substitution powers, permutation sign exponent and determinant degree. Printed H_ij in final specialization sentence retained."
+      ]
+    },
+    {
+      "pdfPage": 414,
+      "printedPage": "401",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.17 minor signs, Cramer's rule, full ideal and specialization proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        414,
+        414
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0414.md",
+      "chinesePath": "source/algebra/zh/pdf-0414.md",
+      "englishSha256": "31b7d4c1c83536738815b6d7dc2da75d26b7c6cb77babfac3a6ade8c571d5d49",
+      "chineseSha256": "7cd223f6f3dead95f88429dd02995e6e1c196a67bd1e8ec15b094b914e60ee35",
+      "existingReviewNotesCompared": [
+        "Personally inspected all minor signs, matrix row/column indices, Cramer identity and homogeneous congruences against original page."
+      ]
+    },
+    {
+      "pdfPage": 415,
+      "printedPage": "402",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Complete bibliography; section 4 introduction; Theorem 4.1 and resultant-system definition/background.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        415,
+        415
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0415.md",
+      "chinesePath": "source/algebra/zh/pdf-0415.md",
+      "englishSha256": "168f88b50812af65799cbf92aca69deb063207e5eecbfbb119ace92e9ae9dba5",
+      "chineseSha256": "c56da23f42a876e110eb7f5a4e8dde9347861e7b988f19c09ed57d6937ba1651",
+      "existingReviewNotesCompared": [
+        "Personally inspected full page, bibliography, theorem quantifiers and rho-indexed resultant system."
+      ]
+    },
+    {
+      "pdfPage": 416,
+      "printedPage": "403",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Binary generic resultant factorizations and polynomial identity, Proposition 4.2 proof, start of induction.",
+      "notes": [
+        "Both occurrences f_b are source typos for g_b, justified visible notes. Conditional proof sentence note preserves wording; its counterexample correctly refutes unconditional reading."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        416,
+        416
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0416.md",
+      "chinesePath": "source/algebra/zh/pdf-0416.md",
+      "englishSha256": "bb65396a5996811c473c6f36f55a60b70b5198aec17736be475bb2825dea3754",
+      "chineseSha256": "f33d1ee6bdb7fba4b21a7c0e3516ffda273333d4ffcd0e55ae48bbe037e8d127",
+      "existingReviewNotesCompared": [
+        "Personally inspected full page, powers p/q, root differences and sign. Source f_b occurrences intended g_b retained with visible EN/ZH notes. Proof first sentence requires the direction R(a,b)=0; visible counterexample without hypothesis included while preserving original wording."
+      ]
+    },
+    {
+      "pdfPage": 417,
+      "printedPage": "404",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Two-variable induction cases, equal-degree replacement, coefficient family and Proposition 4.3 first proof segment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        417,
+        417
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0417.md",
+      "chinesePath": "source/algebra/zh/pdf-0417.md",
+      "englishSha256": "066fcae56d73905619707c45a1dde80eca65e570d8f308848a018779ac6b74e9",
+      "chineseSha256": "7528eb3ae1a6a0558fb57779aa0b6883a1c7b781dd2bbadc65c6aebc0b57fc5b",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete original page, equation(4), degrees d-d_i, linear combination variable groups T/U and coefficient indices."
+      ]
+    },
+    {
+      "pdfPage": 418,
+      "printedPage": "405",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Proposition 4.3 proof continuation, Remark 4.4, complete induction setup and homogeneous-component argument through page fragment.",
+      "notes": [
+        "S_n source typo is confirmed by defining expression and following argument. Added projective-root explanation; all X_2^d example proves affine fragment alone insufficient."
+      ],
+      "changes": [
+        "Added visible Chinese clarification to include projective point (1,0) in Proposition 4.3 root argument."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        418,
+        418
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0418.md",
+      "chinesePath": "source/algebra/zh/pdf-0418.md",
+      "englishSha256": "b3338dc866ec3c2dc7be56666c07f5c1a2ebf0e30ab00a871e9dade37cd382fa",
+      "chineseSha256": "4774e9bf2f13199d4210e4f407d0e2c2f5b4d5aa2a8ccea3f555238e768d364e",
+      "existingReviewNotesCompared": [
+        "Personally inspected full original page, nonzero coordinate pairs, homogeneous decomposition and all arguments. Source g_i defining line prints S_n in place of X_n; original retained and visible correction note added. Source uses j in range alongside f_i/g_i; retained.",
+        "Independent audit: the affine root argument must include projective point (1,0), e.g. all X_2^d. Original retained with visible Chinese homogeneous-factor explanation."
+      ]
+    },
+    {
+      "pdfPage": 419,
+      "printedPage": "406",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 4.1 induction completion; Spec definition, Proposition 5.1 all statements, full topology introduction.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        419,
+        419
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0419.md",
+      "chinesePath": "source/algebra/zh/pdf-0419.md",
+      "englishSha256": "b75420f7bd3471b3c224e79f1305fff919aa53242f8488b61bf69ff9e93c231c",
+      "chineseSha256": "1787837c5137e79fa61861871fcc56cb8e9224b9af3e3ca0e4ec75b4984e1be5",
+      "existingReviewNotesCompared": [
+        "Personally inspected full original page, resultant equivalences, spec definition and all radical/ideal inclusion directions."
+      ]
+    },
+    {
+      "pdfPage": 420,
+      "printedPage": "407",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Proposition 5.2 full topology facts, Hausdorff/continuous-functions remark, contravariant Spec map and field-valued points.",
+      "notes": [
+        "Continuity sentence reversal source note independently confirmed from direction spec(B) to spec(A)."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        420,
+        420
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0420.md",
+      "chinesePath": "source/algebra/zh/pdf-0420.md",
+      "englishSha256": "d3f25c893a547ef970d852486bb0f62a14b7edad37b352bcc6cf6666de5445b2",
+      "chineseSha256": "e310d961f1d937c16f2e16fab68b07e334a337ddc7275992afbde13416ffa83a",
+      "existingReviewNotesCompared": [
+        "Personally inspected complete page and all reversed spec arrows. Original continuity sentence reverses open-set source/target; retained with visible EN/ZH note giving correct inverse-image direction and distinguishing ring-map ideal inverse image."
+      ]
+    },
+    {
+      "pdfPage": 421,
+      "printedPage": "408",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Reverse-arrow field and algebra points, generic point definition, full Noetherian descending-chain/minimality discussion.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        421,
+        421
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0421.md",
+      "chinesePath": "source/algebra/zh/pdf-0421.md",
+      "englishSha256": "262e732e17bb4d15e0961f59ba4b4da55b489213ad8314065fd941eb599c862f",
+      "chineseSha256": "c87f6d275d79a89aa3af9857c63f4e53cf7b9755312d045a687fd928c20e3ebe",
+      "existingReviewNotesCompared": [
+        "Personally inspected full original page, spec arrows, k^(a(n)) notation, generic point definition and chain/minimality indices."
+      ]
+    },
+    {
+      "pdfPage": 422,
+      "printedPage": "409",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Irreducibility definition, Theorem 5.3 statement/full existence and uniqueness proof, Proposition 5.4.",
+      "notes": [
+        "Premature Z_j=C_i is source text. Visible note correctly first establishes inclusion and then equality via chain and irredundancy."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        422,
+        422
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0422.md",
+      "chinesePath": "source/algebra/zh/pdf-0422.md",
+      "englishSha256": "25cd791c9a0645a833b554dc4752995c5371a77c6e159a46a1117b1935cba9c1",
+      "chineseSha256": "d041a301cf31e61a406463b4b42450393089d0e19166bffe3869f3d50446822d",
+      "existingReviewNotesCompared": [
+        "Personally inspected full original page, irreducibility inequalities and uniqueness proof. Source prematurely prints Z_j=C_i following Z_j=Z_j intersection C_i; retained with visible note explaining immediate containment and later equality."
+      ]
+    },
+    {
+      "pdfPage": 423,
+      "printedPage": "410",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "All integrality Exercises 1-9 including shared regular-extension assumptions, each part, I_m powers and bibliographic parenthesis.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        423,
+        423
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0423.md",
+      "chinesePath": "source/algebra/zh/pdf-0423.md",
+      "englishSha256": "f75431dc82a1daaacba988d3afffa59ebeb302fcb972fb84afff19ba0855a425",
+      "chineseSha256": "c9419ff6cfbecd3323bca481147274aa80aaef3e3ea2ebfc87f9f5710239552d",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 424,
+      "printedPage": "411",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "All resultant Exercises 10-13 and Spec Exercise 14, all subparts and citations.",
+      "notes": [],
+      "changes": [
+        "Unified resultant-system Chinese term with section 4."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        424,
+        424
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0424.md",
+      "chinesePath": "source/algebra/zh/pdf-0424.md",
+      "englishSha256": "f6c42619a148de3138c2c615a39099125d1a34e0c673725e50bc9f8804086aff",
+      "chineseSha256": "3a606c25201491582cb8574d2001014c95508191ecdb1120d01e6da12e76c536",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 425,
+      "printedPage": "412",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "All Spec Exercises 15-19, localization/gluing assumptions and maximal-prime-chain conditions.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        425,
+        425
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0425.md",
+      "chinesePath": "source/algebra/zh/pdf-0425.md",
+      "englishSha256": "68d23d003f8a04ff07be3dbb82fe4ba41b6c6e2e3682e980cd59fa74dcd4cffd",
+      "chineseSha256": "de526b5c8a7eafd061d63aca621c4b92e888641d1800718a509f43f3e7b95cfb",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 426,
+      "printedPage": "413",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Chapter X introduction, all three Noetherian criteria and first implication initial proof fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        426,
+        426
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0426.md",
+      "chinesePath": "source/algebra/zh/pdf-0426.md",
+      "englishSha256": "26912e01af63f7f1dab0257991017b247d8a583f4cc8fd8e4325f473975f6b1a",
+      "chineseSha256": "3478562133ff2952d2d2c3f8ab476efff99153f058cd13b0f434905f4505314a",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 427,
+      "printedPage": "414",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Three-criteria equivalence completion, Proposition 1.1 full proof and Proposition 1.2 proof through ascending chain.",
+      "notes": [
+        "Source chain stabilization r>=i visibly reversed to i>=r in Chinese with justified note; English faithful."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        427,
+        427
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0427.md",
+      "chinesePath": "source/algebra/zh/pdf-0427.md",
+      "englishSha256": "9738052f2d33116e3dd10d380c52bc99fd357e373cb9dcd01b64384d50e31361",
+      "chineseSha256": "23e28f1f8acebc95d773f74fecf34871dd2c0b734610db2b00d4e38f3173058d",
+      "existingReviewNotesCompared": [
+        "原文命题 1.1 证明印作 M_i=M_r for r≥i；中文以可见译校注改为 i≥r，英文保留原印。"
+      ]
+    },
+    {
+      "pdfPage": 428,
+      "printedPage": "415",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Proposition 1.2 completion, exact-sequence characterization, Corollary 1.3 and Propositions 1.4-1.6 with full proofs.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        428,
+        428
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0428.md",
+      "chinesePath": "source/algebra/zh/pdf-0428.md",
+      "englishSha256": "3416c8f079d77f604958fe171039a17e987562f46873831a5ea4eda7a7b55a6f",
+      "chineseSha256": "05066f575e736a511e410d85ddabc779c34c99d0819bc3b4f613481ce5fbe203",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 429,
+      "printedPage": "416",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "All Noetherian examples and chapter motivation, section-wide commutativity assumptions, Proposition 2.1 full proof and nilpotent definition.",
+      "notes": [],
+      "changes": [
+        "Corrected English OCR 'intersection or primary modules' to printed 'intersection of primary modules'."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        429,
+        429
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0429.md",
+      "chinesePath": "source/algebra/zh/pdf-0429.md",
+      "englishSha256": "14b6bcc673d99b6c5d74a2065ae38be2385e2bc38812ad06b137aacd834408b9",
+      "chineseSha256": "728afe75933cc2efa17b833ffec1a03c722423d415c81923f41c0b62ae7be57b",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 430,
+      "printedPage": "417",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Corollaries 2.2-2.3 and radical ideal argument, full module localization equivalence and injections, cyclic annihilator isomorphism.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        430,
+        430
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0430.md",
+      "chinesePath": "source/algebra/zh/pdf-0430.md",
+      "englishSha256": "cd52799baaeba26d788411f5b49940bfd9416b8bd5e74ad76c8b8f7c52cff102",
+      "chineseSha256": "4bb69131399f1c79dbe6b8bf8aecb2eb7e2849a2b37505efbcbc65f0d5c154fb",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 431,
+      "printedPage": "418",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Lemma 2.4, principal-map local nilpotence definition, Proposition 2.5 proof, associated-prime definition, Proposition 2.6 and Corollary 2.7.",
+      "notes": [
+        "Corollary 4.3 source wrong reference is 2.3; source a^n x=0 contradicts nonlocal nilpotence and n=0; visible correction and quotient-selection clarification are justified."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        431,
+        431
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0431.md",
+      "chinesePath": "source/algebra/zh/pdf-0431.md",
+      "englishSha256": "f23b175436b38e74648522a07c5643e9081100a24685204134bf53b77b39b310",
+      "chineseSha256": "55c6d2b88e1d813b05683736859745e6236199ac43d79a2a900de6cdb48eb3ce",
+      "existingReviewNotesCompared": [
+        "命题 2.5 证明原印 Corollary 4.3，应为本节 Corollary 2.3；原印 a^n x=0 for all n≥0，在逆向论证中应为 a^n x≠0。中文作可见译校注，英文保留原印。",
+        "命题 2.5 逆向证明应用命题 2.1 时须在 A/Ann(x) 上应用后取逆像，以保证所得素理想包含 Ann(x)。中文译校注说明此必要条件。"
+      ]
+    },
+    {
+      "pdfPage": 432,
+      "printedPage": "419",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Corollary 2.8 prime filtration, Proposition 2.9 injection criterion, Proposition 2.10 full localization/annihilator proof and support definition.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        432,
+        432
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0432.md",
+      "chinesePath": "source/algebra/zh/pdf-0432.md",
+      "englishSha256": "027f83aae3a849d00ca84d5d49e6ad36381d63a4a54a3c630e9fc2ef3d1dba66",
+      "chineseSha256": "9d20e63004dec6cbdb192df5e2378a961c87dbcc8131d1acb1040a7a8ecb6eb8",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 433,
+      "printedPage": "420",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "ann/ass/rad definitions, boxed radical/support/associated-prime identity with finite-generation hypothesis; Corollary 2.11 and Proposition 2.12 full proofs.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        433,
+        433
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0433.md",
+      "chinesePath": "source/algebra/zh/pdf-0433.md",
+      "englishSha256": "06af9f5b1e47669dc59ca47767e99fea6817581a05a22348f96106317addfc0c",
+      "chineseSha256": "99ab5cc5e1310f6883ecf5fb8818e6eebc867ab6f0478aabbe32a6f3060deb60",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 434,
+      "printedPage": "421",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Section 3 conventions, full primary-submodule and belonging-prime definitions/arguments, maximal/prime-power examples and Proposition 3.1 proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        434,
+        434
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0434.md",
+      "chinesePath": "source/algebra/zh/pdf-0434.md",
+      "englishSha256": "1d76200ecee96c6886117065e169f3f555e2ac6e69ad9d8c8f31eb1d826b0905",
+      "chineseSha256": "c5798a35cceb00a452bd9c9c885b15870283fd9a5c0e54fa8300e6232b9c19e0",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 435,
+      "printedPage": "422",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Primary/reduced decomposition, quotient correspondence, isolated-prime definition, Theorem 3.2 full statement and initial proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        435,
+        435
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0435.md",
+      "chinesePath": "source/algebra/zh/pdf-0435.md",
+      "englishSha256": "67e73c5640e5e8fb4c4178882ffeb6db5ee18451cd0885fefa9ef0ab49b8e721",
+      "chineseSha256": "15dba5c3c8f1d7abdc51a172214ad661518cb358862c8b9923a2608ce3ce255c",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 436,
+      "printedPage": "423",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.2 isolated-component uniqueness full proof; Theorem 3.3 primary-decomposition existence; Proposition 3.4; Theorem 3.5 and proof start.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        436,
+        436
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0436.md",
+      "chinesePath": "source/algebra/zh/pdf-0436.md",
+      "englishSha256": "f128e468b5afa0f5118e5f48965571bd9fb4f1d991ab7faab9240f6c7ff0fac6",
+      "chineseSha256": "faa45022e54fec340d01e7723443b60f5511ea3f6cb2bb1ada75a5e1a8872d08",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 437,
+      "printedPage": "424",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 3.5 full proof completion, Theorem 3.6 zero-divisor union and proof, section 4 motivation/conventions and Lemma 4.1 statement.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        437,
+        437
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0437.md",
+      "chinesePath": "source/algebra/zh/pdf-0437.md",
+      "englishSha256": "e171e96ed3a0dd53ff9c1e6098399c9b1b92c184ed4351e917ca13986cae2bb7",
+      "chineseSha256": "99eba50516e62cb4f4af72bbda2fcc802471ffc90f405e3b9a827ce72c486279",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 438,
+      "printedPage": "425",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Nakayama Lemma 4.1 full proof; Lemmas 4.2-4.3; Theorem 4.4 statement/full first proof and extension-to-basis fragment.",
+      "notes": [
+        "Sign note a=-a_s is confirmed by rearranging x_s=sum a_i x_i; printed EN a_s retained."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        438,
+        438
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0438.md",
+      "chinesePath": "source/algebra/zh/pdf-0438.md",
+      "englishSha256": "b6a8f30a12741c482dc6dfc8d97e730f9ec8898203ae7758ec09c316abc3d0ff",
+      "chineseSha256": "d37d8518dfe36e4483e660fd1dedeeeba6e4b9295c961dfab558e4f81ab36082",
+      "existingReviewNotesCompared": [
+        "中山引理证明原印 a (namely a_s)，而使用 (1+a)x_s；按前式必须取 a=-a_s。中文作可见译校注，英文保留原印。"
+      ]
+    },
+    {
+      "pdfPage": 439,
+      "printedPage": "426",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 4.4 completion, residue module notation, Proposition 4.5 all parts and proof, section 5 filtration definitions/example.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        439,
+        439
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0439.md",
+      "chinesePath": "source/algebra/zh/pdf-0439.md",
+      "englishSha256": "c3f1fbb6951001223bcea4b10097db33c9ab1a95fd5a7aa87075a2557b078d21",
+      "chineseSha256": "9ccdf871e164412b90fe2ecf89323974b4c3c1afdc6724ca7a1a070fa1666934",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 440,
+      "printedPage": "427",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Stable-filtration definition, Proposition 5.1 full proof, graded ring/module definitions, homogeneous polynomial/ideal example, Proposition 5.2 statement.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        440,
+        440
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0440.md",
+      "chinesePath": "source/algebra/zh/pdf-0440.md",
+      "englishSha256": "a94b7ea0cd295943338c5386b262928061cbb319dbf38c3d9e3f945a404ec7d6",
+      "chineseSha256": "850d0d3b18bd4b47fe5666af595a5a5600fa70614549381fcfae09bde8d9ad65",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 441,
+      "printedPage": "428",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Proposition 5.2 full proof, first associated graded ring/module construction and finite-algebra argument, Lemma 5.3 statement/proof first sum.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        441,
+        441
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0441.md",
+      "chinesePath": "source/algebra/zh/pdf-0441.md",
+      "englishSha256": "cbb92feda643bf80ee3b63ae9d96b393156ef55f4f66883786aaa082a3b96801",
+      "chineseSha256": "c8dc5dc0f14a94093f388d6700b44e3d25e349cdd1f57c271a65141263a7e7ed",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 442,
+      "printedPage": "429",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Lemma 5.3 all equivalences and proof completion, Artin-Rees Theorem 5.4 full proof, Corollary 5.5, Krull Theorem 5.6 and proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        442,
+        442
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0442.md",
+      "chinesePath": "source/algebra/zh/pdf-0442.md",
+      "englishSha256": "bc8e43d6520c7ad578ffaaa19f784a7191b54664e322b5c022ee714e094671d0",
+      "chineseSha256": "213b7c2dbbb1c272bfa78e74e0bd6ca359989fb50674c0aa6abbc3a876bdf0e0",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 443,
+      "printedPage": "430",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Corollary 5.7, second associated graded ring multiplication/representative independence, graded module definition, Proposition 5.8 full proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        443,
+        443
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0443.md",
+      "chinesePath": "source/algebra/zh/pdf-0443.md",
+      "englishSha256": "b6cd92e6aae20dfe94b44df134812570994f84e8a973845833094941d487f218",
+      "chineseSha256": "38cc08db958527b15099b4f0a5052b5586e50fbabe84fdaa502727a6a724c9ab",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 444,
+      "printedPage": "431",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Section 6 motivation, graded finite-module assumptions, Euler-Poincare/Poincare-series definition, Hilbert-Serre Theorem 6.1 and full initial proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        444,
+        444
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0444.md",
+      "chinesePath": "source/algebra/zh/pdf-0444.md",
+      "englishSha256": "714baafdd5a3703f527ac70f7c0aca8e652685f8c2f0f34f67e38f630b9e2949",
+      "chineseSha256": "291280b366e01fab238abbcc0809edbc71dac38d0800de11ac2915bcea80ef58",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 445,
+      "printedPage": "432",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 6.1 summation proof completion, degree remark; Theorem 6.2 full binomial-series, coefficient sum and leading-term proof including degree -1 convention.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        445,
+        445
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0445.md",
+      "chinesePath": "source/algebra/zh/pdf-0445.md",
+      "englishSha256": "7ef085bf7aa7ed360f7806ea8afc23553661e0e8b2ca87754538ebd90926aa95",
+      "chineseSha256": "24aaa822689e8d2fcc11a60e62dbeadd3218e5167a7eba472f9b525167c1685a",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 446,
+      "printedPage": "433",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Hilbert-polynomial definition, primary local finite-length setup, Theorem 6.3 all parts and complete proof through filtration independence fragment.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        446,
+        446
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0446.md",
+      "chinesePath": "source/algebra/zh/pdf-0446.md",
+      "englishSha256": "927904197165eadff73ecf4b87a5362770aff340ccd94a43ecb75b970c4f2316",
+      "chineseSha256": "39053c584626abe665f558bd72cc91cb4ccb85732d2c83b60aebf00c908fcde1",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 447,
+      "printedPage": "434",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 6.3 independence completion, characteristic polynomials and references, polynomial-ideal Hilbert functions, binomial polynomial/difference formulas (1)-(2).",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        447,
+        447
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0447.md",
+      "chinesePath": "source/algebra/zh/pdf-0447.md",
+      "englishSha256": "de8e9e8a6465e82996d580e541c316b0b7306ec10f1d926868211f06c0355658",
+      "chineseSha256": "ea685e2e5f14870f36250b6ae93764bdc7f421e36752d69769e5ce8623c2db1d",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 448,
+      "printedPage": "435",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Lemma 6.4 integer-valued-polynomial statement and full proofs (a)-(b), Proposition 6.5 both additivity identities/proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        448,
+        448
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0448.md",
+      "chinesePath": "source/algebra/zh/pdf-0448.md",
+      "englishSha256": "6f862ecc8bea71ce13c0a594067eb8077c287461f40beb3de4488255172ea044",
+      "chineseSha256": "200df243ab05fee2010524d5ef192b11a2c34869b37c40a2ea6eb92353cd5dc7",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 449,
+      "printedPage": "436",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 6.6 non-zero-divisor hypothesis and full four-line computation; irrelevant ideal definitions, Proposition 6.7 all parts and proof.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        449,
+        449
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0449.md",
+      "chinesePath": "source/algebra/zh/pdf-0449.md",
+      "englishSha256": "b9dd97532023e3814b7f170965f18bf10236ce5844f5d54d8a950e227c26ff2e",
+      "chineseSha256": "07031458e1bffa2b320255cae43f9c7b612a991732d3b8033942c478527c2dc7",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 450,
+      "printedPage": "437",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Ground-field change dimension identities, affine/projective dimension definitions, Lemma 6.8 full proof and Theorem 6.9 statement.",
+      "notes": [],
+      "changes": [
+        "Corrected generic point Chinese term from 一般点 to 泛点."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        450,
+        450
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0450.md",
+      "chinesePath": "source/algebra/zh/pdf-0450.md",
+      "englishSha256": "0ec5a9ffb41aa40b77b17ca8f0e4a2669a7a9434445e5ab3aa6d7191c92d30eb",
+      "chineseSha256": "d6173acfbbe556c1439d92b70d503c549c4579c344be983314a822bc0fac6b41",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 451,
+      "printedPage": "438",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 6.9 full hyperplane-induction proof, Hilbert ideal polynomial/degree remark with all citations and complete bibliography.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        451,
+        451
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0451.md",
+      "chinesePath": "source/algebra/zh/pdf-0451.md",
+      "englishSha256": "5ea39432445d8f74c95f1593840ecac8e1956f43c71a2403bcbced33e7d47a84",
+      "chineseSha256": "b0faae18e78fa44988aca6a7f32f17abe9f3ff53821497f67fa732b51372060d",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 452,
+      "printedPage": "439",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Artinian module definition, both examples and local nilpotence argument, Propositions 7.1-7.2 with proof, decomposable-module start.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        452,
+        452
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0452.md",
+      "chinesePath": "source/algebra/zh/pdf-0452.md",
+      "englishSha256": "e3dffa23e1d2763d095f3ba824af671b16ba86416145f372590a1c6ba4fbe6fc",
+      "chineseSha256": "11c991bce33bca26f9794777083b6fb1bb3e6800e616911c0d3a34d0b1512cdd",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 453,
+      "printedPage": "440",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Decomposability/idempotent equivalence, stable image/kernel notation, Fitting Lemma statement and proof through second equation.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        453,
+        453
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0453.md",
+      "chinesePath": "source/algebra/zh/pdf-0453.md",
+      "englishSha256": "5868c673adfd1f55697dbdd7274483a45a1607e6912203c3362a6b08210acb7c",
+      "chineseSha256": "7793835703bf885476195a06d83d56bd1d210a1219e6ff1cf81510c05d686cf0",
+      "existingReviewNotesCompared": []
+    },
+    {
+      "pdfPage": 454,
+      "printedPage": "441",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Fitting Lemma completion, noncommutative-local ring definition, Proposition 7.4 proof, Krull-Remak-Schmidt statement and initial full proof segment.",
+      "notes": [
+        "Source x=x-u^n(y)+u^n(y) mismatch corrected visibly to x=(x-y)+y, consistent with prior chosen y in u^n(E), u^n x=u^n y."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        454,
+        454
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0454.md",
+      "chinesePath": "source/algebra/zh/pdf-0454.md",
+      "englishSha256": "dc31e20db810cefe9183c0af390ad641ba54077f6a49c2767979dfd60b1e9b27",
+      "chineseSha256": "c770e153e8656c07b230076416f4480cdda7326d3ea5af58112243f97f818d8a",
+      "existingReviewNotesCompared": [
+        "Fitting 引理证明原印 x=x-u^n(y)+u^n(y)，但前页选择 y∈u^n(E) 且 u^n(x)=u^n(y)，应使用 x=(x-y)+y。中文作可见译校注，英文保留原印。"
+      ]
+    },
+    {
+      "pdfPage": 455,
+      "printedPage": "442",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Krull-Remak-Schmidt projection identity, Lemma 7.6 full proof, exchange/direct-sum induction conclusion, commutative-ring specialization and Theorem 7.7 statement fragment.",
+      "notes": [
+        "Standalone Lemma 7.6 implicitly uses M nonzero, explicit in proof id_M!=0. Visible note distinguishes theorem application from M=0 counterexample."
+      ],
+      "changes": [
+        "Added visible Chinese explanation of nonzero condition in standalone Lemma 7.6."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        455,
+        455
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0455.md",
+      "chinesePath": "source/algebra/zh/pdf-0455.md",
+      "englishSha256": "526e3c1da5190df9cb89d13718b0e5ebcd75522c275c41b618533147308b80ce",
+      "chineseSha256": "87b5e0700c03e69eddba4774fe29e1fb68c99f65ce08483b42517cf35e118112",
+      "existingReviewNotesCompared": [
+        "Independent audit: Lemma 7.6 proof assumes id_M nonzero; in theorem M=nonzero E_1. Added visible Chinese note that standalone use requires M nonzero, demonstrated by M=0,N nonzero."
+      ]
+    },
+    {
+      "pdfPage": 456,
+      "printedPage": "443",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Theorem 7.7 two conclusions; all Exercises 1-8 and Exercise 9(a) including hints.",
+      "notes": [
+        "Exercise 9(a) hint source x(p)=0 visibly corrected to nonzero for field criterion, confirmed."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        456,
+        456
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0456.md",
+      "chinesePath": "source/algebra/zh/pdf-0456.md",
+      "englishSha256": "d01b2ed441d3191d56ab97c0f7bba97afd01cfcd598a21a4d9a34f58d270088d",
+      "chineseSha256": "8d139b451b24482f4e757359b77d67a22fdd5679ea9c775a3152e68912b393a2",
+      "existingReviewNotesCompared": [
+        "习题 9(a) 提示原印 x(p)=0；为证明 A/p 为域应考虑非零元素 x(p)≠0。中文作可见译校注，英文保留原印。"
+      ]
+    },
+    {
+      "pdfPage": 457,
+      "printedPage": "444",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercise 9(b)-(f); full Exercises 10-14 with conditions/hints, Exercise 15 beginning and assumptions.",
+      "notes": [
+        "Zero-locus glyph enlarged confirms script L, consistent with Chapter IX §5."
+      ],
+      "changes": [
+        "Corrected three script-letter Z occurrences to L in both English/Chinese."
+      ],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        457,
+        457
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0457.md",
+      "chinesePath": "source/algebra/zh/pdf-0457.md",
+      "englishSha256": "dcd5a6bf99a3a801045bab9ad922d483ee3457c98a5399383ee7dcba0aafefc1",
+      "chineseSha256": "65e36f66fead9cf6c81bd0b8b993d459df641f01c4ac4f83397ff491f44e8ba2",
+      "existingReviewNotesCompared": [
+        "习题 15 提示原印 x_1,...,x_r∈A；这些元素应属于 E。原印保留，跨页中文译校注位于 PDF458。",
+        "Independent enlarged-image audit corrected zero-locus script letter Z to L in English and Chinese, matching Chapter IX section 5."
+      ]
+    },
+    {
+      "pdfPage": 458,
+      "printedPage": "445",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercise 15 hint completion, all Exercise 16 subparts, full complex/differential/homology setup, commuting square and homology-map property.",
+      "notes": [
+        "Original crop personally viewed; all labels and upward arrows faithfully preserved. Differential numbering and endpoint inconsistency visibly explained using d^i:E^i→E^{i+1}. Exercise 15 x∈A should E and J⊂p coordinate clarification valid."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        458,
+        458
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0458.md",
+      "chinesePath": "source/algebra/zh/pdf-0458.md",
+      "englishSha256": "c3c1296dced11853c2af4d52933dfb182c47663c5bae8d1ffc76e1a26c01462b",
+      "chineseSha256": "207ae744745b143de7b94b25a7f695e85cabc474ee5b87efdd6c2beda4315121",
+      "existingReviewNotesCompared": [
+        "习题 15 提示的前页原印 x_1,...,x_r∈A 应为属于 E；J⊂p 按各坐标应理解为 J⊂pA^r。中文作可见译校注，英文保留原印。",
+        "习题 17 原文声明 d^i:E^i→E^{i+1}，却印 H^i=Ker(d^{i+1})/Im(d^i)、H^0=E^0、H^n=E^n/Im(d^n)，及最后箭头 d^n。中文保留原公式并以可见译校注说明一致编号应为 H^i=Ker(d^i)/Im(d^{i-1})、H^0=Ker(d^0)、H^n=E^n/Im(d^{n-1})，最后箭头为 d^{n-1}。",
+        "原图两个竖直箭头向上，与正文 f_i:E^i→F^i 不一致；原图精确裁切保留于 /library/volume-86/diagrams/pdf-0458-complex-square.png，已视觉核对无截断。中文译校注说明正文方向应向下。"
+      ]
+    },
+    {
+      "pdfPage": 459,
+      "printedPage": "446",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Full exercise motivation/citations, Exercise 17 conditions/formulas/hint, Exercise 18 all parts/sequences, Exercise 19 initial assumption.",
+      "notes": [
+        "Source Exercise 12 reference corrected visibly to 16, whose constant-rank kernel/image freedom result is applicable."
+      ],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        459,
+        459
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0459.md",
+      "chinesePath": "source/algebra/zh/pdf-0459.md",
+      "englishSha256": "9e83f5eae4af18e7c80d5692cbe357651a05ef0240b58dce00a7b9d090ebf499",
+      "chineseSha256": "1a8fc5f34602431a49206e46f5bcacc0d968ad8280abc43cc8b5e3277b2eebf4",
+      "existingReviewNotesCompared": [
+        "习题 17 提示最后原印 Then apply Exercise 12；所需像维数恒定推出核与像自由的结果是习题 16。中文作可见译校注，英文保留原印。"
+      ]
+    },
+    {
+      "pdfPage": 460,
+      "printedPage": "447",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaeCompared": "all inline and displayed expressions",
+      "contentCompared": "Exercise 19(a)-(d) full completion, all maps/inclusions and both hints.",
+      "notes": [],
+      "changes": [],
+      "unresolved": [],
+      "reviewedPdfPages": [
+        460,
+        460
+      ],
+      "reviewStatus": "complete",
+      "englishPath": "source/algebra/en/pdf-0460.md",
+      "chinesePath": "source/algebra/zh/pdf-0460.md",
+      "englishSha256": "84e0f9d7d81377aec99b39ae8f8ba673a08fe8b231636b1caeb23fb2ecdc8c69",
+      "chineseSha256": "2a23943e9c858c41cde86f85a1f4d3ffd77691d2eba810c219358b82f564cd8d",
+      "existingReviewNotesCompared": []
+    }
+  ],
+  "changes": [
+    {
+      "pdfPage": 397,
+      "changes": [
+        "Aligned Chinese content term 容度 with Chapter IV terminology, replacing ambiguous literal 内容."
+      ]
+    },
+    {
+      "pdfPage": 406,
+      "changes": [
+        "Added visible Chinese source correction for reversed derivative quotient."
+      ]
+    },
+    {
+      "pdfPage": 407,
+      "changes": [
+        "Aligned Chinese content term 容度 with Chapter IV terminology."
+      ]
+    },
+    {
+      "pdfPage": 411,
+      "changes": [
+        "Added visible note explaining source coefficient ring requires X."
+      ]
+    },
+    {
+      "pdfPage": 418,
+      "changes": [
+        "Added visible Chinese clarification to include projective point (1,0) in Proposition 4.3 root argument."
+      ]
+    },
+    {
+      "pdfPage": 424,
+      "changes": [
+        "Unified resultant-system Chinese term with section 4."
+      ]
+    },
+    {
+      "pdfPage": 429,
+      "changes": [
+        "Corrected English OCR 'intersection or primary modules' to printed 'intersection of primary modules'."
+      ]
+    },
+    {
+      "pdfPage": 450,
+      "changes": [
+        "Corrected generic point Chinese term from 一般点 to 泛点."
+      ]
+    },
+    {
+      "pdfPage": 455,
+      "changes": [
+        "Added visible Chinese explanation of nonzero condition in standalone Lemma 7.6."
+      ]
+    },
+    {
+      "pdfPage": 457,
+      "changes": [
+        "Corrected three script-letter Z occurrences to L in both English/Chinese."
+      ]
+    }
+  ],
+  "sourceIssuePolicy": "Printed English preserved. Independent identity/counterexample checks support PDF406 reciprocal source quotient, PDF408 matrix coefficient identity, PDF411 missing X in coefficient ring, and PDF418 affine-chart clarification. PDF455 nonzero hypothesis is expressly described as implicit in the theorem application and necessary for standalone use; no claim that the theorem itself fails. Existing source notes were compared against original pages and mathematics.",
+  "diagramChecks": [
+    {
+      "pdfPage": 400,
+      "type": "LaTeX array",
+      "personallyViewed": true,
+      "comparison": "Commutative triangle labels and R→A,R→A′, A→A′ directions preserved."
+    },
+    {
+      "pdfPage": 458,
+      "path": "docs/public/library/volume-86/diagrams/pdf-0458-complex-square.png",
+      "personallyViewed": true,
+      "comparison": "Source E^i,E^{i+1},F^i,F^{i+1}, horizontal d_E^i,d_F^i arrows and upward f_i,f_{i+1} arrows all faithfully preserved. Visible Chinese note distinguishes printed diagram direction from textual f_i:E^i→F^i."
+    }
+  ],
+  "integrityValidation": {
+    "command": "D:/Software/Python/python.exe -X utf8 tmp/pdfs/algebra/verify-audit-preface-390-460.py",
+    "auditedPages": 71,
+    "markdownFiles": 142,
+    "matchingDigestPairs": 71,
+    "imageReferences": [
+      "/library/volume-86/diagrams/pdf-0458-complex-square.png"
+    ],
+    "errors": []
+  }
+}

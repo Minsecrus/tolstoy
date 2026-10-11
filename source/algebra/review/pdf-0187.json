@@ -1,0 +1,15 @@
+{
+  "pdfPage": 187,
+  "printedPage": "172",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Independently viewed the full page and a high-resolution Exercise 29 crop; checked the filtration, graded products, gr_i maps and nilpotent-algebra indices.",
+    "Exercise 29(a) prints x_nn as the only possibly nonzero entry of n_1. English retains x_nn; Chinese corrects to x_1n with an adjacent visible 译校注 explaining the diagonal indexing.",
+    "Exercise 29(a)'s D_1,...,D_(n-i), n_0={0}, last-two-diagonals description of n_2, and (i+1)-st nilpotent power are retained as printed; the power assertion is consistent with that definition.",
+    "2026-10-11 current-manuscript independent rereview: Exercise28 condition L(ca)=L(c)L(a) is retained in both languages. Chinese visible range note now distinguishes ordinary scalar linearity cL(a) from the additional condition L(1)L(a)=L(a); no unproved source-error correction is claimed. Both versions imply the stated graded-map and graded-isomorphism conclusions."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pdfPage": 801,
+  "printedPage": "793",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original diagrams cropped at high resolution, personally visually inspected, and linked identically in both languages.",
+    "Visible Chinese editorial note: the target of delta^n in (iii) is printed R^{n+1}F(M), but must be R^{n+1}F(Mprime), as also shown by the following long sequence and naturality diagram. English retained."
+  ]
+}

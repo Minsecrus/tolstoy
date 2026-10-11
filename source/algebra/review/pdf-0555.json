@@ -1,0 +1,14 @@
+{
+  "pdfPage": 555,
+  "printedPage": "546",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "习题15提示原书印y_(i+1)，中文按前文已选r个向量校作y_(r+1)，附译校注。",
+    "习题16原书PSL_n(F)阶公式乘积上限印n−1；中文依据同页SL_n(F)阶及商中心阶d校作n，附译校注，英文照印。",
+    "Independent second audit: Exercise14 any-field wording has F2 exception. ZH preserves full exercise and adds visible F2,n2 counterexample |N/D|=6 vs |S2|=2. For |F|>2, separate diagonal coordinate weights imply normalizer is monomial; note includes this sufficient-condition argument."
+  ]
+}

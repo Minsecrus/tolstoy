@@ -1,0 +1,13 @@
+{
+  "formulaChecked": true,
+  "notes": [
+    "Source R^0G(TC^p)=TC^p omits G on the right. EN preserves; ZH corrects using left exactness and following displayed GT(C^p).",
+    "Independent second audit confirms ZH explanatory totalization sign convention: if raw differentials commute, multiply vertical differential at horizontal degree p by (-1)^p to obtain anticommutation; column cohomology unchanged. Not labeled source error."
+  ],
+  "englishTranscribed": true,
+  "visualReviewed": true,
+  "unresolved": [],
+  "chineseTranslated": true,
+  "printedPage": "822",
+  "pdfPage": 830
+}

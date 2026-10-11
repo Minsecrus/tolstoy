@@ -1,0 +1,14 @@
+{
+  "pdfPage": 746,
+  "printedPage": "738",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Original full page visually read; all formulas, paragraphs, and proof steps checked.",
+    "Printed K in S_r^p preserved in English; Chinese visible note corrects column index range to S_r^q using p-by-q matrix size.",
+    "Independent second mathematical audit: 修正既有译校注依据：后页源书也误印S_r^p，故删除并不存在的后页正确印法，改以q列的严格列指标说明。"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 492,
+  "printedPage": "481",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "原书由赋值构造赋值环时印为 o={x in K: |x|<1}；中文改为 <=1，并在相邻译校注说明 <1 排除了单位元，实际给出极大理想。"
+  ]
+}

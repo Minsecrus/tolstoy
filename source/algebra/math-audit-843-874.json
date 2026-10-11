@@ -1,0 +1,930 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "scope": {
+    "pdfPageStart": 843,
+    "pdfPageEnd": 874,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Independent second reviewer personally viewed each original page image with view_image, read every English and Chinese page body, and compared all inline/displayed formulas, proof steps, hypotheses, labels, arrows, and cross-page fragments. Original diagram crops were separately viewed. Embedded OCR and translator review flags were not treated as evidence."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874
+  ],
+  "auditedPages": [
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874
+  ],
+  "unreviewedPages": [],
+  "diagramCropsViewed": [
+    "pdf-0845-last-square.png",
+    "pdf-0846-mapping-cylinder-sequence.png",
+    "pdf-0851-three-exact-sequences.png",
+    "pdf-0861-koszul-morphism.png",
+    "pdf-0861-koszul-calculation.png",
+    "pdf-0862-koszul-short-exact.png",
+    "pdf-0863-long-homology-sequence.png",
+    "pdf-0866-determinant-triangle.png",
+    "pdf-0867-exterior-square.png",
+    "pdf-0868-exterior-triangle.png"
+  ],
+  "findings": [
+    {
+      "pdfPage": 847,
+      "type": "resolved source qualification",
+      "detail": "Original proof concludes isomorphism; Chinese note explicitly limits this to homology isomorphism and gives zero-complex to nonzero acyclic-complex counterexample; English retained."
+    },
+    {
+      "pdfPage": 848,
+      "type": "corrected transcription",
+      "detail": "Restored printed arrow from ellipsis to E_0 in last long exact sequence in both languages."
+    },
+    {
+      "pdfPage": 848,
+      "type": "confirmed existing source erratum",
+      "detail": "Original undefined P in Ker(E_0 to P) is retained in English; Chinese M correction justified by theorem and next exact sequence."
+    },
+    {
+      "pdfPage": 850,
+      "type": "corrected transcription",
+      "detail": "Restored printed arrow from ellipsis to E_0 in first exact sequence of Theorem2.5 in both languages."
+    },
+    {
+      "pdfPage": 852,
+      "type": "corrected transcription",
+      "detail": "Restored original or equivalently clause in both languages."
+    },
+    {
+      "pdfPage": 853,
+      "type": "confirmed existing source erratum",
+      "detail": "Original R_0/P_0 retained in English; adjacent Chinese note restores R_0[x]/P_0 using quotient-ring definition."
+    },
+    {
+      "pdfPage": 854,
+      "type": "corrected transcription",
+      "detail": "Restored cross-page ending Similarly, we can make in both languages."
+    },
+    {
+      "pdfPage": 858,
+      "type": "resolved source column notation",
+      "detail": "Original pe^j=cu^1 retained; adjacent Chinese note explains projection p on actual columns u^j=Me^j versus p composed M on their preimages."
+    },
+    {
+      "pdfPage": 861,
+      "type": "verified original calculation image",
+      "detail": "All five displayed computation lines personally viewed as original image crop, preserved exactly in both languages without replacing source by reconstructed formulas."
+    },
+    {
+      "pdfPage": 863,
+      "type": "confirmed existing source index",
+      "detail": "Printed middle homology term uses one term K_1(y); Chinese adjacent note identifies the whole complex K(y) from the preceding short exact complex sequence."
+    },
+    {
+      "pdfPage": 864,
+      "type": "resolved source zero-module boundary",
+      "detail": "Added adjacent Chinese note: under the book's nonzero-quotient definition Theorem4.6(b) requires nonzero finite M; M=0 has H1=0 but fails the definition. English retained."
+    },
+    {
+      "pdfPage": 865,
+      "type": "confirmed existing source complex notation",
+      "detail": "Printed H^r(Hom(K_r(x),M)) in the proof retains single term in English; Chinese adjacent note uses full K(x), required to take boundary quotient."
+    },
+    {
+      "pdfPage": 868,
+      "type": "confirmed existing source summation index",
+      "detail": "Printed summation begins j=2; Chinese starts j=1 with adjacent identity-map counterexample, English retained."
+    },
+    {
+      "pdfPage": 868,
+      "type": "resolved source delimiter",
+      "detail": "Added Chinese closing parenthesis for tensor complex and adjacent note with literal printed missing delimiter; English retained."
+    },
+    {
+      "pdfPage": 868,
+      "type": "corrected transcription",
+      "detail": "Restored complete original final paragraph about a specific Koszul complex example for a free module in both languages."
+    },
+    {
+      "pdfPage": 869,
+      "type": "confirmed existing source differential index",
+      "detail": "Theorem4.13 printed d_i retained in English; Chinese d_p correction has adjacent note based on the stated degree-p source and target."
+    },
+    {
+      "pdfPage": 870,
+      "type": "corrected transcription",
+      "detail": "Removed invented isomorphism annotation from the source's ordinary L tensor k to F tensor k arrow in both languages."
+    },
+    {
+      "pdfPage": 871,
+      "type": "corrected source preservation and visible note",
+      "detail": "Restored original printed N (previous drafts silently substituted I) in both languages; adjacent Chinese note gives I positive-degree argument and N=A counterexample."
+    },
+    {
+      "pdfPage": 872,
+      "type": "confirmed existing source branch condition",
+      "detail": "Original both conditions i_p=r retained in English; Chinese second condition i_p<r with adjacent incompatible-values and undefined-input explanation."
+    },
+    {
+      "pdfPage": 873,
+      "type": "confirmed existing source ideal notation",
+      "detail": "Original maximal M-regular sequences in M retained in English; Chinese in I has adjacent preceding-exercise and ideal-depth explanation."
+    },
+    {
+      "pdfPage": 873,
+      "type": "confirmed existing source cross reference",
+      "detail": "Original Theorem4.5(c) retained in English; Chinese adjacent note identifies annihilation as 4.5(b)."
+    },
+    {
+      "pdfPage": 873,
+      "type": "resolved source localized target",
+      "detail": "Printed Hom over A_P with target M retained in English; Chinese M_P has adjacent localization and target-module-structure explanation."
+    },
+    {
+      "pdfPage": 874,
+      "type": "confirmed existing source quotient",
+      "detail": "Original inductive Ext variable a1M retained in English; Chinese M/a1M with adjacent long-exact-sequence and residual-regular-sequence reason."
+    },
+    {
+      "pdfPage": 861,
+      "type": "resolved source omitted scalar",
+      "detail": "Re-viewed original five-line calculation and final Chinese adjacent note: marked omitted exterior factor loses outside y_(i_k); p=r=1,c11=1,x1=2 yields2 versus empty-product1. Whole original image retained."
+    }
+  ],
+  "unresolvedFindings": [],
+  "renderVerification": {
+    "renderer": "VitePress native MathJax",
+    "formulaContainers": 2534,
+    "errors": []
+  },
+  "reviewedFiles": [
+    {
+      "pdfPage": 843,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0843.md",
+      "sha256": "0b1b223caf6b72d695c499c90e37a44656dced45a3a6d2bdf7cabb5eb4bbf4b8"
+    },
+    {
+      "pdfPage": 843,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0843.md",
+      "sha256": "7fb9f60720de8853b29460d46429428f8c3bf62d3cd0b62d0534a0274426dab1"
+    },
+    {
+      "pdfPage": 844,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0844.md",
+      "sha256": "4f701b04e7a61a4d4b4541a0a133fc2abe57bd617a910e856eeb01d6e54a2c07"
+    },
+    {
+      "pdfPage": 844,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0844.md",
+      "sha256": "8db9b1b1539c454db4ea8fd6d5a9381446a295d45e5d8f09bead0507b9eff22f"
+    },
+    {
+      "pdfPage": 845,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0845.md",
+      "sha256": "47459d219b60122be83bd081cb420425888181305e65825114a0364a73eba6ce"
+    },
+    {
+      "pdfPage": 845,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0845.md",
+      "sha256": "1e3115c4c8e794093075a6b7a29311e9ff00bc11b72d0ae112a7e39d74092135"
+    },
+    {
+      "pdfPage": 846,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0846.md",
+      "sha256": "f814e2ce077ce0084c3448ffec4f1c523f4af2b01cc43d301fdd8a0c494d4907"
+    },
+    {
+      "pdfPage": 846,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0846.md",
+      "sha256": "f7dc2ff2d3293ff80233001afcfde203bf5d97936fb37a5034b78f7d423a1d72"
+    },
+    {
+      "pdfPage": 847,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0847.md",
+      "sha256": "39332775f68cda73bf43846f2f69bdce23c02379cdf1cffea07735a94c96255d"
+    },
+    {
+      "pdfPage": 847,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0847.md",
+      "sha256": "b736ca3e6493f87dc48c5807bfb2c590f26f8bd1c8ea1497360500c5713eb7f4"
+    },
+    {
+      "pdfPage": 848,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0848.md",
+      "sha256": "c81cba3402bb06d637161c90872b2f3da53ee64f8c15cc4c2777a78694d03691"
+    },
+    {
+      "pdfPage": 848,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0848.md",
+      "sha256": "a8e7b605bb4013c4766e8b907b44ae8e276d585f7ff6439c635cfbf33905e0c4"
+    },
+    {
+      "pdfPage": 849,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0849.md",
+      "sha256": "172308aeda5e492bd3276911bd70d6140a381bbdf5d4c72e880cfd99b42d9cdb"
+    },
+    {
+      "pdfPage": 849,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0849.md",
+      "sha256": "ea2b6c5b3cc3052010b1481cbd7d74fcdf514951ed72cae98304d5bcd6e9ecbb"
+    },
+    {
+      "pdfPage": 850,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0850.md",
+      "sha256": "1d7aba296d2ef14e0103fdd815accb88784d25d9119b0e866095dda0ef852921"
+    },
+    {
+      "pdfPage": 850,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0850.md",
+      "sha256": "a10f4c2dde6095b901a03a9a8628d6c08d4cc0ba031725fb0fa4b03a888f4632"
+    },
+    {
+      "pdfPage": 851,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0851.md",
+      "sha256": "ca0d0ec4d6c86f69570c2c70c4eea3009234afa96d2e9085fb7ab8305ab863ec"
+    },
+    {
+      "pdfPage": 851,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0851.md",
+      "sha256": "5a03c476e720eb39b0fb1df4e4663f3ff26d63a7138514d9bb94a1653b79e8c6"
+    },
+    {
+      "pdfPage": 852,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0852.md",
+      "sha256": "08138af1ed53da23df3901be2c7dfb8de3d17db7c48eed3c2833340aab1e165b"
+    },
+    {
+      "pdfPage": 852,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0852.md",
+      "sha256": "1be640608a088144464fc9bc3d402ecb2b8f226f3b36717cd2e372e3e2e7bd48"
+    },
+    {
+      "pdfPage": 853,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0853.md",
+      "sha256": "f3634677af9f5bc154a63b6ea362fc27dc40dbf137358a4c233b0cfb8e7403d4"
+    },
+    {
+      "pdfPage": 853,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0853.md",
+      "sha256": "1893532edb6ae495d07b9e82adbb5b9e5e22e09696492596e1d6d444995e64fd"
+    },
+    {
+      "pdfPage": 854,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0854.md",
+      "sha256": "42f43dc43535037f8678ce294763259f9a9ee744c6895a56bc3055a440b4f7df"
+    },
+    {
+      "pdfPage": 854,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0854.md",
+      "sha256": "22d254c524942ea838969118652d2d4a050943e87e0a5559889bbd03cd85f534"
+    },
+    {
+      "pdfPage": 855,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0855.md",
+      "sha256": "e563fa5871cfd3c617538cee0695ce0a535b5931bce3921517e70a8ac15101e7"
+    },
+    {
+      "pdfPage": 855,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0855.md",
+      "sha256": "91726ff44da53bbeba0f8d446a8703b6a563dc8a82187d8c54747ea6efbf51b4"
+    },
+    {
+      "pdfPage": 856,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0856.md",
+      "sha256": "1e60387667272fbb3155defb579da602888d156a59b74f8757b4d88a66fe52fe"
+    },
+    {
+      "pdfPage": 856,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0856.md",
+      "sha256": "c13a0a9c6c5b3f1253db1ec02464c731aed554da700c601bcb32d0f9d1e68f16"
+    },
+    {
+      "pdfPage": 857,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0857.md",
+      "sha256": "4ec09753b3b1e2622d0991049e4f5e2ad788700de673338791d7b03ea9fbcdce"
+    },
+    {
+      "pdfPage": 857,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0857.md",
+      "sha256": "23feff5623956c38f55cc96585df9248dc5b5f8bf9c1cbdef21060433249b840"
+    },
+    {
+      "pdfPage": 858,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0858.md",
+      "sha256": "eba571e9874930dc71214ea503f8e314e5ff06abb5cbc6ccbacba4ee5f1b4595"
+    },
+    {
+      "pdfPage": 858,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0858.md",
+      "sha256": "0b0df2197922fadfef7ab458610c3f19a67b927aac90e0bf6c6c7b74008017a7"
+    },
+    {
+      "pdfPage": 859,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0859.md",
+      "sha256": "4375e7958c8f66e98e19de6d31bdb4dc2db0d99c0096579d903a201da6b2750e"
+    },
+    {
+      "pdfPage": 859,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0859.md",
+      "sha256": "b57f7f25b7983acd79d32865b842d1f37f1a3b3e0391f45f6b5c1df6f6a49d36"
+    },
+    {
+      "pdfPage": 860,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0860.md",
+      "sha256": "6dba37ef154b6767d564600faad0e7759fcf3e6dc55231e9826a0df112c55ca1"
+    },
+    {
+      "pdfPage": 860,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0860.md",
+      "sha256": "8c99d87ba9aee7f8041f61458e8e42a511a29eac2dadcf232f00ab8331b9a143"
+    },
+    {
+      "pdfPage": 861,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0861.md",
+      "sha256": "5bdb25998c889aa8835807c2c23b30fa9c991f38d519c1f37b2537cbdfaf7485"
+    },
+    {
+      "pdfPage": 861,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0861.md",
+      "sha256": "df48b99545944dbbb7713be678cd772651ddf4cd70d9e6bacaf931b9589b03d9"
+    },
+    {
+      "pdfPage": 862,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0862.md",
+      "sha256": "68c66185413caf3818685e8d52b3a2178ecebf88e33b564ae753fcd0e9ec4a53"
+    },
+    {
+      "pdfPage": 862,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0862.md",
+      "sha256": "f39ffca12b459ce3d5f91d2ffe2214f5f41444bb70c9a179d662e5eb5bb307b4"
+    },
+    {
+      "pdfPage": 863,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0863.md",
+      "sha256": "8afeba556cd18b63769ae67f6bcfb20d05c61bc878f6e932929a87601d9a1bb2"
+    },
+    {
+      "pdfPage": 863,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0863.md",
+      "sha256": "11eeb79e5bb9de69978f3892d6853fa3372a89a1d085be5c29febfc42da362b6"
+    },
+    {
+      "pdfPage": 864,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0864.md",
+      "sha256": "a28a4dba078e09d5da0fdb22a5f2a66cc27cbbf0c43fe84de1faef306d37ddea"
+    },
+    {
+      "pdfPage": 864,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0864.md",
+      "sha256": "f8ab0a51134df34e9e94a442c823e62ab9a325e92857fd6ba128e3bba0848711"
+    },
+    {
+      "pdfPage": 865,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0865.md",
+      "sha256": "2894134fe6321cca9535e27b5ce23e32dc887dda078ca283946736315fa44086"
+    },
+    {
+      "pdfPage": 865,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0865.md",
+      "sha256": "8e752652114d16383d24c98ad4ac769f4c08f8a65b8ad14349f307bd8ccf7c39"
+    },
+    {
+      "pdfPage": 866,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0866.md",
+      "sha256": "559cc7da2fb19f2df9536ca518266a13a8d26876f6080947b674a5972192384c"
+    },
+    {
+      "pdfPage": 866,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0866.md",
+      "sha256": "be2e2a3195f4a3bfb6df6f00d255a6bb2166fa2aae3ae69e41d135b0cd70fd23"
+    },
+    {
+      "pdfPage": 867,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0867.md",
+      "sha256": "59bb813fd67b725d9bf09b5e7ce8260e7bebeb1f2acd76708cfa2c4ddaa6456e"
+    },
+    {
+      "pdfPage": 867,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0867.md",
+      "sha256": "356203b447223c50722462438e621ec7830fc26413cfba77b22087a5b86ac31b"
+    },
+    {
+      "pdfPage": 868,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0868.md",
+      "sha256": "c7fab79e6434a2057b5427d90907036e15c59f2fb9f42194e163dd00d1e31c64"
+    },
+    {
+      "pdfPage": 868,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0868.md",
+      "sha256": "1d5b9145dad06030a6ea0c76fcbdf557f4c2c099d105aa06c6dc8c113bb9240f"
+    },
+    {
+      "pdfPage": 869,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0869.md",
+      "sha256": "3e0fa0dccf6ab5b3386bafcfcb43e3d82c26df527bff453be769c9077a9c726e"
+    },
+    {
+      "pdfPage": 869,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0869.md",
+      "sha256": "11a9b805419d4e3416ccc0791c0f14e2c16c515344f0877b8e2d962eb58578e2"
+    },
+    {
+      "pdfPage": 870,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0870.md",
+      "sha256": "c16b584654a08b6b72bc3e6e8b36f87b36818d8e87e4d494d1cce980bafd6893"
+    },
+    {
+      "pdfPage": 870,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0870.md",
+      "sha256": "5820f4132e22718a960a27ed11dfee6cc6f65bdc778c675ec8087c9f0cd3489f"
+    },
+    {
+      "pdfPage": 871,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0871.md",
+      "sha256": "b8d4162c8b149c2d1a50f0f4874203cc1a836edfbf53ff41cb0ff6545c99f978"
+    },
+    {
+      "pdfPage": 871,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0871.md",
+      "sha256": "a3da1b6f294e36306901c2dd5ebb0a7c3731532beb9a8ad4540f4cd97d71a077"
+    },
+    {
+      "pdfPage": 872,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0872.md",
+      "sha256": "6be7ac5a6799f662f2ca654757d09de48d4f95635019db41269c43f568d01a9a"
+    },
+    {
+      "pdfPage": 872,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0872.md",
+      "sha256": "5e6ea29e4ec2f1d790d4c43074b2b3f6c97a403387759d3e0afa1f655489d36f"
+    },
+    {
+      "pdfPage": 873,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0873.md",
+      "sha256": "56132a81f6b6e7981e9948e7bb20eea53e2a477ade08ee6e53df11cb64bc9a24"
+    },
+    {
+      "pdfPage": 873,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0873.md",
+      "sha256": "f40c7b0d477187d935509542dff968797d42cf8322d3f1648aeb67ce00873921"
+    },
+    {
+      "pdfPage": 874,
+      "language": "en",
+      "path": "source/algebra/en/pdf-0874.md",
+      "sha256": "3d34bca85a853d99509c167af484745615a6980d03702d531101f13b5a984f6f"
+    },
+    {
+      "pdfPage": 874,
+      "language": "zh",
+      "path": "source/algebra/zh/pdf-0874.md",
+      "sha256": "8f5c1d0d62892d21fcb7b23683895e4eade7caff1f44f3d434f745614e5182c7"
+    }
+  ],
+  "pageChecks": [
+    {
+      "pdfPage": 843,
+      "printedPage": "835",
+      "status": "verified",
+      "scope": "Personally viewed printed835 and compared both complete bodies: ChapterXXI opening, finite free complexes, mapping-cylinder applications, Hilbert/Serre/Quillen-Suslin/Koszul references and SpecialComplexes cross-page fragment.",
+      "enSha256": "0b1b223caf6b72d695c499c90e37a44656dced45a3a6d2bdf7cabb5eb4bbf4b8",
+      "zhSha256": "7fb9f60720de8853b29460d46429428f8c3bf62d3cd0b62d0534a0274426dab1",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 844,
+      "printedPage": "836",
+      "status": "verified",
+      "scope": "Viewed printed836 and compared full EN/ZH: homology isomorphism H(f), sufficient-family epimorphism and finite-sum closure, Proposition1.1 ranges0 through n, descending induction diagram and cycle-surjection hypothesis.",
+      "enSha256": "4f701b04e7a61a4d4b4541a0a133fc2abe57bd617a910e856eeb01d6e54a2c07",
+      "zhSha256": "8db9b1b1539c454db4ea8fd6d5a9381446a295d45e5d8f09bead0507b9eff22f",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 845,
+      "printedPage": "837",
+      "status": "verified",
+      "scope": "Checked printed837 and every EN/ZH formula/proof step: B^(m+1) kernel, projective lifts fprime/fdoubleprime, K^m direct sum and differential, final quotient K0/(Ker delta0 intersect Ker f0), complete-family definition. Last-square crop personally viewed.",
+      "enSha256": "47459d219b60122be83bd081cb420425888181305e65825114a0364a73eba6ce",
+      "zhSha256": "1e3115c4c8e794093075a6b7a29311e9ff00bc11b72d0ae112a7e39d74092135",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 846,
+      "printedPage": "838",
+      "status": "verified",
+      "scope": "Checked printed838 and both full bodies: flat/finite-flat examples, Proposition1.2, mapping cylinder M^p=K^p+ C^(p-1), delta(x,y)=(delta x,fx-delta y), shifted sign, exact cohomology crop and induction proving K0 membership.",
+      "enSha256": "f814e2ce077ce0084c3448ffec4f1c523f4af2b01cc43d301fdd8a0c494d4907",
+      "zhSha256": "f7dc2ff2d3293ff80233001afcfde203bf5d97936fb37a5034b78f7d423a1d72",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 847,
+      "printedPage": "839",
+      "status": "verified",
+      "scope": "Viewed printed839 and compared entire EN/ZH: T-exact complete family, Proposition1.3 homology equality and proof, finite-free section opening. Confirmed visible homology-isomorphism qualification with acyclic-complex counterexample, EN printed wording preserved.",
+      "enSha256": "39332775f68cda73bf43846f2f69bdce23c02379cdf1cffea07735a94c96255d",
+      "zhSha256": "b736ca3e6493f87dc48c5807bfb2c590f26f8bd1c8ea1497360500c5713eb7f4",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 848,
+      "printedPage": "840",
+      "status": "verified",
+      "scope": "Checked printed840 and both complete bodies: stable-free definition, Theorem2.1 equivalence, Proposition2.2 stabilization proof and every exact-sequence arrow. Restored printed ellipsis-to-E0 arrow and verified adjacent source undefined-P to M correction.",
+      "enSha256": "c81cba3402bb06d637161c90872b2f3da53ee64f8c15cc4c2777a78694d03691",
+      "zhSha256": "a8e7b605bb4013c4766e8b907b44ae8e276d585f7ff6439c635cfbf33905e0c4",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 849,
+      "printedPage": "841",
+      "status": "verified",
+      "scope": "Viewed printed841 and compared complete EN/ZH: stable isomorphism, Lemma2.3 kernel stabilization, Lemma2.4 Schanuel projective rows, maps and sign conventions through page boundary.",
+      "enSha256": "172308aeda5e492bd3276911bd70d6140a381bbdf5d4c72e880cfd99b42d9cdb",
+      "zhSha256": "ea2b6c5b3cc3052010b1481cbd7d74fcdf514951ed72cae98304d5bcd6e9ecbb",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 850,
+      "printedPage": "842",
+      "status": "verified",
+      "scope": "Checked printed842 and both whole bodies: Schanuel exact sequence x maps(ix,ux), (y,z) maps wy-jz, splitting, stably free dimension, Theorem2.5 items and proof setup. Restored printed arrow following ellipsis before E0.",
+      "enSha256": "1d7aba296d2ef14e0103fdd815accb88784d25d9119b0e866095dda0ef852921",
+      "zhSha256": "a10f4c2dde6095b901a03a9a8628d6c08d4cc0ba031725fb0fa4b03a888f4632",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 851,
+      "printedPage": "843",
+      "status": "verified",
+      "scope": "Compared printed843 and complete EN/ZH: Theorem2.5 m<n-1 and m=n-1 cases, stable sums, Corollary2.6 dimension shifting, Theorem2.7 compatible resolutions. Three exact-sequence original crop personally inspected.",
+      "enSha256": "ca0d0ec4d6c86f69570c2c70c4eea3009234afa96d2e9085fb7ab8305ab863ec",
+      "zhSha256": "5a03c476e720eb39b0fb1df4e4663f3ff26d63a7138514d9bb94a1653b79e8c6",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 852,
+      "printedPage": "844",
+      "status": "verified",
+      "scope": "Viewed printed844 and checked all EN/ZH: inductive compatible resolutions, Theorem2.8 polynomial extension, Theorem2.9 Serre statement. Restored exact or-equivalently clause between stable freeness and finite free resolution in both languages.",
+      "enSha256": "08138af1ed53da23df3901be2c7dfb8de3d17db7c48eed3c2833340aab1e165b",
+      "zhSha256": "1be640608a088144464fc9bc3d402ecb2b8f226f3b36717cd2e372e3e2e7bd48",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 853,
+      "printedPage": "845",
+      "status": "verified",
+      "scope": "Checked printed845 and complete EN/ZH: Serre proof, finite filtration factors R[x]/P, contraction prime p, R0 and P0, induction after localization. Confirmed printed R0/P0 retained EN with adjacent ZH R0[x]/P0 quotient explanation.",
+      "enSha256": "f3634677af9f5bc154a63b6ea362fc27dc40dbf137358a4c233b0cfb8e7403d4",
+      "zhSha256": "1893532edb6ae495d07b9e82adbb5b9e5e22e09696492596e1d6d444995e64fd",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 854,
+      "printedPage": "846",
+      "status": "verified",
+      "scope": "Viewed printed846 and compared full bodies: tensoring p resolution by R[x], finite-free quotient via Theorem2.7, unimodular vector/extension property and row-operation setup. Restored source ending Similarly,we can make for continuation on855.",
+      "enSha256": "42f43dc43535037f8678ce294763259f9a9ee744c6895a56bc3055a440b4f7df",
+      "zhSha256": "22d254c524942ea838969118652d2d4a050943e87e0a5559889bbd03cd85f534",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 855,
+      "printedPage": "847",
+      "status": "verified",
+      "scope": "Checked printed847 and both full EN/ZH: row operations gf_i added to f_j, Horrocks Theorem3.1 local polynomial ring and monic component, reduction proof and all unimodular identities/degree manipulations.",
+      "enSha256": "e563fa5871cfd3c617538cee0695ce0a535b5931bce3921517e70a8ac15101e7",
+      "zhSha256": "91726ff44da53bbeba0f8d446a8703b6a563dc8a82187d8c54747ea6efbf51b4",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 856,
+      "printedPage": "848",
+      "status": "verified",
+      "scope": "Viewed printed848 and compared whole EN/ZH: Corollary3.2 f equivalent f(0), unit-component reduction, Lemma3.3 localization/translation x+cy, entire-ring Theorem3.4 and Quillen-Suslin3.5 statement.",
+      "enSha256": "1e60387667272fbb3155defb579da602888d156a59b74f8757b4d88a66fe52fe",
+      "zhSha256": "c13a0a9c6c5b3f1253db1ec02464c731aed554da700c601bcb32d0f9d1e68f16",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 857,
+      "printedPage": "849",
+      "status": "verified",
+      "scope": "Checked printed849 and complete EN/ZH: Quillen-Suslin variable induction and monic change, f as polynomial in last variable, Theorem3.6 stably-free to free via unimodular-column property, projection setup.",
+      "enSha256": "4ec09753b3b1e2622d0991049e4f5e2ad788700de673338791d7b03ea9fbcdce",
+      "zhSha256": "23feff5623956c38f55cc96585df9248dc5b5f8bf9c1cbdef21060433249b840",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 858,
+      "printedPage": "850",
+      "status": "verified",
+      "scope": "Viewed printed850 and compared full EN/ZH: u^j=Me^j columns, determinant unit and elementary column operations, Theorem3.7, regular-sequence definition opening. Verified source pe^j=cu1 preserved with adjacent actual-column/projection clarification.",
+      "enSha256": "eba571e9874930dc71214ea503f8e314e5ff06abb5cbc6ccbacba4ee5f1b4595",
+      "zhSha256": "0b0df2197922fadfef7ab458610c3f19a67b927aac90e0bf6c6c7b74008017a7",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 859,
+      "printedPage": "851",
+      "status": "verified",
+      "scope": "Checked printed851 and both entire bodies: nonzero quotient in M-regular definition, Proposition4.1 I/I² free over A/I, induction and coefficient divisibility proof, Koszul-complex transition.",
+      "enSha256": "4375e7958c8f66e98e19de6d31bdb4dc2db0d99c0096579d903a201da6b2750e",
+      "zhSha256": "b57f7f25b7983acd79d32865b842d1f37f1a3b3e0391f45f6b5c1df6f6a49d36",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 860,
+      "printedPage": "852",
+      "status": "verified",
+      "scope": "Viewed printed852 and compared every EN/ZH displayed and inline formula: one-variable K1=Ae1 boundary x, multi-variable exterior basis, omission signs in differential, augmentation and morphism f1 from y_i=sum c_ij x_j.",
+      "enSha256": "6dba37ef154b6767d564600faad0e7759fcf3e6dc55231e9826a0df112c55ca1",
+      "zhSha256": "8c99d87ba9aee7f8041f61458e8e42a511a29eac2dadcf232f00ab8331b9a143",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 861,
+      "printedPage": "853",
+      "status": "verified",
+      "scope": "Personally re-viewed printed853 and original full five-line fd=df crop plus morphism diagram; compared full current EN/ZH Lemma4.2, exterior f_p and determinant f_r. Reread new visible omitted-scalar note with r=p=1,c11=1,x1=2 counterexample; original calculation remains exact image.",
+      "enSha256": "5bdb25998c889aa8835807c2c23b30fa9c991f38d519c1f37b2537cbdfaf7485",
+      "zhSha256": "df48b99545944dbbb7713be678cd772651ddf4cd70d9e6bacaf931b9589b03d9",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 862,
+      "printedPage": "854",
+      "status": "verified",
+      "scope": "Checked printed854 and whole EN/ZH: Proposition4.3 tensor decomposition, H0=A/IA, module coefficients K(x;M), general C tensor K(y) short exact sequence and original crop, shifted quotient notation.",
+      "enSha256": "68c66185413caf3818685e8d52b3a2178ecebf88e33b564ae753fcd0e9ec4a53",
+      "zhSha256": "f39ffca12b459ce3d5f91d2ffe2214f5f41444bb70c9a179d662e5eb5bb307b4",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 863,
+      "printedPage": "855",
+      "status": "verified",
+      "scope": "Viewed printed855 and compared full EN/ZH: equations(2)-(4) homological shift and quotient, long homology crop, connecting map m(y), Lemma4.4 annihilation. Confirmed original K1(y) middle-term error documented as whole K(y) in adjacent Chinese note.",
+      "enSha256": "8afeba556cd18b63769ae67f6bcfb20d05c61bc878f6e932929a87601d9a1bb2",
+      "zhSha256": "11eeb79e5bb9de69978f3892d6853fa3372a89a1d085be5c29febfc42da362b6",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 864,
+      "printedPage": "856",
+      "status": "verified",
+      "scope": "Checked printed856 and both complete bodies: Theorem4.5(a)-(c) exact sequence/annihilation, augmented Koszul sequence, Theorem4.6 regularity and H1 criterion, induction/Nakayama proof. Reread added M nonzero boundary note against earlier nonzero quotient definition.",
+      "enSha256": "a28a4dba078e09d5da0fdb22a5f2a66cc27cbbf0c43fe84de1faef306d37ddea",
+      "zhSha256": "f8ab0a51134df34e9e94a442c823e62ab9a325e92857fd6ba128e3bba0848711",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 865,
+      "printedPage": "857",
+      "status": "verified",
+      "scope": "Viewed printed857 and compared complete EN/ZH: Koszul free resolution of A/I, Tor dimension, Theorem4.7 Ext^r=M/IM proof and Hom boundary quotient. Confirmed adjacent printed single K_r versus whole K(x) correction, English retained.",
+      "enSha256": "2894134fe6321cca9535e27b5ce23e32dc887dda078ca283946736315fa44086",
+      "zhSha256": "8e752652114d16383d24c98ad4ac769f4c08f8a65b8ad14349f307bd8ccf7c39",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 866,
+      "printedPage": "858",
+      "status": "verified",
+      "scope": "Checked printed858 and both full bodies: Lemma4.8 determinant comparison triangle and every label, Theorem4.9 natural exact Ext sequence, Theorem4.10 Ext vanishing for i<r and induction setup.",
+      "enSha256": "559cc7da2fb19f2df9536ca518266a13a8d26876f6080947b674a5972192384c",
+      "zhSha256": "be2e2a3195f4a3bfb6df6f00d255a6bb2166fa2aae3ae69e41d135b0cd70fd23",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 867,
+      "printedPage": "859",
+      "status": "verified",
+      "scope": "Viewed printed859 and compared all EN/ZH: Ext vanishing induction and x1 annihilation, Tor resolution convention, Theorem4.11 exterior algebra of I/I², Lemma4.12 morphism square. Original square arrows/labels personally inspected.",
+      "enSha256": "59bb813fd67b725d9bf09b5e7ce8260e7bebeb1f2acd76708cfa2c4ddaa6456e",
+      "zhSha256": "356203b447223c50722462438e621ec7830fc26413cfba77b22087a5b86ac31b",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 868,
+      "printedPage": "860",
+      "status": "verified",
+      "scope": "Checked printed860 and complete EN/ZH: Lemma4.12 expansion, printed sum j=2 and visible j=1 correction, comparison triangle, change-ring Tor complex with missing final delimiter note, polynomial-field exterior example. Restored full final source paragraph in both languages.",
+      "enSha256": "c7fab79e6434a2057b5427d90907036e15c59f2fb9f42194e163dd00d1e31c64",
+      "zhSha256": "1d5b9145dad06030a6ea0c76fcbdf557f4c2c099d105aa06c6dc8c113bb9240f",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 869,
+      "printedPage": "861",
+      "status": "verified",
+      "scope": "Viewed printed861 and compared whole EN/ZH: Theorem4.13 differential signs and omitted exterior factor, original d_i versus d_p note, Corollary4.14 homogeneous degree-n exact sequence, graded-resolution construction. Symmetric-product notation retained.",
+      "enSha256": "3e0fa0dccf6ab5b3386bafcfcb43e3d82c26df527bff453be769c9077a9c726e",
+      "zhSha256": "11a9b805419d4e3416ccc0791c0f14e2c16c515344f0877b8e2d962eb58578e2",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 870,
+      "printedPage": "862",
+      "status": "verified",
+      "scope": "Checked printed862 and full EN/ZH: iterative graded kernels, Hilbert Syzygy4.15, criterion4.16 Tor1(F,k)=0, basis lifts and cokernel C. Removed invented isomorphism symbol from original ordinary L tensor k to F tensor k arrow.",
+      "enSha256": "c16b584654a08b6b72bc3e6e8b36f87b36818d8e87e4d494d1cce980bafd6893",
+      "zhSha256": "5820f4132e22718a960a27ed11dfee6cc6f65bdc778c675ec8087c9f0cd3489f",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 871,
+      "printedPage": "863",
+      "status": "verified",
+      "scope": "Viewed printed863 and compared both whole final bodies: graded Nakayama Lemma4.17, exact Tor sequence, free conclusion, Theorem4.18 local-ring/projective generalization. Restored actual printed N in proof and reread adjacent I positive-degree correction with N=A example.",
+      "enSha256": "b8d4162c8b149c2d1a50f0f4874203cc1a836edfbf53ff41cb0ff6545c99f978",
+      "zhSha256": "a3da1b6f294e36306901c2dd5ebb0a7c3731532beb9a8ad4540f4cd97d71a077",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 872,
+      "printedPage": "864",
+      "status": "verified",
+      "scope": "Checked printed864 and every EN/ZH Exercise1-4/hint fragment: three-row homology sequence, piecewise f and g maps, degree shift C(-1), short exact sequence and resulting H_p isomorphism. Verified visible second-branch i_p<r correction from original duplicate i_p=r.",
+      "enSha256": "6be7ac5a6799f662f2ca654757d09de48d4f95635019db41269c43f568d01a9a",
+      "zhSha256": "5e6ea29e4ec2f1d790d4c43074b2b3f6c97a403387759d3e0afa1f655489d36f",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 873,
+      "printedPage": "865",
+      "status": "verified",
+      "scope": "Viewed printed865 and compared all EN/ZH: depth q+s=r induction, associated primes and homology short exact sequence, Exercise5 four equivalent Ext/regularity conditions and hint. Confirmed in-M versus in-I and4.5(c) versus(b) notes; reread new Hom_AP target M_P localization note.",
+      "enSha256": "56132a81f6b6e7981e9948e7bb20eea53e2a477ade08ee6e53df11cb64bc9a24",
+      "zhSha256": "f40c7b0d477187d935509542dff968797d42cf8322d3f1648aeb67ce00873921",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    },
+    {
+      "pdfPage": 874,
+      "printedPage": "866",
+      "status": "verified",
+      "scope": "Checked printed866 and complete EN/ZH final Exercise5 hint: first Ext long exact sequence, inductive regular elements, implication(iv)to(i), nilpotent a1 action and injectivity forcing Ext0, geometric complete-intersection interpretation. Confirmed adjacent quotient M/a1M correction from original a1M.",
+      "enSha256": "3d34bca85a853d99509c167af484745615a6980d03702d531101f13b5a984f6f",
+      "zhSha256": "8f5c1d0d62892d21fcb7b23683895e4eade7caff1f44f3d434f745614e5182c7",
+      "personallyReviewedOriginalImage": true,
+      "personallyComparedBothCompleteBodies": true
+    }
+  ]
+}

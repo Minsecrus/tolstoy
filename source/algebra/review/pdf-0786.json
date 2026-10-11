@@ -1,0 +1,12 @@
+{
+  "pdfPage": 786,
+  "printedPage": "778",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visible Chinese editorial note: the K complex must omit the augmentation M tensor N for the stated homology/Tor identity; the length-zero resolution M=N=R gives a direct counterexample to the printed augmented complex. English and printed K retained."
+  ]
+}

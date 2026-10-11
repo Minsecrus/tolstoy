@@ -1,0 +1,259 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "pdfPageCount": 923,
+  "status": "complete",
+  "reviewer": "/root/algebra_math_audit_a",
+  "recordedBy": "/root",
+  "method": "Reviewer personally inspected all923 original image headers and printed page numbers, each section opening title, and original contents PDF12–16; this record summarizes their reported structure audit, not a formula audit.",
+  "sections": [
+    {
+      "key": "title-pages",
+      "title": "卷首与出版信息",
+      "englishTitle": "Front Matter and Publication Information",
+      "firstPdfPage": 1,
+      "lastPdfPage": 5
+    },
+    {
+      "key": "preface",
+      "title": "前言",
+      "englishTitle": "Foreword",
+      "firstPdfPage": 6,
+      "lastPdfPage": 9
+    },
+    {
+      "key": "prerequisites",
+      "title": "逻辑预备知识",
+      "englishTitle": "Logical Prerequisites",
+      "firstPdfPage": 10,
+      "lastPdfPage": 11
+    },
+    {
+      "key": "contents",
+      "title": "原书目录",
+      "englishTitle": "Contents",
+      "firstPdfPage": 12,
+      "lastPdfPage": 16
+    },
+    {
+      "key": "part-01",
+      "title": "第一部分导言：代数的基本对象",
+      "englishTitle": "Part One: The Basic Objects of Algebra",
+      "firstPdfPage": 17,
+      "lastPdfPage": 17
+    },
+    {
+      "key": "chapter-001",
+      "title": "第一章 群",
+      "englishTitle": "Chapter I: Groups",
+      "firstPdfPage": 18,
+      "lastPdfPage": 97
+    },
+    {
+      "key": "chapter-002",
+      "title": "第二章 环",
+      "englishTitle": "Chapter II: Rings",
+      "firstPdfPage": 98,
+      "lastPdfPage": 131
+    },
+    {
+      "key": "chapter-003",
+      "title": "第三章 模",
+      "englishTitle": "Chapter III: Modules",
+      "firstPdfPage": 132,
+      "lastPdfPage": 187
+    },
+    {
+      "key": "chapter-004",
+      "title": "第四章 多项式",
+      "englishTitle": "Chapter IV: Polynomials",
+      "firstPdfPage": 188,
+      "lastPdfPage": 235
+    },
+    {
+      "key": "part-02",
+      "title": "第二部分导言：代数方程",
+      "englishTitle": "Part Two: Algebraic Equations",
+      "firstPdfPage": 236,
+      "lastPdfPage": 237
+    },
+    {
+      "key": "chapter-005",
+      "title": "第五章 代数扩张",
+      "englishTitle": "Chapter V: Algebraic Extensions",
+      "firstPdfPage": 238,
+      "lastPdfPage": 274
+    },
+    {
+      "key": "chapter-006",
+      "title": "第六章 伽罗瓦理论",
+      "englishTitle": "Chapter VI: Galois Theory",
+      "firstPdfPage": 275,
+      "lastPdfPage": 346
+    },
+    {
+      "key": "chapter-007",
+      "title": "第七章 环的扩张",
+      "englishTitle": "Chapter VII: Extensions of Rings",
+      "firstPdfPage": 347,
+      "lastPdfPage": 368
+    },
+    {
+      "key": "chapter-008",
+      "title": "第八章 超越扩张",
+      "englishTitle": "Chapter VIII: Transcendental Extensions",
+      "firstPdfPage": 369,
+      "lastPdfPage": 389
+    },
+    {
+      "key": "chapter-009",
+      "title": "第九章 代数空间",
+      "englishTitle": "Chapter IX: Algebraic Spaces",
+      "firstPdfPage": 390,
+      "lastPdfPage": 425
+    },
+    {
+      "key": "chapter-010",
+      "title": "第十章 诺特环与诺特模",
+      "englishTitle": "Chapter X: Noetherian Rings and Modules",
+      "firstPdfPage": 426,
+      "lastPdfPage": 460
+    },
+    {
+      "key": "chapter-011",
+      "title": "第十一章 实域",
+      "englishTitle": "Chapter XI: Real Fields",
+      "firstPdfPage": 461,
+      "lastPdfPage": 475
+    },
+    {
+      "key": "chapter-012",
+      "title": "第十二章 绝对值",
+      "englishTitle": "Chapter XII: Absolute Values",
+      "firstPdfPage": 476,
+      "lastPdfPage": 510
+    },
+    {
+      "key": "part-03",
+      "title": "第三部分导言：线性代数与表示",
+      "englishTitle": "Part Three: Linear Algebra and Representations",
+      "firstPdfPage": 511,
+      "lastPdfPage": 511
+    },
+    {
+      "key": "chapter-013",
+      "title": "第十三章 矩阵与线性映射",
+      "englishTitle": "Chapter XIII: Matrices and Linear Maps",
+      "firstPdfPage": 512,
+      "lastPdfPage": 561
+    },
+    {
+      "key": "chapter-014",
+      "title": "第十四章 单个自同态的表示",
+      "englishTitle": "Chapter XIV: Representation of One Endomorphism",
+      "firstPdfPage": 562,
+      "lastPdfPage": 579
+    },
+    {
+      "key": "chapter-015",
+      "title": "第十五章 双线性型的结构",
+      "englishTitle": "Chapter XV: Structure of Bilinear Forms",
+      "firstPdfPage": 580,
+      "lastPdfPage": 609
+    },
+    {
+      "key": "chapter-016",
+      "title": "第十六章 张量积",
+      "englishTitle": "Chapter XVI: The Tensor Product",
+      "firstPdfPage": 610,
+      "lastPdfPage": 649
+    },
+    {
+      "key": "chapter-017",
+      "title": "第十七章 半单性",
+      "englishTitle": "Chapter XVII: Semisimplicity",
+      "firstPdfPage": 650,
+      "lastPdfPage": 671
+    },
+    {
+      "key": "chapter-018",
+      "title": "第十八章 有限群的表示",
+      "englishTitle": "Chapter XVIII: Representations of Finite Groups",
+      "firstPdfPage": 672,
+      "lastPdfPage": 738
+    },
+    {
+      "key": "chapter-019",
+      "title": "第十九章 交错积",
+      "englishTitle": "Chapter XIX: The Alternating Product",
+      "firstPdfPage": 739,
+      "lastPdfPage": 766
+    },
+    {
+      "key": "part-04",
+      "title": "第四部分导言：同调代数",
+      "englishTitle": "Part Four: Homological Algebra",
+      "firstPdfPage": 767,
+      "lastPdfPage": 768
+    },
+    {
+      "key": "chapter-020",
+      "title": "第二十章 一般同调理论",
+      "englishTitle": "Chapter XX: General Homology Theory",
+      "firstPdfPage": 769,
+      "lastPdfPage": 842
+    },
+    {
+      "key": "chapter-021",
+      "title": "第二十一章 有限自由解消",
+      "englishTitle": "Chapter XXI: Finite Free Resolutions",
+      "firstPdfPage": 843,
+      "lastPdfPage": 874
+    },
+    {
+      "key": "appendix-01",
+      "title": "附录一：e 与 π 的超越性",
+      "englishTitle": "Appendix 1: The Transcendence of e and π",
+      "firstPdfPage": 875,
+      "lastPdfPage": 881
+    },
+    {
+      "key": "appendix-02",
+      "title": "附录二：集合论基础",
+      "englishTitle": "Appendix 2: Some Set Theory",
+      "firstPdfPage": 882,
+      "lastPdfPage": 900
+    },
+    {
+      "key": "bibliography",
+      "title": "参考文献",
+      "englishTitle": "Bibliography",
+      "firstPdfPage": 901,
+      "lastPdfPage": 907
+    },
+    {
+      "key": "book-index",
+      "title": "索引",
+      "englishTitle": "Index",
+      "firstPdfPage": 908,
+      "lastPdfPage": 919
+    },
+    {
+      "key": "series-list",
+      "title": "书后丛书目录",
+      "englishTitle": "Graduate Texts in Mathematics Series List",
+      "firstPdfPage": 920,
+      "lastPdfPage": 923
+    }
+  ],
+  "checks": {
+    "exactContinuousCoverage": true,
+    "eachPageOccursOnce": true,
+    "sectionOpeningTitlesCompared": true,
+    "actualPrintedPageNumbersCompared": true
+  },
+  "sourceScanNotes": [
+    "PDF1–5,17,920–923 have no explicit printed page number; PDF6–16 use Roman v–xv.",
+    "Printed Arabic pages260,376,448,464,500,502,730,874,894,902 are absent from the supplied scan; no synthetic pages or fixed-offset numbers were inserted.",
+    "PDF841–842 are ChapterXX end references; PDF908–919 full index; PDF920–923 GTM list1–224."
+  ]
+}

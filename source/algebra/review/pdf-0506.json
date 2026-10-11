@@ -1,0 +1,12 @@
+{
+  "pdfPage": 506,
+  "printedPage": "495",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "独立二审将几何术语simple point的误译“单点”改为“非奇异点”，并明确邻域由非奇异K有理点组成，与偏导非零条件相符。"
+  ]
+}

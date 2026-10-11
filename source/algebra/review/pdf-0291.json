@@ -1,0 +1,12 @@
+{
+  "pdfPage": 291,
+  "printedPage": "277",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visible 译校注 makes explicit that counting mn roots assumes m,n prime to positive characteristic; the displayed direct-product identity remains valid without this counting assumption."
+  ]
+}

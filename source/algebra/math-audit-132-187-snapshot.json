@@ -1,0 +1,713 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "reviewer": "/root/algebra_088_097",
+  "scope": {
+    "pdfPageStart": 132,
+    "pdfPageEnd": 187,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "New independent actual visual rereview of current manuscripts, personally inspecting every original PNG and comparing complete EN/ZH, all formulas/proof hypotheses/exercises and existing source editorialnotes. Hashes recorded only after actual page comparison; oldaudit ledgers left unchanged."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187
+  ],
+  "auditedPages": [
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 132,
+      "scope": "Full EN/ZH chapterintroduction/copyright2002, leftmodule Abelian+monoidaction, bothdistributiveformulas/allquantifiers, a(-x)/0x/1x and rightmoduleconvention.",
+      "printedPage": "117",
+      "status": "verified",
+      "enSha256": "d152fa7b2f1cd0c193a736cc4291695be9028b22cd8f0e6a7bd4bb8a1ba387b8",
+      "zhSha256": "37cfcda7c8b590b8cb6f75bd41f42774c1a8a392ce22f6c6faa211acad33b195"
+    },
+    {
+      "pdfPage": 133,
+      "scope": "Full EN/ZH allsubmodule/examples: ring/Z/zero/leftideal/quotient/fractionmodule, vectorEnd andmatrixactions, Map(S,M) scalars, entire-ring torsiondefinition, idealmodulefinite sums and associativity.",
+      "printedPage": "118",
+      "status": "verified",
+      "enSha256": "795fbe6ea8689c3e20d2289fbc4fff02e1dcbcc83d18a7ab50e65a87d60e5e6c",
+      "zhSha256": "8ca46864c421463075110d9ebe098f0d3ad487c029d0b635644c6a78aeae26c4"
+    },
+    {
+      "pdfPage": 134,
+      "scope": "Full EN/ZH idealdistributivity, quotientscalarwell-defined, modulehom additive/Alinear quantifiedidentity, zero/identity, quotientuniversalproperty, kernels/images submodules and cokerneldefinitionfragment.",
+      "printedPage": "119",
+      "status": "verified",
+      "enSha256": "e9408810accb55d47f19549c354364ae72694f2b52c161de2a363453d4326c27",
+      "zhSha256": "b515aaa7a58a5aeb7a1ae32b9ff346d76f99fd163370366167aecb290b1aa07a"
+    },
+    {
+      "pdfPage": 135,
+      "scope": "Full EN/ZH cokernel map, all3canonicalisomorphismstatements/conditions, bijectionmoduleinverse, exactsequence Imf=Kerg, shortexactsubmodule and mono/epi definitions/arrows.",
+      "printedPage": "120",
+      "status": "verified",
+      "enSha256": "8c7f810bcc7b57298196c1a9f56a240f6919a6bdb6659eb640cc138d141927cc",
+      "zhSha256": "436d38d95e87176a7328d3fc21e82691ee909fda2965bf37df81cf6172d088de"
+    },
+    {
+      "pdfPage": 136,
+      "scope": "Full original PNG and complete EN/ZH: algebras, bracket xy-yx and differential-operator commutator, bilinearity in both variables, central ring map and A-module action, finite algebra generation.",
+      "printedPage": "121",
+      "status": "verified",
+      "enSha256": "af87b397b198b4e393878fbfe002b662f74d8e0a8f0968855b7efa37fbf041cb",
+      "zhSha256": "dd7e9210baeb8d07df036c6ac0a04176992e7473ba750a9addb2efa000316e4b"
+    },
+    {
+      "pdfPage": 137,
+      "scope": "Full original PNG and complete EN/ZH: Hom abelian group and commutative-ring scalar action, contravariance/covariance, composition directions, induced sequences, all-Y exactness criterion Proposition 2.1.",
+      "printedPage": "122",
+      "status": "verified",
+      "enSha256": "e55457571d699a23352e5f320526cc2a74675a5fe08c2b65c9fc60cc0566c43f",
+      "zhSha256": "502c93f3dafb8c23d2831c02b37ac138ae471982f0005c2a791f16a05161288b"
+    },
+    {
+      "pdfPage": 138,
+      "scope": "Full original PNG and complete EN/ZH: Proposition 2.1 proof, quotient factorization triangular array and arrows, kernel/image inclusions, covariant Hom sequence, all-X Proposition 2.2.",
+      "printedPage": "123",
+      "status": "verified",
+      "enSha256": "22afd84e5e6096d56c1a95c039ec8867a6769f7764748d2e346975f02c2d39c3",
+      "zhSha256": "0486df17a427d0e04673b584f7579e8ecc504a2b9dbe4dc366ef0dfb74097342"
+    },
+    {
+      "pdfPage": 139,
+      "scope": "Full original PNG and complete EN/ZH: injection interpretation, exact functor definition, endomorphism-ring distributivity and iterations, representation ring maps, beginning polynomial example.",
+      "printedPage": "124",
+      "status": "verified",
+      "enSha256": "85155009256197ed992b5d72a13d5572dba3af26c54294dc6fbc971f57827dbf",
+      "zhSha256": "d9a8712b6cc2ef44202bee94aa51c2ecd12a2cf5099e2288e2e4369fa1fd0e32"
+    },
+    {
+      "pdfPage": 140,
+      "scope": "Full original PNG and complete EN/ZH: polynomial/operator representations, multi-variable derivatives, Hilbert-space example and source operator-on-A typo, both linked diagram crops personally viewed and arrows/labels checked.",
+      "printedPage": "125",
+      "status": "verified",
+      "enSha256": "3b41a6d38b3496bf603dab14fa2d4371b43b1496d4fbf7e856ab294589e5fceb",
+      "zhSha256": "469e6e30f9c1e68eebc954df921203446b3c14bb934d54ecb240f3d72e55ed00"
+    },
+    {
+      "pdfPage": 141,
+      "scope": "Full original PNG and complete EN/ZH: conjugation formula, monoid-algebra representation extension, functoriality, identity-subscript source typo, automorphism-module action, all four number-field examples.",
+      "printedPage": "126",
+      "status": "verified",
+      "enSha256": "195a6f69293ba971106a0129412fed8a40213fd5dcc2b0efb6e3c262562ae4c7",
+      "zhSha256": "665773d337f24a20fb30b6ee81396fec5a9d0ab8b252d630b3afcaba80c722e7"
+    },
+    {
+      "pdfPage": 142,
+      "scope": "Full original PNG and complete EN/ZH: normal-basis/group-ring example, covering homology, Picard/Chow/cohomology examples, complete two bibliographic entries, componentwise module direct product.",
+      "printedPage": "127",
+      "status": "verified",
+      "enSha256": "a2d8a3efc0c3340671aee96dbd9f916e09d6ba91ed12dcdf4b8007ebb1ce7d08",
+      "zhSha256": "1f57be382e3ecca2e52266531aae5c3a5f46f1ee157d890a987ecaa45493fece"
+    },
+    {
+      "pdfPage": 143,
+      "scope": "Full original PNG and complete EN/ZH: finite-support direct sum and coproduct universal map, verified existing isomorphism-to-homomorphism source note, Proposition 3.1 orthogonal idempotents and partial proof.",
+      "printedPage": "128",
+      "status": "verified",
+      "enSha256": "255a7cf5dcece42638f4cfa50e55a3bb2410f566fc10f8971d9080fb2585ebcb",
+      "zhSha256": "0651f387197eedef0a2f750fc99ec6104a5ba6350f59f2446acb7b121889df28"
+    },
+    {
+      "pdfPage": 144,
+      "scope": "Full original PNG and complete EN/ZH: Proposition 3.1 surjectivity conclusion, finite sum/product equality, finite-support linear combinations and closure formulas, generators and finite-type definitions.",
+      "printedPage": "129",
+      "status": "verified",
+      "enSha256": "e05d4b3e829a8b756528e3ae3adfae112372d7ebfedcde7da63be05474a6857d",
+      "zhSha256": "46667ad5b044ec6d91d7c415143cbc5676410b851dcffdbb555c8fc792bf1c01"
+    },
+    {
+      "pdfPage": 145,
+      "scope": "Full original PNG and complete EN/ZH: independent sets versus indexed families, all relation quantifiers, repeated-element warning, canonical direct-sum map and unique-expression equivalence.",
+      "printedPage": "130",
+      "status": "verified",
+      "enSha256": "206cea08dfe20d13425de9a02e678915433d77937027ebdd894275e75448a5f8",
+      "zhSha256": "1f47cf82f09d586ce27af184566d540cea90c8b32a1a9e99932760b8d8f33a8b"
+    },
+    {
+      "pdfPage": 146,
+      "scope": "Full original PNG and complete EN/ZH: internal sums and complement criterion, both boxed Hom formulas with linked crops personally viewed, injection compositions, induced pair homomorphism.",
+      "printedPage": "131",
+      "status": "verified",
+      "enSha256": "861b66b1ab48be18dc90277cd3e544255c08fa21c3efcf1b904ac8636f7c3a43",
+      "zhSha256": "9dcebbff645d74f7ca708e1c0e1518820d63f6aa65b80fb9a242661d26c350b4"
+    },
+    {
+      "pdfPage": 147,
+      "scope": "Full original PNG and complete EN/ZH: product Hom correspondence, Proposition 3.2 split exact sequence and both inverse conditions, direct-sum formulas, proof uniqueness and splitting terminology.",
+      "printedPage": "132",
+      "status": "verified",
+      "enSha256": "62b90b2345d688d9d21f40ccd854d3ab38c447d507f668da6aa0295c283fa9ac",
+      "zhSha256": "3131e0478ef5bf455d49c906d6d297bd5ffe2da3f573cb3b4d21e16b08308ca6"
+    },
+    {
+      "pdfPage": 148,
+      "scope": "Full original PNG and complete EN/ZH: additive/abelian-category axioms AB1-4, kernel and cokernel Mor exact sequences including all-X quantifiers, universality and Hom terminology.",
+      "printedPage": "133",
+      "status": "verified",
+      "enSha256": "ef0237753f96de4123b61f5ac552e91e1b0e302858dcf3f88a2b5357d3969e69",
+      "zhSha256": "6777cd0a37905567a8092ecfd0ace00b64b5212fb36de4c39abd53f1393f1534"
+    },
+    {
+      "pdfPage": 149,
+      "scope": "Full original PNG and complete EN/ZH: sub/quotient objects, mono/epi, all listed abelian-category examples and representation square, verified existing vector-bundle source caveat.",
+      "printedPage": "134",
+      "status": "verified",
+      "enSha256": "7fa8ef5e003581a8ac78f5b4db8eb4c72f7c09a3984bd07a77afddf1c00c6590",
+      "zhSha256": "84c335aba568649c52129e499b094dac558cccb70122302faa6ee4631c285d7f"
+    },
+    {
+      "pdfPage": 150,
+      "scope": "Full original PNG and complete EN/ZH: nonempty basis convention and zero module, standard direct-sum basis, Theorem 4.1 unique extension proof, Corollary 4.2 first proof line.",
+      "printedPage": "135",
+      "status": "verified",
+      "enSha256": "992e4b35dfc9c27f671b0f52a3abcc03aa0a559e61f019c288ef3dc89d477081",
+      "zhSha256": "5acb1c1b09bd7ac0c5425b4adbc01a0676d6daac29b548e2ce8d992703b40424"
+    },
+    {
+      "pdfPage": 151,
+      "scope": "Full original PNG and complete EN/ZH: basis-cardinality isomorphism, two-sided ideal reduction and boxed formula, quotient basis, cyclic module kernel, finite free surjection and resolution construction.",
+      "printedPage": "136",
+      "status": "verified",
+      "enSha256": "2872d16ef52cae94a588eceda53584fcc47bc26babd28195a90740cb8024f6af",
+      "zhSha256": "a62981807933fe5b8336de2bf387f8b4f18123dce9351f05ae4dd02aaa2c4638"
+    },
+    {
+      "pdfPage": 152,
+      "scope": "Full original PNG and complete EN/ZH: arbitrary-index free quotient, finite-support functions and delta basis, all four projective conditions P1-4 and lift array arrows.",
+      "printedPage": "137",
+      "status": "verified",
+      "enSha256": "e4595bad64963a1d77723ae7255932772148be6582f65fac713ac571c6d2b271",
+      "zhSha256": "9e4c190515cda2b6a27367b6cc3fa5a9b33c386964d09e3b14bc4fbe2b998bfe"
+    },
+    {
+      "pdfPage": 153,
+      "scope": "Full original PNG and complete EN/ZH: P1-P4 implications and lift array, projective-free examples and chapter references, Grothendieck group formula and stable-free equivalence with Picard group.",
+      "printedPage": "138",
+      "status": "verified",
+      "enSha256": "153618b9898b2dddf4b5ee79e75bc764ae47a6e6cdb0059872e037b625202d41",
+      "zhSha256": "dc08a0de35c2fb0610bbbf5c5c7f353fd0611b2184dc7409384b3a9fab9cb8e5"
+    },
+    {
+      "pdfPage": 154,
+      "scope": "Full original PNG and complete EN/ZH: K0 continuation, finite-module Grothendieck construction and exact-sequence relation, vector-space definition, Theorem 5.1 and Zorn proof opening.",
+      "printedPage": "139",
+      "status": "verified",
+      "enSha256": "b332a9a60c94a45193046da788e9677b9a12ec4069f4c93c6595fe6008477375",
+      "zhSha256": "6e4e750d0638d0abf3cb134204fdeab6adbadbf6f10a1ec41bfd2bc05955899c"
+    },
+    {
+      "pdfPage": 155,
+      "scope": "Full original PNG and complete EN/ZH: Zorn maximal-independent-set proof with b inverse and signs, basis extension, Theorem 5.2 finite exchange proof and equation (1).",
+      "printedPage": "140",
+      "status": "verified",
+      "enSha256": "c97abcc52db35e397b6819eb815ef97b93a6ea10e0fd652e110b3ea0480b95e1",
+      "zhSha256": "5acc99017fe6ed229a29ef68162e07677105e1e850952b3814e0ff475d769d52"
+    },
+    {
+      "pdfPage": 156,
+      "scope": "Full original PNG and complete EN/ZH: basis exchange induction equation (2), infinite-basis hint, dimension and zero-space conventions, rank-nullity Theorem 5.3 and basis lifts.",
+      "printedPage": "141",
+      "status": "verified",
+      "enSha256": "5aee791c785f2acad0a5d71ae0e7765ed6423c360187a60139ca9c53c9d4fa5a",
+      "zhSha256": "4e7d6b177cbcc95c905b74180f773456afb9bd1fbc7cec671bb674f8afbf06fc"
+    },
+    {
+      "pdfPage": 157,
+      "scope": "Full original PNG and complete EN/ZH: rank-nullity spanning and independence proof all sums/indices, finite-dimensional Corollary 5.4 hypothesis, dual module/functionals and bidual injection.",
+      "printedPage": "142",
+      "status": "verified",
+      "enSha256": "29fed1f29a550d4608366823c75161d4ec32fd9e39c0b448dd1c5a7b104910c4",
+      "zhSha256": "3764beb4d99df3e17df42612842fce55c013a6520feb0b901dd9c1d015f4ec96"
+    },
+    {
+      "pdfPage": 158,
+      "scope": "Full original PNG and complete EN/ZH: delta functionals, finite-free dual basis proof, both source corrections b_i in K to A and x in V to E rigorously verified, coordinates pairing and exact dual sequence.",
+      "printedPage": "143",
+      "status": "verified",
+      "enSha256": "2ca2b5394bb69002ce71c0b016892f1d16475f8f4a85c1e344436d210c174745",
+      "zhSha256": "1672a567be20b88f3e0d6dee750ae74e6b1560ff6e8cb78c6ac930a60348baca"
+    },
+    {
+      "pdfPage": 159,
+      "scope": "Full original PNG and complete EN/ZH: split dual exactness, bilinear pairing definitions/orthogonality/left-right kernels, all quotient-induced arrows and kernel statements.",
+      "printedPage": "144",
+      "status": "verified",
+      "enSha256": "afb209901ae9453b45e1971a83c3e72971c68624241fa84e162220e4b482f375",
+      "zhSha256": "7f487abe9b67170f7d23ba575f5e4f78961736b70e7b4e660e1839fc7cd4cbd8"
+    },
+    {
+      "pdfPage": 160,
+      "scope": "Full original PNG and complete EN/ZH: natural map pairing, Theorem 6.4 finite-dimensional quotient proof and inequalities, existing inverse-to-each-other source note verified by domains/codomains, both dual types and references.",
+      "printedPage": "145",
+      "status": "verified",
+      "enSha256": "8243eaedf3645a898a0e184acb61432625a03d3f21ca6447fd046f3b26ba6c92",
+      "zhSha256": "6f4c2c44a8574f5d1a5a20d6bea27ed839a4964bd3742bbc25a0608e404f3129"
+    },
+    {
+      "pdfPage": 161,
+      "scope": "Full original PNG and complete EN/ZH: Pontrjagin circle exponential, nonsingular form maps, principal entire-ring standing hypotheses, free-module rank argument and Theorem 7.1 induction setup.",
+      "printedPage": "146",
+      "status": "verified",
+      "enSha256": "996986345359f085733183c828e54d54553932b45e50efe1d5cea861213f12fe",
+      "zhSha256": "94ab4d576a0e059ea9a302e79ae11af895a18a66e2408553ccd5f32da9b02f9f"
+    },
+    {
+      "pdfPage": 162,
+      "scope": "Full original PNG and complete EN/ZH: free-submodule induction including zero/nonzero coefficient cases, finite submodule Corollary 7.2, torsion definitions, split torsion/free Theorem 7.3 and torsion-free quotient proof.",
+      "printedPage": "147",
+      "status": "verified",
+      "enSha256": "a0243fd6d13c09246790bc085b08dcdf5194e67d50067cd8ed78a92e26ab64c4",
+      "zhSha256": "05438b707ff42e14cba8db0eee877d7bb032a4fd041408bdfd6b5016b10f2be3"
+    },
+    {
+      "pdfPage": 163,
+      "scope": "Full original PNG and complete EN/ZH: finite torsion-free module embedding using product of nonzero a_j, split lift Lemma 7.4, rank definition and cyclic-period kernel.",
+      "printedPage": "148",
+      "status": "verified",
+      "enSha256": "42db55b97d025f181a7cf382cc88c19247a7f26109dafd3a16bfdc0c642ff9b5",
+      "zhSha256": "c72a11a6b8459aa51c0cdd96bb74611af87d712026a637e32d53312709978515"
+    },
+    {
+      "pdfPage": 164,
+      "scope": "Full original PNG and complete EN/ZH: exponent/period and p-primary definitions, prime representative convention, type tuples and all exponent inequalities, structure Theorem 7.5 and Bezout equation.",
+      "printedPage": "149",
+      "status": "verified",
+      "enSha256": "186bb07d0bdddcb12fa6cf14f55785ec5541556eaa4b1a06e11a03df738be1f0",
+      "zhSha256": "666f9d1a44e662860b88bd7c2fa15cc9b2821bcc1a70871b9de1bbf7e62d6cad"
+    },
+    {
+      "pdfPage": 165,
+      "scope": "Full original PNG and complete EN/ZH: coprime primary decomposition formulas, independent-versus-linearly-independent distinction, Lemma 7.6 period-preserving lifts and p-exponent inequality/subtraction.",
+      "printedPage": "150",
+      "status": "verified",
+      "enSha256": "72189f6aaa13152520ce9e5b17bffa7431be51fa82671f5002e4e88152ea5e35",
+      "zhSha256": "a52cd997b0f37ba041f32f816ae2b3dea3d8f14f1b2c9056c949ad6215cb0f8c"
+    },
+    {
+      "pdfPage": 166,
+      "scope": "Full original PNG and complete EN/ZH: Lemma 7.6 conclusion, p-torsion dimension induction, verified r-to-s representative-bound note, invariant-factor Theorem 7.7, exponent array and q column products.",
+      "printedPage": "151",
+      "status": "verified",
+      "enSha256": "8d7690471e9450c1aea2d270d1f11a3cbac44578750371f88bd2ee15c4912758",
+      "zhSha256": "061d1947344f067ab4e8f6d78f71b1689349269b001042a0caf0c8b9b4ec45be"
+    },
+    {
+      "pdfPage": 167,
+      "scope": "Full original PNG and complete EN/ZH: coprime cyclic sums, uniqueness proof p-kernel and multiplication maps, dimension counts, verified d-to-s source note, pE decomposition and unit ideal sequence.",
+      "printedPage": "152",
+      "status": "verified",
+      "enSha256": "fe36506f0e6a0b4e22e86ee8ed49bc6c570c3cd5128407a5cb153aab9594b688",
+      "zhSha256": "6495c73ceeb75042381930119e63e9a9d4d843c37d24b23005f48d1d88bff535"
+    },
+    {
+      "pdfPage": 168,
+      "scope": "Full original PNG and complete EN/ZH: elementary-divisor Theorem 7.8 all conditions and finite-rank reduction, invariant uniqueness, verified quotient-generator e_j-to-e_{s+j} note, maximal-functional existence setup.",
+      "printedPage": "153",
+      "status": "verified",
+      "enSha256": "8d212f485abf387ed75b0ff39895cac18ced333f199290d63c5408e2c5f5242a",
+      "zhSha256": "63b584f2ad35ebcd7c6a6590d6ea67f40e07c982007cb80e6d366578cb0cb095"
+    },
+    {
+      "pdfPage": 169,
+      "scope": "Full original PNG and complete EN/ZH: maximal-functional proof continuation and direct decompositions, invariants references, relation module, all three row/column operations and Theorem 7.9 hypothesis.",
+      "printedPage": "154",
+      "status": "verified",
+      "enSha256": "c73145394f6007235ca49b73403e7447f05eb20a9117cae63d5ccd950d14a3a3",
+      "zhSha256": "e2e4ee61890f49a9ca0762840d6e79a70ae1ccc632bffe48bef907baa1f39cbe"
+    },
+    {
+      "pdfPage": 170,
+      "scope": "Full original PNG and complete EN/ZH: matrix normal form linked crop personally viewed, divisibility condition, linear system all indices, power-series example/bibliography, Euler-Poincare section opening.",
+      "printedPage": "155",
+      "status": "verified",
+      "enSha256": "89fed93bf9594874953d5a28f4249292cad4628c433cb716a9460aad55924dda",
+      "zhSha256": "4d642918e135ee8e15374b373e79999eec775c1148ccb529e28e880e14c75e99"
+    },
+    {
+      "pdfPage": 171,
+      "scope": "Full original PNG and complete EN/ZH: Euler-Poincare exactness iff/additivity/zero, examples, Grothendieck universality, finite/simple filtrations and verified existing r-versus-r-1 length note.",
+      "printedPage": "156",
+      "status": "verified",
+      "enSha256": "403759946f2570492fb0ec883e9eb6d3b8682b74cfb11deff27da7055c9ac548",
+      "zhSha256": "8c32e09d594f4ed7ee3bfe18cedf0ba14f50687ce999ee36722b37717a3081df"
+    },
+    {
+      "pdfPage": 172,
+      "scope": "Full original PNG and complete EN/ZH: Theorem 8.1 extension sum i=1 through r-1, simple value1, snake-lemma applications, commuting square and induced kernel map.",
+      "printedPage": "157",
+      "status": "verified",
+      "enSha256": "f703a04ead278087abafeadd468e4ea87573fc14d5be2f9ece89d60ba72ce2fc",
+      "zhSha256": "3e42b5d822b224fdfc9e68bdd154c506834c93bbf28ff87e061fd80fb2e3042e"
+    },
+    {
+      "pdfPage": 173,
+      "scope": "Full original PNG and complete EN/ZH: induced cokernel representative independence/congruence, reused horizontal names, full snake array including end zeros, connecting lift formula and six-term exact sequence.",
+      "printedPage": "158",
+      "status": "verified",
+      "enSha256": "5b34f0d658cc45b538743d282c13170ef19ecc01b46df2aba1fd28e0201f24d2",
+      "zhSha256": "8f11b79a3b17d6527d051ba88bb8a73269a988f387fdabaebf0952f7eea8b247"
+    },
+    {
+      "pdfPage": 174,
+      "scope": "Full original PNG and complete EN/ZH: snake proof kernel delta inclusion and lift subtraction, completed snake linked crop personally viewed including all kernels/cokernels/curved arrow, direct/inverse-limit opening.",
+      "printedPage": "159",
+      "status": "verified",
+      "enSha256": "fddbbdd898f5979b16f9154f80f656e20b569cbe333a84c12ca2a3d09f8545e9",
+      "zhSha256": "754126335ba5cfe0c433ef1079a714287f3fd0e58d0d673d2fa6cdff2377cd35"
+    },
+    {
+      "pdfPage": 175,
+      "scope": "Full original PNG and complete EN/ZH: directed morphism composition/identity, direct-limit cone and universal diagram linked crops personally viewed, Theorem 10.1 direct-sum quotient relation with negative sign.",
+      "printedPage": "160",
+      "status": "verified",
+      "enSha256": "ba1d7ba0ac1eb8ddcb297b7c929ffc295f7844e864b350389b67690df9a2e70f",
+      "zhSha256": "8e0dd4975f03aeb977f290147bc316bbafcce31c0f465f0cc8ca98d9576e3413"
+    },
+    {
+      "pdfPage": 176,
+      "scope": "Full original PNG and complete EN/ZH: source missing negative component note verified against175 definition, stalk restriction maps/bibliography, inverse transition composition and inverse-cone linked crop personally viewed.",
+      "printedPage": "161",
+      "status": "verified",
+      "enSha256": "a7337cca99274e1c0ed8adb706bfd082e3de42fc87ccf37e6368aebd9220e168",
+      "zhSha256": "f3821172ec8c6e65f16e4b2fc547c92a41340159a181fd0a9f25b7e94587d960"
+    },
+    {
+      "pdfPage": 177,
+      "scope": "Full original PNG and complete EN/ZH: inverse existence proof, p-adic and power-series/ideal-adic examples all projection directions, Noetherian-local Krull hypotheses, Cauchy/null sequence quantifiers.",
+      "printedPage": "162",
+      "status": "verified",
+      "enSha256": "47c5389818ca202bba4cc696fdd0f4735f8660657f5f6a6b2e359bf9460694b0",
+      "zhSha256": "1a810937935d2e7fa2bd5cff527e87482ca332cb2fd7800939ee62fa3ba9d76e"
+    },
+    {
+      "pdfPage": 178,
+      "scope": "Full original PNG and complete EN/ZH: Cauchy quotient completion/isomorphism, truncated polynomial solutions and both references, Iwasawa group rings, roots-of-unity Tate module transition, inverse-system morphism opening.",
+      "printedPage": "163",
+      "status": "verified",
+      "enSha256": "162dcb5d12d0751266b7e007a2da56d14ed1626bc04b38d6d787d912b7942ec5",
+      "zhSha256": "bcf8f2f7f15886ad697c68efe4e9c89b84fbad0afacf250096ad299f474248a2"
+    },
+    {
+      "pdfPage": 179,
+      "scope": "Full original PNG and complete EN/ZH: inverse-morphism linked square crop personally viewed and every index checked, ML stabilization definition, inverse left exactness and Proposition 10.3 with stable coset intersection.",
+      "printedPage": "164",
+      "status": "verified",
+      "enSha256": "08b9508247fdc3570e1b7c9dd77eafb885fefcaf17c1ce883c19477e62675e88",
+      "zhSha256": "7480d6a3ad7d4f720c0ee63493ebae271d01151c2a5322f89767406f31a195cc"
+    },
+    {
+      "pdfPage": 180,
+      "scope": "Full original PNG and complete EN/ZH: ML surjectivity ending, Proposition 10.4 infinite sequence, existing finite-product N-to-N-1 source note proved and N=1 counterexample verified, Exercises1-4(a) all hypotheses/hint.",
+      "printedPage": "165",
+      "status": "verified",
+      "enSha256": "d94edb45d3a952383362fe776880f0db2ec4a9375945de175321af5118f3b2ce",
+      "zhSha256": "0a05954568d220ba376d7abc19f1b81fe6bb1e6b000f37e587cd0c5ef9889b89"
+    },
+    {
+      "pdfPage": 181,
+      "scope": "Full original PNG and complete EN/ZH: Exercises4(b)-7 opening, splitting composition formulas, discrete lattice bounds/hint, Artin-Tate permutation module source and valid missing-stability caveat/counterexample.",
+      "printedPage": "166",
+      "status": "verified",
+      "enSha256": "e2199380b782bf39cf7cf53695ab4a180d3999708f6eb54ed15c4bbc36d3d2b5",
+      "zhSha256": "ddc9caf0461ac3c331b4886a89bfcb0a84ef53ac7f6310f2e4e597de9156e8da"
+    },
+    {
+      "pdfPage": 182,
+      "scope": "Full original PNG and complete EN/ZH: Exercises7-9 complete seminorm axioms, basis norm bound and all hint coefficients, verified existing off-diagonal versus diagonal bound note, height/saturation and localization exactness.",
+      "printedPage": "167",
+      "status": "verified",
+      "enSha256": "724d85047e0f2f6bd1c152c81c5ae1873cb762fc8490fec0f02719601c7365fb",
+      "zhSha256": "7a63f6b688432422aa33818588e62005e86bd8ab2a402b2b8d65ccc83d927fdf"
+    },
+    {
+      "pdfPage": 183,
+      "scope": "Full original PNG and complete EN/ZH: Exercises10-13(b), maximal-versus-prime localization conditions, torsion-free injections, Dedekind projectivity patching with all coefficient subscripts, fractional ideal/dual formulas and free lattice embeddings.",
+      "printedPage": "168",
+      "status": "verified",
+      "enSha256": "a3079b2cb489a234b513998df5da0ef8673a1363964d0166d87f25808300cda5",
+      "zhSha256": "6d72e084d44e8bb6de37cacbc4f0ba4b098ae0ce191fed361d2c905e5bacded6"
+    },
+    {
+      "pdfPage": 184,
+      "scope": "Full original PNG and complete EN/ZH: Exercise13(c),14-17(a), both snake/five-lemma linked crops personally viewed and all arrows/zeros/labels checked, every mono/epi hypothesis, simple-group inverse limit and p-adic ring assertions.",
+      "printedPage": "169",
+      "status": "verified",
+      "enSha256": "ed39a7af11b9254bab9b19ad4186b0c2f6dbeda7e5dd93fbd360c2e3ec7569c2",
+      "zhSha256": "e375b1bc8e299c914143687459f1e0e2695cc8267b3fbb764dec9d322b4155a2"
+    },
+    {
+      "pdfPage": 185,
+      "scope": "Full original PNG and complete EN/ZH: Exercises17(b)-21 partial, profinite integer product, compatible-action linked crop personally viewed, verified T_p(A)-to-T_p(M) source note, Tate direct sum, vanishing-in-limit condition, iterated limits and directed exact systems.",
+      "printedPage": "170",
+      "status": "verified",
+      "enSha256": "b4c292fc8b0055fbcf936d58764e99f7a0dd06a4a5ba28441fb25a17d3d11885",
+      "zhSha256": "38a2e2e8f410d8682d7e010de8c637aacb99f3824e8a84f39acf8f0fb16c29b6"
+    },
+    {
+      "pdfPage": 186,
+      "scope": "Full original PNG and complete EN/ZH: Exercises21 ending and22-26 all formulas/hints, Hom products, existing finite-presentation correction to23 verified, presented-module relation sequence,26 injectivity/isomorphism hypotheses and full linked Hom-comparison crop personally viewed.",
+      "printedPage": "171",
+      "status": "verified",
+      "enSha256": "a64b2872808d7418c59669fd70f063ca50d2fc07787e22880b7d1182e01aaba0",
+      "zhSha256": "b9e668c03d1aea681e4b71fadf4cf21650691b8ed57ca7063ecdb4e41a46f89d"
+    },
+    {
+      "pdfPage": 187,
+      "scope": "Full original PNG and final complete EN/ZH reread: filtered/graded algebra definitions, Exercises27-29 every quantifier/formula, original Ex28 extra L(c)L(a) condition restored with neutral left-identity range note, verified x_nn-to-x_1n source note, nilpotent bound and exp/log bijection.",
+      "printedPage": "172",
+      "status": "verified",
+      "enSha256": "0458ee0e20b34f23c213ebdb65fab0921d439a606d09d2935c9664146ace308f",
+      "zhSha256": "74ac165656f54d98f78261c4d033d97df30633f3e2b57eef311a5ac985f276e0"
+    }
+  ],
+  "corrections": [
+    {
+      "pdfPage": 187,
+      "language": "zh",
+      "location": "Exercise28 and visible range note",
+      "change": "Restored source additional condition L(ca)=L(c)L(a), replacing unsupported must-correct claim by precise distinction from ordinary scalar linearity and equivalence to left identity on L(A).",
+      "sourceRetainedInEnglish": true
+    }
+  ],
+  "sourceNotesVerified": [
+    {
+      "pdfPage": 140,
+      "location": "Hilbert-space example",
+      "source": "bounded hermitian operator on A",
+      "resolution": "Existing visible Chinese note accurately explains on H; original image prints A and EN preserves it."
+    },
+    {
+      "pdfPage": 141,
+      "location": "Functoriality identity",
+      "source": "F(id_K)=id_{K'}",
+      "resolution": "Existing visible Chinese note corrects target to id_{F(K)}, forced by identity functor axiom; EN preserves source."
+    },
+    {
+      "pdfPage": 143,
+      "location": "Coproduct universal map",
+      "source": "f ... is also an A-isomorphism",
+      "resolution": "Existing visible Chinese note correctly gives A-homomorphism; arbitrary family can consist of zero maps and need not induce an isomorphism."
+    },
+    {
+      "pdfPage": 149,
+      "location": "Vector-bundle category example",
+      "source": "the category of vector bundles over a topological space is an abelian category",
+      "resolution": "Existing visible Chinese caveat is valid: variable-rank bundle morphisms need not have bundle kernels/cokernels. E.g. multiplication by coordinate x on the trivial line over R is a noninvertible categorical monomorphism and epimorphism, violating AB4. Source sentence is faithfully preserved."
+    },
+    {
+      "pdfPage": 158,
+      "location": "Theorem 6.1 proof",
+      "source": "b_i in K",
+      "resolution": "Source image prints K. A is the theorem's coefficient ring and no K is introduced; existing visible note correcting to A is valid; EN preserves K."
+    },
+    {
+      "pdfPage": 158,
+      "location": "Corollary 6.2",
+      "source": "x in V",
+      "resolution": "Source image prints V. Natural bidual map is defined on E, so existing visible note correcting to E is forced; EN preserves V."
+    },
+    {
+      "pdfPage": 160,
+      "location": "Theorem 6.4 proof conclusion",
+      "source": "surjective and inverse to each other",
+      "resolution": "Existing visible note valid: arrows have domains V/W and V'/W' and codomains the respective opposite duals, so they are dual identifications rather than directly inverse functions. Both are isomorphisms by finite dimension. EN preserves source."
+    },
+    {
+      "pdfPage": 166,
+      "location": "Primary decomposition representatives",
+      "source": "x_2,...,x_r and x_1,...,x_r",
+      "resolution": "Existing visible note corrects both bounds to s; preceding quotient basis indexed through s determines representatives, source image and EN retain r."
+    },
+    {
+      "pdfPage": 167,
+      "location": "Alternative invariant-factor decomposition",
+      "source": "d terms",
+      "resolution": "Existing visible note corrects d to s, matching displayed q'_1 through q'_s and following r<=s; EN preserves d."
+    },
+    {
+      "pdfPage": 168,
+      "location": "Theorem 7.8 quotient decomposition",
+      "source": "(R/q_jR) bar e_j",
+      "resolution": "Existing visible note corrects generator to bar e_{s+j}, since a_{s+j}=q_j and first s unit factors have zero residue classes. Exact source e_j preserved in EN."
+    },
+    {
+      "pdfPage": 171,
+      "location": "Filtration length",
+      "source": "we call r the length",
+      "resolution": "Existing visible note correctly counts r-1 adjacent factors for indices M_1 through M_r=0; next page sum has r-1 terms and simple module length1, fixing additive convention."
+    },
+    {
+      "pdfPage": 176,
+      "location": "Direct-limit relation explanatory prose",
+      "source": "f_j^i(x) in M_j",
+      "resolution": "Original image omits negative sign in prose. Existing visible note accurately points to175 relation with -f_j^i(x); both source prose and displayed relation faithfully retained."
+    },
+    {
+      "pdfPage": 180,
+      "location": "Proposition 10.4 finite-product proof",
+      "source": "both finite products run n=1 through N",
+      "resolution": "Existing note accurately preserves source but corrects target to product1..N-1; kernel consists of compatible vectors, surjectivity follows backward recursion. For N=1 original1-u identity has zero kernel despite C1 inverse limit; definitive source error."
+    },
+    {
+      "pdfPage": 181,
+      "location": "Exercise6 Artin-Tate",
+      "source": "M a full-rank subgroup without G stability",
+      "resolution": "Existing source note valid: swap two basis points sends 2Z[s1] direct-sum Z[s2] to a different subgroup. Claimed permuted basis forces stability. Note carefully avoids claiming stability alone sufficient."
+    },
+    {
+      "pdfPage": 182,
+      "location": "Exercise7(b) hint coefficient bound",
+      "source": "0<=n_{j,k}<=d-1 without k range",
+      "resolution": "Existing visible note properly interprets off-diagonal k<j only; minimal positive diagonal n_{j,j}<=d since d v_j belongs to dM. At d=1 diagonal1 cannot satisfy upper0; source condition retained."
+    },
+    {
+      "pdfPage": 185,
+      "location": "Exercise18(b)",
+      "source": "T_p(A)",
+      "resolution": "Given group is M and no group A is introduced; existing visible note correcting to T_p(M) is forced, EN preserves A."
+    },
+    {
+      "pdfPage": 186,
+      "location": "Exercise23 Hom and filtered colimits",
+      "source": "For any module N",
+      "resolution": "Existing visible correction to finite presentation verified: arbitrary infinite direct sum N and directed finite partial sums M_i=N_i yield identity N->N not factoring through any finite partial sum. Finite presentation suffices via finite generator/relation lifting, as26 states; categorical converse uses25."
+    },
+    {
+      "pdfPage": 187,
+      "location": "Exercise28 scalar condition",
+      "source": "L(ca)=L(c)L(a)",
+      "resolution": "Previous Chinese assertion that this must be corrected to cL(a) was too strong. Original condition restored in ZH; visible note explains ordinary linearity gives cL(a), while original condition can impose L(1)L(a)=L(a) additionally. Both original stronger and ordinary filtered-linear hypotheses prove (a),(b). Root approved neutral range note."
+    },
+    {
+      "pdfPage": 187,
+      "location": "Exercise29(a) last upper diagonal",
+      "source": "x_nn",
+      "resolution": "Original image prints x_nn. Existing visible correction to x_1n forced by D1..D_(n-1)=0; x_nn is on main diagonal and cannot be the possible surviving corner."
+    }
+  ],
+  "unresolved": [],
+  "completion": {
+    "actualOriginalImagesViewed": 56,
+    "fullBilingualPagesCompared": 56,
+    "finalManuscriptsHashVerified": 112,
+    "unresolvedIssues": 0
+  }
+}

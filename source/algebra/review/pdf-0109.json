@@ -1,0 +1,12 @@
+{
+  "pdfPage": 109,
+  "printedPage": "94",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Chinese Remainder Theorem proof: original y_1 = 0 (mod product ideal) notation is preserved in both languages; equals with explicit mod context denotes congruence."
+  ]
+}

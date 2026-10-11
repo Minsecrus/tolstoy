@@ -1,0 +1,13 @@
+{
+  "pdfPage": 482,
+  "printedPage": "471",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "English preserves positive omega_1 in the limiting equation; Chinese corrects to -omega_1 with adjacent note referencing the previous-page equation.",
+    "The unique scaling integer s requires xi nonzero; Chinese states the missing condition with adjacent note and observes the conclusion holds trivially at zero."
+  ]
+}

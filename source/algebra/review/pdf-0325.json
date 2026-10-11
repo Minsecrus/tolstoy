@@ -1,0 +1,13 @@
+{
+  "pdfPage": 325,
+  "printedPage": "311",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visually verified r=1 lower bound as printed, pointwise p-power character notation, sigma_j inverse sigma_i order and p^{n(s-r)} exponent.",
+    "Source calls pointwise p-power maps automorphisms; they are multiplicative characters and need not be surjective over an imperfect field. EN preserves term with note; ZH corrects term with visible explanatory note."
+  ]
+}

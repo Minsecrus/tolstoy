@@ -1,0 +1,13 @@
+{
+  "pdfPage": 737,
+  "printedPage": "728",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Printed page 728 logarithmic derivative has factor -1/N with N undefined in the exercise. English retains the expression. Chinese removes 1/N with an adjacent visible translator editorial note deriving the derivative from the root product and identifying the power-sum trace. Part (b) Z_F and the induction formula in part (c) remain as printed; no unproved reconstruction of the exercise is substituted.",
+    "Independent second mathematical audit: 增加L_F等型分量行列式与重数空间行列式相差dχ次幂的有限条件说明，原(b)(c)/假设完整保留，不猜N或新的L定义。"
+  ]
+}

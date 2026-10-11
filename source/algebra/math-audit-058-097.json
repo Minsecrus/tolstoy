@@ -1,0 +1,433 @@
+{
+  "scope": {
+    "pdfPageStart": 58,
+    "pdfPageEnd": 97,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Second reviewer viewed every original PNG with view_image, then compared all saved inline and displayed mathematics and theorem/exercise hypotheses in both languages. Linked raster diagrams separately visually inspected. Original text extraction and translator flags were not accepted as proof of formula accuracy."
+  },
+  "originalImagesViewed": [
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+  ],
+  "auditedPages": [
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+  ],
+  "unreviewedPages": [],
+  "status": "complete",
+  "pages": [
+    {
+      "page": 58,
+      "printedPage": 43,
+      "status": "verified",
+      "scope": "A_m=A_r+A_s (m=rs, r,s coprime); ur+vs=1; urx∈A_s; vsx∈A_r; m=∏_{p|m}p^{e(p)} ⇒ A_m=∑_{p|m}A_{p^{e(p)}}; ⊕A(p)→A; Q/Z: a/p^k; a∈Z, k positive; b≠0, k≥0, p^k b≠0; period p^m ⇒ period(b)=p^{k+m}; n≥k and n≥k+m; r_1≥…≥r_s≥1; Lemma8.3 bbar∈A/A_1 period p^r ⇒ lift a same period"
+    },
+    {
+      "page": 59,
+      "printedPage": 44,
+      "status": "verified",
+      "scope": "p^r b=na_1; n≥0; n=p^k μ with μ prime to p; k≤r_1; period(p^k μa_1)=p^{r_1-k}; period(b)=p^{r+r_1-k}; r+r_1-k≤r_1 ⇒ r≤k; p^r b=p^r c; a=b−c; p^r a=0; A/A_1=Abar_2×…×Abar_s; orders p^{r_2},…,p^{r_s}; r_2≥…≥r_s; xbar=m_2 abar_2+…+m_s abar_s; m_i≥0 i=2,…,s; x=m_1a_1+…+m_sa_s; 0=m_1a_1+…+m_sa_s; m_i<p^{r_i}; (A_1+…+A_i)∩A_{i+1}=0; i≥1; two types (p^{r_1},…,p^{r_s}) and (p^{m_1},…,p^{m_k})"
+    },
+    {
+      "page": 60,
+      "printedPage": 45,
+      "status": "verified",
+      "scope": "pA types (p^{r_1−1},…,p^{r_s−1}) and (p^{m_1−1},…,p^{m_k−1}); r_i−1 or m_j−1≥1 ⇒ r_i=m_i for those i; tails p repeated ν and μ; order p^{r_1+…+r_n}p^ν=p^{r_1+…+r_n}p^μ ⇒ ν=μ; v_1x_1+…+v_nx_n=0 ⇒ v_j=0; my+m_1x_1+…+m_nx_n=0; m,m_i not all zero"
+    },
+    {
+      "page": 61,
+      "printedPage": 46,
+      "status": "verified",
+      "scope": "m≠0,mA⊂B; x↦mx; injection; A_tor finite; A/A_tor free; A=A_tor⊕B; F→^φ A; φ^{-1}(A_tor); m xbar=0,m≠0; mx∈A_tor ⇒ qmx=0,q≠0; rank A=rank(A/A_tor); m≥1; mx=0; A^∧=Hom(A,Z_m); f:A→B ⇒ f^∧:B^∧→A^∧"
+    },
+    {
+      "page": 62,
+      "printedPage": 47,
+      "status": "verified",
+      "scope": "f^∧(ψ)=ψ∘f; id^∧=id; (f∘g)^∧=g^∧∘f^∧; A=B×C ⇒ A^∧≅B^∧×C^∧; diagram B×C →^f B down-left, →^g C down-right; dual B^∧→^{f^∧}(B×C)^∧ up-right, C^∧→^{g^∧}(B×C)^∧ up-left; (ψ_1,ψ_2)(x,y)=ψ_1(x)+ψ_2(y); ψ(x,y)=ψ(x,0)+ψ(0,y); ψ_1(x)=ψ(x,0); ψ_2(y)=ψ(0,y); n|m; Z_n cyclic unique subgroup order n in Z_m"
+    },
+    {
+      "page": 63,
+      "printedPage": 48,
+      "status": "verified",
+      "scope": "ψ_1:A→Z_n; ψ_1(x)=y; 0≤k<n; (kψ_1)(x)=k·ψ_1(x)=ψ_1(kx); source says maps x to kx of Z_n although y chosen generator, potential printed variable issue preserve x; A×A'→C; (x,x')↦〈x,x'〉; x'↦〈x,x'〉 and x↦〈x,x'〉 homomorphisms; A×Hom(A,C)→C; (x,f)→f(x); orthogonal if 〈x,x'〉=0 ∀x'∈S'; A×A'→C kernels B,B'; x' yields ψ_{x'}:A/B→C"
+    },
+    {
+      "page": 64,
+      "printedPage": 49,
+      "status": "verified",
+      "scope": "x'=y' mod B' ⇒ ψ_{x'}=ψ_{y'}; 0→A'/B'→Hom(A/B,C); 0→A/B→Hom(A'/B',C); mψ_{x'}=ψ_{mx'}=0; Theorem9.2 assumes A'/B' finite; ord A/B≤ord(A'/B')^∧=ord A'/B'; ord A'/B'≤ord(A/B)^∧=ord A/B; B^⊥={φ∈A^∧:φ(B)=0}; A^∧/B^⊥≅B^∧; n=0,1,…; n≥1 f_n:G_n→G_{n−1}; x_{n−1}=f_n(x_n)"
+    },
+    {
+      "page": 65,
+      "printedPage": 50,
+      "status": "verified",
+      "scope": "A_n=A; f_n=p_A; x_0=0; A[p^n]=ker(p_A^n); T_p(A)=lim← A[p^{n+1}] (n+1 exponent); μ[p^∞]=∪_n μ[p^n]; T_p(μ)=lim← μ[p^n]; H_n⊃H_{n+1}; f_n:G/H_n→G/H_{n−1}; g:G→lim← G/H_n; G_n=Z/p^{n+1}Z,n≥0; f_n:Z/p^{n+1}Z→Z/p^n Z"
+    },
+    {
+      "page": 66,
+      "printedPage": 51,
+      "status": "verified",
+      "scope": "i≤i; i≤j,j≤k ⇒ i≤k; i≤j,j≤i ⇒ i=j; directed common upper bound k; f_i^j:G_j→G_i; k≤i≤j; f_k^i∘f_i^j=f_k^j; f_i^i=id (enlarged original reinspection confirms upper j lower i); G=∏G_i; Γ compatibility f_i^j(x_j)=x_i for j≥i; Γ=lim←G_i; finite-index normal H,K ⇒ H∩K finite-index; F_p p-power index; k=Q and A algebraic closure Q; G/H with H=Gal(A/K); X genus≥2; p:X'→X; C(X)=F⊂C(X')=F'; π_1(X)↪Gal(F'/F)"
+    },
+    {
+      "page": 67,
+      "printedPage": 52,
+      "status": "verified",
+      "scope": "H_r⊃H_{r+1}, finite index; m,n≥N ⇒ x_n x_m^{-1}∈H_r; null all n≥N ⇒ x_n∈H_r; kernel G→completion=∩H_r; completion≅lim← G/H_r; sequence (x(1),x(2),…); general Cauchy x_j with k,k'≥j ⇒ x_k x_{k'}^{-1}∈H; cofinal: every H∈F has H_i⊂H; lim←_i G/H_i≅lim←_{H∈F}G/H"
+    },
+    {
+      "page": 68,
+      "printedPage": 53,
+      "status": "verified",
+      "scope": "Ob(C); Mor(A,B); composition Mor(B,C)×Mor(A,B)→Mor(A,C); CAT1 disjoint unless A=A',B=B'; CAT2 id_A∈Mor(A,A) acts right identity Mor(A,B) and left identity Mor(B,A); CAT3 (h∘g)∘f=h∘(g∘f), f:A→B,g:B→C,h:C→D; Ar(C) arrows"
+    },
+    {
+      "page": 69,
+      "printedPage": 54,
+      "status": "verified",
+      "scope": "f:A→B; g:B→A; g∘f=id_A,f∘g=id_B; End(A) monoid; Aut(A) group; S,Grp,Mon; C^0 category open subsets R^n continuous; C^∞ same objects smooth; Hol open C^n holomorphic; continuous f:U→V inverse g:V→U; x↦x^3 C^0 automorphism R inverse not differentiable"
+    },
+    {
+      "page": 70,
+      "printedPage": 55,
+      "status": "verified",
+      "scope": "disc maps z↦e^{iθ}(c−z)/(1−bar c z); θ real,c∈C,|c|<1; G-map f:S→S':f(xs)=xf(s); ρ:G→Aut(A); Aut(B) on Iso(A,B); (v,u)↦v∘u; v↦v∘u_0 bijection, inverse u↦u∘u_0^{-1}"
+    },
+    {
+      "page": 71,
+      "printedPage": 56,
+      "status": "verified",
+      "scope": "conjugation w↦uwu^{-1}:Aut(A)→Aut(B); diagram square A→^u B top/bottom; left ↓w; right ↓uwu^{-1}; representation square A→^h A' top/bottom; left ↓ρ(x);right ↓ρ'(x); [h] conjugation by h; triangle G→^ρ Aut(A), G→^{ρ'} Aut(A'), Aut(A)↓^{[h]}Aut(A'); ρ:G→Aut(A); x·a=ρ_x(a)"
+    },
+    {
+      "page": 72,
+      "printedPage": 57,
+      "status": "verified",
+      "scope": "x·(y·a)=(xy)·a; x·(a+b)=x·a+x·b;e·a=a;x·0=0; arrow category square A→^f B; A'→^{f'}B'; ↓φ,↓ψ; slice C_A objects f:X→A; g:Y→A; h:X→Y with g∘h=f; universal attractor each object→P unique; repellor P→each unique"
+    },
+    {
+      "page": 73,
+      "printedPage": 58,
+      "status": "verified",
+      "scope": "g∘f=f' for S→A, S→A'; γ:M→K(M) canonical homomorphism commutative monoid; product P→^f A, P→^g B; φ:C→A,ψ:C→B; h:C→P; φ=f∘h,ψ=g∘h; diagram C top,P center,A/B bottom; C↓h P,C↙φ A,C↘ψ B,P↙f A,P↘g B"
+    },
+    {
+      "page": 74,
+      "printedPage": 59,
+      "status": "verified",
+      "scope": "product f_i:P→A_i;g_i:C→A_i; h:C→P; f_i∘h=g_i; A=∏_{i∈I} A_i, p_i:A→A_i; group g:G'→∏G_i; g(x')_i=g_i(x'); product objects (f:C→A,g:C→B); morphism h:C→C' with f'∘h=f,g'∘h=g; coproduct f_i:A_i→S;g_i:A_i→C; h:S→C;h∘f_i=g_i"
+    },
+    {
+      "page": 75,
+      "printedPage": 60,
+      "status": "verified",
+      "scope": "sets T disjoint from S same cardinal S'; f_1:S→S id; f_2:S'→T bijection;U=S∪T; pointed sets T∩S={x}; U=S∪T; f_1:(S,x)→(U,x),f_2:(S',x')→(U,x), x'→x, S'−{x'}≅T−{x}; coproduct category φ:B→B'; φ∘f_i=f_i'; ∐_{i∈I} A_i; A∐B; commutative ring coproduct A⊗B; a↦a⊗1,b↦1⊗b"
+    },
+    {
+      "page": 76,
+      "printedPage": 61,
+      "status": "verified",
+      "scope": "C_Z: f:X→Z; h:X→Y; g∘h=f; fiber product X×_Z Y projections p_1 to X,p_2 to Y; f:X→Z,g:Y→Z; abelian pullback={(x,y)∈X×Y:f(x)=g(y)}; coproduct f:Z→X,g:Z→Y;(X⊕Y)/W,W={(f(z),−g(z)):z∈Z} (minus!); p_1 pullback of g by f;p_2 pullback of f by g; T→X,T→Y diamond to Z"
+    },
+    {
+      "page": 77,
+      "printedPage": 62,
+      "status": "verified",
+      "scope": "unique T→X×_Z Y; triangle T bottom→product top; product→X,Y; T→X,Y; C^Z objects maps Z→X; fiber coproduct X∐_Z Y;q_1:X→X∐_Z Y,q_2:Y→X∐_Z Y; f:Z→X,g:Z→Y; q_1 pushout of g by f,q_2 pushout of f by g; FUN1 F(id_A)=id_{F(A)};FUN2 F(g∘f)=F(g)∘F(f); f∘g=id ⇒ F(f)∘F(g)=id"
+    },
+    {
+      "page": 78,
+      "printedPage": 63,
+      "status": "verified",
+      "scope": "contravariant F(f):F(B)→F(A);F(g∘f)=F(f)∘F(g); f_* covariant,f^* contravariant; S↦F_ab(S); A↦T_p(A), Z_p-modules; (X,x_0)↦π_1(X,x_0) covariant; maps f:X→Y,f(x_0)=y_0"
+    },
+    {
+      "page": 79,
+      "printedPage": 64,
+      "status": "verified",
+      "scope": "section g:Y→X of f:X→Y with g∘f=id (source convention); H(Y)={e},H(X)≠{e}, H(g∘f)=id,H(f)=trivial; M_A:C→S;M_A(X)=Mor(A,X);φ:X→X';M_A(φ):Mor(A,X)→Mor(A,X');g↦φ∘g; M^B(Y)=Mor(Y,B);ψ:Y'→Y;M^B(ψ):Mor(Y,B)→Mor(Y',B);f↦f∘ψ; X↦Hom(A,X) covariant; X↦Hom(X,A) contravariant; X↦M⊗X"
+    },
+    {
+      "page": 80,
+      "printedPage": 65,
+      "status": "verified",
+      "scope": "Mor(X,P) product Mor(X,A),Mor(X,B); H:L→M;H_X:L(X)→M(X); square top H_X,bottom H_Y,left L(f),right M(f) down; group object G: X↦Mor(X,G) group functor; G(X); Pic(X) contravariant;Pic_0(X) algebraically equivalent0 representable"
+    },
+    {
+      "page": 81,
+      "printedPage": 66,
+      "status": "verified",
+      "scope": "λ_j:G_j→∏_i G_i; i≠j unit, i=j x; S⊂G; φ:S→G generates;f:S→F,g:S→G unique-at-most ψ:F→G; diagram S→^f F; S↘^g G; F↙^ψ G; ψ∘f=g; category S maps f':S→G';φ:G→G';φ∘f=f'; Prop12.1 free(F,f), f injective,F generated f(S)"
+    },
+    {
+      "page": 82,
+      "printedPage": 67,
+      "status": "verified",
+      "scope": "finiteS G finite/countable; infiniteS |G|≤|S|; Γ_H group structures on H; H_γ; M_i=maps S→G_i; G_{i,φ}=G_i×{φ};F_0=∏_{i∈I}∏_{φ∈M_i}G_{i,φ}; f_0:S→F_0;ψ_*:F_0→G;ψ_*∘f_0=g; λ:G→G_i isomorphism, λ∘g∈M_i; π_{i,ψ} projection on (i,ψ) factor; ψ_*=λ^{-1}∘π_{i,ψ} (source switches symbol to ψ); diagram S→^f0 F0,S↓g G,F0↓π_{i,ψ}G_{i,ψ},G→^λG_{i,ψ},F0↙ψ_*G; F⊂F0 generated f0(S);g_* restriction ψ_* to F"
+    },
+    {
+      "page": 83,
+      "printedPage": 68,
+      "status": "verified",
+      "scope": "(F(S),f_S);g_*:F(S)→G; λ:S→S';F(λ):F(S)→F(S')=(f_{S'}∘λ)_*;diagram λ_* =F(λ) right down; surjective λ ⇒ surjective F(λ); g_*:F(S)→G surjective canonical; relations R⊂F(S); words ∏_{ν=1}^n x_ν;N smallestnormal containingR;F(S)/N"
+    },
+    {
+      "page": 84,
+      "printedPage": 69,
+      "status": "verified",
+      "scope": "one generator a relation {a^2} ⇒ order2;ψ(x)=e∀x∈R; x^2=e∀x∈G finitelygenerated ⇒ vector space Z/2Z; [x,y]=xyx^{-1}y^{-1}; ^x y=xyx^{-1}; [x,yz]=[x,y] ^y[x,z]; [x,y]=y,[y,z]=z,[z,x]=x ⇒ x=y=z=e; SL_2(F),det1;u(b)=[[1,b],[0,1]],s(a)=[[a,0],[0,a^{-1}]],w=[[0,1],[−1,0]],a≠0"
+    },
+    {
+      "page": 85,
+      "printedPage": 70,
+      "status": "verified",
+      "scope": "SL0 s(a)=wu(a^{-1})wu(a)wu(a^{-1}); SL1 u additive;SL2 s multiplicative;SL3 w^2=s(−1);SL4 s(a)u(b)s(a^{-1})=u(ba^2); w^4=e;SL5 ws(a)=s(a^{-1})w; G→SL_2(F) isomorphism; p-adicQ_p;SL_2(Q_p); Prop12.3 coproduct; {g_i:G_i→G}_{i∈I}"
+    },
+    {
+      "page": 86,
+      "printedPage": 71,
+      "status": "verified",
+      "scope": "φ={φ_i:G_i→S_γ};F0=∏_{γ∈Γ}∏_{φ∈Φ_γ}(S_γ,φ); f_i:G_i→F0; cardG≤cardS;embed G in G×S_γ ⇒cardG=cardS; g_*:F0→G; g_*∘f_i=g_i; printed final restriction sentence f_i∘g_*=g_i reversed; intended g_*∘f_i=g_i; explicit correction note needed; G2 order2,G3order3;S^2=1,(ST)^3=1;G=SL_2(Z)/±1"
+    },
+    {
+      "page": 87,
+      "printedPage": 72,
+      "status": "verified",
+      "scope": "S(z)=−1/z,T(z)=z+1;S=[[0,−1],[1,0]],T=[[1,1],[0,1]]; S^2=1,(ST)^3=1 in quotient; Prop12.4 x=x_{i1}…x_{in},x_{iν}∈G_{iν},x_{iν}≠e,i_ν≠i_{ν+1} allν ⇒ x≠e; natural coproduct→G identity maps Gi isomorphism"
+    },
+    {
+      "page": 88,
+      "printedPage": 73,
+      "status": "verified",
+      "scope": "A∩B={1}; A∘B; nonunit a_1…a_n,n≥1,a_i≠1 alternating; sequence (a_1,…,a_n),n≥0;product concat if ends differ; merge a_nb_1 if same and≠1; recursively(a_1,…,a_{n−1})(b_2,…,b_m) if a_nb_1=1; inverse tuple(a_n^{-1},…,a_1^{-1});c=(c_1,…,c_r); m=1,b=(x),x∈A,x≠1; four cases on p73 recorded; first concat with a_n,c_1∈B; merge a_nx or xc_1; cancel a_n=x^{-1}"
+    },
+    {
+      "page": 89,
+      "printedPage": 74,
+      "status": "verified",
+      "scope": "continuing3 cases: (a…a_n)(c_2…c_r) if a_n∈B,c_1=x^{-1}; (a…a_{n−1},a_nxc_1,c_2…c_r) if ends∈A, a_nxc_1≠1; (a…a_{n−1})(c_2…c_r) if a_nxc_1=1; (ab)c=(a(b'b''))c=((ab')b'')c=(ab')(b''c);a(bc)=a((b'b'')c)=a(b'(b''c))=(ab')(b''c); Cor12.6 distinct x1…xn,v_j≠0,1≤i_j≤n,i_j≠i_{j+1},j=1,…,r−1; x_{i1}^{v1}…x_{ir}^{vr}≠1; G=G1∘…∘Gn;F(S)→G;Cor12.7 infinite cyclic Gi,n≥1;Cor12.8 Gi∩Gj={1} i≠j;G1∐…∐Gn→G1∘…∘Gn"
+    },
+    {
+      "page": 90,
+      "printedPage": 75,
+      "status": "verified",
+      "scope": "Ex1 order≤5;Ex2 order4;Ex3 aba^{-1}b^{-1},G^c;quotientG/G^c; Ex4 K⊂N_H;#HK=#H#K/#(H∩K); Ex5 H⊂G×G';surjective p1,p2;N=kerp2,N'=kerp1;G/N≃G'/N'; Ex6 innerautomorphisms normal AutG;Ex7 cyclicAutG⇒Gabelian; Ex8doublecoset HxH';[a]H'=aH'a^{-1};source H=∪_c x_c(H∩[c]H'), G=∪_{x_c}∪_{x_c}x_c cH'; both indices errors; intended first∪_{x_c}, second outer∪_c. ENpreserve ZHcorrectwithnote; Ex10 general groupG,Hfiniteindex ⇒ finitelymanyrightcosets equalsleftcosets; Ex10 finitely generatedG,Hfiniteindex ⇒ finitelymany leftcosets≤indexH"
+    },
+    {
+      "page": 91,
+      "printedPage": 76,
+      "status": "verified",
+      "scope": "Ex11 normalabelian A;G/A→AutA conjugation; Ex12 Nnormal; f:H→AutN;H∩N={e};(x,y)↦xy H×N→HN isom iff ftrivial; semidirectG=NH,H∩N={e};ψ:H→AutN;(x1,h1)(x2,h2)=(x1 ψ(h1)x2,h1h2);N=(x,1),H=(1,h); Ex13 normalH,N finiteorderscoprime⇒xy=yx,H×N≃HN;pairwisecoprimeHi⇒H1×…×Hr≃H1…Hr; Ex14 normalN withN,G/N coprimeorders;|H|=|G/N|⇒G=HN;automorphismg(N)=N; Ex15 #S≥2 transitive⇒fixedpointfree element;Ex17 #C=∑_{x∈X}φ(x)"
+    },
+    {
+      "page": 92,
+      "printedPage": 77,
+      "status": "verified",
+      "scope": "Ex18 #Map(S,T)=(#T)^{#S}; Ex19 ∑_{t∈Gs}1/#Gt=1; orbitcount=(1/#G)∑_{x∈G}f(x); Ex20 normalAorderp inp-group central;Ex21 P_H=P∩H forSylowP ofG;Ex22normalHorderp containedeverySylow; Ex23 P'⊂N(P)⇒P'=P;N(P')=N(P)⇒P'=P;N(N(P))=N(P); Ex24orderp²abelian2isomtypes;Ex25Gnonabelianorderp³,Z≃C,G/Z≃C×C;orderp²subgroups containZ normal; x^p=1∀x⇒normalH≃C×C; Ex26orderpq p<q,q≢1modp ⇒cyclic;order15cyclic;Ex27order<60solvable;Ex28orderp²q distinctp,q solvableoneSylownormal;Ex29order2pq p,qoddsolvable"
+    },
+    {
+      "page": 93,
+      "printedPage": 78,
+      "status": "verified",
+      "scope": "Ex30orders40,12 oneSylownormal;Ex31order≤10, nonabelian6≃S3;Ex32SylowS3,S4,S5 p=2,3; Ex33e(σ)=(−1)^m,m=n−numberorbits=∑_{ν=1}^r(cardIν−1);e(στ)=−e(σ) fortranspositionτ; Ex34a nevenpositiveorder2n:σ^n=e=τ²,στ=τσ^{n−1};34b noddD4n matrices[[0,−1],[1,0]],[[ζ,0],[0,ζ^{-1}]],ζprimitiventh,order4n; Ex35nonabelianorder8:σ⁴=1,τ²=1,τστ=σ³;otherquaternion; Ex36σ=[123…n] class(n−1)!;centralizercyclic;Ex37 γσγ^{-1}=[γ(i1)…γ(im)];r=s,d_i=d'_i; Ex38a S_n generated[12],[13],…,[1n];38b [12],[23],[34],…,[n−1,n]"
+    },
+    {
+      "page": 94,
+      "printedPage": 79,
+      "status": "verified",
+      "scope": "Ex38c [12],[123…n];38d nprime,σncycle,τ=[rs] transpositiongenerateSn; n-transitive σs_i=s_i';Ex39An(n−2)transitive; Ex40 H_j≃A_{n−1},(An:Hj)=n,n≥3;Hindexn;conjugationinnerSn iffH=Hi; Ex41simpleHorder60,H↪A6,H≃A5,A6outer not inducedinnerS6; Ex42Q/Z unique cyclic subgroupordern,n≥1;Ex43 finiteabelianG subgroup≃G/H; Ex44 A^f=image,A_f=kernel; similarlyB; (A:B)=(A^f:B^f)(A_f:B_f); Ex45 f(x)=σx−x,g(x)=x+σx+…+σ^{n−1}x;q(A)=(A_f:A^g)/(A_g:A^f);GB⊂B;q(A)=q(B)q(A/B);Afinite⇒q(A)=1"
+    },
+    {
+      "page": 95,
+      "printedPage": 80,
+      "status": "verified",
+      "scope": "Ex46 S=∪S_i,G-stablepartition,transitive,#S>1;primitiveiff isotropyHmaximal; Ex47 finiteG faithfullytransitive,#S≥2;Hstabilizers;2transitiveiffHtransitive onS−{s};iffG=HTH,Torder2notinH; #G=d(n−1)n,dpointwise stabilizer2points,(G:H)=n;Hmaximal; Ex48∑_{x∈G}f(x)=#G; doublytransitiveiff∑f(x)^2=2#G; Ex49Set(G),F:Set(G)→Set forgetful;AutF≃G"
+    },
+    {
+      "page": 96,
+      "printedPage": 81,
+      "status": "verified",
+      "scope": "Ex50X×_Z Y={(x,y):f(x)=g(y)};pullbacksurjective; Ex51 h:T→Z;F(X)=Mor_Z(T,X);Fproducts-over-Z→setproducts; Ex52 X⊕_Z Y=(X⊕Y)/W;W={(f(z),−g(z)):z∈Z};pushoutinjective; Ex53 f:H→G,g:H→G';coproductoverH; Ex54 S_i⊂S;s∈S−∪S_i;forg∈G_i−{e}:gS_j⊂S_i forallj≠i,g(s)∈S_i;g1…gm=id onS; Ex55 M∈GL2C,[[a,b],[c,d]];M(z)=(az+b)/(cz+d),z=−d/c,c≠0 ⇒∞;C∪{∞};W=^t(w1,w2),W'=^t(w1',w2')"
+    },
+    {
+      "page": 97,
+      "printedPage": 82,
+      "status": "verified",
+      "scope": "Ex55 twofixedpoints≠∞;w=w1/w2,w'=w1'/w2';W=^t(w,1),W'=^t(w',1);|λ|<|λ'|;z≠w;lim_{k→∞}M^k(z)=w';S=(W,W');S^{-1}M^kS(z)=α^kz,α=λ/λ'; Ex56 eachMi two distinctcomplexfixedpoints,|λ_i|<|λ_i'|;all2rfixedpointsdistinct;positivek makesMi^k freegenerators;S_i=U_i∪U_i';soutside;G_i=〈M_i^k〉;diagram two disks centerswi,wi', labelsUi,Ui' andsoutside; Ex57G_Y={g:gY∩Y≠∅};GbarY=〈G_Y〉;GbarY Y and(G−GbarY)Ydisjoint;source hint g2y1=g2y2 (confirmed enlarged), corrected ZH g1y1=g2y2 with note; then g2^{-1}g1y1=y2 ⇒g2^{-1}g1∈G_Y ⇒g2∈GbarY; applicationX=GY,no nontrivialdisjointdecomposition ⇒G−GbarY=∅;example1 connectedX,openY;example2Gdiscrete connectedX closedY,allunionsclosed"
+    }
+  ],
+  "findings": [
+    {
+      "pdf": 63,
+      "type": "source_typo",
+      "status": "resolved_verified",
+      "source": "Target generator printed kx despite y defined in Z_n.",
+      "expected": "EN kx retained; ZH ky with visible 译校注",
+      "reported_to": "algebra_058_067",
+      "resolution": "EN retains kx; ZH ky with adjacent visible source typo note verified in file."
+    },
+    {
+      "pdf": 66,
+      "type": "auditor_false_positive",
+      "status": "resolved_no_source_edits",
+      "source": "f_i^j:G_j→G_i; f_k^i∘f_i^j=f_k^j; f_i^j(x_j)=x_i.",
+      "observed": "Auditor initially misread small indices and incorrectly suspected both EN/ZH formulas.",
+      "reported_to": "algebra_058_067",
+      "resolution": "Full page small-index reading was wrong; enlarged original pdf-0066-formulas-check.png explicitly re-viewed. EN/ZH current formulas correct. Correction request retracted before any edit."
+    },
+    {
+      "pdf": 86,
+      "type": "source_typo",
+      "status": "resolved_verified",
+      "source": "Restriction sentence f_i∘g_*=g_i.",
+      "resolution": "EN source retained plus editorial note; ZH correctly g_*∘f_i=g_i with visible 译校注 explaining domains."
+    },
+    {
+      "pdf": 90,
+      "type": "source_typo",
+      "status": "resolved_verified",
+      "source": "Ex8(b) H union_c; G union_{x_c} union_{x_c}.",
+      "resolution": "EN exact indices retained. ZH H union_{x_c}; G union_c union_{x_c}, visible 译校注 explains both replacements; independently verified against original and subgroup/double-coset logic."
+    },
+    {
+      "pdf": 95,
+      "type": "source_missing_hypothesis",
+      "status": "resolved_annotated_source_preserved",
+      "source": "Exercise48 does not explicitly repeat finiteness for the sums over G.",
+      "resolution": "All original hypotheses/formulas retained in both languages. Visible bilingual notes specify the ordinary finite counting interpretation for finite G, with transitivity implying finite S."
+    },
+    {
+      "pdf": 96,
+      "type": "source_cross_reference_clarification",
+      "status": "resolved_annotated_source_preserved",
+      "source": "Exercise52 says f,g as above although its pushout uses arrows opposite to Exercise50.",
+      "resolution": "Both languages visibly clarify f:Z→X and g:Z→Y; source prose and X⊕_Z Y=(X⊕Y)/W with W={(f(z),−g(z))} retained."
+    },
+    {
+      "pdf": 97,
+      "type": "source_missing_hypothesis",
+      "status": "resolved_annotated_source_preserved",
+      "source": "Exercise55(a) at-most-two fixed-point assertion omits exclusion of scalar matrices.",
+      "resolution": "Both languages retain source hypothesis and add visible notes: nonzero scalar M gives identity Möbius transformation with infinitely many fixed points, so conclusion requires nonscalar M; strict eigenvalue modulus inequality in part(b) already excludes scalar M."
+    },
+    {
+      "pdf": 97,
+      "type": "source_typo",
+      "status": "resolved_verified",
+      "source": "Exercise57 hint prints g₂y₁=g₂y₂.",
+      "resolution": "Personally viewed enlarged original pdf-0097-hint57-detail.png confirming both g₂. EN preserves source; ZH corrects to g₁y₁=g₂y₂ with visible 译校注 connecting intersection and following equality."
+    }
+  ],
+  "diagramAssetsVisuallyChecked": [
+    "pdf-0071-diagram-1.png",
+    "pdf-0071-diagram-2.png",
+    "pdf-0071-diagram-3.png",
+    "pdf-0072-diagram-1.png",
+    "pdf-0072-diagram-2.png",
+    "pdf-0073-diagram-1.png",
+    "pdf-0073-diagram-2.png",
+    "pdf-0080-natural-transformation.png",
+    "pdf-0081-generation.png",
+    "pdf-0081-morphism.png",
+    "pdf-0082-universal-map.png",
+    "pdf-0082-projection.png",
+    "pdf-0083-functor.png",
+    "pdf-0074-diagram-1.png",
+    "pdf-0076-diagram-1.png",
+    "pdf-0076-diagram-2.png",
+    "pdf-0076-diagram-3.png",
+    "pdf-0077-diagram-1.png",
+    "pdf-0077-diagram-2.png",
+    "pdf-0097-tits-discs.png"
+  ],
+  "limitations": [
+    "This is visual transcription and translation verification, not an independent proof of every theorem or exercise.",
+    "Original book can contain mathematical/typographic errors. Confirmed source errors are preserved in English and explicitly annotated where Chinese is corrected."
+  ],
+  "enlargedOriginalCropsVisuallyChecked": [
+    "tmp/pdfs/algebra/pages/pdf-0066-formulas-check.png",
+    "tmp/pdfs/algebra/pages/pdf-0097-hint57-detail.png"
+  ],
+  "unresolvedFindings": [],
+  "assurance": "Every PDF page 58–97 was personally visually inspected by this independent reviewer, and every saved mathematical expression in EN/ZH was compared to the original. This is an audit of correspondence to source, with explicitly documented source corrections; it is not a guarantee of mathematical infallibility."
+}

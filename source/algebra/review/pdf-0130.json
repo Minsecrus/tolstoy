@@ -1,0 +1,12 @@
+{
+  "pdfPage": 130,
+  "printedPage": "115",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Exercise 11 states the maximum of the integers r, s such that a_r, b_s are nonzero. Its wording is preserved, without adding conventions for absent coefficients or zero-function degree."
+  ]
+}

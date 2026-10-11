@@ -1,0 +1,1233 @@
+{
+  "schemaVersion": 1,
+  "source": "D:/Download/Algebra.pdf",
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "chapter": "XIII. Matrices and Linear Maps; XIV. Representation of One Endomorphism",
+  "assignedPdfPages": [
+    512,
+    579
+  ],
+  "reviewer": "/root/algebra_math_audit_b",
+  "status": "complete",
+  "method": "Personally view every assigned original page and compare complete English and Chinese mathematical formulas, hypotheses, proofs, exercises and linked original diagrams. Source editorial notes checked against original and context; hashes record exact compared bilingual drafts.",
+  "auditedPages": [
+    {
+      "pdfPage": 512,
+      "printedPage": "503",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Chapter hypotheses; matrix/row/column sizes and entry indices; addition and scalar multiplication. Original general-matrix crop inspected.",
+      "findings": [],
+      "englishSha256": "63eaffa5c786deae0e567a74bd3d3a66e4bf14a6b650d83cbaf327809384e878",
+      "chineseSha256": "82d56592cdc2516d6c453868b809b5ed747943faedc4bb3525e095055285ca3c"
+    },
+    {
+      "pdfPage": 513,
+      "printedPage": "504",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Matrix product ik coefficient, associativity double sum, square-ring n≥1, identity and scalar embedding. Identity-matrix crop inspected.",
+      "findings": [],
+      "englishSha256": "d3ec5eeed93b2ef44a351d5c5881e17f6e8eedfea28a11e52914325aaa655465",
+      "chineseSha256": "1830ea96d866a3cfe5efc87e9704268fec04e4063935b55a603fb02f247114da"
+    },
+    {
+      "pdfPage": 514,
+      "printedPage": "505",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Transpose order and dimensions, coefficientwise ring homomorphism identities, trace summation/cyclicity and conjugation invariance.",
+      "findings": [],
+      "englishSha256": "9118f6d1a2a034fc79a505f703a57ba8750a2825f6ad81c463b714a2e13f4377",
+      "chineseSha256": "72505745a559ef3e1cc7f59ef1b67986350b6de176ce49c837ca58ae31478bf4"
+    },
+    {
+      "pdfPage": 515,
+      "printedPage": "506",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full row/column-rank proof: kernel W, dot pairing, orthogonal columns, quotient duality and rank-dimension equalities.",
+      "findings": [],
+      "englishSha256": "d50f2a1202e5af943f0b1aa59e2dbaacbf47e6572be48f9be9cf439516740dff",
+      "chineseSha256": "2d4660e710774b6b89fa017920219ff207ba6b95e3e712a8bb11a251f7f59364"
+    },
+    {
+      "pdfPage": 516,
+      "printedPage": "507",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Rank-proof continuation; free-module coordinates, maximal-ideal cardinality argument, e^i coordinates and matrix map dimensions. Visible nonzero-ring qualification verified.",
+      "findings": [
+        "Visible nonzero-ring qualification is accurate; source text retained."
+      ],
+      "englishSha256": "df8eaa1a15350b59f30af0f8ad9fa4d8b932272dbe75ed637533a0d82ef244c2",
+      "chineseSha256": "e59b3185c47b391e1ab2fe4ad284c6a6a38d48be5828a054852b5843f6866930"
+    },
+    {
+      "pdfPage": 517,
+      "printedPage": "508",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "End_Z(E) action, displayed matrix-vector product, L_AB order, free-basis/invertibility Proposition3.1 and initial proof.",
+      "findings": [],
+      "englishSha256": "c5ad7f20d726e2c1916eded2626c48e6b91860b33556ca9bcae30d547324dc0b",
+      "chineseSha256": "4772fa29b2b95d354b2a07381cae28979718e78c811020b592276c7f367619b2"
+    },
+    {
+      "pdfPage": 518,
+      "printedPage": "509",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full Proposition3.1 inverse/linear-independence proof; input/output basis primes, f(ξ_j) summed over first index, M_B′^B and coordinate action.",
+      "findings": [],
+      "englishSha256": "44746ac667bc29d03a53ef502acc47b83c1b3a606600bcc7a778b3ba685fc9b8",
+      "chineseSha256": "f4029b3e4da1d7427c9c79588ec35cff47fdbc0ff4c315134c30303d8d8a6132"
+    },
+    {
+      "pdfPage": 519,
+      "printedPage": "510",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Composition matrix order, inverse change-of-basis matrices, conjugation NMN^-1, algebra/group isomorphisms and all proof steps.",
+      "findings": [],
+      "englishSha256": "40fbd4e00872113a5971f221f67b6a38eac3d82dc0ee81ebbf21bf64c29bacea",
+      "chineseSha256": "6f3b8145687c1b70c6825dd25ac3b068b8b0b730feecd964698eb6ed312cdbb7"
+    },
+    {
+      "pdfPage": 520,
+      "printedPage": "511",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Trace of linear map and basis independence; multilinear/alternating definitions, adjacent-index range and sign formula Proposition4.1.",
+      "findings": [],
+      "englishSha256": "012ad24b30e26ba9db1477d42406fd692ee924722f7221f93715c956bcb42cb2",
+      "chineseSha256": "802d0efe2fa507f81ecd5823d0479d6f15064ff262f587cbe323c6d66e6ca2db"
+    },
+    {
+      "pdfPage": 521,
+      "printedPage": "512",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Alternating proof and additive column operation; row-coefficient expansions w_i; arbitrary maps versus permutations, ε(σ) and Lemma4.3 full proof.",
+      "findings": [],
+      "englishSha256": "9fe8487a491d5b4d8ff4d27d21fbd4db4e16195438b8feaa969a0db6fee1dc62",
+      "chineseSha256": "d72a72cd6aa678e3ec28dba4fc384ad5a554b2d80eb656875ad9756492affd5e"
+    },
+    {
+      "pdfPage": 522,
+      "printedPage": "513",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Determinant normalization; Cramer formula and proof summation; field-only dependence criterion and basis expansion proof fragment.",
+      "findings": [],
+      "englishSha256": "6b9a04ba168b90283b12f3b7fc5ff27a67cbc42d0d43506293d2b72082d6c126",
+      "chineseSha256": "5b509383659d1fc5586164c40f4838bd64643b68d5daad03a9c289cac0d1d924"
+    },
+    {
+      "pdfPage": 523,
+      "printedPage": "514",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Determinant uniqueness/permutation indices, source e^n misprint and visible e^1 correction; ring-homomorphism compatibility and transpose inverse-permutation proof.",
+      "findings": [
+        "Original clearly prints a_1n e^n; EN retains, ZH e^1 plus explicit adjacent note checked."
+      ],
+      "englishSha256": "28ab45c7044e552fce17637a993df4af14050a984b4ce97371ced925ce96f6d5",
+      "chineseSha256": "90697512265ae16a2ecc6580c3babda8ddf4f88ac998b8ae63c52703ee1a9fb2"
+    },
+    {
+      "pdfPage": 524,
+      "printedPage": "515",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Transpose proof via σ^-1; minor deletion indices and inductive row expansion signs; multilinearity and equal-column cancellation proof.",
+      "findings": [],
+      "englishSha256": "161fbd3bda21202f17fb62f9f2e0c10d87384890534d2482667ad0033ce7c747",
+      "chineseSha256": "eefead166e1c3797e7b422986e39b0f3018be547df3c7a8244591dff14224889"
+    },
+    {
+      "pdfPage": 525,
+      "printedPage": "516",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Determinant existence continuation; Vandermonde matrix powers/product orientation and proof; alternating-map transformation by D(A), full expansion.",
+      "findings": [],
+      "englishSha256": "56433bbb039e2f808d1d7f3a1656182ff42282e62ab1fd1185530c8e82d94d51",
+      "chineseSha256": "b4d22aa7d59ab76585fbbb7ab0a202dad0dac7d8eee272e2c3c511301eb583dd"
+    },
+    {
+      "pdfPage": 526,
+      "printedPage": "517",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "L_a^n module notation; existence/uniqueness maps Δ_w, rank-one determinant module; field basis criterion and multiplicativity statement.",
+      "findings": [],
+      "englishSha256": "bfbef00fd16e9453b8050c17d6a3aff61114a84436a7c5591a6d73df0dda89b7",
+      "chineseSha256": "2171bba25bbe971a795a0a1168d22fd18def4bd28623dadc4d84b74753422082"
+    },
+    {
+      "pdfPage": 527,
+      "printedPage": "518",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Multiplicativity proof, adjugate reversed minor indices/sign, invertibility iff determinant unit, and full repeated-row zero proof fragment.",
+      "findings": [],
+      "englishSha256": "12eaac681793da8c809ed5cba98a26d779a1aabc8693fc26db88d77170af2ade",
+      "chineseSha256": "3d0d450d23729e367ece66fcda5b58719e9baeb7e2ee9ec5c6c241597fafb909"
+    },
+    {
+      "pdfPage": 528,
+      "printedPage": "519",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Adjugate proof continuation with row index i/k source note; transpose-adjugate identity, annihilation corollary, module isomorphism criterion with output-basis prime.",
+      "findings": [
+        "All visible source notes checked against original and adjacent mathematical context; no translation error found."
+      ],
+      "englishSha256": "8ef4891d8365c32c569649a876a462330d3b6fae7f9cb6a53cdd1110a34d6a46",
+      "chineseSha256": "e106f21053660c7b6c25fff49651c743af7af81aaac07a086ec0e72d1d7178c8"
+    },
+    {
+      "pdfPage": 529,
+      "printedPage": "520",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Basis-invariant determinant; contravariant alternating-map functor, pullback/composition arrows and Proposition4.19 proof fragment.",
+      "findings": [],
+      "englishSha256": "5486e7648a8e65a7c7234883f3e885fd12460d1622c30d286437ae31621bdb5b",
+      "chineseSha256": "5066cb9fa90c5c84372d6757759372d458aeb88a232b0b680bdd7bec135456f1"
+    },
+    {
+      "pdfPage": 530,
+      "printedPage": "521",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Pullback determinant proof, det:GL→R* kernel; invariant-factor divisibility/J_s proof and precise valid s range with visible note.",
+      "findings": [
+        "All visible source notes checked against original and adjacent mathematical context; no translation error found."
+      ],
+      "englishSha256": "fbb83d875807cea3ecfc3fb876c6821dd8dce691b923845dbdb2feb4aea6db3a",
+      "chineseSha256": "dd5735175fa2ef0698c441c8f20e0373d6738eeaee588528f0c8ee19fcaa47c6"
+    },
+    {
+      "pdfPage": 531,
+      "printedPage": "522",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "J_s construction, determinant coordinate range, missing e_1/source-domain F→E notes; uniqueness by ideal products; complete bilinear/orthogonal/kernel definitions.",
+      "findings": [
+        "All visible source notes checked against original and adjacent mathematical context; no translation error found."
+      ],
+      "englishSha256": "a5a1c0d16d083f14b495e5d1e217e7ca3c997dc0f7f7d69abffd730e498091e1",
+      "chineseSha256": "0c3aa61163ea5f4f0de58243b6b067e1cfca50600a9a2d33407b793c1166f683"
+    },
+    {
+      "pdfPage": 532,
+      "printedPage": "523",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Induced nondegenerate quotient pairings; bilinear-Hom isomorphism with exact dual/domains; nonsingular versus nondegenerate warning and End map.",
+      "findings": [],
+      "englishSha256": "2f818d1c6adfbaa42a807c1ed68f6d54b7334b7a39f9ece52acb9812b3fc721c",
+      "chineseSha256": "45296464b50e0d4024de2c3814177b85335060143a6757b22f0f6f08582f2195"
+    },
+    {
+      "pdfPage": 533,
+      "printedPage": "524",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Bilinear-End inverse construction; left/right transpose directions, reversed composition, general E→F adjoint via two nonsingular forms.",
+      "findings": [],
+      "englishSha256": "a226512ce34aef1ae188e68b6f929083de44c2defab8c1a8e108f24162679475",
+      "chineseSha256": "93ec8e1a6203c7956b79434104b3e486cfd9d59ee1dd2c41f992d2c9e5dcc3a1"
+    },
+    {
+      "pdfPage": 534,
+      "printedPage": "525",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Compact-support C∞ integral bounds and negative derivative adjoint; form automorphisms, invertibility condition, symmetric End definition.",
+      "findings": [],
+      "englishSha256": "74296b561a3a3c57fb421230b9195b1f0f4b93d7c72979a4879c13f9da44f017",
+      "chineseSha256": "95b91c8253aa1ce9476f9d3815143675b8b768aaac8bb3f0f6ed29b0c4d71094"
+    },
+    {
+      "pdfPage": 535,
+      "printedPage": "526",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full symmetric and alternating form-End correspondences, zero diagonal condition and 2-torsion hypothesis; finite-dimensional bilinear product example fragment.",
+      "findings": [],
+      "englishSha256": "cc15532ad551f2b91b9a5ac80987e1d0efb968a1041c356963c1ac3d9d7a4cd7",
+      "chineseSha256": "6b48c35bcab5e07173b599604ed58f8ecb7406eb0f055983ce664154c821ad9a"
+    },
+    {
+      "pdfPage": 536,
+      "printedPage": "527",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Trace bilinear product λ_xy, symmetric integral kernel and second derivative example; general m-by-n Gram matrix and double-sum bounds.",
+      "findings": [],
+      "englishSha256": "71b6104a053b882569fc5fba4e46c4783d73611098e4ffcd36e44f55bad06c15",
+      "chineseSha256": "1b51c3a2d63560ff1f4eb1f12d0c195f616d39bcdecdae8a2b1339726c8e3b56"
+    },
+    {
+      "pdfPage": 537,
+      "printedPage": "528",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Bilinear form-matrix isomorphism, dual bases, coordinate conversion C and congruence tCGC with all basis positions.",
+      "findings": [],
+      "englishSha256": "35920bb54d454e00cdbbbc8504e59e1d2f59387d03a53310cb94ab31981cd9d2",
+      "chineseSha256": "0816e9ee9f45ae1ec1ad40684f5c3474aa0777db08cc178106d9a635714d44ae"
+    },
+    {
+      "pdfPage": 538,
+      "printedPage": "529",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Dual basis δ_ij and nonsingularity equivalent unit determinant; full matrix adjoint derivation. Source A:E→F versus intended E→E visible note independently confirmed.",
+      "findings": [
+        "Source codomain correction agrees with first pairing variable and Proposition6.2 on539."
+      ],
+      "englishSha256": "5a1055cdcc656d8943901d6fcee1965cce0cbee9ecb8cdc6d8ed5712828ca625",
+      "chineseSha256": "dcedd0f5368e86f2a124128a92c62b04f35c21a10292e8259006099a6035bdc4"
+    },
+    {
+      "pdfPage": 539,
+      "printedPage": "530",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Adjoint matrix G^-1 tMG, form automorphism tMGM=G, invertibility proof, alternating zero diagonal and form/matrix isomorphism.",
+      "findings": [],
+      "englishSha256": "e8ab92e0be4721118fdf2ba2c010bfde54f2c26222afe8974bc2e85b986c7b38",
+      "chineseSha256": "358c3aa2584a0c6a30d8ad49e18b7bc016eb645ef88a3757b1c377b3afad6dbf"
+    },
+    {
+      "pdfPage": 540,
+      "printedPage": "531",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full symmetric/alternating matrix proof, transpose scalar identities, zero diagonals, invertible2 qualification; sesquilinear introduction.",
+      "findings": [],
+      "englishSha256": "86fbb8d8c24eaac1fcd755e893da87973b3db38e9f51224e05e43ce2ed595ca6",
+      "chineseSha256": "1f058feabed6994268872098ebda457cbbd6042b41b15506d9df949458e1563e"
+    },
+    {
+      "pdfPage": 541,
+      "printedPage": "532",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Period2 automorphism, sesquilinear first-linear/second-antilinear rules; barred Hom/module action; quotient kernels and nonsingular maps.",
+      "findings": [],
+      "englishSha256": "da35cfe267c12dff32a6d6d1199cfdece63e290fc254f4a5f6bfaa09b39ee1fe",
+      "chineseSha256": "e98a1d1310876e77b42df7457a4b55acc3dc54fa3aea24bdf1ab4e3e559687c7"
+    },
+    {
+      "pdfPage": 542,
+      "printedPage": "533",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Barred-domain bilinear interpretation; adjoint is linear, scalar conjugation/reversed product, form automorphism iff conditions and Hermitian definition.",
+      "findings": [],
+      "englishSha256": "c103100ec187bc9842e22bd9fe6dc59f84942ef05b8587e0979e8de5aff78c36",
+      "chineseSha256": "ebc4f91604b8d492ad5549bda593cc5cc7b8d8e50d48bb821ebf78f86e5edeea"
+    },
+    {
+      "pdfPage": 543,
+      "printedPage": "534",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Fixed subring R0, Hermitian form-End correspondence; tXG barY and congruence tCG barC; complete nonsingularity equivalence.",
+      "findings": [],
+      "englishSha256": "6589fc6bb9f9d1dc1af8318e814b83ce7d7fa37161726d8c2be724a23f5a098e",
+      "chineseSha256": "8796cc4429e9a5809d8086cd89dcee7459580fe77147aa6d0f54eaf95e2c900f"
+    },
+    {
+      "pdfPage": 544,
+      "printedPage": "535",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Conjugate-transpose adjoint matrix and form invariance, Hermitian criterion, R0-isomorphism; full terminology discussion retained.",
+      "findings": [],
+      "englishSha256": "730f521014e84ff79628e1b2bd43e5ae740b06adf8c0849ea676ed51a4821708",
+      "chineseSha256": "92faddd2240ad32f3299e8fd865ac7ee8047cb08b32f8d4676b8a5419695b612"
+    },
+    {
+      "pdfPage": 545,
+      "printedPage": "536",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Real/complex/quaternion norm forms, standard alternating block signs and all group subscripts; GL/SL/PGL definitions.",
+      "findings": [],
+      "englishSha256": "0cb5b88d4c68392bf943b82416777dd2f84ce572e164ac6ec3fb04f0de906742",
+      "chineseSha256": "54525eb4e47780dc41ebb841f617e1cb8f1fc36d27d4cbf4484bad094d096832"
+    },
+    {
+      "pdfPage": 546,
+      "printedPage": "537",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Borel/diagonal/unipotent matrices, w sign and s(a) inverse; SL2 generation statement and elimination proof fragment.",
+      "findings": [],
+      "englishSha256": "4eb49fab24443089de0a8a931bcd052d324f0c2e25608d807d0c9af30e06b785",
+      "chineseSha256": "dd4c5d54ced17cab27537468c60612d258ef68cba30fb56ee9add8da21ec9e6b"
+    },
+    {
+      "pdfPage": 547,
+      "printedPage": "538",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Four-unipotent factorization coefficients and identities; w conjugation, Bruhat decomposition and vector stabilizer. GL2-versus-SL2 and nonzero orbit visible note independently checked.",
+      "findings": [
+        "Explicit GL2 stabilizer and nonzero orbit qualifications verified without changing Bruhat statement."
+      ],
+      "englishSha256": "a027f7f26bcc00fcdf0ca8077d54958012242e2320bfc874b4941e6066fe017c",
+      "chineseSha256": "5cfb67f17752f0832dde29f32720389b38dc008bbede8ed454fed1c3bb7508f9"
+    },
+    {
+      "pdfPage": 548,
+      "printedPage": "539",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Bruhat orbit continuation; maximal Borel, at-least-four field condition, explicit commutator b(a²−1), center and normal-subgroup dichotomy.",
+      "findings": [],
+      "englishSha256": "386bfcbf30bb08fdef0e2dc880b39cc48eed9e9a82f35887b775861235fba8a6",
+      "chineseSha256": "8d5da2bad59f218d56435834a023f67884121564b3af379b1f6676c5280960ba"
+    },
+    {
+      "pdfPage": 549,
+      "printedPage": "540",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full normal-subgroup quotient proof; elementary matrix crop independently inspected; row-versus-column addition indices and det=1.",
+      "findings": [],
+      "englishSha256": "579708953a96b99b1f7762b25906d203f288e2199f508b38845aaaecb0bb1879",
+      "chineseSha256": "14268f417a641d67a664695548d20c984fb228b2115ecc8c8b3dcd12f9ca8412"
+    },
+    {
+      "pdfPage": 550,
+      "printedPage": "541",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Elementary generation/elimination proof with A=SD/det d; three-distinct-index commutator formula and scalar centralizer proof fragment.",
+      "findings": [],
+      "englishSha256": "bba86b0aa836ae577f1bdd2fbdc6d2002d81a1ce3a17d3906fcb518527f5268b",
+      "chineseSha256": "6cb9f75c1deb8c457e181eb6e292582600c77348b0086d9c70e5decc3d15786a"
+    },
+    {
+      "pdfPage": 551,
+      "printedPage": "542",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Center roots-of-unity and PSL quotient; transvection hyperplane/kernel/functional definition and additive u law; nonidentity conjugacy statement and det proof. Visible H subject clarification checked.",
+      "findings": [
+        "Explicit subject H in kernel statement accurately resolves prose reference; no formula changed."
+      ],
+      "englishSha256": "e46b0458bc6c82048c2d652c66f0435d326207307ec0273944c258a52c2df518",
+      "chineseSha256": "a626c5614c793e29c2bfd155068c3d4146c89c5cc08df81e5d9e61df72cd176d"
+    },
+    {
+      "pdfPage": 552,
+      "printedPage": "543",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Conjugating transvections with z/u/hyperplane images and determinant adjustment; SL-invariant subgroup lemmas and full initial commutator construction.",
+      "findings": [],
+      "englishSha256": "390f75c10fe58f69d16ffb25cff4b8b123271bea939f2d84ac7fa6945e4643b3",
+      "chineseSha256": "4ebae6e7d116d8aefd84fd794adeda5f0a7bdfcf940e251eb1153170020b0281"
+    },
+    {
+      "pdfPage": 553,
+      "printedPage": "544",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Two-case commutator proof with hyperplane preservation and BT_w order; normal subgroup inverse image proof of simplicity and exceptional finite-group examples.",
+      "findings": [],
+      "englishSha256": "5da036f07576a7272fdb92b4fa599ca7b348d24d1da6272c2c5682bc445841e8",
+      "chineseSha256": "395fd114a680c888e120b93691d5f4d10a2629b82718a163f8f39c86e484e9d5"
+    },
+    {
+      "pdfPage": 554,
+      "printedPage": "545",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Exercises1–7 complete: inverse adjoints, anisotropic orthogonal splitting, homogeneous systems/base extension, trace pairing and quaternion relations/conjugation note.",
+      "findings": [
+        "Visible quaternion/consecutive-index/product-limit source notes independently checked. Ex14 finite-field exception added after root authorization, full source preserved."
+      ],
+      "englishSha256": "167bb47bc2e9faa65bd6ec47bfeb6974c693c49cc6e46c9261491b413b49a4ea",
+      "chineseSha256": "86ef95adae8ccabd630d16a1109ee7c8071e2bf68dfba7ae389e26fcfad17346"
+    },
+    {
+      "pdfPage": 555,
+      "printedPage": "546",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Exercises8–16 complete: nilpotent/triangular ideals, normalizer quotient, finite GL/SL/PSL order products and counting hint; all source notes plus newly identified F2 normalizer exception.",
+      "findings": [
+        "Visible quaternion/consecutive-index/product-limit source notes independently checked. Ex14 finite-field exception added after root authorization, full source preserved."
+      ],
+      "englishSha256": "09f2376fd468d931b6551536937a4012643dbb0bcd233a7baf9d572eca003f09",
+      "chineseSha256": "5114d8cf2d7190c93301301878974139fb602726feaca5183eabf1198e70daed"
+    },
+    {
+      "pdfPage": 556,
+      "printedPage": "547",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Exercises17–25 full: Sylow, reduction/surjectivity, SL2 order prime product, exact determinant sequence, generator signs, p≥5 congruence hypothesis and determinant-leading coefficient.",
+      "findings": [],
+      "englishSha256": "ca37874a9ef888fd2612ceee8f77e9c9f9ddc0eecd74581bdeb325fcc71dd120",
+      "chineseSha256": "5c706a2032118ae66892f1021eeaeaf1f3ca05bee3bdbf96dc0f154272f7d8b6"
+    },
+    {
+      "pdfPage": 557,
+      "printedPage": "548",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Exercises26–30: adjugate ideal inclusion, lattice index absolute determinant, both Dedekind determinant expressions; Lie derivation formulas and source E-bar/D_x note plus missing structure warning.",
+      "findings": [
+        "Source missing M multiplication/Lie bracket is visibly warned; no guessed repair. Inner derivation symbol correction checked."
+      ],
+      "englishSha256": "8e9abf97114ca16c034bda6ab6b4bb760e53ac7737e3dcd9888e4db7e9e12ef6",
+      "chineseSha256": "c1aefbfa40340e07388f76a13614d5089cf38521b17c29cac87c8b406888b110"
+    },
+    {
+      "pdfPage": 558,
+      "printedPage": "549",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Algebraic-group all-base-algebras condition; explicitly defined square-zero t/u algebra and gradient expansion; cocycle action order/splitting and Hilbert90 hint.",
+      "findings": [],
+      "englishSha256": "18b418122cbd76214b2b77928ad48b82bc5a753281c92a4a50718c23e0191313",
+      "chineseSha256": "560b7579ca9a073469ce9e4368d276c63cfa6d395e5fa21eb47b9d406a7e097f"
+    },
+    {
+      "pdfPage": 559,
+      "printedPage": "550",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Hilbert90 hint continuation, cocycle Bσ(B^-1) notation and invariant-basis matrix order; full harmonic polynomial33(a)–(c), characteristic0, derivative pairing/binomial/positivity conditions.",
+      "findings": [],
+      "englishSha256": "2f5261ce9fd9b6b48e19e70d77e49651797c5d89085a5acbd63816a230a69aea",
+      "chineseSha256": "b61a2659a36c0a45ab456a158c12ba7ce11c365d1a95a1bcb7eb3810e8745002"
+    },
+    {
+      "pdfPage": 560,
+      "scope": "Ex33(d–j) Laplacian degree shift, harmonic dimension, transpose of multiplication r², commutator4d+2n, orthogonal decomposition, isotropic linear powers and differentiation formula; Ex34 Nullstellensatz divisibility with n≥3; Ex35 irreducibility introduction and references. Full EN/ZH and original individually compared.",
+      "printedPage": "551",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 560,
+          "type": "source_degree_range_caution",
+          "status": "resolved_source_caution",
+          "detail": "Ex33(j) prints formula for m positive without m≥d; m<d leaves H_c^(m−d) undefined although left derivative is zero. EN and original exercise preserved; visible ZH note states m≥d or explicit zero convention, without inventing intended repair. Source reading clear."
+        }
+      ],
+      "englishSha256": "d1dd86ff9ffd4b320060af58fa029c0970935ca29a5a4680c29dcc0f1e651e79",
+      "chineseSha256": "e0018c298fd2610e11ddd4d70ea585a952aeaf2771dea55ffe538a750b84ea74"
+    },
+    {
+      "pdfPage": 561,
+      "scope": "Continuation Ex35 invariant Hermitian sphere pairing, evaluation representers and O(n−1) invariants, polynomial coefficients; Ex36 trace-zero Lie algebra basis, conjugation weights and formal derivative of exp(tX)Yexp(−tX). Full EN/ZH and original individually compared.",
+      "printedPage": "552",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 561,
+          "type": "source_submodule_label_misprints",
+          "status": "resolved_visible_note",
+          "detail": "Ex35 representer defined Q_n^M but original twice writes Q_n^H; EN retains and ZH visibly changes to M. Adjacent note M≠0 correctly qualifies nontrivial restriction to invariant submodule; zero submodule is not used in irreducibility argument."
+        }
+      ],
+      "englishSha256": "d71fac08322c02083509c26e236d37ef1595091be6b39ad1e09863d3c3256df0",
+      "chineseSha256": "5f361b631b78ba3de0a7fb210e99b2fa193300e643b85a76e25c24ede728762d"
+    },
+    {
+      "pdfPage": 562,
+      "scope": "ChapterXIV title, principal-polynomial-ring/Jordan introduction, k-algebra representation and commutative triangle. Personally viewed original full page and linked original triangle crop; vertices R,k,End_k(E), all three arrow directions and subscripts checked against full EN/ZH.",
+      "printedPage": "553",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "b856c4271fdd85337c77c89c74b59a5bd6f641b7d302a2030a27ab2a9adad6a6",
+      "chineseSha256": "3395c452142ef224ebd80d60726737bfa569e2e5d0a5a1bb5e775fb9e3272766"
+    },
+    {
+      "pdfPage": 563,
+      "scope": "R-action via representation, invariant submodule, irreducibility E≠0, finite direct-sum semisimplicity, principal Rv, annihilator ideal and R/a→E with1↦v. Full EN/ZH and original individually compared.",
+      "printedPage": "554",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "23fc69cc5f2caf09a29fc7a27a156e834a9a59d142e531ca6743a95dd0397d7a",
+      "chineseSha256": "2e92ea1f4047eb875e4ad852470acb15f7c6066d9e451108a2615d37c9c5f3fa"
+    },
+    {
+      "pdfPage": 564,
+      "scope": "R-invariant direct sums, basis blocks, original linked block-diagonal crop personally viewed, upper triangular blocks from invariant E′, coordinates c_ji and transpose right columns. Source missing subscript v visibly corrected v_j in ZH; full EN/ZH and original compared.",
+      "printedPage": "555",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 564,
+          "type": "source_missing_vector_subscript",
+          "status": "resolved_visible_note",
+          "detail": "Original coordinate expression left φv without j although j=m+1,…,n and right coordinates c_ji form right matrix columns. EN preserves; ZH φv_j with exact-source adjacent explanation."
+        }
+      ],
+      "englishSha256": "2bef031caf33a6e0ec99ea8f9e9b5883c79a80b5de3ce809508e96ce8508e7e3",
+      "chineseSha256": "43268a5f5f07ed32c761dcb84286de7306d196fdfd6e7884d8b18c2bb517a7d3"
+    },
+    {
+      "pdfPage": 565,
+      "scope": "Exact sequence and induced quotient endomorphism, quotient-basis source index1 versus correctedm+1; representation k[t]→k[A], minimal polynomial, cyclic module E=Rv and basis v,Av,…,A^(d−1)v. Full EN/ZH and original compared.",
+      "printedPage": "556",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 565,
+          "type": "source_quotient_basis_index_misprint",
+          "status": "resolved_visible_note",
+          "detail": "Original induced quotient matrix basis says barv1,…,barvn; firstm vanish in E/E′ and preceding sentence defines only barv_(m+1),…,barvn. ZH corrects startm+1 with explicit note, EN original."
+        }
+      ],
+      "englishSha256": "6549cd6f76bf207f3a38a2ebb6e40483795809ef4961b37c42a7c94f49a4bc4f",
+      "chineseSha256": "a29aada5463466da2223a2c883351a52b59803eee5333202f6376487aaaf7693"
+    },
+    {
+      "pdfPage": 566,
+      "scope": "Continuation polynomial division proof; companion matrix original linked crop personally viewed with subdiagonal1 and final column−a0,…,−a_(d−1); cyclic invariant, Theorem2.1 invariant factors/divisibility and minimal q_r proof; Cor2.2 scalar extension. Full EN/ZH and original compared.",
+      "printedPage": "557",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "1723c88db7dc66b278e3671770667f29b96043031dca41de66d85e6c4ea8e860",
+      "chineseSha256": "39c81f8a2ee922378aa8fef5d1cfc8ffb84b3ab89461fd68af94f2eabd45ee2b"
+    },
+    {
+      "pdfPage": 567,
+      "scope": "Cor2.2 basis-lifting proof, Cor2.3 similarity descent C′AC′⁻¹/CAC⁻¹, prime-power primary decomposition, Theorem2.4 cyclic (t−α)^e and Jordan block. Original linked block crop personally viewed: α diagonal,1 below diagonal. Full EN/ZH and original compared.",
+      "printedPage": "558",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "b8b96ac09dc56e3554915f242a0b040aca5f52d0daa3c407bed36b078bc0eec5",
+      "chineseSha256": "332b03ff46b807ef5ee713d3fa484ef8bed2049f1cb5b0a64ba35cb371e84ce5"
+    },
+    {
+      "pdfPage": 568,
+      "scope": "Full Jordan basis proof with shifted powers, algebraically closed Cor2.5, nilpotent N and M=B+N. Verified adjacent note removing source assertion n distinct diagonal entries via I2 counterexample while preserving EN. Full EN/ZH and original compared.",
+      "printedPage": "559",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 568,
+          "type": "source_diagonal_multiplicity_assertion",
+          "status": "resolved_visible_note",
+          "detail": "Original claims simple minimal-polynomial roots give n distinct diagonal entries; source false e.g. I2 has minimal t−1. ZH retains diagonalization statement but removes distinct with adjacent source quotation and counterexample; EN preserves source."
+        }
+      ],
+      "englishSha256": "315135d8da68714b8d64d944b388c53e8fba21327691404eecd0634e3ccf0e19",
+      "chineseSha256": "3d4ab3505b4ae2e278bf4ee23e732d55b3829ad0ff62823eb5c18a877367ec4d"
+    },
+    {
+      "pdfPage": 569,
+      "scope": "Endomorphism-pair category and square diagram (two f horizontal arrows, A/A′ downward), invariant classification Theorem2.6, Cor2.7 finite separable degree n representations and conjugation proof via primitive element. Full EN/ZH and original compared.",
+      "printedPage": "560",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "f9550226c15e07009eb3690ef59a17315c250d72efe2d24e3d395faa16a64a6a",
+      "chineseSha256": "5ff083309e0cc6f46055ddbf4c5f98e4cac43f6b71904e4cb57c53610169a8a0"
+    },
+    {
+      "pdfPage": 570,
+      "scope": "Regular representation context, characteristic polynomial det(tI_n−M), conjugacy identity, zero-module convention1, coefficient homomorphism compatibility and Cayley–Hamilton proof setup t v_j=Σ_i a_ij v_i, adjugate product. Full EN/ZH and original compared.",
+      "printedPage": "561",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "cdeecf2c66c8bf0f516d657fab5851013c7eaa7f4aa50b9fec33b5390d92b0c4",
+      "chineseSha256": "6c9f716aae779db98053b26f4600729bf90cac452df4468c933b2a2d8f21faff"
+    },
+    {
+      "pdfPage": 571,
+      "scope": "Cayley–Hamilton proof continuation with module-valued column vectors and P_A(t)E=0, eigenvalue/vector definitions, characteristic roots Theorem3.2, distinct-eigenvalue independence proof (λ_i−λ_1), startCor3.4. Full EN/ZH and original compared.",
+      "printedPage": "562",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "c38d4844c7d10adff265432ecf345acc19e3f04c7ceb2213a9e13a49f0cafe81",
+      "chineseSha256": "63343c2793926809b6bdf7100104f8e840971dae544a851d78faa0e43123d069"
+    },
+    {
+      "pdfPage": 572,
+      "scope": "Diagonal cor3.4 λ1,…,λn, eigenbasis warning, field extension, invariant direct-sum characteristic product ∏P_Ai; Theorem3.5 product of invariant factors and reduction proof. Full EN/ZH and original compared.",
+      "printedPage": "563",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "410072b374047b9142f2198903b3f0d59f064387b35c2d1bda02a21530b94185",
+      "chineseSha256": "168aaf23ad17e8130ea5ad054ba5d1522dfc21fb2ae15db8885723c4bba5ad7d"
+    },
+    {
+      "pdfPage": 573,
+      "scope": "Theorem3.5 single-invariant prime-power proof; Cor3.6 common irreducible factors; Theorem3.7 exact-row square diagram all E′/E/E″ vertices, A′/A/A″ down arrows and horizontal zeros checked; quotient basis and upper triangular blocks. Missing source barv_n visibly noted. Full EN/ZH and original compared.",
+      "printedPage": "564",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 573,
+          "type": "source_missing_quotient_basis_subscript",
+          "status": "resolved_visible_note",
+          "detail": "Source last quotient-basis entry barv lacks n; same sentence mapsv_(m+1),…,vn to correspondingbarv_(m+1),…,barvn. ZH explicitly adds n, EN preserves."
+        }
+      ],
+      "englishSha256": "db220b6e13f622a58018d77ae1a55ea724c0099c3e750fe4105ae9dbb8f961b0",
+      "chineseSha256": "2b3469e063a5981797c3addb909b45b70c3cafddf02517dec520bd5ff0a22973"
+    },
+    {
+      "pdfPage": 574,
+      "scope": "Theorem3.7 proof continuation, Theorem3.8 trace−c_(n−1) and determinant(−1)^nc0 with permutation proof; Cor3.9 sum/product formulas; endomorphism-pair category square with f rightward and A′/A down arrows. Full EN/ZH and original compared.",
+      "printedPage": "565",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "1df3b9ffbc6a0d0716b795feab59346ed9bb25c73a358dd0195f0d513645b5da",
+      "chineseSha256": "1badb50f230a7e776f2585fc0076fb3eed07f4f2baa09ba4e57b9ad4af71c109"
+    },
+    {
+      "pdfPage": 575,
+      "scope": "Kernel-pair A′ stability, exact sequences and Euler–Grothendieck interpretation; monic characteristic-polynomial multiplicative values, trace/determinant distinction; Theorem3.10 linear roots and polynomial images f(α_i). Verified visible caution determinant0 notin k*. Full EN/ZH and original compared.",
+      "printedPage": "566",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 575,
+          "type": "source_determinant_group_value_condition",
+          "status": "resolved_source_caution",
+          "detail": "Source claims determinant Euler map to field multiplicative group for all endomorphism pairs, but one-dimensional zero map has det0. ZH retains source with visible note: arbitrarydet values in multiplicative monoid(k,·); invertible subcategory givesk* and group completion. Verified distinction."
+        }
+      ],
+      "englishSha256": "bc3df9dc789f37662587b91c88cfe1fce185a31e5e82c24464ad46625723ba56",
+      "chineseSha256": "984a62a831d8fd91a4e86d88857e853173c3dc17ead4977c9c56b1eb144d6ea7"
+    },
+    {
+      "pdfPage": 576,
+      "scope": "Theorem3.10 trace sum/determinant product and generic splitting-ring substitution proof; Exercises1–4 strictly upper triangular nilpotence, block triangular determinant, MM′/M′M characteristic equality, 4-cycle matrix ±1,±i. Personally viewed linked Ex2 original matrix crop. Full EN/ZH and original compared.",
+      "printedPage": "567",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "4429bcbca640ab364da7cb584369a75b783ce32bf3358a94528aca01f5ef3b98",
+      "chineseSha256": "4b2f22a111354c2cd934545a96cfd452f98c81f520aa0d4e546b6e17f6106805"
+    },
+    {
+      "pdfPage": 577,
+      "scope": "Exercises5–12 minimal lcm, nilpotent trace, dual restriction/invariant factors (finite-rank context), unipotent equivalences, char0 power-trace nilpotence ν1…n, rational functions, eigenspace/commuting endomorphisms; diagonalization13(a,b) distinct linear minimal factors. Full EN/ZH and original compared.",
+      "printedPage": "568",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "d24e3aa95ef83d3179dc356a4228a4aafd8d5b5457fa28ec257200d01e8c277c",
+      "chineseSha256": "b7001d8fd9f3e3b7f70aaeec603ce58fbb18bcae4845e995edcbc12f4b67e7a6"
+    },
+    {
+      "pdfPage": 578,
+      "scope": "Exercises13(c,d) invariant restriction/simultaneous diagonalization;14 Jordan decomposition and CRT polynomial congruences includingg(t)≡0modt;15 tensor-product eigenvalue products/exponentsn_i m_j;16 lattice index;17 finite-field normal basis;18 cofactor determinants(−1)^(i+j) and exponentn−1. Full EN/ZH and original compared.",
+      "printedPage": "569",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [],
+      "englishSha256": "4e7abe76bd79dc2b10c3fc791c2dc75760d5ad5f362fe89aaa678a0da51e5dbc",
+      "chineseSha256": "05c1acad91632418ee3696ae469895fd6ce954c23b876ee4b691b55805768b46"
+    },
+    {
+      "pdfPage": 579,
+      "scope": "Exercises19–26 invariant classification;20 GL2 and degree6/3 zero-root polynomials;21 rational fifth-order operator and divisibility4;22 real complex structure;23 commuting eigenvector;24 exp/log trace series;25 paired bilinear operators determinant identities;26 normalizer/centralizer quotients and coordinate permutations. Personally viewed original fullpage and high-resolution Ex20–25 crop. Full EN/ZH compared including all adjacent notes.",
+      "printedPage": "570",
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "findings": [
+        {
+          "pdfPage": 579,
+          "type": "source_literal_exercise20_context",
+          "status": "resolved_source_caution",
+          "detail": "Both full original and enlarged crop clearly printGL2(C), polynomial degrees6 and3 and eachzero root. EN/ZH retain source; visible note says literal answers bothzero by degree and invertibility; no conjectured author repair."
+        },
+        {
+          "pdfPage": 579,
+          "type": "source_trace_series_exponent_and_characteristic",
+          "status": "resolved_visible_note",
+          "detail": "Enlarged original Ex24 confirms initial minus beforeTr and second sumt^m. EN retains; ZH derivative sumt^(m−1) with source/explanation andA=1 counterexample. Visiblechar0 condition for formalexp/log integer divisions is accurate; logarithmic derivative−D′/D identity with correctedexponent valid anycharacteristic."
+        },
+        {
+          "pdfPage": 579,
+          "type": "source_operator_label_misprint",
+          "status": "resolved_visible_note",
+          "detail": "Enlarged original Ex25 introducesV:W→W althoughV alreadyspace and formula usesBw. EN preserves; ZH correctsB:W→W and explains exactsource. Both determinant identities verified from AᵗB=cI without needingA invertible."
+        }
+      ],
+      "englishSha256": "32e5cb29dde21f3a6755c923bd7c6d8c18aba9b511f6ce68a87e6973fb3869aa",
+      "chineseSha256": "ecfa10814867662c647aa66d698c9987f8e4876bf600a8556aa1a416f9acc6cf"
+    }
+  ],
+  "findings": [
+    {
+      "pdfPage": 516,
+      "type": "source_condition_clarification",
+      "status": "resolved_visible_note",
+      "detail": "Maximal ideal proof of invariant basis size requires R≠0; ZH preserves source and states the condition. Verified zero-ring exception without changing source theorem."
+    },
+    {
+      "pdfPage": 523,
+      "type": "source_superscript_misprint",
+      "status": "resolved_visible_note",
+      "detail": "Original A^n starts a_1n e^n; EN preserves; ZH corrects e^1 with source expression and first-coordinate reason. Source image confirms n."
+    },
+    {
+      "pdfPage": 528,
+      "type": "source_row_index_misprint",
+      "status": "resolved_visible_note",
+      "detail": "Source says expansion of bar A by i-th row; terms contain minors bar A_kj and sign k+j, hence k-th row. EN retains; ZH corrects visibly. Output basis prime in4.18 is faithful."
+    },
+    {
+      "pdfPage": 530,
+      "type": "source_range_clarification",
+      "status": "resolved_visible_note",
+      "detail": "J_s=(a1...as) uses only a1..am; ZH clarifies1≤s≤m and J_s=0 for s>m, retaining source formula."
+    },
+    {
+      "pdfPage": 531,
+      "type": "source_argument_and_domain_misprints",
+      "status": "resolved_visible_note",
+      "detail": "Source f(e2,...,es)=1 misses e1; source x∈F for first variable should x∈E. EN retains both, ZH explicit adjacent corrections verified. Separate determinant index note1≤i,j≤s correctly clarifies square submatrix from listed coordinate maps."
+    },
+    {
+      "pdfPage": 538,
+      "type": "source_codomain_misprint",
+      "status": "resolved_visible_note",
+      "detail": "Original A:E→F; source immediately uses Ax as first E-variable and matrix relative solely to E basis; next Proposition6.2 explicitly E→E. EN retained, ZH E→E with accurate adjacent note."
+    },
+    {
+      "pdfPage": 547,
+      "type": "source_group_context_and_orbit_qualification",
+      "status": "resolved_visible_note",
+      "detail": "Printed stabilizer U is valid inSL2 but GL2 stabilizer is [[1,b],[0,d]] with d≠0. Printed orbit description omits excluding zero. ZH visibly states both; source remains in EN. These qualifications do not alter Bruhat decomposition."
+    },
+    {
+      "pdfPage": 551,
+      "type": "source_prose_reference_clarification",
+      "status": "resolved_visible_note",
+      "detail": "After dim(E/H)=1, omitted subject of 'is the kernel' is H, as quotient map followed by nonzero linear identification gives functional. ZH clarifies subject with adjacent exact-source note; EN faithful."
+    },
+    {
+      "pdfPage": 554,
+      "type": "source_quaternion_conjugation_terminology",
+      "status": "resolved_visible_note",
+      "detail": "Original calls quaternion conjugation an automorphism; ZH retains and visibly explains anti-automorphism, with ij=k giving conjugate(ij)=-k versus conjugate(i)conjugate(j)=k."
+    },
+    {
+      "pdfPage": 555,
+      "type": "source_index_and_product_limit_misprints",
+      "status": "resolved_visible_note",
+      "detail": "Hint after y1..yr prints y_(i+1), corrected visibly to y_(r+1). PSL order source product ends n−1; ZH ends n because center division removes only factor d. Both source readings verified."
+    },
+    {
+      "pdfPage": 555,
+      "type": "source_small_field_exception",
+      "status": "resolved_visible_note_added_by_second_auditor",
+      "detail": "Ex14 says any field but for F2,n2 D={I}, N=GL2(F2), quotient order6 rather than S2 order2. Root authorized adjacent ZH note and review update; original exercise retained. Sufficient |F|>2 verified by distinct diagonal coordinate weights: common eigenlines are exactly coordinate axes, normalizer monomial, quotient Sn."
+    },
+    {
+      "pdfPage": 557,
+      "type": "source_derivation_structure_omission",
+      "status": "resolved_source_caution",
+      "detail": "29(b) gives only R-module M but invokes derivations, without multiplication/bracket. Full source retained; visible ZH warning states missing structure and declines invention. Reading is unambiguous, not unresolved OCR."
+    },
+    {
+      "pdfPage": 557,
+      "type": "source_inner_derivation_symbol_misprint",
+      "status": "resolved_visible_note",
+      "detail": "29(c) original x↦bar E_x not defined; preceding defines D_x. EN preserves; ZH D_x with exact-source adjacent note; [D_x,D_y]=D_[x,y] follows stated derivation identity."
+    },
+    {
+      "pdfPage": 560,
+      "type": "source_degree_range_caution",
+      "status": "resolved_source_caution",
+      "detail": "Ex33(j) prints formula for m positive without m≥d; m<d leaves H_c^(m−d) undefined although left derivative is zero. EN and original exercise preserved; visible ZH note states m≥d or explicit zero convention, without inventing intended repair. Source reading clear."
+    },
+    {
+      "pdfPage": 561,
+      "type": "source_submodule_label_misprints",
+      "status": "resolved_visible_note",
+      "detail": "Ex35 representer defined Q_n^M but original twice writes Q_n^H; EN retains and ZH visibly changes to M. Adjacent note M≠0 correctly qualifies nontrivial restriction to invariant submodule; zero submodule is not used in irreducibility argument."
+    },
+    {
+      "pdfPage": 564,
+      "type": "source_missing_vector_subscript",
+      "status": "resolved_visible_note",
+      "detail": "Original coordinate expression left φv without j although j=m+1,…,n and right coordinates c_ji form right matrix columns. EN preserves; ZH φv_j with exact-source adjacent explanation."
+    },
+    {
+      "pdfPage": 565,
+      "type": "source_quotient_basis_index_misprint",
+      "status": "resolved_visible_note",
+      "detail": "Original induced quotient matrix basis says barv1,…,barvn; firstm vanish in E/E′ and preceding sentence defines only barv_(m+1),…,barvn. ZH corrects startm+1 with explicit note, EN original."
+    },
+    {
+      "pdfPage": 568,
+      "type": "source_diagonal_multiplicity_assertion",
+      "status": "resolved_visible_note",
+      "detail": "Original claims simple minimal-polynomial roots give n distinct diagonal entries; source false e.g. I2 has minimal t−1. ZH retains diagonalization statement but removes distinct with adjacent source quotation and counterexample; EN preserves source."
+    },
+    {
+      "pdfPage": 573,
+      "type": "source_missing_quotient_basis_subscript",
+      "status": "resolved_visible_note",
+      "detail": "Source last quotient-basis entry barv lacks n; same sentence mapsv_(m+1),…,vn to correspondingbarv_(m+1),…,barvn. ZH explicitly adds n, EN preserves."
+    },
+    {
+      "pdfPage": 575,
+      "type": "source_determinant_group_value_condition",
+      "status": "resolved_source_caution",
+      "detail": "Source claims determinant Euler map to field multiplicative group for all endomorphism pairs, but one-dimensional zero map has det0. ZH retains source with visible note: arbitrarydet values in multiplicative monoid(k,·); invertible subcategory givesk* and group completion. Verified distinction."
+    },
+    {
+      "pdfPage": 579,
+      "type": "source_literal_exercise20_context",
+      "status": "resolved_source_caution",
+      "detail": "Both full original and enlarged crop clearly printGL2(C), polynomial degrees6 and3 and eachzero root. EN/ZH retain source; visible note says literal answers bothzero by degree and invertibility; no conjectured author repair."
+    },
+    {
+      "pdfPage": 579,
+      "type": "source_trace_series_exponent_and_characteristic",
+      "status": "resolved_visible_note",
+      "detail": "Enlarged original Ex24 confirms initial minus beforeTr and second sumt^m. EN retains; ZH derivative sumt^(m−1) with source/explanation andA=1 counterexample. Visiblechar0 condition for formalexp/log integer divisions is accurate; logarithmic derivative−D′/D identity with correctedexponent valid anycharacteristic."
+    },
+    {
+      "pdfPage": 579,
+      "type": "source_operator_label_misprint",
+      "status": "resolved_visible_note",
+      "detail": "Enlarged original Ex25 introducesV:W→W althoughV alreadyspace and formula usesBw. EN preserves; ZH correctsB:W→W and explains exactsource. Both determinant identities verified from AᵗB=cI without needingA invertible."
+    }
+  ],
+  "unreviewed": [],
+  "unresolved": [],
+  "completedAtUtc": "2026-10-11 02:20:00 UTC",
+  "originalImagePagesViewed": [
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579
+  ],
+  "englishChinesePagesCompared": [
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579
+  ],
+  "linkedOriginalDiagramsViewed": [
+    "pdf-0512-general-matrix.png",
+    "pdf-0513-identity-matrix.png",
+    "pdf-0549-elementary-matrix-agent537.png",
+    "pdf-0562-representation-triangle.png",
+    "pdf-0564-block-matrix.png",
+    "pdf-0566-companion-matrix.png",
+    "pdf-0567-jordan-block.png",
+    "pdf-0576-exercise-2-matrix.png"
+  ],
+  "highResolutionOriginalDetailsViewed": [
+    "tmp/pdfs/algebra/pdf-0579-exercises-detail.png"
+  ],
+  "secondAuditorChanges": [
+    {
+      "pdfPage": 555,
+      "files": [
+        "zh/pdf-0555.md",
+        "review/pdf-0555.json"
+      ],
+      "change": "Retained original Ex14 and added adjacent F2,n2 counterexample with sufficient |F|>2 coordinate-weight argument, as authorized by root."
+    }
+  ],
+  "transcriptionFormulaErrorsFound": [],
+  "finalHashVerification": {
+    "all136BilingualFilesMatchRecordedHashes": true,
+    "verifiedAtUtc": "2026-10-11 02:20:00 UTC"
+  },
+  "limitations": "Audit covers exactly PDF512–579 and their complete existing EN/ZH drafts. Source mathematical exceptions are documented in visible adjacent notes; source exercises were checked for transcription, translation, conditions and displayed claims, not all solved as a separate exercise-solution project. No pages outside assigned range are claimed."
+}

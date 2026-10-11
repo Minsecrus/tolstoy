@@ -1,0 +1,13 @@
+{
+  "pdfPage": 152,
+  "printedPage": "137",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "亲自逐页查看原始 PNG；完整转录与翻译全部段落、投射模等价条件及证明、Grothendieck 群构造、向量空间基的证明；核对全部公式、编号和箭头。",
+    "投射模的三角图使用 LaTeX array 保留全部对象与箭头标签；P 2 的中间模按原书为 M 双撇。"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pdfPage": 792,
+  "printedPage": "784",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Visible Chinese editorial note: the divisible-group definition requires nonzero integers; at m=0 surjectivity would force T=0, contradicting the following nonzero examples. English source retained."
+  ]
+}

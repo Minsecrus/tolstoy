@@ -1,0 +1,12 @@
+{
+  "pdfPage": 232,
+  "printedPage": "217",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "unresolved": [],
+  "notes": [
+    "Source misprint in Exercise 20: final coefficient monomial a_n^{r_n} should be a_m^{r_m}, according to f degree m. Printed expression retained; visible Chinese editorial note added."
+  ]
+}

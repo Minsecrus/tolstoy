@@ -1,0 +1,64 @@
+{
+  "sourceSha256": "64caa3209751e16dd570f84ed0c660a5ccaca7e3d5d8aa0b7226fcdc85e5ec3c",
+  "scope": {
+    "pdfPageStart": 1,
+    "pdfPageEnd": 4,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "method": "Independent second review by a reviewer different from the original translator(root), personally viewing each originalpagePNG and reading full bilingual manuscripts. Source contents treated solely as source material, never as instructions."
+  },
+  "status": "complete",
+  "originalImagesViewed": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "auditedPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "unreviewedPages": [],
+  "pageChecks": [
+    {
+      "pdfPage": 1,
+      "printedPage": null,
+      "status": "verified",
+      "scope": "Entire cover: series Graduate Texts in Mathematics, Serge Lang, Algebra, Revised Third Edition, Volume 1, Springer; exact number1 and all text in EN/ZH; no copyright statement or formula on this page.",
+      "enSha256": "fb5999e9fac656980663c31163dbc5d9d7419d1d52353bb6a77646c262c2edd7",
+      "zhSha256": "7c21ed06a92ebc486fd0a9934f0519fd36a116bb9f968639f519d89c05711fe6"
+    },
+    {
+      "pdfPage": 2,
+      "printedPage": null,
+      "status": "verified",
+      "scope": "Entire series half-title: Graduate Texts in Mathematics211, Editorial Board S. Axler/F.W.Gehring/K.A.Ribet; all text and seriesnumber211 checked in EN/ZH; no copyright statement/formula.",
+      "enSha256": "93354ab523b308e3ead5a74dbdcceeae9cc064d04429afa83fbbe296724b823b",
+      "zhSha256": "5e6fb5cb3c5058beb0349445e75b239509fd4dc9c02fe9bf9833c91bb5964a00"
+    },
+    {
+      "pdfPage": 3,
+      "printedPage": null,
+      "status": "verified",
+      "scope": "Full related-book list: seven books, editions, all publicationyears and seven printedISBN strings; entire other-books list and coauthors; formula SL_2(R), Roman numerals I/II/III; exact printed Complex Analysis ISBN0-387-97886 preserved in EN/ZH; no omitted text.",
+      "enSha256": "e3194e21ade5d35519b8e175aa2fce9d38efcd14b44bca8f0b0f8f85b2e1b611",
+      "zhSha256": "a68e28c9b155a950eb5a76a94e5ca1dd6c5b13c8d34676df01cc5310aaea16ec"
+    },
+    {
+      "pdfPage": 4,
+      "printedPage": null,
+      "status": "verified",
+      "scope": "Entire title page: authorSergeLang, titleAlgebra, RevisedThirdEdition, publisherSpringer; all EN/ZH content checked; no printedpage, copyrightstatement, numericalformula or additional text.",
+      "enSha256": "48018c548eccd6479e3e621ee41d56778fc19faea2d6131b38189d111d646f30",
+      "zhSha256": "128106ab518d1df7d03cf2b1d5ea9b1b786f132182cb088814210e3b5499a559"
+    }
+  ],
+  "corrections": [],
+  "unresolved": [],
+  "reviewer": "/root/algebra_088_097",
+  "reviewedAt": "2026-10-11T02:08:21Z"
+}

@@ -1,11 +1,11 @@
 {
   "status": "complete",
   "reviewKind": "production_build_browser_and_standalone_math_asset_review",
-  "result": "pass_with_final_local_browser_recheck_unavailable",
+  "result": "pass",
   "siteBase": "http://127.0.0.1:4173/tolstoy/",
   "sourcePdfSha256": "2dd757632494b71e95e8b70520e3745ae22b6df5632b7352cc465fcaac6a6563",
   "pdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
-  "scope": "实际浏览器检查涵盖书目页、第四章、第六章、第七章和索引；原文与译文内容审查另见全238页的主译及独立审校记录。最后一次网页表格线样式修复由专项回归、全部公共缓存预升级和全站构建验证，未据此声称在修复后的本地浏览器重新看过表格。",
+  "scope": "浏览器检查涵盖书目页、第四章、第六章、第七章和索引；原文与译文内容审查另见全238页的主译及独立审校记录。最后一次网页表格线样式修复通过专项回归、公共缓存预升级和完整本地及CI构建，部署成功后又在公开站点实际查看S3、S4、A5张量积表和箭图阅读页。此前本地浏览器重连受限的情况保留为过程事实，由最终公开站点实看完成收尾。",
   "browserChecksBeforeFinalSvgStyleRepair": {
     "home": {
       "majorSectionLinks": 12,
@@ -27,7 +27,13 @@
       "emptyStandaloneSourceAnchorHeightPx": 0,
       "diagramParagraphTextAlign": "center",
       "diagramParagraphTextIndent": "0px",
-      "firstFiveDiagramWidthsPx": [298.57, 252.7, 253.54, 300.48, 342.44],
+      "firstFiveDiagramWidthsPx": [
+        298.57,
+        252.7,
+        253.54,
+        300.48,
+        342.44
+      ],
       "failedVisibleImages": 0,
       "readingMetadataBars": 0,
       "pdfLinks": 0,
@@ -72,7 +78,77 @@
   },
   "finalLocalBrowserRecheck": {
     "status": "unavailable",
-    "reason": "预览服务重启后，内置浏览器拒绝了新的本地连接。保留此前实际DOM及截图证据，未冒称修复后重新实际浏览通过。"
+    "reason": "预览服务重启后，内置浏览器拒绝了新的本地连接。保留此前实际DOM及截图证据，未冒称修复后重新实际浏览通过。",
+    "resolvedBy": "finalPublishedBrowserRecheck"
   },
-  "unresolvedContentOrBuildIssues": []
+  "unresolvedContentOrBuildIssues": [],
+  "publishedSiteBase": "https://minsecrus.github.io/tolstoy/",
+  "finalPublishedBrowserRecheck": {
+    "status": "passed",
+    "checkedAtUtc": "2026-10-11T06:32:22.913736+00:00",
+    "deployedCommit": "ecf3ca69c01ae4f434a8176fa40d1878679053c4",
+    "deploymentRun": "https://github.com/Minsecrus/tolstoy/actions/runs/38117918308",
+    "deploymentResult": "success",
+    "directoryVolumes": 88,
+    "directoryReadingPages": 3773,
+    "newBookLinksActuallyOpened": [
+      "第88卷：表示论导论"
+    ],
+    "bookMajorSectionLinks": 12,
+    "bookPdfLinks": 0,
+    "chapter004": {
+      "url": "https://minsecrus.github.io/tolstoy/library/volume-88/chapter-004",
+      "tensorProductTablesActuallyViewed": [
+        "S3",
+        "S4",
+        "A5"
+      ],
+      "allSixCharacterAndTensorProductTableImagesLoaded": true,
+      "tableLineStylesVisiblyPresent": true,
+      "tensorProductTableWidthsPx": [
+        266.8515625,
+        559.359375,
+        569.1875
+      ],
+      "readingMetadataBars": 0,
+      "pdfLinks": 0
+    },
+    "chapter006": {
+      "url": "https://minsecrus.github.io/tolstoy/library/volume-88/chapter-006",
+      "mathSvgImages": 751,
+      "originalDiagramImages": 48,
+      "firstThreeDiagramWidthsPx": [
+        298.5703125,
+        252.703125,
+        253.5390625
+      ],
+      "firstThreeDiagramsLoaded": true,
+      "visibleFailedImages": 0,
+      "readingMetadataBars": 0,
+      "pdfLinks": 0,
+      "continuousProseAndDynkinDiagramsActuallyViewed": true
+    },
+    "screenshots": [
+      {
+        "path": "tmp/pdfs/representation-theory-export/final-website-tables.png",
+        "sha256": "6894eb2cce6ba0a8e0cd9373022628ceb00f8e00f0fe13ad58fd73f1cfcfdd91",
+        "description": "实际查看S3和S4张量积表，分隔线完整",
+        "actuallyViewed": true
+      },
+      {
+        "path": "tmp/pdfs/representation-theory-export/final-website-a5-table.png",
+        "sha256": "c52f5e5afe57bc2fa353d6f9f983a348a0ff5bf9a18ce8d04097d2ccfa7d7c12",
+        "description": "实际查看A5张量积表及紧邻译校注，分隔线完整",
+        "actuallyViewed": true
+      },
+      {
+        "path": "tmp/pdfs/representation-theory-export/final-website-reading.png",
+        "sha256": "d81364778eb7adac0b77e5b9e8f2022f7762cd1e9037b1bd6f1cdfb4f0f6b8d2",
+        "description": "实际查看连续中文正文与AN、DN、E6、E7箭图",
+        "actuallyViewed": true
+      }
+    ],
+    "deliverableTabRetained": true,
+    "unresolved": []
+  }
 }

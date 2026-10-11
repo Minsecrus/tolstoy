@@ -2,6 +2,8 @@
 
 在线阅读：[https://minsecrus.github.io/tolstoy/](https://minsecrus.github.io/tolstoy/)
 
+数学著作中文 PDF：[统一下载目录](output/pdf/README.md)。
+
 ## 使用
 
 ```powershell

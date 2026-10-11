@@ -1,0 +1,23 @@
+{
+  "pdfPage": 187,
+  "printedPage": "179",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Locally small categories, full subcategory and AbelianGroups example; entire enriched-category paragraph and bilinear composition example; Rep(A) enrichment; Section 7.2 and functor object assignment."
+  ],
+  "actualReviewScope": "Locally small categories, full subcategory and AbelianGroups example; entire enriched-category paragraph and bilinear composition example; Rep(A) enrichment; Section 7.2 and functor object assignment.",
+  "diagrams": [],
+  "enSha256": "211f5178504086d648ef79b4476dac4969d7c87576220a987addd3f7dedc2ca0",
+  "zhSha256": "edb00665606e997f98abe8a0c77d8375bc5cf7250428c66a00caf112f0a4749f",
+  "sourceSha256": {
+    "en": "211f5178504086d648ef79b4476dac4969d7c87576220a987addd3f7dedc2ca0",
+    "zh": "edb00665606e997f98abe8a0c77d8375bc5cf7250428c66a00caf112f0a4749f"
+  }
+}

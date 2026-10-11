@@ -1,0 +1,51 @@
+{
+  "pdfPage": 164,
+  "printedPage": "156",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0164-central-simple.png",
+      "widthPt": 99.7394627751531,
+      "clipPt": [
+        133.48216659958297,
+        61.54533081054687,
+        233.22162937473607,
+        130.0393280029297
+      ],
+      "sha256": "1dc124a14142b5d1b7da17da86577dac05b4f62b245fbc18942d324c04ff18b8"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0164-triple-intersection.png",
+      "widthPt": 229.2518995130384,
+      "clipPt": [
+        70.95892127784523,
+        241.71432342529297,
+        300.21082079088364,
+        312.6899871826172
+      ],
+      "sha256": "da8487d021f6b0ef028b3652ace6ab130288ce92fe9c470f239588aea22a1ef8"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0164-full-simple.png",
+      "widthPt": 103.70919263685073,
+      "clipPt": [
+        133.48216659958297,
+        345.44798583984374,
+        237.1913592364337,
+        412.94931640625
+      ],
+      "sha256": "bf4bc8baac04bab556018772191d91c35778aa7e2f568d98a2a7ac99bf7e055e"
+    }
+  ],
+  "enSha256": "3743b77f6a3710fe7b9c9c4a7b329323544b77036a72fcc2df018a1467f9d5cb",
+  "zhSha256": "de0840f99e0da90dde6aa1f2393d40583514fb2b477e96b18bdb6ac7807143e1",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0164.png"
+}

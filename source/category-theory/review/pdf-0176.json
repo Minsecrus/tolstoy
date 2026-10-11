@@ -1,0 +1,26 @@
+{
+  "pdfPage": 176,
+  "printedPage": "167",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0176-parallel-pair.png",
+      "widthPt": 43,
+      "clipPt": [
+        363,
+        624,
+        406,
+        649
+      ],
+      "sha256": "c55d2bb2b23eb11f413e9f281f89055b0ceeccc5e9961341dcf183710a00a680"
+    }
+  ],
+  "enSha256": "0f1bbf5e914046b0b930c65b8988d7acc02f1b6721704a8e56781713e7e74188",
+  "zhSha256": "42fdbacb0cf4a923fa7f0dfc26a0f496dadf346f3e956557e391adcb1f6cf04c"
+}

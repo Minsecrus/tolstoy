@@ -1,0 +1,18 @@
+{
+  "pdfPage": 222,
+  "printedPage": "214",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；英文保留练习9.6.3缺少P投射假设的原文。主译与独立审校确认此假设必要，中文补P已投射并添加可见译校注。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "c1e8ff2508461a76d622616acc292434746664e85c66c03206b2df377139ad79",
+  "zhSha256": "419ca234c6109fad44edd1ff60cd86f0dcdc0ca3168e586c97f0f64cbc914365"
+}

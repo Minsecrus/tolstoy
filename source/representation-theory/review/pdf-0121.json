@@ -1,0 +1,17 @@
+{
+  "pdfPage": 121,
+  "printedPage": "113",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official erratum: normalized Young projectors require n!/(|P_lambda||Q_lambda|) in Lemma 5.13.3 and its trace proof; coefficient of identity is 1/(|P_lambda||Q_lambda|)."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "b81733842b43729ff1521c269c892758a0a13c8f877b238d3ba815ec36bb72cd",
+  "zhSha256": "f45ae1ad6d0c514e505ff456fd1a6052a969fdfb29f326be42d0f9d86daf6c9b"
+}

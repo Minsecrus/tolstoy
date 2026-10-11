@@ -1,0 +1,17 @@
+{
+  "pdfPage": 128,
+  "printedPage": "120",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official erratum: Subsections 5.18 and 5.19 use an arbitrary algebraically closed characteristic-zero field k in place of C; Chinese states consistent field and visible note."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "d96074de88aa4d57e02cde1134f9717e5d9dce0d6c1176d01d186f1d80c027c7",
+  "zhSha256": "a62327e20f663be447d4cf829d72fd1d837e6b762eecdd9f56beb5d740b06457"
+}

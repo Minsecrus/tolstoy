@@ -1,0 +1,52 @@
+{
+  "pdfPage": 71,
+  "printedPage": "62",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0071-counit-naturality.png",
+      "widthPt": 266.13,
+      "clipPt": [
+        143.48,
+        270.54,
+        409.61,
+        374.28
+      ],
+      "sha256": "07c7c6b0a7aad9868fab7c652bf740618ba80bb264b60b5cfc79391cffd616e1"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0071-second-triangle.png",
+      "widthPt": 100.7848,
+      "clipPt": [
+        230.3654,
+        446.2613,
+        331.1502,
+        505.829
+      ],
+      "sha256": "da9c513e1b2d1ef6332ebc18b6816edd071abbee8266ed540c445284a65fd402"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0071-initiality-diagrams.png",
+      "widthPt": 254.6927,
+      "clipPt": [
+        149.9361,
+        542.066,
+        404.6288,
+        650.777
+      ],
+      "sha256": "7e9c86be6cca8b236228bfc810de32be2b50196759dc3db0ecd5b560721a6759"
+    }
+  ],
+  "englishSha256": "0f2b68f0d9210e5500e51fe3a7885a00a71ee4aa9be975e7c2f4961cc534b4dc",
+  "chineseSha256": "4c5205e80df2f2739adbdcf8c022d0aa7c693b6609a1c14d5839840c756d2293"
+}

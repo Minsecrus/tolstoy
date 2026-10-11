@@ -1,0 +1,1805 @@
+{
+  "sourceSha256": "2dd757632494b71e95e8b70520e3745ae22b6df5632b7352cc465fcaac6a6563",
+  "sourcePdfPageCount": 238,
+  "reviewRecordCount": 238,
+  "pendingReviewPages": [],
+  "completeReviewInventory": true,
+  "bodyFontPt": 9.962639809,
+  "bodyFontEvidence": {
+    "officialUrl": "https://math.mit.edu/~etingof/representationtheorybook.pdf",
+    "officialSha256": "6ecd809a32ec277a72785868ad1adc9e4cd2ee7d361a9a84fa40af34f56464cf",
+    "officialPdfPageCount": 236,
+    "nativeFont": "CMR10",
+    "nativeFontPdfPt": 9.962639809,
+    "nativeFontTexPt": 10,
+    "matchingSizeCharacterCount": 232566,
+    "sourcePagePairing": "Scan PDF 9–236 and author PDF 9–236 both carry printed pages 1–228; front matter differs.",
+    "calibration": "Each crop width is divided by native CMR10 PDF pt multiplied by that scan page's measured horizontal scale. Synthetic OCR font sizes are never used.",
+    "referencePairVisuallyViewed": [
+      "source PDF page 10",
+      "author PDF page 10"
+    ],
+    "note": "Scan horizontal and vertical scales can differ; the horizontal scale controls image width in em."
+  },
+  "pageCalibrations": {
+    "10": {
+      "sourcePdfPage": 10,
+      "officialPdfPage": 10,
+      "printedPage": "2",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.016853933,
+      "effectiveHorizontalBodyFontPt": 10.130549469,
+      "sourceRunningHeadRule": {
+        "widthPx": 1267,
+        "widthPt": 304.08,
+        "leftPt": 31.2,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 28,
+        "scaleX": 1.014598605,
+        "scaleY": 1.000633543,
+        "horizontalResidualRmsePt": 0.328295,
+        "verticalResidualRmsePt": 0.189102,
+        "exampleMatchedLines": [
+          "graduate students and should be accessible to students with a strong",
+          "background in linear algebra and a basic knowledge of abstract al­",
+          "gebra. Theoretical material in this book is supplemented by many"
+        ]
+      }
+    },
+    "15": {
+      "sourcePdfPage": 15,
+      "officialPdfPage": 15,
+      "printedPage": "7",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.011235955,
+      "effectiveHorizontalBodyFontPt": 10.074579582,
+      "sourceRunningHeadRule": {
+        "widthPx": 1260,
+        "widthPt": 302.4,
+        "leftPt": 31.92,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 11,
+        "scaleX": 1.011286439,
+        "scaleY": 1.000073907,
+        "horizontalResidualRmsePt": 0.567709,
+        "verticalResidualRmsePt": 0.255187,
+        "exampleMatchedLines": [
+          "A quiver is an oriented graph Q (which we will assume to be",
+          "ﬁnite). A representation of Q over a ﬁeld k is an assignment of",
+          "multiple edges are allowed). We will show that a representation of a"
+        ]
+      }
+    },
+    "27": {
+      "sourcePdfPage": 27,
+      "officialPdfPage": 27,
+      "printedPage": "19",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.008025682,
+      "effectiveHorizontalBodyFontPt": 10.04259679,
+      "sourceRunningHeadRule": {
+        "widthPx": 1256,
+        "widthPt": 301.44,
+        "leftPt": 32.64,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 14,
+        "scaleX": 1.00747807,
+        "scaleY": 1.000610239,
+        "horizontalResidualRmsePt": 0.474835,
+        "verticalResidualRmsePt": 0.346898,
+        "exampleMatchedLines": [
+          "(a) What is the center of A for different q? If q is not a root of",
+          "(b) For which q does this algebra have ﬁnite dimensional repre­",
+          "(c) Find all ﬁnite dimensional irreducible representations of A for"
+        ]
+      }
+    },
+    "154": {
+      "sourcePdfPage": 154,
+      "officialPdfPage": 154,
+      "printedPage": "146",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.015248796,
+      "effectiveHorizontalBodyFontPt": 10.114558073,
+      "sourceRunningHeadRule": {
+        "widthPx": 1265,
+        "widthPt": 303.6,
+        "leftPt": 31.92,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 7,
+        "scaleX": 1.015029779,
+        "scaleY": 0.999747134,
+        "horizontalResidualRmsePt": 0.258904,
+        "verticalResidualRmsePt": 0.215704,
+        "exampleMatchedLines": [
+          "set of points (vertices) connected with a certain number of edges (we",
+          "be connected to any other by a path of edges) and has no self—loops",
+          "j. This matrix is obviously symmetric and is called the adjacency"
+        ]
+      }
+    },
+    "155": {
+      "sourcePdfPage": 155,
+      "officialPdfPage": 155,
+      "printedPage": "147",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.00882825,
+      "effectiveHorizontalBodyFontPt": 10.050592488,
+      "sourceRunningHeadRule": {
+        "widthPx": 1257,
+        "widthPt": 301.68,
+        "leftPt": 33.36,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 5,
+        "scaleX": 1.006129341,
+        "scaleY": 1.004848029,
+        "horizontalResidualRmsePt": 0.266288,
+        "verticalResidualRmsePt": 0.132247,
+        "exampleMatchedLines": [
+          "row decomposition rule, and write down a recursive equation for it.)",
+          "Deduce by Sylvester criterion that A N, DN are Dynkin diagrams.1",
+          "composition and reduce to (a)). Show they are Dynkin diagrams."
+        ]
+      }
+    },
+    "156": {
+      "sourcePdfPage": 156,
+      "officialPdfPage": 156,
+      "printedPage": "148",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.016051364,
+      "effectiveHorizontalBodyFontPt": 10.122553771,
+      "sourceRunningHeadRule": {
+        "widthPx": 1266,
+        "widthPt": 303.84,
+        "leftPt": 31.44,
+        "topPt": 26.16,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 11,
+        "scaleX": 1.015397318,
+        "scaleY": 1.001727087,
+        "horizontalResidualRmsePt": 0.33895,
+        "verticalResidualRmsePt": 0.37556,
+        "exampleMatchedLines": [
+          "(f) Deduce from (a)—(e) the classiﬁcation theorem for Dynkin",
+          "(g) A (simply laced) affine Dynkin diagram is a connected",
+          "is positive semideﬁnite. Classify afﬁne Dynkin diagrams. (Show that"
+        ]
+      }
+    },
+    "158": {
+      "sourcePdfPage": 158,
+      "officialPdfPage": 158,
+      "printedPage": "150",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.015248796,
+      "effectiveHorizontalBodyFontPt": 10.114558073,
+      "sourceRunningHeadRule": {
+        "widthPx": 1265,
+        "widthPt": 303.6,
+        "leftPt": 31.68,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 17,
+        "scaleX": 1.014281118,
+        "scaleY": 1.000609868,
+        "horizontalResidualRmsePt": 0.230561,
+        "verticalResidualRmsePt": 0.250688,
+        "exampleMatchedLines": [
+          "(e) Using the McKay graph, ﬁnd the dimensions of irreducible",
+          "the numbers labeling the vertices of the affine Dynkin diagrams on",
+          "We have seen that a central question about representations of quivers"
+        ]
+      }
+    },
+    "159": {
+      "sourcePdfPage": 159,
+      "officialPdfPage": 159,
+      "printedPage": "151",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.008025682,
+      "effectiveHorizontalBodyFontPt": 10.04259679,
+      "sourceRunningHeadRule": {
+        "widthPx": 1256,
+        "widthPt": 301.44,
+        "leftPt": 33.12,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 9,
+        "scaleX": 1.007780978,
+        "scaleY": 1.00037245,
+        "horizontalResidualRmsePt": 0.253114,
+        "verticalResidualRmsePt": 0.619097,
+        "exampleMatchedLines": [
+          "To decompose this representation, we ﬁrst let V’ be a complement to",
+          "the kernel of A in V and let W’ be a complement to the image of A",
+          "in W. Then we can decompose the representation as follows:"
+        ]
+      }
+    },
+    "160": {
+      "sourcePdfPage": 160,
+      "officialPdfPage": 160,
+      "printedPage": "152",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.015248796,
+      "effectiveHorizontalBodyFontPt": 10.114558073,
+      "sourceRunningHeadRule": {
+        "widthPx": 1265,
+        "widthPt": 303.6,
+        "leftPt": 31.92,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 4,
+        "scaleX": 1.01368985,
+        "scaleY": 1.001615176,
+        "horizontalResidualRmsePt": 0.211944,
+        "verticalResidualRmsePt": 0.0973,
+        "exampleMatchedLines": [
+          "ing at the second summand, we now have a situation where A is in­",
+          "Furthermore, let W’ = B‘1(X’ Then W’ is a complement of A(V)",
+          "splitting away the kernel of B, the second summand can be decom­"
+        ]
+      }
+    },
+    "161": {
+      "sourcePdfPage": 161,
+      "officialPdfPage": 161,
+      "printedPage": "153",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.00882825,
+      "effectiveHorizontalBodyFontPt": 10.050592488,
+      "sourceRunningHeadRule": {
+        "widthPx": 1257,
+        "widthPt": 301.68,
+        "leftPt": 32.64,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 7,
+        "scaleX": 1.009317649,
+        "scaleY": 1.000786854,
+        "horizontalResidualRmsePt": 0.405795,
+        "verticalResidualRmsePt": 0.100506,
+        "exampleMatchedLines": [
+          "Very similarly to the other orientation, we can split away objects of",
+          "which results in a situation where both A and B are injective:",
+          "By identifying V and Y as subspaces of W, this leads to the problem of"
+        ]
+      }
+    },
+    "162": {
+      "sourcePdfPage": 162,
+      "officialPdfPage": 162,
+      "printedPage": "154",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.014446228,
+      "effectiveHorizontalBodyFontPt": 10.106562374,
+      "sourceRunningHeadRule": {
+        "widthPx": 1264,
+        "widthPt": 303.36,
+        "leftPt": 31.92,
+        "topPt": 25.68,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 5,
+        "scaleX": 1.01368124,
+        "scaleY": 1.000097103,
+        "horizontalResidualRmsePt": 0.219851,
+        "verticalResidualRmsePt": 0.224834,
+        "exampleMatchedLines": [
+          "So — as in the other orientation — we get six indecomposable repre­",
+          "As the last — slightly more complicated — example we consider the",
+          "Example 6.3.1 (D4). We restrict ourselves to the orientation"
+        ]
+      }
+    },
+    "163": {
+      "sourcePdfPage": 163,
+      "officialPdfPage": 163,
+      "printedPage": "155",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.007223114,
+      "effectiveHorizontalBodyFontPt": 10.034601092,
+      "sourceRunningHeadRule": {
+        "widthPx": 1255,
+        "widthPt": 301.2,
+        "leftPt": 33.12,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 5,
+        "scaleX": 1.008795792,
+        "scaleY": 1.000692677,
+        "horizontalResidualRmsePt": 0.442142,
+        "verticalResidualRmsePt": 0.235953,
+        "exampleMatchedLines": [
+          "These representations are multiples of the indecomposable objects",
+          "So we get to a situation where all of the maps A1, A2, A3 are injective:",
+          "As in Example 6.2.4, we can then identify the spaces V1, V2, V3 with"
+        ]
+      }
+    },
+    "164": {
+      "sourcePdfPage": 164,
+      "officialPdfPage": 164,
+      "printedPage": "156",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.015248796,
+      "effectiveHorizontalBodyFontPt": 10.114558073,
+      "sourceRunningHeadRule": {
+        "widthPx": 1265,
+        "widthPt": 303.6,
+        "leftPt": 31.92,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": null
+    },
+    "165": {
+      "sourcePdfPage": 165,
+      "officialPdfPage": 165,
+      "printedPage": "157",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.008025682,
+      "effectiveHorizontalBodyFontPt": 10.04259679,
+      "sourceRunningHeadRule": {
+        "widthPx": 1256,
+        "widthPt": 301.44,
+        "leftPt": 33.36,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": null
+    },
+    "166": {
+      "sourcePdfPage": 166,
+      "officialPdfPage": 166,
+      "printedPage": "158",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.01364366,
+      "effectiveHorizontalBodyFontPt": 10.098566676,
+      "sourceRunningHeadRule": {
+        "widthPx": 1263,
+        "widthPt": 303.12,
+        "leftPt": 32.16,
+        "topPt": 26.16,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": null
+    },
+    "167": {
+      "sourcePdfPage": 167,
+      "officialPdfPage": 167,
+      "printedPage": "159",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.009630819,
+      "effectiveHorizontalBodyFontPt": 10.058588186,
+      "sourceRunningHeadRule": {
+        "widthPx": 1258,
+        "widthPt": 301.92,
+        "leftPt": 32.88,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 6,
+        "scaleX": 1.008776677,
+        "scaleY": 1.005872684,
+        "horizontalResidualRmsePt": 0.262413,
+        "verticalResidualRmsePt": 1.407214,
+        "exampleMatchedLines": [
+          "and therefore are isomorphisms. We then deﬁne the isomorphism",
+          "So we can think of V3 as the graph of an isomorphism A : V1 —-> V2.",
+          "These correspond to the indecomposable object"
+        ]
+      }
+    },
+    "169": {
+      "sourcePdfPage": 169,
+      "officialPdfPage": 169,
+      "printedPage": "161",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.00882825,
+      "effectiveHorizontalBodyFontPt": 10.050592488,
+      "sourceRunningHeadRule": {
+        "widthPx": 1257,
+        "widthPt": 301.68,
+        "leftPt": 32.64,
+        "topPt": 25.68,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.0,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": null
+    },
+    "172": {
+      "sourcePdfPage": 172,
+      "officialPdfPage": 172,
+      "printedPage": "164",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.016051364,
+      "effectiveHorizontalBodyFontPt": 10.122553771,
+      "sourceRunningHeadRule": {
+        "widthPx": 1266,
+        "widthPt": 303.84,
+        "leftPt": 31.68,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 5,
+        "scaleX": 1.014350058,
+        "scaleY": 1.001106654,
+        "horizontalResidualRmsePt": 0.36223,
+        "verticalResidualRmsePt": 0.172731,
+        "exampleMatchedLines": [
+          "Theorem 6.5.2 (Gabriel’s theorem). Let Q be a quiver of type An,",
+          "tations. Namely, the dimension vector of any indecomposable repre­",
+          "Q by reversing all arrows pointing into (respectively, pointing out of)"
+        ]
+      }
+    },
+    "173": {
+      "sourcePdfPage": 173,
+      "officialPdfPage": 173,
+      "printedPage": "165",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.009630819,
+      "effectiveHorizontalBodyFontPt": 10.058588186,
+      "sourceRunningHeadRule": {
+        "widthPx": 1258,
+        "widthPt": 301.92,
+        "leftPt": 32.64,
+        "topPt": 25.92,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 3,
+        "scaleX": 1.009987882,
+        "scaleY": 0.998957762,
+        "horizontalResidualRmsePt": 0.274706,
+        "verticalResidualRmsePt": 0.105909,
+        "exampleMatchedLines": [
+          "Also, all maps stay the same except those now pointing out of i; these",
+          "Again, all maps stay the same except those now pointing into i; these",
+          "Proposition 6.6.5. Let Q be a quiver and V be an indecomposable"
+        ]
+      }
+    },
+    "174": {
+      "sourcePdfPage": 174,
+      "officialPdfPage": 174,
+      "printedPage": "166",
+      "method": "same printed running-head rule, actual raster ink at 300 dpi",
+      "scanScaleX": 1.014446228,
+      "effectiveHorizontalBodyFontPt": 10.106562374,
+      "sourceRunningHeadRule": {
+        "widthPx": 1264,
+        "widthPt": 303.36,
+        "leftPt": 31.44,
+        "topPt": 26.16,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "officialRunningHeadRule": {
+        "widthPx": 1246,
+        "widthPt": 299.04,
+        "leftPt": 156.48,
+        "topPt": 156.24,
+        "dpi": 300,
+        "blackThreshold": 100
+      },
+      "matchingProseGeometry": {
+        "matchedLineCount": 8,
+        "scaleX": 1.014801534,
+        "scaleY": 0.997873089,
+        "horizontalResidualRmsePt": 0.44698,
+        "verticalResidualRmsePt": 1.088398,
+        "exampleMatchedLines": [
+          "Since V is indecomposable, one of these summands has to be zero. If",
+          "summand is zero, then the ﬁrst one has to be of the desired form,",
+          "because else we could write it as a direct sum of several objects of the"
+        ]
+      }
+    }
+  },
+  "diagramCount": 55,
+  "diagrams": {
+    "/library/volume-88/diagrams/pdf-0015-an.png": {
+      "widthPt": 143,
+      "bodyFontPt": 10.074579582,
+      "widthEm": 14.194141,
+      "scanScaleX": 1.011235955,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        94,
+        259,
+        237,
+        276
+      ],
+      "sha256": "e061e948c90e4ccbe9a3079df928b0dc8f9063bbed17be198800304f65f77b1b",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 597,
+        "heightPx": 71,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0015-dn.png": {
+      "widthPt": 114,
+      "bodyFontPt": 10.074579582,
+      "widthEm": 11.315609,
+      "scanScaleX": 1.011235955,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        94,
+        294,
+        208,
+        332
+      ],
+      "sha256": "2430a366a6b5d09d22c7e4a055e55b78ec015239a48683fa9a63d5601cd12dfc",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 476,
+        "heightPx": 159,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0015-e6.png": {
+      "widthPt": 114,
+      "bodyFontPt": 10.074579582,
+      "widthEm": 11.315609,
+      "scanScaleX": 1.011235955,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        94,
+        354,
+        208,
+        393
+      ],
+      "sha256": "a6dce221bb6d6a48dbbd2fcbdb9e766274bce23d4cfcefac40ee11d88768b339",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 476,
+        "heightPx": 163,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0015-e7.png": {
+      "widthPt": 143,
+      "bodyFontPt": 10.074579582,
+      "widthEm": 14.194141,
+      "scanScaleX": 1.011235955,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        94,
+        415,
+        237,
+        454
+      ],
+      "sha256": "027b6743fe910e2d31b40566443c3219fe4f0df0ee6e9b0a61c64750278523bd",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 597,
+        "heightPx": 163,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0015-e8.png": {
+      "widthPt": 169,
+      "bodyFontPt": 10.074579582,
+      "widthEm": 16.774894,
+      "scanScaleX": 1.011235955,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        94,
+        475,
+        263,
+        514
+      ],
+      "sha256": "90ba06ae792f4c85167850c7419ba66247f4016db587fee94afaae9149a7b094",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 705,
+        "heightPx": 163,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0027-example.png": {
+      "widthPt": 91,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 9.061401,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 27,
+      "clipPt": [
+        137,
+        248,
+        228,
+        294
+      ],
+      "sha256": "f117e2c0cb10256a09dbf12c7dae810ae6641ba4d6b33b45a9e9f935955d9a85",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 380,
+        "heightPx": 192,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0027-source-target.png": {
+      "widthPt": 55,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 5.476671,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 27,
+      "clipPt": [
+        156,
+        355,
+        211,
+        376
+      ],
+      "sha256": "fa151abad236c44d2595feea023fa71c3a8777e81ee3c3562b4a1f6381db2455",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 230,
+        "heightPx": 88,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0154-an.png": {
+      "widthPt": 177.64541131096917,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 17.563339,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 154,
+      "clipPt": [
+        60.53838039088894,
+        292.83665466308594,
+        238.1837917018581,
+        323.1129867553711
+      ],
+      "sha256": "698e52b90099a95b7b0e8526df0ad583f5fb7149cc294b35e507fcc78e7703f2",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 741,
+        "heightPx": 127,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0154-dn.png": {
+      "widthPt": 150.35351851179792,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 14.865061,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 154,
+      "clipPt": [
+        60.04216415817673,
+        328.0763198852539,
+        210.39568266997466,
+        381.183984375
+      ],
+      "sha256": "ce315aad78e662f011bc34778539d8977951f21eff8900f066dc989994c25259",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 627,
+        "heightPx": 223,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0154-e6.png": {
+      "widthPt": 150.84973474451013,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 14.91412,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 154,
+      "clipPt": [
+        60.53838039088894,
+        388.1326507568359,
+        211.38811513539906,
+        441.7366485595703
+      ],
+      "sha256": "58442b65722610180b16fe50da0ce0ea77c7a0d71fc8b92406f399fc13237231",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 629,
+        "heightPx": 224,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0155-e7.png": {
+      "widthPt": 177.64541131096917,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 17.675118,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        60.53838039088894,
+        37.72133178710938,
+        238.1837917018581,
+        87.3546630859375
+      ],
+      "sha256": "9f758a2cf014f2b580f79587bbd203f4e78b947af54e008b35b717b7483db735",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 741,
+        "heightPx": 207,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0155-e8.png": {
+      "widthPt": 202.4562229465794,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 20.14371,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        60.53838039088894,
+        96.28866271972656,
+        262.99460333746833,
+        148.4036605834961
+      ],
+      "sha256": "48e15300d52c0e089f48f308d99b252066d9123920164f14ec52d13552b45bc7",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 844,
+        "heightPx": 218,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0155-cycle.png": {
+      "widthPt": 231.23676444388727,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 23.007277,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        48.13297457308383,
+        257.596989440918,
+        279.3697390169711,
+        326.09098663330076
+      ],
+      "sha256": "58a408e866e5d94a101319d83fbf59b8036ad97b70f7660f198d51f743576bbf",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 965,
+        "heightPx": 286,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0155-fork.png": {
+      "widthPt": 233.2216293747361,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 23.204764,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        47.63675834037162,
+        395.57765045166013,
+        280.8583877151077,
+        467.04964752197264
+      ],
+      "sha256": "280b1bb818aa8708d5d4453ee39ee7c51df904df1af3c1bda40c0df94ae12ab2",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 973,
+        "heightPx": 299,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0156-affine.png": {
+      "widthPt": 268.4529818973026,
+      "bodyFontPt": 10.122553771,
+      "widthEm": 26.520282,
+      "scanScaleX": 1.016051364,
+      "sourcePdfPage": 156,
+      "clipPt": [
+        47.63675834037162,
+        34.2469985961914,
+        316.0897402376742,
+        273.9759887695312
+      ],
+      "sha256": "b9514b4041b686bf6b3afe86b83c1eb9a279a93e7e24e17c87a9507c5802a0f6",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1120,
+        "heightPx": 1000,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0158-a2.png": {
+      "widthPt": 54.08756936563029,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 5.347497,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 158,
+      "clipPt": [
+        156.8043295370566,
+        497.8223129272461,
+        210.89189890268688,
+        524.127978515625
+      ],
+      "sha256": "2835495848f4759d2b701edbe334d79f23e1d970f02c982220f76cab2d9e8f1e",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 226,
+        "heightPx": 110,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0159-a2-decomposition.png": {
+      "widthPt": 264.97946826831713,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 26.385553,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 159,
+      "clipPt": [
+        52.10270443478146,
+        82.39132995605469,
+        317.0821727030986,
+        109.19332885742188
+      ],
+      "sha256": "232719485c322e085e802ef01a1dd277265524db10cf38b018a3f85817c6fa52",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1105,
+        "heightPx": 112,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0159-a3.png": {
+      "widthPt": 121.07676078177786,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 12.05632,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 159,
+      "clipPt": [
+        123.0616257126267,
+        353.3893188476562,
+        244.13838649440456,
+        380.1913177490234
+      ],
+      "sha256": "68f3726d30f49c7e34ca06cf6f252d4d919a1be7456a550c6779240577a3d50e",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 506,
+        "heightPx": 113,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0159-kernel.png": {
+      "widthPt": 126.53513934161212,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 12.599843,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 159,
+      "clipPt": [
+        119.58811208364126,
+        400.0446502685547,
+        246.1232514252534,
+        425.357649230957
+      ],
+      "sha256": "7c41f0583da1173856943b06b1f4defad3166e8861c5d54fa1956c8553d9954b",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 528,
+        "heightPx": 107,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0159-cokernel.png": {
+      "widthPt": 116.11459845465583,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 11.562209,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 159,
+      "clipPt": [
+        125.54270687618771,
+        462.08631439208983,
+        241.65730533084354,
+        486.4066467285156
+      ],
+      "sha256": "58027107736c183904f8153365895e6244fc1f8c9a1439604e7a8c12efa0c274",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 484,
+        "heightPx": 102,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0160-injective-surjective.png": {
+      "widthPt": 123.0616257126267,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 12.166782,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 160,
+      "clipPt": [
+        122.56540947991448,
+        55.5893310546875,
+        245.62703519254117,
+        79.90966339111328
+      ],
+      "sha256": "f9671850d7e02d5859d145cebdc087f534e9bb3531b834fe72ca8c22c2a0e331",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 514,
+        "heightPx": 102,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0160-first-decomposition.png": {
+      "widthPt": 290.78271236935177,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 28.748929,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 160,
+      "clipPt": [
+        38.70486615155194,
+        129.5429946899414,
+        329.4875785209037,
+        183.1469924926758
+      ],
+      "sha256": "3d2e1e86e3058e87605c867aa87306cd54e88423388aea05ec44450555c8c2bc",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1212,
+        "heightPx": 225,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0160-second-decomposition.png": {
+      "widthPt": 290.2864961366396,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 28.699869,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 160,
+      "clipPt": [
+        38.70486615155194,
+        313.6826538085937,
+        328.9913622881915,
+        367.7829849243164
+      ],
+      "sha256": "138007958e732ac174fed241c5276f215b15cd6e2967c1d97e5f2a8263c0aa22",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1210,
+        "heightPx": 226,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0161-injective-pair.png": {
+      "widthPt": 124.0540581780511,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 12.34296,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 161,
+      "clipPt": [
+        122.56540947991448,
+        98.77032928466797,
+        246.61946765796557,
+        124.5796615600586
+      ],
+      "sha256": "72aa6adf42089e311ce3cf1622d5c2c738fc7c53827dd122b63534102d4654d5",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 518,
+        "heightPx": 109,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0161-intersection-decomposition.png": {
+      "widthPt": 292.2713610674884,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 29.080013,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 161,
+      "clipPt": [
+        37.21621745341533,
+        198.03699188232423,
+        329.4875785209037,
+        247.67032318115236
+      ],
+      "sha256": "b8e4d0977e8a55a8f0a578ebfc04803629e692c97f7acdaeffe1474c2325563d",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1218,
+        "heightPx": 207,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0161-sum-decomposition.png": {
+      "widthPt": 291.77514483477614,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 29.030641,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 161,
+      "clipPt": [
+        37.71243368612753,
+        341.4773193359375,
+        329.4875785209037,
+        387.1399841308594
+      ],
+      "sha256": "fdaa62bad4d84537e44a050da279d6c4eadf1d1cabc36a0c4b03355bf4e51a03",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1216,
+        "heightPx": 192,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0161-separate-decomposition.png": {
+      "widthPt": 292.76757730020057,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 29.129385,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 161,
+      "clipPt": [
+        36.720001220703125,
+        436.27698211669923,
+        329.4875785209037,
+        484.91764678955076
+      ],
+      "sha256": "b9846c13cb0d43f7695186d266d5de9115a79b553bd07776d38baa1840234bc0",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1220,
+        "heightPx": 204,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0162-d4.png": {
+      "widthPt": 85.84540825921135,
+      "bodyFontPt": 10.106562374,
+      "widthEm": 8.494026,
+      "scanScaleX": 1.014446228,
+      "sourcePdfPage": 162,
+      "clipPt": [
+        138.94054515941724,
+        210.44532470703126,
+        224.7859534186286,
+        258.5896560668945
+      ],
+      "sha256": "90ab4d9318a419d5aa54c6f5cd4eeeb50ab85780720f8675f1e729cb5ca5d3ad",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 359,
+        "heightPx": 202,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0162-representation.png": {
+      "widthPt": 102.22054393871412,
+      "bodyFontPt": 10.106562374,
+      "widthEm": 10.114274,
+      "scanScaleX": 1.014446228,
+      "sourcePdfPage": 162,
+      "clipPt": [
+        131.49730166873417,
+        280.4283218383789,
+        233.71784560744828,
+        350.41131896972655
+      ],
+      "sha256": "f75529896bf338303f13783516a964b927c210c6581433c103e78ac0af94ae6b",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 427,
+        "heightPx": 293,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0162-kernel1.png": {
+      "widthPt": 114.129733523807,
+      "bodyFontPt": 10.106562374,
+      "widthEm": 11.292636,
+      "scanScaleX": 1.014446228,
+      "sourcePdfPage": 162,
+      "clipPt": [
+        124.0540581780511,
+        381.183984375,
+        238.1837917018581,
+        448.68531494140626
+      ],
+      "sha256": "d98facf6ee4663937d28fb65d2549bcb2eeb78e31803bdf1eadbb74c84892c44",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 477,
+        "heightPx": 282,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0162-kernel2.png": {
+      "widthPt": 98.74703030972867,
+      "bodyFontPt": 10.106562374,
+      "widthEm": 9.770585,
+      "scanScaleX": 1.014446228,
+      "sourcePdfPage": 162,
+      "clipPt": [
+        129.01622050517315,
+        455.6339813232422,
+        227.76325081490182,
+        523.1353118896484
+      ],
+      "sha256": "7bcef091f173ecb26636fc35401396c706267ef532086bc6682eae29a6204864",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 413,
+        "heightPx": 282,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0163-kernel3.png": {
+      "widthPt": 107.67892249854836,
+      "bodyFontPt": 10.034601092,
+      "widthEm": 10.730763,
+      "scanScaleX": 1.007223114,
+      "sourcePdfPage": 163,
+      "clipPt": [
+        130.00865297059755,
+        33.750665283203126,
+        237.6875754691459,
+        101.25199584960937
+      ],
+      "sha256": "7b999dbc9510cd5f54764a00e560c1a4d1a9672c8a212f848e86edcfa290c152",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 450,
+        "heightPx": 282,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0163-simple1.png": {
+      "widthPt": 100.7318952405775,
+      "bodyFontPt": 10.034601092,
+      "widthEm": 10.038455,
+      "scanScaleX": 1.007223114,
+      "sourcePdfPage": 163,
+      "clipPt": [
+        132.98595036687078,
+        141.45499420166016,
+        233.71784560744828,
+        208.9563247680664
+      ],
+      "sha256": "46264c1c00a595eb01051ef1f940d2b8f2cb796352527544966aa8d2bffb20e4",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 420,
+        "heightPx": 282,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0163-simple2.png": {
+      "widthPt": 100.7318952405775,
+      "bodyFontPt": 10.034601092,
+      "widthEm": 10.038455,
+      "scanScaleX": 1.007223114,
+      "sourcePdfPage": 163,
+      "clipPt": [
+        132.98595036687078,
+        215.90499114990234,
+        233.71784560744828,
+        282.41365509033204
+      ],
+      "sha256": "2e06ca8be29dff6d63b2a799bc399f6c28e7592ce942a565fa5b7a3a51b0ac62",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 420,
+        "heightPx": 278,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0163-simple3.png": {
+      "widthPt": 100.7318952405775,
+      "bodyFontPt": 10.034601092,
+      "widthEm": 10.038455,
+      "scanScaleX": 1.007223114,
+      "sourcePdfPage": 163,
+      "clipPt": [
+        132.98595036687078,
+        290.35498809814453,
+        233.71784560744828,
+        355.87098541259763
+      ],
+      "sha256": "78036509c74455627411fbefdce8f7954835984b3d07a451b92773efc462301b",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 420,
+        "heightPx": 274,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0163-injective.png": {
+      "widthPt": 99.73946277515307,
+      "bodyFontPt": 10.034601092,
+      "widthEm": 9.939554,
+      "scanScaleX": 1.007223114,
+      "sourcePdfPage": 163,
+      "clipPt": [
+        132.98595036687078,
+        397.56298370361327,
+        232.72541314202385,
+        467.5459808349609
+      ],
+      "sha256": "288d164adcc527a31cd42838619ea9ed7d9a34ca137b26b2b90e5bd63321ec2d",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 416,
+        "heightPx": 293,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0164-central-simple.png": {
+      "widthPt": 99.7394627751531,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 9.860981,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 164,
+      "clipPt": [
+        133.48216659958297,
+        61.54533081054687,
+        233.22162937473607,
+        130.0393280029297
+      ],
+      "sha256": "1dc124a14142b5d1b7da17da86577dac05b4f62b245fbc18942d324c04ff18b8",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 416,
+        "heightPx": 286,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0164-triple-intersection.png": {
+      "widthPt": 229.2518995130384,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 22.665538,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 164,
+      "clipPt": [
+        70.95892127784523,
+        241.71432342529297,
+        300.21082079088364,
+        312.6899871826172
+      ],
+      "sha256": "da8487d021f6b0ef028b3652ace6ab130288ce92fe9c470f239588aea22a1ef8",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 956,
+        "heightPx": 296,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0164-full-simple.png": {
+      "widthPt": 103.70919263685073,
+      "bodyFontPt": 10.114558073,
+      "widthEm": 10.253458,
+      "scanScaleX": 1.015248796,
+      "sourcePdfPage": 164,
+      "clipPt": [
+        133.48216659958297,
+        345.44798583984374,
+        237.1913592364337,
+        412.94931640625
+      ],
+      "sha256": "bf4bc8baac04bab556018772191d91c35778aa7e2f568d98a2a7ac99bf7e055e",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 433,
+        "heightPx": 282,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0165-pair-intersection.png": {
+      "widthPt": 293.760009765625,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 29.251399,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 165,
+      "clipPt": [
+        38.70486615155194,
+        62.53799743652344,
+        332.4648759171769,
+        205.97832489013672
+      ],
+      "sha256": "5bcf2f4da486ca1f37da0afad954cb90829f8ab7ff3c1c431882d84f7813ac73",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1225,
+        "heightPx": 599,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0165-pair12.png": {
+      "widthPt": 102.22054393871409,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 10.178696,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 165,
+      "clipPt": [
+        134.4745990650074,
+        239.23265686035157,
+        236.69514300372148,
+        306.2376541137695
+      ],
+      "sha256": "748da2c644a94912f61802c5607d53706ccc248291ae28055db7a6069723b811",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 427,
+        "heightPx": 280,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0165-pair13.png": {
+      "widthPt": 93.28865174989443,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 9.289296,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 165,
+      "clipPt": [
+        62.02702908902555,
+        353.88565216064455,
+        155.31568083891997,
+        423.8686492919922
+      ],
+      "sha256": "ed129129f13613fe79442f65981d0209e6e89a828ac31ac0f58d8a7cb0e32638",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 390,
+        "heightPx": 293,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0165-pair23.png": {
+      "widthPt": 93.28865174989443,
+      "bodyFontPt": 10.04259679,
+      "widthEm": 9.289296,
+      "scanScaleX": 1.008025682,
+      "sourcePdfPage": 165,
+      "clipPt": [
+        209.89946643726245,
+        354.3819854736328,
+        303.1881181871569,
+        424.36498260498047
+      ],
+      "sha256": "e7ce3da58ca20d73107a7631ef4692a17c90f81a3d6769f1c42acf7db745e4b4",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 390,
+        "heightPx": 293,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0166-sum-splitting.png": {
+      "widthPt": 294.2562259983372,
+      "bodyFontPt": 10.098566676,
+      "widthEm": 29.138415,
+      "scanScaleX": 1.01364366,
+      "sourcePdfPage": 166,
+      "clipPt": [
+        38.20864991883974,
+        56.08566436767578,
+        332.4648759171769,
+        193.07365875244142
+      ],
+      "sha256": "dd4e83443135adcce4a865555a0f8a9b988e4d9da55397ce6abcedb201fe431b",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1227,
+        "heightPx": 572,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0166-arm1.png": {
+      "widthPt": 102.22054393871409,
+      "bodyFontPt": 10.098566676,
+      "widthEm": 10.122282,
+      "scanScaleX": 1.01364366,
+      "sourcePdfPage": 166,
+      "clipPt": [
+        134.4745990650074,
+        213.9196578979492,
+        236.69514300372148,
+        280.4283218383789
+      ],
+      "sha256": "76ad179683d22845bea44783ac8c944bb6306bb4119b5a6024f24ca1c0ce3d51",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 427,
+        "heightPx": 278,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0166-arm2.png": {
+      "widthPt": 93.28865174989443,
+      "bodyFontPt": 10.098566676,
+      "widthEm": 9.237811,
+      "scanScaleX": 1.01364366,
+      "sourcePdfPage": 166,
+      "clipPt": [
+        62.02702908902555,
+        314.17898712158205,
+        155.31568083891997,
+        382.17665100097656
+      ],
+      "sha256": "2f166c03968034dea64b2f0f908c585c21d28c7c823d266cab183c5bf7a6b939",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 390,
+        "heightPx": 284,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0166-arm3.png": {
+      "widthPt": 93.28865174989443,
+      "bodyFontPt": 10.098566676,
+      "widthEm": 9.237811,
+      "scanScaleX": 1.01364366,
+      "sourcePdfPage": 166,
+      "clipPt": [
+        209.89946643726245,
+        314.17898712158205,
+        303.1881181871569,
+        382.67298431396483
+      ],
+      "sha256": "54a6a18519a32116328aba75b2cf8cb7efda1b76c8884c32f585cd522f58a5c0",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 390,
+        "heightPx": 286,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0167-graph-decomposition.png": {
+      "widthPt": 276.88865785341005,
+      "bodyFontPt": 10.058588186,
+      "widthEm": 27.527587,
+      "scanScaleX": 1.009630819,
+      "sourcePdfPage": 167,
+      "clipPt": [
+        45.651893409522806,
+        309.7119873046875,
+        322.54055126293287,
+        381.183984375
+      ],
+      "sha256": "9bf737f0cca9e8bcf9b0feac87ed2be06892b31a8b7c0061a543a83d70272719",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1154,
+        "heightPx": 299,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0167-two-dimensional.png": {
+      "widthPt": 99.7394627751531,
+      "bodyFontPt": 10.058588186,
+      "widthEm": 9.915851,
+      "scanScaleX": 1.009630819,
+      "sourcePdfPage": 167,
+      "clipPt": [
+        133.48216659958297,
+        398.55565032958987,
+        233.22162937473607,
+        466.5533142089844
+      ],
+      "sha256": "8b9aa34681811a766c6b36b293ec2a40d62b7adf43c983fef02dc4395b7343a8",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 416,
+        "heightPx": 284,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0169-root-graph.png": {
+      "widthPt": 223,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 22.187747,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 169,
+      "clipPt": [
+        70,
+        205,
+        293,
+        261.5
+      ],
+      "sha256": "47171d14e4e4d585b0771703d2bf54553bca95ff093240695bbd858e9c6d7f18",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 930,
+        "heightPx": 236,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0169-split-graph.png": {
+      "widthPt": 273,
+      "bodyFontPt": 10.050592488,
+      "widthEm": 27.162578,
+      "scanScaleX": 1.00882825,
+      "sourcePdfPage": 169,
+      "clipPt": [
+        46,
+        348,
+        319,
+        405
+      ],
+      "sha256": "f63190b9786f314876510b63fca24ce14b520713bfc02d49b3a66aa30fd266ac",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 1139,
+        "heightPx": 238,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0172-sink.png": {
+      "widthPt": 64.5,
+      "bodyFontPt": 10.122553771,
+      "widthEm": 6.37191,
+      "scanScaleX": 1.016051364,
+      "sourcePdfPage": 172,
+      "clipPt": [
+        151,
+        174,
+        215.5,
+        221
+      ],
+      "sha256": "bdbe0c88dcbec766bdedf585192f374d7db8534da0ee2637b6238b8d40566d52",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 269,
+        "heightPx": 196,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0172-source.png": {
+      "widthPt": 64.5,
+      "bodyFontPt": 10.122553771,
+      "widthEm": 6.37191,
+      "scanScaleX": 1.016051364,
+      "sourcePdfPage": 172,
+      "clipPt": [
+        151,
+        251,
+        215.5,
+        296
+      ],
+      "sha256": "603fc51989c98df0a471fc74a966cdbcdf4c470373b1f85348b8f909c80bb65b",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 269,
+        "heightPx": 189,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0173-decomposition.png": {
+      "widthPt": 188,
+      "bodyFontPt": 10.058588186,
+      "widthEm": 18.690496,
+      "scanScaleX": 1.009630819,
+      "sourcePdfPage": 173,
+      "clipPt": [
+        92,
+        470,
+        280,
+        528
+      ],
+      "sha256": "42a6224a18d070423fe5ea1be216458a0de39834ad5d5d3b94e9929b62201923",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 784,
+        "heightPx": 242,
+        "sourcePixelMatch": true
+      }
+    },
+    "/library/volume-88/diagrams/pdf-0174-simple-representation.png": {
+      "widthPt": 62,
+      "bodyFontPt": 10.106562374,
+      "widthEm": 6.134628,
+      "scanScaleX": 1.014446228,
+      "sourcePdfPage": 174,
+      "clipPt": [
+        153,
+        102,
+        215,
+        156
+      ],
+      "sha256": "f1a85872c6bcc4f8d8c948bb4b33a50df64376f5b56c8118a8b35a942795212c",
+      "pixelVerification": {
+        "dpi": 300,
+        "widthPx": 259,
+        "heightPx": 225,
+        "sourcePixelMatch": true
+      }
+    }
+  }
+}

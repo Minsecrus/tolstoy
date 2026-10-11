@@ -1,0 +1,19 @@
+{
+  "pdfPage": 77,
+  "printedPage": "69",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official corrections, Theorem 4.6.2 proof: B1 and B2 must be G-invariant; English preserved, Chinese adds condition with visible note.",
+    "Original Theorem 4.6.3 proof calls W-perp a subrepresentation of W; English preserved, Chinese corrects to V with visible note."
+  ],
+  "diagrams": [],
+  "enSha256": "1a3d41a7027172ed0be75bbdd7226919b3229bc5089e29d9181c0c5285739246",
+  "zhSha256": "742a00aecce6c90a4124174cd4e44819d658c20ea0e702945dd18f006641e573",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0077.png"
+}

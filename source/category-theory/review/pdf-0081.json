@@ -1,0 +1,18 @@
+{
+  "pdfPage": 81,
+  "printedPage": "72",
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full text layer transcribed and translated; formulas visually checked against PDF and sets.tex, including function-set exponents, characteristic function nonmembership, inverse images and quotient equation (3.1).",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed.",
+    "独立二审重写奠定基础的比喻段落中文句式，保留基本概念、假定性质、逐层建立定义与定理及高塔比喻的原有内容；未添加原文以外的说明。"
+  ],
+  "diagrams": [],
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "englishSha256": "137180119ea6216cecc61267ea3723948fde646f9e48598dc9203e2ceadc9008",
+  "chineseSha256": "d64d1e8fe760c14f0177739b9fbc8e6a17ed526d68eab4fd79123ac698857c03"
+}

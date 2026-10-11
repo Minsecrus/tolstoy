@@ -31,7 +31,9 @@ export async function rebuildLibraryIndex() {
     loadLibraryModule('library.additional.mjs', 'additionalLibraryCatalog', 'additionalLibraryStats', true),
     loadLibraryModule('library.psychology.mjs', 'psychologyLibraryCatalog', 'psychologyLibraryStats', true),
     loadLibraryModule('library.history-problem.mjs', 'historyProblemLibraryCatalog', 'historyProblemLibraryStats', true),
-    loadLibraryModule('library.algebra.mjs', 'algebraLibraryCatalog', 'algebraLibraryStats', true)
+    loadLibraryModule('library.algebra.mjs', 'algebraLibraryCatalog', 'algebraLibraryStats', true),
+    loadLibraryModule('library.category-theory.mjs', 'categoryTheoryLibraryCatalog', 'categoryTheoryLibraryStats', true),
+    loadLibraryModule('library.representation-theory.mjs', 'representationTheoryLibraryCatalog', 'representationTheoryLibraryStats', true)
   ])
   const catalog = modules.flatMap((module) => module.catalog)
   const stats = modules.reduce((total, module) => ({

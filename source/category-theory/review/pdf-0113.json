@@ -1,0 +1,31 @@
+{
+  "pdfPage": 113,
+  "printedPage": "104",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0113-objects-viewpoints.png",
+      "widthPt": 100,
+      "clipPt": [
+        231,
+        128,
+        331,
+        228
+      ],
+      "sha256": "cde13bae3fb9dda3a9460ff83c415ad33cb8a10b33151af01ae717fcbb610380"
+    }
+  ],
+  "sha256": {
+    "en": "97a787af3f00ac46a1531a974062f44596da0f17230be318dd4e480bd8f9c1ed",
+    "zh": "430dc466cbaf93181440cdca029a2f75ef89c286b39a20a8a886a6be26da9491"
+  }
+}

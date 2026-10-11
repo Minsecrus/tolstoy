@@ -1,0 +1,19 @@
+{
+  "pdfPage": 39,
+  "printedPage": "31",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked four tensor-product relations and three free-abelian-group relations; tensor type order (m,n) and basis upper/lower indices retained."
+  ],
+  "diagrams": [],
+  "enSha256": "23ceba87383d63fbb96ebee821ce95ab6f5e8e8add61057b39c0dc8bd08a04b6",
+  "zhSha256": "254667e915c0d2c77344fbd9a262dab2f043561861c427fbdc65fff925b0b992",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0039.png",
+  "officialErrataChecked": true
+}

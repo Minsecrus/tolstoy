@@ -1,0 +1,30 @@
+{
+  "pdfPage": 106,
+  "printedPage": "97",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0106-recover-transformation.png",
+      "widthPt": 144,
+      "clipPt": [
+        226,
+        343,
+        370,
+        410
+      ],
+      "sha256": "cd1a62aa75843c461ced82515c190ef4051072eee9a6f2006534cf9328f3295a"
+    }
+  ],
+  "sha256": {
+    "en": "975d398643ca43eec97cf452867d1b12a6b24583ac8ce3e1f467d7e0d10c35dd",
+    "zh": "dcdbda27e26ccde4d25f01c5d31da6204250ed0d7655b474e8a2f15c5d8784eb"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "pdfPage": 116,
+  "printedPage": "108",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Source equation (e) writes F(alpha xv), which is not well-typed under F:E -> E′. English preserves it; Chinese writes F(alpha)(xv) with a visible note correcting parentheses."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "9eb155b6351bb640f247a9ba4296d8d19e66bbfd1618afac8fff6c1c2907e64f",
+  "zhSha256": "0cb89ae44df89d1ebecaaf9211e05b6fe01efcb8f0ecc08f0f5642423a82a845"
+}

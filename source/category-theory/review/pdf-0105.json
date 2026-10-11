@@ -1,0 +1,53 @@
+{
+  "pdfPage": 105,
+  "printedPage": "96",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments and equation numbers retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0105-yoneda-inverse-functions.png",
+      "widthPt": 127,
+      "clipPt": [
+        217,
+        150,
+        344,
+        183
+      ],
+      "sha256": "09fa4717a5798224d37de849e3c7fbccda942e1f678f6ce300ae333d2fb50e67"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0105-yoneda-naturality-square.png",
+      "widthPt": 146,
+      "clipPt": [
+        212,
+        426,
+        358,
+        493
+      ],
+      "sha256": "683d41c23196659b3a2764f0c72869a1952d13a0b194501c9f57b04c1a2c20a4"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0105-yoneda-naturality-elements.png",
+      "widthPt": 155,
+      "clipPt": [
+        207,
+        530,
+        362,
+        594
+      ],
+      "sha256": "2146573ac0cbe1d5eb7d93d46282a675646686c19123855ba3ca456b2d7d3bfd"
+    }
+  ],
+  "sha256": {
+    "en": "b187f37c6bf2ab5051f831349515e59a6a73a1d2ab3514cd1151b79771be9913",
+    "zh": "fc87a9af029ea6010966d92277ea4294f99eb0992dc14e2eda427a488df6b294"
+  }
+}

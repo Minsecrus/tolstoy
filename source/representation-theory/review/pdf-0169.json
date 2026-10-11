@@ -1,0 +1,46 @@
+{
+  "pdfPage": 169,
+  "printedPage": "161",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Definition 6.4.5, Lemma 6.4.6 and its proof fragment: simple-root coordinates, opposite-sign coefficients, graph cut, beta/gamma sums, lower bounds; both original graph crops visually viewed."
+  ],
+  "actualReviewScope": "Definition 6.4.5, Lemma 6.4.6 and its proof fragment: simple-root coordinates, opposite-sign coefficients, graph cut, beta/gamma sums, lower bounds; both original graph crops visually viewed.",
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0169-root-graph.png",
+      "widthPt": 223,
+      "clipPt": [
+        70,
+        205,
+        293,
+        261.5
+      ],
+      "sha256": "47171d14e4e4d585b0771703d2bf54553bca95ff093240695bbd858e9c6d7f18"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0169-split-graph.png",
+      "widthPt": 273,
+      "clipPt": [
+        46,
+        348,
+        319,
+        405
+      ],
+      "sha256": "f63190b9786f314876510b63fca24ce14b520713bfc02d49b3a66aa30fd266ac"
+    }
+  ],
+  "enSha256": "1c900d08be81a45987cf162516ca45cde6db9e13ec1455c98f2e5b44a85ffa27",
+  "zhSha256": "d4e46df9d5861a1ea721155d54def735f8d836a42680db7e00b92c8cf3f5538e",
+  "sourceSha256": {
+    "en": "1c900d08be81a45987cf162516ca45cde6db9e13ec1455c98f2e5b44a85ffa27",
+    "zh": "d4e46df9d5861a1ea721155d54def735f8d836a42680db7e00b92c8cf3f5538e"
+  }
+}

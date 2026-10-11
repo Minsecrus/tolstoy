@@ -1,0 +1,294 @@
+{
+  "status": "complete",
+  "reviewer": "representation_129_148",
+  "firstPdfPage": 169,
+  "lastPdfPage": 188,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 169,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对定义6.4.5、引理6.4.6全部假设及反证步骤；核对单根坐标、非零β/γ和B≥2；实际查看根图、断边后的两个连通分支及i、i′、j、ε、Γ₁、Γ₂标签。",
+      "enSha256": "1c900d08be81a45987cf162516ca45cde6db9e13ec1455c98f2e5b44a85ffa27",
+      "zhSha256": "d4e46df9d5861a1ea721155d54def735f8d836a42680db7e00b92c8cf3f5538e",
+      "unresolved": [],
+      "notes": [
+        "两幅裁图实际查看；从原PDF按记录clipPt重新300dpi渲染，与现有PNG逐像素相同，SHA及widthPt一致。"
+      ]
+    },
+    {
+      "pdfPage": 170,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对B(β,γ)=-k_i k_{i′}的符号、B(α,α)≥4矛盾、正负根定义；完整比较A_{N-1}格的实现、基向量、内积和跨页根公式。",
+      "enSha256": "e04e6e839e6f719993e1f75a722bd9043e07a541f0f1d5935e7481f25a5c55d5",
+      "zhSha256": "5c7ba81104734bd04128afd7405efd893d4fef681f825eed97937ca23c73e0d5",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 171,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对正根计数N(N-1)/2及D_N/E_6/E_7/E_8计数；核对反射公式、Weyl群有限性证明和维数向量定义；作者s_i:=s_{α_i}勘误在中文可见标明。",
+      "enSha256": "4b507f51f67216229630b620dafae0a516726aaff06cfa98bc2ba5706d666086",
+      "zhSha256": "4688c7b96c58065ab30a9369b196cd77c2cfe743fce50f26ee1dae7356026f81",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 172,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对Gabriel定理的全部Dynkin类型、存在唯一性和维数向量条件；查看源点/汇点裁图箭头方向；完整比较F_i^+核空间定义和原箭图反向规则。",
+      "enSha256": "b463b4e4e299d756356fb438ab557ba7555c711d5193f44762d6973b93e19e36",
+      "zhSha256": "8084e69c1d6117de971688480d361e12825486d853fc3c01381dc2a15db8c445",
+      "unresolved": [],
+      "notes": [
+        "两幅源点/汇点裁图实际查看；箭头方向和i标签完整。300dpi重新裁切逐像素一致，SHA及widthPt一致。"
+      ]
+    },
+    {
+      "pdfPage": 173,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对F_i^-余核定义、所有映射和命题6.6.5的单/满射条件；核对不可分解表示分解图的V=W支撑表示⊕V′、零标签及箭头；确认中文投影目标V_j的可见修订正确，英文保留原书错误。",
+      "enSha256": "2b1108f1b0ca5a92d90f8b8b3c509c597f5304db2597f68c6a03dec61099ab61",
+      "zhSha256": "32ee9a8922121954790387392e9a82f1124caef64b10590bd551eb070d02de43",
+      "unresolved": [],
+      "notes": [
+        "原书投影记作⊕_j V_{j→i}→V_i。官方勘误仅将直和指标改为⊕_{j→i}V_j→V_i；其投影目标仍不符箭头类型。中文通过可见译校注明确采用⊕_{ℓ→i}V_ℓ→V_j，数学类型正确，未误称该目标也来自官方勘误。",
+        "分解裁图实际查看；300dpi原PDF重新裁切逐像素一致，SHA及widthPt一致。"
+      ]
+    },
+    {
+      "pdfPage": 174,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对命题6.6.5的续证明、单点一维表示图全部1/0标签及箭头；核对F_i^-F_i^+、F_i^+F_i^-两个顺序及满/单射前提，跨页K=kerφ完整。",
+      "enSha256": "fb4ac2a6404a98a7dca2e50e177945d4c4fd28848c05fa54e0baa83a889f602e",
+      "zhSha256": "49aee65d51bdd0b7c8294d17fd8ea6b27bd051c2a3f4ba378c2cc186592d5a4b",
+      "unresolved": [],
+      "notes": [
+        "单点表示裁图实际查看；300dpi原PDF重新裁切逐像素一致，SHA及widthPt一致。"
+      ]
+    },
+    {
+      "pdfPage": 175,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对核/余核复合后的K′、Imψ=K、同态定理及满射推论；核对命题6.6.7中不可分解或零、单点例外和X⊕Y跨页片段。",
+      "enSha256": "339170d99a43eb76305d6c3cd75993e7c586f755dca675d4089a2ca9d245dd71",
+      "zhSha256": "d9078c82e1f1c2e277c99af8d858bf33542397e8119860e489c111115eeb7d27",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 176,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对X/Y单射性、反射函子反向复合与不可分解性矛盾；核对维数向量反射公式、dimK和-2dimV_i系数及B配对。",
+      "enSha256": "b9f79a8fa6f23f95324e4095325c3a517f13995d416bb13b96a85e60ea38bfaf",
+      "zhSha256": "f4023920091a6ebf2b4456ae28a1fa9c3cf16c0804abe1d671fd6d7b65adfd4e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 177,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对维数差公式的跨页收尾、Coxeter元素顺序s₁…s_n；核对6.7.2的N/M指数、非负且非全零假设及有限阶求和算子证明；原书已印N无须误加勘误。",
+      "enSha256": "011642087229204486c4640ccad305b2f6c352254dfae511588afb7217df1209",
+      "zhSha256": "32af59a85b6909f2d96f1bbae15b038a4e8aec52e9988a3a316ae398a64184a8",
+      "unresolved": [],
+      "notes": [
+        "原始扫描Lemma6.7.2确已印N，当前英/中文忠实保留，未依不匹配的勘误误改。"
+      ]
+    },
+    {
+      "pdfPage": 178,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对c无特征值1的逐坐标反证、非退化B步骤；核对Gabriel证明的拓扑编号、V^(i)序列、每条箭头反向两次和Q̄_r可见作者勘误。",
+      "enSha256": "8b0714931c5fb06e3bbe2df90e9350e95771b8b50514bab173843d54d874ca9e",
+      "zhSha256": "08d2d51e9f5f04d383364e7969f79985bddffb718f03537b2f463b43d5fba896",
+      "unresolved": [],
+      "notes": [
+        "中文Q̄_n→Q̄_r作者勘误显式标注，英文保留原印。"
+      ]
+    },
+    {
+      "pdfPage": 179,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对6.8.1终止证明、最小不满射步骤和单根维数；核对6.8.2借助定理证明的作者勘误、B=2推导及6.8.3的完整同构条件。",
+      "enSha256": "d48a436c75d67ce51b683343d423ac54363520e1726acaf8aef830aa1ee3a90b",
+      "zhSha256": "ad1898da9ed0d1f2157200b5ee44856267060a4aa6bac9288dd925e339986c3b",
+      "unresolved": [],
+      "notes": [
+        "中文“由定理6.8.1的证明”依据作者勘误显式标注。"
+      ]
+    },
+    {
+      "pdfPage": 180,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对6.8.3最小i作者勘误、V′^(i)=V^(i)、反射函子逐项恢复原表示的长公式；完整核对6.8.4正根到单根的步骤及跨页s_q…s_n指数顺序。",
+      "enSha256": "1e6259080e4423f0d6f8404924301c6b5afee3d31ecd538e19502cdbd9061aff",
+      "zhSha256": "e69d4540c2d04f7476ada6f096fb026f8faaaa656d7e6e5c02f0ccf9597a9aa5",
+      "unresolved": [],
+      "notes": [
+        "中文补明最小整数i依据作者勘误显式标注。"
+      ]
+    },
+    {
+      "pdfPage": 181,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对6.8.4反射回代的跨页结束；核对D₄例的方向、第四顶点和两步维数根；完整核对6.9.1分类对象E_{n,λ}/E_{n,∞}/H_n的空间、基、算子、范围及Av_n=0。",
+      "enSha256": "44ed04c15a98b590b5cd1b95f5567d62998b989fb0099c8127b8b5fd93450483",
+      "zhSha256": "6fb49c618836bc791754a6c8ee110ab75e49c4be79e30d57988f04c78049281e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 182,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对6.9.1(d)/(e)等所有续项、幂零链及直和相容条件；逐项核对E₈格半整数/偶和条件、八个基根、E₆/E₇切片及72/126/240计数；核对6.9.3跨页定义。",
+      "enSha256": "8b18d0c818c3d5f468e69f18f91fe7d3d1b83fe0c95a1b056541ac7c723e4499",
+      "zhSha256": "85adbba2ca56d05ba146c840c126338812007485d4f02dd666266a88773a7381",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 183,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对6.9.3(a)源点/汇点对应Ext¹参数顺序和量词、(b)给定定向的若尔当–赫尔德列；页面其余为空白，无内容遗漏。",
+      "enSha256": "65e3fabdffeafcf0b871f8d029fc4e4b6423b06793c50d321b158fe46dbbb82b",
+      "zhSha256": "305bc2836b8840d2e65e73a664af900d9d9296f311f73658debedba2a388f507",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 184,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原始空白页，并比较当前英文与中文均为空白的页稿；没有原书页码、文字、公式或插图。",
+      "enSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "zhSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "unresolved": [],
+      "notes": [
+        "实际原图为空白，当前两稿为空白，无遗漏内容。"
+      ]
+    },
+    {
+      "pdfPage": 185,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对第7章标题、7.1全部引言段落、1942–1945时间、7.10和[McL]引用；核对范畴定义的对象类项及与下一页连续的编号。",
+      "enSha256": "c45263f1fdb8d667b8dae1d52b4e4a56448d33716caa84a3d24ff8457f8913ed",
+      "zhSha256": "01716dcfd2a2e25fde03e89fcf528981864a1cffbe6b2623bb5b199a67ce291f",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 186,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对范畴定义态射类、复合映射顺序(f,g)↦f∘g、结合律和单位态射公理；完整比较六个例子及类/集合区别说明；英文保留来源语法from X,Y，中文自然表达其明示的X→Y关系。",
+      "enSha256": "3837b5047c76ae7ccac241da6fe19cba4793fb3fc143c0136ee10c8b6e87ee4b",
+      "zhSha256": "96397c38f3ee2bcbc1d5b1d51511ce5103ea0560ec2b352ac661dff649b0197c",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 187,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对局部小/满子范畴定义及Hom相等式；完整核对富集、幺半结构、复合和双线性张量积例子；核对函子定义对象映射及跨页第(ii)项。",
+      "enSha256": "211f5178504086d648ef79b4476dac4969d7c87576220a987addd3f7dedc2ca0",
+      "zhSha256": "edb00665606e997f98abe8a0c77d8375bc5cf7250428c66a00caf112f0a4749f",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 188,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对函子定义态射映射保持复合/单位条件；完整核对九个例子，包括对偶方向、Hom协/逆变、Fun函数环、路径范畴、诱导/限制、Schur函子与反射函子；对偶范畴记号作者勘误在中文可见标明。",
+      "enSha256": "09a27e1206d351cde8f2650da022d2075d63d9cd6040b3b9eb9307a1e256db58",
+      "zhSha256": "c250088360560bcff71793fa91d70b3eea8afce7b9de682697698e7389963e92",
+      "unresolved": [],
+      "notes": [
+        "中文按作者勘误补C^op并显式标注。"
+      ]
+    }
+  ],
+  "reviewMethod": "Personally viewed every original source-page image and all six crop images, then compared the full current English and Chinese manuscripts, mathematical formulas, hypotheses, proofs, exercises, captions and cross-page continuations. Source-page review and independent exact crop rerender comparisons are distinct from syntax checks.",
+  "diagramsReviewed": 6,
+  "diagramPixelComparisonReport": "tmp/pdfs/representation-theory/independent-crop-169-188.json",
+  "changesMade": []
+}

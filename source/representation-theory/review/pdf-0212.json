@@ -1,0 +1,18 @@
+{
+  "pdfPage": 212,
+  "printedPage": "204",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "源页实际查看；原书将Tor复形的同调也称cohomology，译文忠实写上同调。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "631099a597150e810580b21220f01ddcd827e6f75e533c83defa1965cfd1af4b",
+  "zhSha256": "1b353a3f7c392e7f456691c6294e187c77909a120c218ea8e4f7211fb8569f16"
+}

@@ -1,0 +1,73 @@
+{
+  "pdfPage": 163,
+  "printedPage": "155",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0163-kernel3.png",
+      "widthPt": 107.67892249854836,
+      "clipPt": [
+        130.00865297059755,
+        33.750665283203126,
+        237.6875754691459,
+        101.25199584960937
+      ],
+      "sha256": "7b999dbc9510cd5f54764a00e560c1a4d1a9672c8a212f848e86edcfa290c152"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0163-simple1.png",
+      "widthPt": 100.7318952405775,
+      "clipPt": [
+        132.98595036687078,
+        141.45499420166016,
+        233.71784560744828,
+        208.9563247680664
+      ],
+      "sha256": "46264c1c00a595eb01051ef1f940d2b8f2cb796352527544966aa8d2bffb20e4"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0163-simple2.png",
+      "widthPt": 100.7318952405775,
+      "clipPt": [
+        132.98595036687078,
+        215.90499114990234,
+        233.71784560744828,
+        282.41365509033204
+      ],
+      "sha256": "2e06ca8be29dff6d63b2a799bc399f6c28e7592ce942a565fa5b7a3a51b0ac62"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0163-simple3.png",
+      "widthPt": 100.7318952405775,
+      "clipPt": [
+        132.98595036687078,
+        290.35498809814453,
+        233.71784560744828,
+        355.87098541259763
+      ],
+      "sha256": "78036509c74455627411fbefdce8f7954835984b3d07a451b92773efc462301b"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0163-injective.png",
+      "widthPt": 99.73946277515307,
+      "clipPt": [
+        132.98595036687078,
+        397.56298370361327,
+        232.72541314202385,
+        467.5459808349609
+      ],
+      "sha256": "288d164adcc527a31cd42838619ea9ed7d9a34ca137b26b2b90e5bd63321ec2d"
+    }
+  ],
+  "enSha256": "8d4574c3d7c9cb6ba16f0c1633491d59835bac048bbe827e489a544deaf453d8",
+  "zhSha256": "9330e6a0d9a9c19de72f6d63346eff726920816f5e6bb0c272963831776de1dc",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0163.png"
+}

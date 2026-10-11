@@ -1,0 +1,30 @@
+{
+  "pdfPage": 147,
+  "printedPage": "138",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0147-creation.png",
+      "widthPt": 123,
+      "clipPt": [
+        218,
+        130,
+        341,
+        259
+      ],
+      "sha256": "6a479db9957a89464c394dff416896a5e3ecda240807982f215d30357d93e996"
+    }
+  ],
+  "snapshots": {
+    "en": "d21b71f1d9e5b0759b1bed9af73e776945cdf90e41d8d6ea662e4ab9ab593fd1",
+    "zh": "65a54784f789089022ed27a8166c840d83b5ca31e9704b909151c98175df2f18"
+  }
+}

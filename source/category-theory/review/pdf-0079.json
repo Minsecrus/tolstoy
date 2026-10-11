@@ -1,0 +1,41 @@
+{
+  "pdfPage": 79,
+  "printedPage": "70",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagrams cropped from supplied PDF at 300 dpi.",
+    "Full text layer transcribed and translated; formulas visually checked against PDF and sets.tex, including function-set exponents, characteristic function nonmembership, inverse images and quotient equation (3.1).",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0079-parallel-functions.png",
+      "widthPt": 49.6477,
+      "clipPt": [
+        223.9112,
+        211.9617,
+        273.5589,
+        238.2708
+      ],
+      "sha256": "58696f7691267c434e25c4c1dba2ee876aba36307f971de771ac65feba4210a1"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0079-quotient-property.png",
+      "widthPt": 64.0455,
+      "clipPt": [
+        249.2315,
+        551.4975,
+        313.277,
+        606.5976
+      ],
+      "sha256": "60c9d136f5c11b980691cd8ed87749b503ea42bc1c03e328f9264c965277cef5"
+    }
+  ],
+  "englishSha256": "747c9daf716af713fc44cfe34570a2bbc26dc1255345556cf300eab96de81a17",
+  "chineseSha256": "b23081752067453f457bd664e96e5df7c63051136911ee18e20c573e59af1844"
+}

@@ -1,0 +1,20 @@
+{
+  "pdfPage": 214,
+  "printedPage": "206",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；英文忠实保留原书问题8.2.6(v)、8.2.8将Tor第一变量写成left的错误条件。中文将Tor中M_i修正为右模、N为左模，并分别添加可见译校注。",
+    "主译与独立审校确认Ext Kunneth只设N_i有限维不足，中文保留该条件并补M_i有由有限生成投射模构成的投射解消（例如A_i、M_i均有限维），添加可见译校注。",
+    "原书末段泛指任意足够投射的阿贝尔范畴可定义Tor。中文紧邻译校注指出Tor还需适当张量积/右正合函子，Ext条件本身足够。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "8c838b9355584e18c7cb2f9f11ae3c5b839798c24d6ea532509bbc64a4f4398a",
+  "zhSha256": "f8921ac9909b8bf104ee49ebbdc9af2f04b2cdedeae0d6b78b02992087fdcbdb"
+}

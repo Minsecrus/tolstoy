@@ -1,0 +1,19 @@
+{
+  "pdfPage": 41,
+  "printedPage": "33",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked characteristic-zero hypothesis in (e), all symmetric/exterior-power maps, determinant identity and noncommutative tensor-product balance relation va⊗w=v⊗aw."
+  ],
+  "diagrams": [],
+  "enSha256": "ec939df4a1ed5b31f964f8ccba35028f7b7282fe8eb80b79f11bede2eebb66cd",
+  "zhSha256": "231a7aed316e3aa3bd034a8a7e039727c53df877c84c2c105bbef5a87cffcffe",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0041.png",
+  "officialErrataChecked": true
+}

@@ -23,6 +23,32 @@
   text-align: center;
 }
 
+/* VitePress wraps each rendered Markdown article in an extra div. */
+:is(.category-theory-reading, .representation-theory-reading) .vp-doc > div > p:not(:has(img:not(.math-svg))) {
+  text-indent: 2em;
+}
+
+:is(.category-theory-reading, .representation-theory-reading) .vp-doc p:has(> img:not(.math-svg)) {
+  text-align: center;
+  text-indent: 0;
+}
+
+/* Inline category diagrams belong to the prose paragraph. */
+.category-theory-reading .vp-doc p:has(img.category-theory-inline-diagram) {
+  text-align: justify;
+  text-indent: 2em;
+}
+
+.representation-theory-reading .vp-doc p:has(img.representation-theory-inline-diagram) {
+  text-align: justify;
+  text-indent: 2em;
+}
+
+:is(.category-theory-reading, .representation-theory-reading) .vp-doc > div > p:has(img:not(.math-svg)) + p:has(> em:only-child) {
+  text-align: center;
+  text-indent: 0;
+}
+
 :is(.algebra-reading .vp-doc, .vp-doc:has(.reading-meta)) > p:has(img:not(.math-svg)) + p:has(> em:only-child) {
   text-indent: 0;
   text-align: center;

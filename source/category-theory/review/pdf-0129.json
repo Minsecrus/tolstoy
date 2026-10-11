@@ -1,0 +1,39 @@
+{
+  "pdfPage": 129,
+  "printedPage": "120",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0129-fork.png",
+      "widthPt": 85,
+      "clipPt": [
+        246,
+        149,
+        331,
+        178
+      ],
+      "sha256": "b22ab06c7ad0c6277cee6c05014d3fa12b3696050234adee17e01b4f8adb914f"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0129-corner.png",
+      "widthPt": 53,
+      "clipPt": [
+        262,
+        240,
+        315,
+        297
+      ],
+      "sha256": "c6f2fd7f40a8c9a7bea8b06c1e828177e083de5959a3c96697b276571b1b7409"
+    }
+  ],
+  "sourceHashes": {
+    "en": "7ac4b2178f6c531210603ed088fa699cb015267cfb575a8683bedc3666032b71",
+    "zh": "20d4f8dcc32bd26fd3654efa764acea9bc6e74dae0fb73173e02739c9af68cce"
+  }
+}

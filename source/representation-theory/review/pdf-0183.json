@@ -1,0 +1,23 @@
+{
+  "pdfPage": 183,
+  "printedPage": "175",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Problem 6.9.3(a)–(b), Ext argument order for sources and sinks, Jordan–Hölder series and fixed orientation; sparse lower part of page is genuinely blank."
+  ],
+  "actualReviewScope": "Problem 6.9.3(a)–(b), Ext argument order for sources and sinks, Jordan–Hölder series and fixed orientation; sparse lower part of page is genuinely blank.",
+  "diagrams": [],
+  "enSha256": "65e3fabdffeafcf0b871f8d029fc4e4b6423b06793c50d321b158fe46dbbb82b",
+  "zhSha256": "305bc2836b8840d2e65e73a664af900d9d9296f311f73658debedba2a388f507",
+  "sourceSha256": {
+    "en": "65e3fabdffeafcf0b871f8d029fc4e4b6423b06793c50d321b158fe46dbbb82b",
+    "zh": "305bc2836b8840d2e65e73a664af900d9d9296f311f73658debedba2a388f507"
+  }
+}

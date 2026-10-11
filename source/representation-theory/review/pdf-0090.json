@@ -1,0 +1,18 @@
+{
+  "pdfPage": 90,
+  "printedPage": "82",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对问题 4.12.3 的 m≤dim(V)、E_ij e_k=δ_jk e_i，以及各题全部条件和提示；保留页末问题 4.12.6 的跨页片段。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "775f2a0beccffd361554c542049b333831ea11dd3c7d57d9fdb2a166a5862206",
+  "zhSha256": "6092f6b4698ab4211c29388324076b5f3d35aad0958712525a4ac9f0fa8081c9"
+}

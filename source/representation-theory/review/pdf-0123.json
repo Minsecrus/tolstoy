@@ -1,0 +1,17 @@
+{
+  "pdfPage": 123,
+  "printedPage": "115",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Independent second review detected original semidirect-product glyph correctly printed as ltimes, misread during first review. Source glyph rechecked at 300 dpi; English corrected to original ltimes and unfounded Chinese erratum removed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "c34d3b2aa38d010a045893034c1330e6c89b9350e4145c38af55d6b67f345ec0",
+  "zhSha256": "2ce89e010a867394528bf69dd5996cc7b68626473a1cee09afd4a65be32b9e8a"
+}

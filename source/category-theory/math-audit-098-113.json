@@ -1,0 +1,219 @@
+{
+  "status": "complete",
+  "pages": [
+    {
+      "pdfPage": 98,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：对偶向量空间的开场说明、反变可表性、定义4.1.17、例4.1.18–4.1.20及末尾汇集反变可表函子的段落；核对幂集逆像作用g^{-1}U、开子集函子、连续实值函数函子、所有op及H的上下标。",
+      "enSha256": "5636ed84094a401d17a0ad658e927609595133566bd315282689d30c1175f36d",
+      "zhSha256": "ecb77d048d455df0b153f34f08d66254140ab5bac84d041bbdb432ffd4db11c5",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 99,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：H_f自然变换的方向与B分量、定义4.1.21米田嵌入、四个函子的汇总、对偶与预层范畴段落、练习4.1.27的提示以及定义4.1.22的跨页开头；逐项核对对象/态射作用及op位置，并查看自然变换裁片。",
+      "enSha256": "e9f38fab2dc79f3e08d6c27e85d4377064a08ebca7ce79a422971f8432bf9939",
+      "zhSha256": "3ab5b6dd7207d93a32d3189c48ac78248036b64fd4e509449ede5e4426254695",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 100,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：Hom双函子的跨页定义、注4.1.23(a)–(c)和注4.1.24全文；核对g∘p∘f与A′→A→B→B′、指数/函子范畴伴随关系、典范双射、两条复合路径及末尾跨页函子式；查看三个图裁片的箭头、F/G标签和Hom下标。",
+      "enSha256": "9ca3e7b907eb0bbb1e5a431908686c99ea4a3c6a9f3804eef910f00e84df1bc2",
+      "zhSha256": "8ca5bb524ac9a27c3e7e9ffa34a5d42f452d8d45e1f2132ccc50d12ce9d7d9a2",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 101,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：注4.1.24的续文、定义4.1.25广义元素与形状、集合/拓扑/代数例子、环同态Z[x,y]/(x²+y²−1)→A、H^S的函子性段落以及练习4.1.26；保留全部条件及例子的指向。",
+      "enSha256": "c058c07cd607eb5443f12ad40e48e114e53449e896cca627159a6127220e03a9",
+      "zhSha256": "05dd83297e75d6cd57832cd4b0056bba277336a6b78e6457545a1ab738fbdfa3",
+      "unresolved": [],
+      "notes": [
+        "仅调整中文句子表达：定义过渡句改为自然措辞；rational solutions改译为“有理数解”，没有新增解释或改变数学条件。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 102,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：练习4.1.27–4.1.32的全部假设、任务与括号提示，4.2标题及可表预层/初学者/重新提问的所有开场段落；核对素数条件、两点拓扑的恰一开单点条件、左伴随当且仅当自然同构及跨页函子定义；查看F/G裁片。",
+      "enSha256": "79339a1acf75fcd05b4a53c921fdb8d75e52c8235dbf3d77eee1dfd6fe1b5df2",
+      "zhSha256": "7c5b5349886c37d4a647ef7e754ffb2bf64b2d7c8c176b02127e37cc43e0d66f",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 103,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：H_A→X问题的跨页续文、自然变换集合的记号说明、输入输出原则与复合态射例子、非正式米田陈述、定理4.2.1全文；核对(4.1)图及(4.2)/(4.3)公式、局部小假设、所有A和预层X量词、两变量自然性。",
+      "enSha256": "137682a36bf64efdfb11ab19ae8049f8bdf897527eb0aa16b62a56ba4ae51425",
+      "zhSha256": "82345c30d7440125fe8f1c3aa50ea41f68b31e6277d8f9fda0e5649981db09c0",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 104,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：自然同构含义、诱导映射、米田复合函子与求值函子、X′预层及无限序列段落、证明建议与米田证明开头；核对H_•的op、函子乘积、Hom指标、X′(A)与自然性，并查看完整复合函子裁片。",
+      "enSha256": "d901c44c69ac4c9f1f590984ef822ef7766b28c3e4d67dfbc7aeb851d334c6af",
+      "zhSha256": "3915d7e0638975e5b1de192948b7941ffab7793a100bc3c329f14d4e4a7fc040",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 105,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：固定A/X、(4.4)双射与四项证明任务、hat(alpha)定义、tilde(x)的所有分量与自然性、函子性等式、hat(tilde(x))=x；核对B′→B方向、所有f量词、复合顺序X(f∘g)=(Xg)∘(Xf)以及三个裁片的标签。",
+      "enSha256": "b187f37c6bf2ab5051f831349515e59a6a73a1d2ab3514cd1151b79771be9913",
+      "zhSha256": "fc87a9af029ea6010966d92277ea4294f99eb0992dc14e2eda427a488df6b294",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 106,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：第四项tilde(hat(alpha))=alpha的分量/元素证明、(4.5)、自然性方块、恒等元决定自然变换的插段、两项省力方法与关于A的自然性跨页开头；核对全部B/f量词、帽号与波浪号嵌套、固定X或A条件及裁片标签。",
+      "enSha256": "975d398643ca43eec97cf452867d1b12a6b24583ac8ce3e1f467d7e0d10c35dd",
+      "zhSha256": "dcdbda27e26ccde4d25f01c5d31da6204250ed0d7655b474e8a2f15c5d8784eb",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 107,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：关于A与关于X的两套自然性方块、元素计算、三行等式及每一步理由、theta分量复合与证明结束；查看全部五个裁片，核对−∘H_f/θ∘−、1_A/1_B、Xf、θ_A及箭头方向。",
+      "enSha256": "6bac131e66960312c4c8377524da57f2e63e93a390d17b3330223253f0f477f4",
+      "zhSha256": "b5f69f4371d55683b02f5c9e500b16d303655cbf0f967f0c9e7727311495064f",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 108,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：练习4.2.2与4.2.3(a)–(c)、右正则表示定义及唯一右M集态射条件、4.3开场、记号4.3.1、推论4.3.2及其解释和跨页元素段落；核对右作用顺序xm、局部小/反变条件、所有B/x与唯一B→A的条件(4.6)。",
+      "enSha256": "cda56db2467c6b43a9a6a23a3ace5b4f42a41d620e6be493ba3ce17ed9e46069",
+      "zhSha256": "b8f3a7b3be4014a1b3f471fdbf4430a6f1bfa4d461ad83dd56609472ba23e21e",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 109,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：泛元素跨页续文、推论4.3.2完整证明、推论4.3.3和对偶证明、例4.3.4自由向量空间的两种陈述直到页末；核对双射与唯一性等价、条件(4.7)中A→B方向、(4.8)自然同构、所有V/f和唯一线性映射f̄；查看u/f/U(f̄)三角图。",
+      "enSha256": "3eba823a8c3b25e08803267f528ad0e4e13df91a9be8b7280bb63ab685ecb1f9",
+      "zhSha256": "dcc56447414d06981bf4bf401dbc1576afbd961bde67854e9739232eabb62242",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 110,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：例4.3.4续文与η_S、两种可表性陈述比较、g↦U(g)∘u、例4.3.5伴随关系/单位与逗号范畴、例4.3.6的整数群和1/−1泛元素至跨页结尾；核对(4.7)/(4.8)引文、全部群和元素量词及唯一同态；查看F⊣G裁片，并确认原书Vect(F(S),V)确无k。",
+      "enSha256": "fc53ddc0dcfedf620aee3329dd3363667a5bcae9d51ce19d1ba21f1681704912",
+      "zhSha256": "9753b536f79accc0fe528c236650c8043edcca4d54380035c4ee38460bee1b82",
+      "unresolved": [],
+      "notes": [
+        "原PDF在本页第二段写Vect(F(S),V)，没有下标k；英文和中文都按原文保留。仅调整开头η_S记号句的中文表达。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 111,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：1和−1所给表示的一一对应续文、米田嵌入标题、推论4.3.7及完整证明、一般数学中的嵌入例子和可表函子充满子范畴段落；核对(4.9)/(4.10)、X=H_A′、tilde(f)=H_f与hat(H_f)=f、恒等元计算以及充满/忠实/等价条件。",
+      "enSha256": "8a5f151b7d0fc3d993adf168ab45dbd113b3c39b8988e095de3bc9f3bc4ec0b4",
+      "zhSha256": "828dc32af787f668cdce54e50ce05ac270aff764df1ec97b27d6bfba7ca2a6cb",
+      "unresolved": [],
+      "notes": [
+        "仅把证明末尾“正如所需”改成自然中文“这就是所要证明的”；公式与证明步骤未变。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 112,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：图4.1与图注、充满子范畴开场、引理4.3.8(a)–(c)与证明指引、例4.3.9的两个整数群自同构及全部表示、6.2预告；核对充满且忠实条件、两个当且仅当与唯一同构、±1的精确个数；查看原嵌入图裁片。",
+      "enSha256": "e7118f25fbb680916d381ed76d9e18ed059d8110982d84696e96cab236e0f73d",
+      "zhSha256": "c83b68e7998ddc3c21c56eeef330185d8b391dd393766239d4862019fd453c99",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 113,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐段全文对照：图4.2与图注、可表函子同构标题、练习4.1.27回顾、推论4.3.10及完整证明、蕴含式与所有视角/鸭子段落、例4.3.11前两条；核对H上下标、双向等价与自然性、对所有群B假设、平凡群和整数群例子，并查看B1/B2/B3到A/A′的箭头；例4.3.11的后续内容在PDF114页。",
+      "enSha256": "97a787af3f00ac46a1531a974062f44596da0f17230be318dd4e480bd8f9c1ed",
+      "zhSha256": "430dc466cbaf93181440cdca029a2f75ef89c286b39a20a8a886a6be26da9491",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pdfPage": 159,
+  "printedPage": "150",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [],
+  "snapshots": {
+    "en": "4a481cf696dd2d0df1f6f7108e479a4118697bfc7c35be13eb0ad247605888ef",
+    "zh": "79decebec47a51d0585b8e72713244e0a8ca0eaf88dcd1acc305afaf33b79933"
+  }
+}

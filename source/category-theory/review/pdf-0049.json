@@ -1,0 +1,19 @@
+{
+  "pdfPage": 49,
+  "printedPage": "40",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Begins with parts (a)-(c) of Exercise 1.3.31 from PDF 48; completes Chapter 1."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "9017b1d74331535aa4e37353c8b125ce7e47bc7cce458a59e43ed6e310d419df",
+    "zh": "3fb7a0eb4ccf6ffa2b392c166de2a6346452db9ef33366476dda1ac6ed63a0ff"
+  },
+  "styleReviewed": true
+}

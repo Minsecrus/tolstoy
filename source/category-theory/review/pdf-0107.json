@@ -1,0 +1,74 @@
+{
+  "pdfPage": 107,
+  "printedPage": "98",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0107-naturality-in-a-square.png",
+      "widthPt": 200,
+      "clipPt": [
+        180,
+        147,
+        380,
+        211
+      ],
+      "sha256": "f5b611df5dd23f93d2f871952c04aec805f2748831bc8f45a15719547ff76b7d"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0107-naturality-in-a-elements.png",
+      "widthPt": 160,
+      "clipPt": [
+        200,
+        230,
+        360,
+        296
+      ],
+      "sha256": "34e25abc331f34fe3527bd2a5f29b330e711731eca4a2693fa1930fb2ec069d9"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0107-theta-transformation.png",
+      "widthPt": 67,
+      "clipPt": [
+        247,
+        414,
+        314,
+        454
+      ],
+      "sha256": "b4f6cd7383d5fa7cc186683ae750160289f65b83a9b1b0280124f464d0f6d689"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0107-naturality-in-x-square.png",
+      "widthPt": 203,
+      "clipPt": [
+        179,
+        475,
+        382,
+        539
+      ],
+      "sha256": "f0ceaedb5c6d226fd4d4390b916c84df067f24a9657a4efa5bf40a14a0b268db"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0107-naturality-in-x-elements.png",
+      "widthPt": 153,
+      "clipPt": [
+        204,
+        556,
+        357,
+        621
+      ],
+      "sha256": "99815650fd5a32dd63019c8ee722ae77d3ae6b029c88c107b0269a6eb2635b07"
+    }
+  ],
+  "sha256": {
+    "en": "6bac131e66960312c4c8377524da57f2e63e93a390d17b3330223253f0f477f4",
+    "zh": "b5f69f4371d55683b02f5c9e500b16d303655cbf0f967f0c9e7727311495064f"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdfPage": 137,
+  "printedPage": "129",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Both special-value products, trace identities and Weyl character/dimension formula visually checked."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0137.png",
+  "sourceHashes": {
+    "en": "91397f2b48b9ef17fb80036edbc4b3dbf829a3571279496b2b822dd76b1a46dc",
+    "zh": "78b8558c4827886f2d53dcde597351232d244da02f76befd99979a32017033d5"
+  },
+  "enSha256": "91397f2b48b9ef17fb80036edbc4b3dbf829a3571279496b2b822dd76b1a46dc",
+  "zhSha256": "78b8558c4827886f2d53dcde597351232d244da02f76befd99979a32017033d5"
+}

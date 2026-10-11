@@ -1,0 +1,19 @@
+{
+  "pdfPage": 62,
+  "printedPage": "54",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Problem 3.9.1(c): English preserves phi(a) and B^1(V,W); Chinese changes to phi per official corrections and B^1(W,V) by matching domain Hom_k(W,V), both explained in visible note."
+  ],
+  "diagrams": [],
+  "enSha256": "6b40a0d9b91ec726060f11c014424577b782257a03c3d8461a6b42b328dc628c",
+  "zhSha256": "50256a050bcb4881d36b1219a9ad43dff05899b354e04b679407ffb8814d6ae9",
+  "reviewer": "representation_049_068",
+  "reviewMethod": "Direct visual reading of every assigned original PDF page image, comparison with English transcription and Chinese translation; formula indices, operators, matrices, hypotheses, proofs, exercises and original footnotes checked.",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0062.png"
+}

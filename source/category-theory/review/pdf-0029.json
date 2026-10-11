@@ -1,0 +1,20 @@
+{
+  "pdfPage": 29,
+  "printedPage": "20",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and checked formulas against cfnt.tex and macros.tex. Preserved the opening continuation of Example 1.2.4(b), part (c), and the final incomplete sentence of Examples 1.2.5. The text-layer isomorphism and not-equal encoding errors were resolved against the PDF. All mathematics is standard TeX; no complex diagram requires a crop.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "007f8bd5ff2a20411d4a525c5cc1e0c6e2c0b02acd3edca881f65fc73bb46168",
+    "zh": "10f8c2c68eaed99bae2ab85f973ca4266f968b07a8e174c2129a1d914e40685e"
+  }
+}

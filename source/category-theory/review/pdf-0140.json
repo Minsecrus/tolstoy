@@ -1,0 +1,26 @@
+{
+  "pdfPage": 140,
+  "printedPage": "131",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0140-initial-pushout.png",
+      "widthPt": 48,
+      "clipPt": [
+        269,
+        205,
+        317,
+        261
+      ],
+      "sha256": "b12fcc2c47932d60550656f0c4b485b07ce03a638a0337303b3be60f303412f1"
+    }
+  ],
+  "englishSha256": "31271b62b24991c229511db456b05bf8980223c4c22fd785ce87eab8193e95d3",
+  "chineseSha256": "205c31eafcc93b01db5e25afe45a727f8fb028161bb20c18fa34fda6ecfce1f2"
+}

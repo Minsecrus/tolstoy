@@ -1,0 +1,19 @@
+{
+  "pdfPage": 53,
+  "printedPage": "45",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Problem 3.3.3(b): English preserves every v; Chinese supplies v nonzero with visible note because S(0)=0 is not isomorphic to k^d. Independent reviewer confirmed omission."
+  ],
+  "diagrams": [],
+  "enSha256": "1460c35fc30af8897087d41d3e5028b30b16574fdb854ee79a1e4f6b471a1dc9",
+  "zhSha256": "ba86470cca491ba226662ec44b8b2e4c66ae29bd751715ad98ebdcbb04808e78",
+  "reviewer": "representation_049_068",
+  "reviewMethod": "Direct visual reading of every assigned original PDF page image, comparison with English transcription and Chinese translation; formula indices, operators, matrices, hypotheses, proofs, exercises and original footnotes checked.",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0053.png"
+}

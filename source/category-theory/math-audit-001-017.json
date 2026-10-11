@@ -1,0 +1,327 @@
+{
+  "status": "complete",
+  "reviewType": "independent_second_review",
+  "reviewer": "category_066_081 (not the primary author of PDF 1–17)",
+  "pdfPageRange": [
+    1,
+    17
+  ],
+  "completedAtUtc": "2026-10-11T04:31:25.607394+00:00",
+  "rulesRead": [
+    "AGENTS.md",
+    ".cursor/rules/mathematics-translation.mdc",
+    "source/category-theory/WORKFLOW.md",
+    "scripts/check-category-theory-audits.py"
+  ],
+  "unresolved": [],
+  "notes": [
+    "本审校者逐页实际 view_image 全部 17 页原图，亲自阅读并比较全部英文和中文，另实际查看 8 张相关图裁片。",
+    "参考 intro.tex 和 macros.tex 核对导论公式；目录、题号、原书页码和图标记以实际 PDF 为准。",
+    "未发现必须修改的内容；未改动主译正文或 primary review，仅保存独立审校账本。",
+    "哈希由各正文文件当前字节计算；未以主译完成 flags、OCR 或哈希校验代替人工内容审校。"
+  ],
+  "pages": [
+    {
+      "pdfPage": 1,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整目视封面：书名 Basic Category Theory、作者 TOM LEINSTER、Cambridge studies in advanced mathematics 及卷号 143；与英文手工录文和中文逐项比较。",
+      "enSha256": "99bc2a3dfd35e88b43ba3e3b4bc171e75d387694c987e1e51612bf86d015205c",
+      "zhSha256": "45e3cc1672d0e05f60f152811fc9432bdfec59f619b083bbeba807ef7314b7d8",
+      "unresolved": [],
+      "notes": [
+        "原封面无可提取文字层；独立目视确认标题、作者和系列卷号，与现有手录相符。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 2,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整扉页：书名、作者、University of Edinburgh、侧边 arXiv:1612.09375v2 [math.CT] 与 26 Aug 2025；核对中英文及日期。",
+      "enSha256": "cad5cf6628c127f2297e007b1e249002e333d93f64adc50f9793f2c906684995",
+      "zhSha256": "c1299bc5a9abcd3f797d8901c67aeca9979c1e952cd73b8e9440163a26b951bd",
+      "unresolved": [],
+      "notes": [
+        "arXiv v2 和 2025-08-26 的侧边标记已在原图确认；扉页日期与前言署名年份不同是原文事实。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 3,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整版权页：首次出版书目信息、卷号、出版社、年份、精装 ISBN、两个网址、两组版权年份、CC BY-NC-SA 4.0 许可名称与正文；中英文全部比较。",
+      "enSha256": "f0194c47705b0c85fa72a6a79ebad970834af47b0fd0619a8f5715361fb885a1",
+      "zhSha256": "6a44bc7ca3e401d07e4753e9949ad4bb3060639fbbe82f31e4de6bb078195f5b",
+      "unresolved": [],
+      "notes": [
+        "ISBN 978-1-107-04424-1、网址及 ©2014/©2014,2016 两处版权信息全部相符。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 4,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整 arXiv 版本前言：五段正文、出版与自由编辑说明、许可条款说明、源文件与 LaTeX 方法、致谢姓名、署名及 2016 年 12 月日期；中英文全部比较。",
+      "enSha256": "c4aeb9781231858a6adace7d5c84f1625a3af28d216dc65354a7d5dff233230a",
+      "zhSha256": "7a307f0ca15043fd43515a45cf4bb2630af3014ea7c7b08b7835fb6bfece4c13",
+      "unresolved": [],
+      "notes": [
+        "作者在前言中解释许可与编辑方式属于原文内容；现有两语正文完整保留，未添加制作说明。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 5,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "亲自查看整页原图，确认空白；同时读取 en/zh 正文确认均为空，没有遗漏的正文或公式。",
+      "enSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "zhSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unresolved": [],
+      "notes": [
+        "整页为空白，en/zh 文件为空。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 6,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整原目录：读者说明、导论、第 1–6 章及各小节、附录、延伸阅读、记号索引与索引；逐项核对标题、编号和原书定位页码，中英文无遗漏。",
+      "enSha256": "fbe31eee663a36fbdbb934e8331227f01400f1fcf0818c4dedf943d5bbb77f7a",
+      "zhSha256": "787975bec36671e9e2d095224cc8d76b470f6b58abc323e9dcf17e277f1f0e4e",
+      "unresolved": [],
+      "notes": [
+        "印刷目录中的 177（记号索引）与 178（索引）、171（附录）和 174（延伸阅读）均已直接核对，未用 PDF 页号替代。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 7,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "亲自查看整页原图，确认空白；同时读取 en/zh 正文确认均为空，没有遗漏的正文或公式。",
+      "enSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "zhSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unresolved": [],
+      "notes": [
+        "整页为空白，en/zh 文件为空。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 8,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "致读者完整正文：读者背景、主题范围、例子与习题的使用建议、Mac Lane (1971) 文献说明、课程渊源；比较中英文并检查跨 PDF 8–9 的末段接续。",
+      "enSha256": "0154d3de0b2ae853c8fbab1eb85a0643551eef15ca05daf0ac151261f89577ae",
+      "zhSha256": "e80265eb261d74fac820f155f1704b24a50211febb69a4a8f72d17135046c5e9",
+      "unresolved": [],
+      "notes": [
+        "英文末尾 for many 保持原页片段；中文跨页采用中文语序，合并阅读 PDF 8–9 后全部课程信息与姓名仍完整。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 9,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "致读者致谢末段全文：Martin Hyland、Peter Johnstone、François Petit、学生、匿名评审和出版社；比较中英文及承接 PDF 8 的开头片段。",
+      "enSha256": "07e25c3d12fe4dde36713de0ea401a5493ea7dddbb5e50939bbff0a1d8e6972a",
+      "zhSha256": "332d4a57d37b560703575bc79632e4ba98fc3e69435084534c314172f937b6c1",
+      "unresolved": [],
+      "notes": [
+        "英文开头 years by Martin Hyland and Peter Johnstone 保留原页片段；致谢正文相符。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 10,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "导论开头全部四段与例 0.1：单元素集 1 的全称量词、映射存在性与唯一性论证、map/mapping/function 说明；核对中英文以及末句接续 PDF 11 的片段。",
+      "enSha256": "6a4666006fcdc8310abd3b3908e784833cfe044304dbc923fff8471a548e7cba",
+      "zhSha256": "2a98452b4cf807e02b345b65ef6c755f130b0c430b8d065b6f992a1aaf52fe2f",
+      "unresolved": [],
+      "notes": [
+        "最后的 satisfying some / condition 跨 PDF 10–11 接续完整；单元素集泛性质的 for all 与 unique 均保留。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 11,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "导论关于存在唯一与泛性质的全文；例 0.2 中带乘法单位元的环和保持单位的同态条件、整数同态三种符号情况的分段定义、正/零/负整数的唯一性证明；引理 0.3 全部条件和结论。",
+      "enSha256": "a604ad5d0e77f35a336a20e3050d3ad2326220e9e62aeaca044cbcb5ddd32e6b",
+      "zhSha256": "2e4157babfe810a869b2ced51d3e6d9591b631cd9368420907e742b1bb6a0748",
+      "unresolved": [],
+      "notes": [
+        "直接目视分段式中的 -φ(-n) 及不等号 n>0/n=0/n<0；同态保持乘法单位、加法、零和负元的证明步骤均未漏译。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    },
+    {
+      "pdfPage": 12,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "引理 0.3 完整证明：两方向唯一同态、两条复合恒等式及同构结论；例 0.4 全文、基的索引集、任意 W 的线性映射与函数对应、原图全部量词/虚箭头标签、最终函数显示与接续 PDF 13 的断句。",
+      "enSha256": "708112d9f44b02f0fea4b3954a86233040e0487e2d953a61e21f64c84a4c6b99",
+      "zhSha256": "e9cc04a08ff9485abc0155ea9e552921873c1457d3eeeab0c5fda8eb9260067e",
+      "unresolved": [],
+      "notes": [
+        "独立查看 basis-universal 裁片，∀ functions f、∃! linear f̄、∀W、i 和虚箭头完整；末尾双射谓词确实位于 PDF 13。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": [
+        "/library/volume-87/diagrams/pdf-0012-basis-universal.png"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "接续例 0.4 的双射结论；例 0.5 离散空间全部说明、∀X/∀f/∃!连续映射原图、离散与平庸拓扑对比、同构意义下唯一性；例 0.6 双线性定义两式和全部变量/标量条件、点积与叉积、接续 PDF 14 的末句。",
+      "enSha256": "f4267bc4e01d2f2ee61fbe7cd680e3c1c2bf95d3e573936f34cbe0b6dc4e0456",
+      "zhSha256": "e98bf481644b04ffd26710f7adaf748ef805568c4f623f46fe31a49e8bf24d36",
+      "unresolved": [],
+      "notes": [
+        "独立查看 discrete-universal 裁片；双线性两式中的 λ、变量下标和定义域条件与原图及 intro.tex 相符。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": [
+        "/library/volume-87/diagrams/pdf-0013-discrete-universal.png"
+      ]
+    },
+    {
+      "pdfPage": 14,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "例 0.6 末段与式 (0.1) 的全部箭头及量词；引理 0.7 唯一同构条件、证明前的逻辑说明、j 和 j' 的构造图、两个复合恒等式与同构证明；中英文全文逐项比较。",
+      "enSha256": "7fb7b86547bb2e5a80a5d36959f6cbdcd8a27fa0fbd8aa0af6097e8cb9fb0d61",
+      "zhSha256": "a5857a065bf0b98bb352fca634b8308abdffa530d09de31acdac3b6835197875",
+      "unresolved": [],
+      "notes": [
+        "独立查看 tensor-universal 与 tensor-isomorphism 两裁片；b/b'、j/j' 与两条恒等式无颠倒；引理唯一同构 j∘b=b' 条件完整。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": [
+        "/library/volume-87/diagrams/pdf-0014-tensor-universal.png",
+        "/library/volume-87/diagrams/pdf-0014-tensor-isomorphism.png"
+      ]
+    },
+    {
+      "pdfPage": 15,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "张量积名称、符号及泛性质说明全文；例 0.8 核图式 (0.2)、ι 包含和 ε 平凡同态的逐点条件、θ∘ι=ε∘ι 与练习编号；例 0.9 开覆盖条件、四个包含箭头标签及末句跨页接续。",
+      "enSha256": "8d42731d91c7819ed0da25d66be3618065a09251ff0f37db3377a8d121ca19f1",
+      "zhSha256": "29298513e929ade2ca80d4fe912fade2cd6a8c7ddce3e41d111b6d6f8b2604b6",
+      "unresolved": [],
+      "notes": [
+        "独立查看 kernel 与 open-cover 两裁片；θ/ε 平行箭头、ι 的包含钩头、i/j/i'/j' 各标签方向正确。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": [
+        "/library/volume-87/diagrams/pdf-0015-kernel.png",
+        "/library/volume-87/diagrams/pdf-0015-open-cover.png"
+      ]
+    },
+    {
+      "pdfPage": 16,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "例 0.9 全部续文与式 (0.3)：f∘i=g∘j、h∘j'=f、h∘i'=g 及唯一连续映射；基本群图四个下标标签和方向、van Kampen 说明、泛性质三种进路全文、练习 0.10 的所有条件。",
+      "enSha256": "71afca7855f3a0f6775ecfed9e6ec99bfaf9cde0f3a6614ab6589f63eb03164c",
+      "zhSha256": "ec09fab6a6f0d9aadf46fb66369992e371c9028a8a4fad1896dfb4f8d775161a",
+      "unresolved": [],
+      "notes": [
+        "独立查看 open-cover-universal 与 fundamental-groups 两裁片；h 的虚箭头和存在唯一量词、i*/j*/i'*/j'* 均与原图相符。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": [
+        "/library/volume-87/diagrams/pdf-0016-open-cover-universal.png",
+        "/library/volume-87/diagrams/pdf-0016-fundamental-groups.png"
+      ]
+    },
+    {
+      "pdfPage": 17,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "练习 0.11、0.12、0.13(a)(b)、0.14(a)(b)(c)(d) 全文：固定群同态、环的全称量词、指定元素像、唯一同构、锥与余锥的全部定义、箭头方向、复合等式及唯一性条件；中英文全部比较。",
+      "enSha256": "417b2df3cf76bf29d5c4d99fdd91144ef227b0eecda5ea94055510780915ee2e",
+      "zhSha256": "47c0cf6b29322daaceff17a6807c26865a8d2cc0c7f5233a403cc010c3ca17b6",
+      "unresolved": [],
+      "notes": [
+        "练习 0.14 的锥为 V→X,Y，余锥为 X,Y→V；两者泛性质中的 f 方向及所有复合顺序逐项核对正确；(d) 要求自行明确唯一性的含义保留。",
+        "完整人工比较未发现需修正的漏译、数学条件、公式或图标签错误；中文未增加原文以外讲解。"
+      ],
+      "status": "verified",
+      "diagramPathsCompared": []
+    }
+  ]
+}

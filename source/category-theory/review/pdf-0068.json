@@ -1,0 +1,64 @@
+{
+  "pdfPage": 68,
+  "printedPage": "59",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed.",
+    "独立二审修正中文措辞：把“关于这一性质是普遍的”改为“对于这一性质具有泛性”，准确表达 universal 的范畴论含义。英文、公式和图标签保持原样。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0068-comma-square.png",
+      "widthPt": 82.4152,
+      "clipPt": [
+        256.1822,
+        206.0049,
+        338.5974,
+        267.0618
+      ],
+      "sha256": "da0da3dac95c77929a681982b5dd192189735f3d23886af5e2901bd0cd156be5"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0068-comma-universal.png",
+      "widthPt": 85.3941,
+      "clipPt": [
+        251.2174,
+        321.6655,
+        336.6115,
+        381.7296
+      ],
+      "sha256": "7426c0660b32c97ac71bb8b9f2a2a3e594c570b648cb8358c98a72fd3d0a9bda"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0068-slice-triangle.png",
+      "widthPt": 91.8482,
+      "clipPt": [
+        247.2456,
+        476.5415,
+        339.0938,
+        534.62
+      ],
+      "sha256": "53774243e18038fa64e167a5bf7e019490bb28a5e3c72a8ab91a76f9af598ce8"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0068-slice-comma.png",
+      "widthPt": 77.9469,
+      "clipPt": [
+        249.728,
+        593.6913,
+        327.6749,
+        648.7914
+      ],
+      "sha256": "9636172e0ff375e897cd1615ea0ee1e6da478cfe6017299635ef80a7b1d128ea"
+    }
+  ],
+  "englishSha256": "52372ebd4c07a99ea8e9f9a81970b6b4f1420199438a3dae3f705e27999bb0f5",
+  "chineseSha256": "6c9518dd7c45cfaca451e6354f0eb15b43b3fa47b9deb60ad8699df1cd51da08"
+}

@@ -1,0 +1,20 @@
+{
+  "pdfPage": 48,
+  "printedPage": "40",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked positive-characteristic assumptions p>2, ad(x)^2(y)=ad(y)^{n+1}(x)=0, and quantum-enveloping relations with q^{+2},q^{-2}, and (K-K^{-1})/(q-q^{-1}).",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "e7c43595eca50f425cc2b2151baa6e1bb4aef3a5739b8338de90742e47463538",
+  "zhSha256": "51809129240694e45898ed38ddf1985f7dec89737b09c60178811e0b5926e9e2",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0048.png",
+  "officialErrataChecked": true
+}

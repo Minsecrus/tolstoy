@@ -1,0 +1,17 @@
+{
+  "pdfPage": 10,
+  "printedPage": 2,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际页面恢复 OCR 漏掉的参考文献 [FH] 与 [W]。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_001_028",
+  "enSha256": "e07385dc95371b78b77cd82285abac4b49a3d24b06f960e45f9c189ab6649b97",
+  "zhSha256": "24b2daab18afb69f7ac29e60fdcc0952f115e2791d927d19dce80979e6ca9b40"
+}

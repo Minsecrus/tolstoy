@@ -1,0 +1,20 @@
+{
+  "pdfPage": 33,
+  "printedPage": "25",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Recovered the printed citation [Ki], which is absent from the OCR reference. Preserved the original Lie-group discussion and universal covering.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "3b6d0e55c58d73ab58c9d86f86744aa694954a067dd703c5ea52dd6b0b638980",
+  "zhSha256": "397333798c0eec60c84301ad5845e5d853ecb256f65459555fb6085f5d799376",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0033.png",
+  "officialErrataChecked": true
+}

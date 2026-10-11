@@ -1,0 +1,29 @@
+---
+title: "数学参考文献"
+description: "《Introduction to Representation Theory》中文译文。"
+pageClass: algebra-reading representation-theory-reading
+prev: {"text":"历史插曲参考文献","link":"/library/volume-88/historical-references"}
+next: {"text":"索引","link":"/library/volume-88/book-index"}
+---
+
+# 数学参考文献
+
+<span class="original-page-anchor" id="pdf-page-231" aria-hidden="true"></span>
+
+[BGP] J. Bernstein、I. Gelfand、V. Ponomarev，“Coxeter 函子与 Gabriel 定理”，《俄罗斯数学综述》28（1973），第 2 期，17–32。
+
+[Cu] C. Curtis，《表示论的先驱：Frobenius、Burnside、Schur 与 Brauer》，美国数学会，1999。
+
+[CR] C. Curtis、I. Reiner，《有限群与结合代数的表示论》，美国数学会，2006。
+
+[FH] W. Fulton、J. Harris，《表示论入门》，Springer，纽约，1991。
+
+[Fr] P. J. Freyd，《阿贝尔范畴：函子理论导论》，Harper and Row，1964。
+
+[Ki] A. A. Kirillov Jr.，《李群与李代数导论》，Cambridge University Press，2008。
+
+[McL] S. Mac Lane，《数学工作者的范畴论》，第 2 版，Graduate Texts in Mathematics 第 5 卷，Springer，1998。
+
+[S] J.-P. Serre，《有限群的线性表示》，Springer-Verlag，1997。
+
+[W] C. Weibel，《同调代数导论》，Cambridge University Press，1994。

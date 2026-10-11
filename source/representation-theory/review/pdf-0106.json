@@ -1,0 +1,19 @@
+{
+  "pdfPage": 106,
+  "printedPage": "98",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对可解群子群列、p^a q^b定理的全部条件，以及单位根平均值引理的严格/非严格不等式。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。",
+    "独立二审指出引理5.4.5证明变量为拉丁a，经实际查看300dpi原扫描局部将英中a与a′恢复准确。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "c7e324f2ca0547cc59ff90dcedeeb17b8960ebc17f24ca431494d23940103d5c",
+  "zhSha256": "4d39100f9e9b05fb010517a9a8dbff74f0d6356a06873f0e37cd483281d0574d"
+}

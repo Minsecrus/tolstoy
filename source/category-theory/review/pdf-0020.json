@@ -1,0 +1,31 @@
+{
+  "pdfPage": 20,
+  "printedPage": "11",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0020-commutative.png",
+      "widthPt": 93,
+      "clipPt": [
+        255,
+        251,
+        348,
+        312
+      ],
+      "sha256": "34794177773142341f3076fad3677ce559b1d48d06db33a7f5098226d2cd1020"
+    }
+  ],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "5309aef88ef7d39eb7273644874e5cf4acb9e2ae510efc0ea0d9691ba756d1a4",
+    "zh": "450cd6b83ea5a15c3aa89936fbc84cf89c76fd7b6b9e78ec613d6d7976058a31"
+  }
+}

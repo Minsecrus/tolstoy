@@ -1,0 +1,19 @@
+{
+  "pdfPage": 92,
+  "printedPage": "84",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对极点计数公式 2(1−1/n)=∑_i(1−1/m_i) 及原书脚注2；英文保留原书列表第2项缺少右括号的标点，中文补齐括号使行文完整。",
+    "保留页末映射 G→GL(V) 的跨页片段，脚注完整保留。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "34c5e27279d215f255ee109836cba1d3cba00f878892f52c9193603835c1c709",
+  "zhSha256": "7115b4a4f3abf6b570d5fcefc9e3cf5bf3fb60bd54f09ceccb48d32ac1642d5c"
+}

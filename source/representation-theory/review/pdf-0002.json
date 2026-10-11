@@ -1,0 +1,17 @@
+{
+  "pdfPage": 2,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "从实际扫描恢复 OCR 错误的数学主题分类 20Gxx、编目号 QA155.E586、邮箱及分类标点。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_001_028",
+  "enSha256": "283a32a41a5e0498052a94d0925f859c6697f1af28432d8ef427804a119b62e3",
+  "zhSha256": "4293295eed4cc73cad59f978caa2178bbe0eaafea79a07b6a22f2aa082e21156"
+}

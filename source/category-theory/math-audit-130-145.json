@@ -1,0 +1,229 @@
+{
+  "status": "complete",
+  "reviewer": "Independent second-pass reviewer; did not author PDF 130–145.",
+  "pages": [
+    {
+      "pdfPage": 130,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: continuation of Example 5.1.22; all three isomorphisms and element/index conditions in (5.16), projection maps p_J, algebra and Top examples 5.1.23–24, both clauses of Definition 5.1.25, finite-category/finite-limit paragraph and both clauses of Proposition 5.1.26.",
+      "enSha256": "477518a2d10f403589aaa60d454e99e09d212c47629eb7b37c5585aceb97c5e9",
+      "zhSha256": "46dc869cff3e343409e98215fe4ad107cbfa91e7827e152e56ffe7fa37fb0500",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 131,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: product/equalizer construction of arbitrary limits, skipping guidance, components s_u and t_u and their domain/codomain, both original diagram crops and every label, concluding proposition/exercise reference, Example 5.1.27 through its page-end fragment, including Hausdorff/compactness hypotheses and Tychonoff theorem.",
+      "enSha256": "cc53a9fdfdef1cf55c4e01dc776b49e5bc90728c2b7bb09c87d1359c972bb2a2",
+      "zhSha256": "0b50e4707afa28d1eba9ad873d8f9f4c68f6995d4500726c504987bd55b72e3d",
+      "unresolved": [],
+      "notes": [
+        "Adjusted the Chinese rendering of “the proof ... is routine” to a natural sentence; mathematical content unchanged."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 132,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: continuation of Example 5.1.27, Example 5.1.28, monics introduction and Definition 5.1.29 with every object and parallel-pair quantifier, generalized elements of equal shape, Examples 5.1.30–31 and free functor F(1), Lemma 5.1.32 and identity/f arrow labels in its pullback square, proof exercise reference.",
+      "enSha256": "d5ea943ac4f66ee3f5ed5809fd15e2cfc3bab8de56f004d48ac34d43efb1223c",
+      "zhSha256": "2fd3b9e9f1f101c627133595cd6813d311f1d145fc2c65cae554c539542ba312",
+      "unresolved": [],
+      "notes": [
+        "Rephrased the Chinese generalized-element restatement naturally instead of the literal phrase “富有启发性地重述”; all same-shape hypotheses unchanged."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 133,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: lemma consequences and forgetful functors paragraph, every statement and all parts of Exercises 5.1.33–37; equalizer/pullback square labels and directions, adjacent pullback pasting diagram, limit-cone maps, universal h/h-prime condition and discrete two-object/Set/1 specialization.",
+      "enSha256": "e1006541cfb4d726ab525e9fb215b22d7e4a26810133b41874373fa4b780037c",
+      "zhSha256": "178b3f9a0d6f6d56982beb6c5b42cd2124b00ade7fe7ca60295314cb9258dace",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 134,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: every clause of Exercises 5.1.38–42, construction using products and equalizers with u-components, pr_J and Du composition, p_I projections and limit cone, finite-limit hypotheses, full Monic(A) slice definition and all subobject questions, both original diagram crops and all f/f-prime/m/m-prime labels, page-end continuation preserved.",
+      "enSha256": "b77b955453447436994e819305051ce074bc253edfa6a3d71c72c7793aff3ee1",
+      "zhSha256": "4e1f84b5a15032c1fb8ab57bdbeddbeae2a249c39b054298cd1a55c7169edf70",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 135,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: final clause of Exercise 5.1.42 and its reference; Section 5.2 introduction and dual-name conventions, full Definition 5.2.1 with small shape and D-op functor, cocone equation (5.17), commutative triangle labels, unique f-bar and all p_I equations, vertex notation and coprojections.",
+      "enSha256": "1719e5ce2376f95998c43833efd543770bcb89f24b0c5ae675edce1ddad08669",
+      "zhSha256": "3d40b05e390834037ff1d00090f5162aaa0a1e8a8a768286fec829d64150f5fe",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 136,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: sums/coproduct Definition 5.2.2 including empty family n=0 and all notation, Examples 5.2.3–5, complete Set binary coproduct universal-property proof and its partition/uniqueness conditions; all four diagram crops, p_1/p_2/f_1/f_2/f-bar labels and arrow directions, vector-space coprojections and equation (5.18), page-end fragment.",
+      "enSha256": "d8693f0c47e35fa7a57e3f298cdd1c1f298b05e3b81cc55673e40a3839a44d97",
+      "zhSha256": "73356c76826c6dd1519cd1bde1897078adbf48fdfd99270a208414dacaa59ad7",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 137,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: Example 5.2.5 continuation, all ordered-set/empty-family/least-element and R/power-set/N examples in 5.2.6, full Definition 5.2.7 and universal p condition, all equivalence-relation introduction/containment/generated relation and intersection paragraphs in Remarks 5.2.8, page-end fragment.",
+      "enSha256": "651626ea086a8a423e6d3f14acd32ec00dbbb9bf4c9a5975ae0052a7d4537190",
+      "zhSha256": "34a4ec1d93af2e889b990e21d8cbe73f9a9fe7ecede030a12c2aeeb2c19612bb",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 138,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: zigzag directions, symmetric relation S formula, n>=0 and a_0 through a_n chain, quotient and bijection statements, (5.19) and (5.20), complete equivalence-relation proof using approx and containment, Example 5.2.9 with every x condition and quotient coequalizer argument.",
+      "enSha256": "64d46913629d2e548c5670d79a404e6269d554e1014baf41fbc993d1e8008ef6",
+      "zhSha256": "fbb7e3c7befd617814b4df3144a4f392256fa25d8c47f21c23749a98a7b1ff4e",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 139,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: abelian-group coequalizer im(t-s), full Definition 5.2.11, original shape category P-op, diagram (5.21) and universal pushout square, Example 5.2.12 quotient-generated relation and coprojections, Y-intersection-Z/union inclusion square and pullback remark, page-end fragment; every crop and arrow label viewed.",
+      "enSha256": "6da77e2547aa260a3bf50c016f5631764daa240aad5d8f73be29de2713256957",
+      "zhSha256": "9b16099b569b2901ce1f97789562670930a980fa146d460c77270b644e86e8b2",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 140,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: union gluing continuation, Example 5.2.13 initial-object hypotheses and unique diagram, van Kampen Example 5.2.14 including further hypotheses and taking fundamental groups throughout the square, direct-limit chain and inverse/direct terminology in 5.2.15, all formulas/indices/relation conditions and quotient maps in 5.2.16 through the page-end fragment.",
+      "enSha256": "31271b62b24991c229511db456b05bf8980223c4c22fd785ce87eab8193e95d3",
+      "zhSha256": "205c31eafcc93b01db5e25afe45a727f8fb028161bb20c18fa34fda6ecfce1f2",
+      "unresolved": [],
+      "notes": [
+        "Corrected the Chinese scope of “taking fundamental groups throughout” from all objects to the entire square, preserving the induced-map scope; retained 正向极限/逆极限 terminology."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 141,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: Figure 5.2 and both panels/axes/disks labels, figure caption, complete continuation of quotient-map/cocone correspondence with every u/x condition, product-subset versus sum-quotient comparison, sphere equation and equalizer crop with s/t labels, s and t formulas, coordinate-space and patch-gluing discussion through the page-end fragment.",
+      "enSha256": "666d532d20188363242ac3f53e7d9c62a0345cf7201d8a849a492fb9c575994f",
+      "zhSha256": "0da86b67dc8e6040cd9384f3c7b158afdb900e0e83349d92f3a61fe7b315b653",
+      "unresolved": [],
+      "notes": [
+        "Rephrased the Chinese “difference in flavour” sentence naturally; sphere formulas, geometry and caption unchanged."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 142,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: sphere coequalizer and cylinder/intersection/inclusions diagram and all space labels, entire coordinate/decomposition/atlas/maps-out-of-colimit discussion, Definition 5.2.17 with every Z and g/g-prime condition and dual-category statement, comparison with surjectivity, Example 5.2.18 page-end fragment.",
+      "enSha256": "4e26c84588c7bbc14f59d1a9123990f778a779c828e48cd4bf60dedda8b0f298",
+      "zhSha256": "7381235f7390df0dabadbe6435be009e1ec7e6f9c0a3208cb0cf4cdc02781239",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 143,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: complete Set epic proof using characteristic image and constant true functions, monic+epic/isomorphism paragraph, Examples 5.2.19–20 with algebra categories and dense-image hypotheses, dual lemma remark, all parts of Exercises 5.2.21–24 including circle/uncountable/indiscrete condition and both non-surjective inclusions, full Epic(A) quotient-object definition.",
+      "enSha256": "e79071f7676fdd8bd08feb6f581335962ad79858e5d4f62dfba354ea608c6e5b",
+      "zhSha256": "171a1033e5c943b50a2e6a4633ac5e5b8e427f3cd2ba0977f10fab8ae3e2a522",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 144,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: all remaining Exercise 5.2.24 clauses and terminology note, complete Exercises 5.2.25–27 including existential equalizer/splitting definitions, every implication and Ab/Top counterexample task, regular epic isomorphism criterion, Set choice assumption and all three equivalences, categorical choice condition for Top and Grp, all six classes and both stability/composition questions.",
+      "enSha256": "ba5316ceaa2ab4d1ab8b11166c664158bdf0275ebccbea6a1bd771751ec01277",
+      "zhSha256": "501525a8ea10b9f1f3b328c398a912163fce57906f3697cf5bfaa05547429be8",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 145,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page compared: Section 5.3 introduction and both forgetful-functor examples, every clause of Definition 5.3.1 with small-category/all-diagram/all-cone quantifiers, preservation implication and reversed reflection direction, colimit terminology, equivalent canonical-map formulation and I-component F(p_I), equation (5.22), page-end warning fragment preserved.",
+      "enSha256": "d3289eff0af6470af87c537b1fb63e6cc33a6cfe21452b7fc9dc9d7d3b6f1694",
+      "zhSha256": "39dd99750139be648a4294549e62c601ec1167687cef88e731b9e94e39520ef1",
+      "unresolved": [],
+      "notes": [
+        "Reordered the Chinese opening sentence on computing algebraic limits naturally; all original steps and conditions unchanged.",
+        "Corrected the page-end Chinese fragment: PDF 145 and 146 both supplied 比, producing 比比 in continuous text. Removed the duplicate from PDF 145 while keeping the continuation on PDF 146."
+      ],
+      "status": "verified"
+    }
+  ],
+  "unresolved": [],
+  "notes": [
+    "Viewed all sixteen original PDF page images and all 20 referenced diagram crops; compared all English and Chinese page content personally. Corrected five Chinese sentences and refreshed their primary-review hashes. Also removed a duplicated 比 at the PDF 145/146 Chinese page join."
+  ]
+}

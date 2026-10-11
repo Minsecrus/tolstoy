@@ -1,0 +1,24 @@
+{
+  "pdfPage": 171,
+  "printedPage": "163",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Example 6.4.9 continuation, counts of positive roots; reflection definition, simple reflections and Weyl group; Definition 6.5.1 dimension vector. Actual book already uses N in the later Lemma 6.7.2; Chinese note here only applies the official explicit simple-reflection notation.",
+    "Visible Chinese correction note follows official 2024 errata: explicitly writes s_i:=s_{alpha_i}; English retains original s_i."
+  ],
+  "actualReviewScope": "Example 6.4.9 continuation, counts of positive roots; reflection definition, simple reflections and Weyl group; Definition 6.5.1 dimension vector. Actual book already uses N in the later Lemma 6.7.2; Chinese note here only applies the official explicit simple-reflection notation.",
+  "diagrams": [],
+  "enSha256": "4b507f51f67216229630b620dafae0a516726aaff06cfa98bc2ba5706d666086",
+  "zhSha256": "4688c7b96c58065ab30a9369b196cd77c2cfe743fce50f26ee1dae7356026f81",
+  "sourceSha256": {
+    "en": "4b507f51f67216229630b620dafae0a516726aaff06cfa98bc2ba5706d666086",
+    "zh": "4688c7b96c58065ab30a9369b196cd77c2cfe743fce50f26ee1dae7356026f81"
+  }
+}

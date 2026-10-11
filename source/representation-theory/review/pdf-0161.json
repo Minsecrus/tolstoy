@@ -1,0 +1,62 @@
+{
+  "pdfPage": 161,
+  "printedPage": "153",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0161-injective-pair.png",
+      "widthPt": 124.0540581780511,
+      "clipPt": [
+        122.56540947991448,
+        98.77032928466797,
+        246.61946765796557,
+        124.5796615600586
+      ],
+      "sha256": "72aa6adf42089e311ce3cf1622d5c2c738fc7c53827dd122b63534102d4654d5"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0161-intersection-decomposition.png",
+      "widthPt": 292.2713610674884,
+      "clipPt": [
+        37.21621745341533,
+        198.03699188232423,
+        329.4875785209037,
+        247.67032318115236
+      ],
+      "sha256": "b8e4d0977e8a55a8f0a578ebfc04803629e692c97f7acdaeffe1474c2325563d"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0161-sum-decomposition.png",
+      "widthPt": 291.77514483477614,
+      "clipPt": [
+        37.71243368612753,
+        341.4773193359375,
+        329.4875785209037,
+        387.1399841308594
+      ],
+      "sha256": "fdaa62bad4d84537e44a050da279d6c4eadf1d1cabc36a0c4b03355bf4e51a03"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0161-separate-decomposition.png",
+      "widthPt": 292.76757730020057,
+      "clipPt": [
+        36.720001220703125,
+        436.27698211669923,
+        329.4875785209037,
+        484.91764678955076
+      ],
+      "sha256": "b9846c13cb0d43f7695186d266d5de9115a79b553bd07776d38baa1840234bc0"
+    }
+  ],
+  "enSha256": "b76742179ce41b87b26118f2453c598ec05c13460e49f3d72f216e3c27bed3e3",
+  "zhSha256": "f710adad8817d44a1d41d80ddf6ecd745f6d853014e50003c96eee4e63fb498e",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0161.png"
+}

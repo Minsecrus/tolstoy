@@ -1,0 +1,22 @@
+{
+  "pdfPage": 143,
+  "printedPage": "135",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "All group-order, commutator, homomorphism and principal-series equations retained; final homomorphism definition continues on the next source page."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0143.png",
+  "sourceHashes": {
+    "en": "fb61eb93d672e5494434901caff3277ac8a59c7d4aceb4d649c06e1e8d44c709",
+    "zh": "e9e83179688a469589a5700d5127503bafcb6326a42ce4715621dd7cf0cb40ad"
+  },
+  "enSha256": "fb61eb93d672e5494434901caff3277ac8a59c7d4aceb4d649c06e1e8d44c709",
+  "zhSha256": "e9e83179688a469589a5700d5127503bafcb6326a42ce4715621dd7cf0cb40ad"
+}

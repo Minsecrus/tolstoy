@@ -60,7 +60,7 @@ python scripts/prepare-history-problem.py docs/public/library/volume-85/the-hist
 node scripts/finalize-history-problem.mjs
 node scripts/finalize-history-problem.mjs --check
 $env:VITEPRESS_BASE='/tolstoy/'
-$env:NODE_OPTIONS='--max-old-space-size=8192'
+$env:NODE_OPTIONS='--max-old-space-size=12288'
 npm run docs:build
 ```
 
@@ -88,7 +88,7 @@ python scripts/check-algebra-audits.py --require-complete
 node scripts/finalize-algebra.mjs --source-pdf <PDF路径>
 node scripts/finalize-algebra.mjs --source-pdf <PDF路径> --check
 $env:VITEPRESS_BASE='/tolstoy/'
-$env:NODE_OPTIONS='--max-old-space-size=8192'
+$env:NODE_OPTIONS='--max-old-space-size=12288'
 npm run docs:build
 ```
 
@@ -102,3 +102,77 @@ python scripts/check-algebra-pdf.py
 ```
 
 成品保存在 `output/pdf/Algebra-Zh.pdf`，随仓库保存，不复制到网站公共目录，也不加入网站下载入口。排版中间文件、来源快照、页码映射及验证报告保存在 `tmp/pdfs/algebra-export/`。
+
+## 《基础范畴论》文字层校录与中文译本
+
+第 87 卷依据用户提供的 Tom Leinster《Basic Category Theory》文字层 PDF 制作，来源文件共 192 页，对应 arXiv:1612.09375v2。全书英文校录、中文全译及两轮逐页原图核对已完成，包含前言、正文、全部证明与习题、附录、延伸阅读和索引。正文从原生文字层提取，不运行全文 OCR；数学符号和交换图仍逐页对照原 PDF，并以作者在 [arXiv 发布的匹配版本 TeX 源码](https://arxiv.org/src/1612.09375v2)辅助核对。原 PDF 和下载的辅助 TeX 不放入网站公共目录。
+
+译文把英语语序、长句和生硬措辞处理为自然中文，不添加原文之外的概念讲解、符号定义或证明说明；这一约定也适用于本项目后续数学著作，见根目录 `AGENTS.md` 与 `.cursor/rules/mathematics-translation.mdc`。
+
+原文件 SHA-256 为 `4d817004b83f46233444c2b3233129cef1154e5e96987fa4be029e040987b59a`。`scripts/category-theory-source-manifest.json` 保存逐页文字层摘要与经实际版面核对的原书页码；`scripts/category-theory-reading-plan.json` 保存阅读部分和小节。原 PDF 内的页标签与索引书签存在错位，因此页码与目录使用实际印刷内容。中英逐页正文、主审核对和绑定当前稿件 SHA-256 的独立二审记录保存在 `source/category-theory/`，制作约定见其中的 `WORKFLOW.md`。
+
+网站只生成前言、致读者、导论、六章、附录、延伸阅读和两个索引，共 13 个学术部分的中英文连续阅读页面；卷首、原目录与空白页保留在源稿中。普通公式使用原生 TeX 和本地 MathJax SVG；复杂图示采用原 PDF 裁片，并在逐页记录中保留裁片 SHA-256、原始坐标与物理宽度。网站正文没有逐页页码横栏、语言切换横栏或制作过程说明。
+
+数学卷 86、87、88 的小项编号（如 `(c)`）保留字面形式，避免 Markdown 自动排版将它们变成版权符号；其他作品的自动排版保持原有行为。
+
+本书原图裁片的网页宽度按原书物理尺寸与正文字号换算，随网页正文字号缩放。尺寸映射预先保存在 `scripts/category-theory-diagram-widths.json`，普通网站构建直接读取它，无须访问原 PDF；句内图保留在原段落中。
+
+```powershell
+python scripts/prepare-category-theory.py <PDF路径> --render 1 192
+python scripts/prepare-category-theory-diagram-widths.py
+node scripts/check-category-theory-math.mjs --require-complete
+node scripts/check-mathematical-book-typography.mjs
+node scripts/check-category-theory-diagram-renderer.mjs
+python scripts/check-category-theory-audits.py --require-complete
+node scripts/finalize-category-theory.mjs
+node scripts/finalize-category-theory.mjs --check
+node scripts/rebuild-library-index.mjs
+$env:VITEPRESS_BASE='/tolstoy/'
+$env:NODE_OPTIONS='--max-old-space-size=12288'
+npm run docs:build
+python scripts/export-category-theory-pdf.py
+python scripts/check-category-theory-pdf.py
+```
+
+中文 PDF 保存为 `output/pdf/Basic-Category-Theory-Zh.pdf`，不复制到网站公共目录或添加网站下载入口。PDF 全部汉字使用宋体，标题和强调使用宋体加粗；主要部分另起新页，章内连续排版，以新可点击目录替代原目录，原书页码范围放在页眉，译本页码放在页脚。排版保留 185 个来源内容页，原书无关卷首和空白页不占导出页。中间文件与验证报告保存在忽略跟踪的 `tmp/pdfs/category-theory-export/`。
+
+目录排为一页，符号索引使用三栏，主题索引使用两栏；索引保留全部条目、层级与跨原书页接续。最终导出文件的独立逐页视觉核验记录保存在 `source/category-theory/export-visual-review.json`。
+
+最终构建后的浏览器核验保存在 `source/category-theory/website-render-review.json`，覆盖章节正文、小项编号、公式加载、裁图尺寸及居中、两处句内图、目录和索引接续。网页核验与 PDF 排版核验均不替代来源数学内容的逐页审校。
+
+原书 © Tom Leinster 2014, 2016，作者发布的 arXiv 版本采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)；本中文翻译及其排版改编同样采用该许可。来源与许可说明保留在原书前言译文和本项目制作记录中。
+
+## 《表示论导论》
+
+第 88 卷依据用户提供的 Etingof 等人《Introduction to Representation Theory》2011 年 AMS 版制作。原文件共 238 页，是附有识别文字层的扫描书；现有文字层辅助录入，不重新运行全文 OCR。来源 SHA-256 为 `2dd757632494b71e95e8b70520e3745ae22b6df5632b7352cc465fcaac6a6563`。数学符号、条件和全文逐页与实际扫描图核对，不把识别文字当成准确原文。
+
+来源清单、实际印刷页码、阅读结构分别保存在 `scripts/representation-theory-source-manifest.json` 与 `scripts/representation-theory-reading-plan.json`。作者官网提供的匹配 2011 年高清版、讲义 TeX 和正式勘误仅作辅助；2024 年更新版的增补内容不混入原书译文。原 PDF、辅助文件和中间稿不进入网站公共目录。
+
+全部 238 页均保留逐页英文校录、中文稿及主译记录；独立审校逐页完整比较扫描图与当前双语稿，审校散列绑定实际文件字节。记录保存在 `source/representation-theory/`，制作约定见其 `WORKFLOW.md`。录入错误直接校正；原书数学错误保留在英文校录中，中文修订以紧邻的可见译校注明示依据。句子写成自然中文，不因为表达偏好添加概念讲解。
+
+阅读正文保留 222 个来源内容页，整理为九章、历史参考文献、数学参考文献和索引，共 12 个连续部分；包括 94 个编号小节、全部证明、习题、提示、脚注、六篇历史插曲与 230 条索引。原书封面、版权、旧目录、空白页与丛书广告仍存入来源记录，排除网站正文导航与导出 PDF。书库正文不显示每页来源条或语言切换条。
+
+普通公式、矩阵、特征标表与对应表采用原生数学排版；55 张复杂箭图、Dynkin 图与分解图保留经过核对的 300 dpi 原图裁片。网页与 PDF 的图片字号按匹配高清版正文及扫描比例标定，尺寸映射预存在 `scripts/representation-theory-diagram-widths.json`。网站使用本书限定的原生脚注插件，保留全部脚注正文、公式与双向跳转，不改变其他卷的脚注处理。
+
+```powershell
+python scripts/prepare-representation-theory.py <PDF路径> --render 1 238
+python scripts/prepare-representation-theory-diagram-widths.py
+node scripts/check-representation-theory-math.mjs --require-complete
+python scripts/check-representation-theory-audits.py --require-complete
+node scripts/check-representation-theory-continuous-reading.mjs
+node scripts/check-representation-theory-footnotes.mjs
+node scripts/check-representation-theory-diagram-renderer.mjs
+node scripts/check-representation-theory-index.mjs
+python scripts/check-representation-theory-index.py
+node scripts/finalize-representation-theory.mjs
+node scripts/finalize-representation-theory.mjs --check
+$env:VITEPRESS_BASE='/tolstoy/'
+$env:NODE_OPTIONS='--max-old-space-size=12288'
+npm run docs:build
+python scripts/export-representation-theory-pdf.py
+python scripts/check-representation-theory-pdf.py
+```
+
+最终中文 PDF 共 134 页，保存于 `output/pdf/Introduction-to-Representation-Theory-Zh.pdf`，单独提供给用户，不放进网站或添加网站下载入口。汉字、标题和强调使用宋体，标题与强调加粗；数学公式使用原生 TeX。九章与三项附属部分各另起一页，章内连续排版；重新生成涵盖全部数学小节的可跳转目录，页眉保留原书页码范围，页脚标示译本实际页码。中间排版与验证报告位于 `tmp/pdfs/representation-theory-export/`。最终输出的分段视觉检查汇总保存在 `source/representation-theory/export-visual-review.json`。
+
+两册逐页 Markdown 均固定采用 UTF-8 与 LF 换行，避免 Git 检出时改变已审校稿件的字节散列。`scripts/normalize-reviewed-book-line-endings.py` 默认只检查；`--apply` 必须先验证全部主译和独审绑定，并证明仅将 CRLF 改为 LF、不改变正文字符。迁移前后散列保存于各书的 `line-ending-normalization.json`，不据此重新声称数学审校，也不改写既有 PDF。

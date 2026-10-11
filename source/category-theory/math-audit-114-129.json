@@ -1,0 +1,223 @@
+{
+  "status": "complete",
+  "pages": [
+    {
+      "pdfPage": 114,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：例4.3.11的素数阶元素结尾；例4.3.12的Set(1,A)、形状为1的广义元素；例4.3.13的伴随同构链、关于A/B的自然性和左右伴随唯一性；例4.3.14的表示对象唯一性、Bilin与张量积，全部公式与存在/唯一条件。",
+      "enSha256": "d55e55c4d459354409b81e1e0ef038ed30db04562a5ae1cb434cbf9091cff5c5",
+      "zhSha256": "fa97d567fe7e9dcde29b8b7157a7364b328ee9b3fb02cd89e46e107117f239f0",
+      "unresolved": [],
+      "notes": [
+        "独立二审将直译的“那个张量积”改为自然中文“张量积”，保留所有此类空间同构而名称合理的原意。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 115,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：习题4.3.15–4.3.18所有题目、(a)–(c)分项、离散范畴问题和提示；米田嵌入的充满/忠实条件、预层的泛元素条件、后复合函子的类型、自然同构及F⊣G与F⊣G′的条件。",
+      "enSha256": "7bd06a3fbf73fff6d6aabbecfc4af83038d4c80d267ff7f979a4d6e84c27bf05",
+      "zhSha256": "2b5556aae42f8f5278e0c6ce55d6584a744c8ab9bd589783b800a48c1f3e2188",
+      "unresolved": [],
+      "notes": [
+        "独立二审发现诱导函子显示公式内混入中文句号；已移除并在引出公式的句子末加冒号。习题条件和公式内容均保留。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 116,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：第5章极限导言、三个研究途径、核与最小公倍数的例示；5.1节开头用元素及从1出发的映射引入积，保留页末跨页句子；所有对象及映射记号。",
+      "enSha256": "859d77a4469bf16e9b938cb8f9f45a42f1cc9fea559969175bdf61d7787b42c5",
+      "zhSha256": "fb3a5e3d65c006a7f802d20c6e2a5b5b4fee549adc7fe99c6a258e687f5172ba",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 117,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：广义元素A的双射和投影作用；定义5.1.1对任意A、f1、f2存在唯一bar f的积泛性质，(5.1)/(5.2)图；注5.1.2(a)及页末离散双对象范畴片段；五张裁片全部箭头与标签。",
+      "enSha256": "36c6cb869fc2c18a79977d20468dc03aec4b7f7fccb746f8a32a1a02db017709",
+      "zhSha256": "fe115e7b3a09372da1fe950f8fdb163e56cc4d8de0902537620c2fceaf0526af",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 118,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：注5.1.2(a)/(b)的存在性、同构意义下唯一性及投影；例5.1.3 Set积构造和完整存在/唯一证明、bar f及hat f；例5.1.4 Top积、坐标连续当且仅当、任意A、积拓扑最小性及跨页末句。",
+      "enSha256": "dac64fb9b74c00ab0c060ad1a7ca8ac9d21654bf9b005a1ce1232ad7cf8d6293",
+      "zhSha256": "f8a0c41e7edc21b8dfce90d220cd0a602570c86f039bbafa009465187528d988",
+      "unresolved": [],
+      "notes": [
+        "独立二审将“谈论……的那个积有了依据”改为自然中文“称它为……的积是有依据的”，保留同构意义下唯一性的原意。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 119,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：积拓扑论述结尾；例5.1.5 Vect直和积、投影及图；例5.1.6(a)实数min、(b)子集交、(c)整除偏序gcd三个实例的全部不等式、等价条件及页末片段；直和图标签。",
+      "enSha256": "921ac270786cf70fa9e8aa42ced904e7fd6a5bb0c46ff16586be012ac082b097",
+      "zhSha256": "e652c06b6e18ef063dfc5cff9cba476bbbdb73edb15febc2b88447dd294044dd",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 120,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：gcd论述结尾、偏序下界与交定义及三种记号；定义5.1.7任意指标集对象族的积、对任意A与fi唯一bar f、(5.3)及分量；例5.1.8任意交/inf存在当且仅当条件；例5.1.9空族开头片段。",
+      "enSha256": "dcf21ab27b438eaf8d1d806aba7a5cde6c7cfed248aff40a37508b8ea239e64a",
+      "zhSha256": "cb2912cc8725cf4e728f997b71930a1efd650f6634cffa1f173f00d3ba163b53",
+      "unresolved": [],
+      "notes": [
+        "独立二审将最大下界的“大于其他所有下界”改为“不小于任何其他下界”，避免将偏序中的最大误读为严格不等关系，与该页a≤z条件一致。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 121,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：例5.1.9空指标对象族与终对象；例5.1.10幂X^I、Set(I,X)；叉形(5.4)及sf=tf；定义5.1.11等化子、任意叉形唯一bar f和(5.5)，保留跨页片段；三张裁片全部箭头标签。",
+      "enSha256": "63c106be6a6cd88e05bdbc9107ab324584531ea44e42a853cd202bf9e315fd92",
+      "zhSha256": "6d4381ae8497314a2bf7a3689cebff4ab85c7e4014d1600ec591b099a1299d89",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 122,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：等化子定义收尾及注5.1.2引用；例5.1.12 Set中解集与包含映射、任意方程族化为乘积的平行映射、两条当且仅当式；例5.1.13 Top子空间等化子与连续性条件；两张裁片的全部映射标签。",
+      "enSha256": "a0d1dc9d12ed538ed6c5ebe83dc22ca7d8d439f3b4499c5d3e9b67af3b63997f",
+      "zhSha256": "00888d0554191d71f2c90ffe7b4c184d10f477693b8695078202b2ef8cb76b92",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 123,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：例5.1.14 Grp核、平凡同态、包含映射及等化子；例5.1.15 Vect中ker(t−s)；定义5.1.16拉回的形状(5.6)、方形(5.7)、任意输入方形(5.8)及跨页条件；四张裁片全部箭头/标签。",
+      "enSha256": "b56354380094d2686f321e0cc656fb2d6e0fd34e1a78295d46a7cc1d17ac1acf",
+      "zhSha256": "fdf1f2ba66f66b46d4d6123ca3bfc4c6d5a7cbc5ae46e9d84a67f716bdb5d783",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 124,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：定义5.1.16唯一bar f、(5.9)及p1bar f=f1/p2bar f=f2；拉回方形、纤维积与终对象Z时的积；例5.1.17 Set拉回集合与投影、(a)逆像集合及f′/i/j、(5.10)；两张裁片全部箭头标签。",
+      "enSha256": "5f2b3a54f178c75c88cf6093586c0f8337fe7f1651debbe0d4e952db3d916ad7",
+      "zhSha256": "dd42d0f95b177e120d8725002fc194051fe44473979ac0185af63d892391613e",
+      "unresolved": [],
+      "notes": [
+        "独立二审将连续左括号“（（5.9）”改为“（图（5.9）”，使原括号内的交换条件表述自然。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 125,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：逆像方形的拉回证明全文，任意g/h输入、唯一性、k的存在、f(g(a))=j(h(a))∈Y′、i∘k=g与f′∘k=h；例5.1.17(b)子集交拉回及(a)的特例；三张裁片全部包含箭头和标签。",
+      "enSha256": "c13620ad029c94ea831a315cb74451f0072812eb040b4afb5916818ea92c9315",
+      "zhSha256": "b0d672f73c44329bc3a035909c23475821b5d392e06f6965fe212109dc70d0f3",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 126,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：沿f拉回Y′的命名；一般极限定义前的积/等化子/拉回数据(5.11)–(5.13)、广义元素观点；形状范畴T/E/P及(5.14)、恒等态射省略说明、单/双对象范畴例；三张裁片标签/箭头及原生TeX形状。",
+      "enSha256": "1309f37b6cc59845cfbf053e86fa2c0665761d6df34bf811d441948d87040f95",
+      "zhSha256": "331479338d788e2ec28bb895d00b08ac0eb711cba34c2b7d1c0e4b76fc73abb4",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 127,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：图5.1极限示意及图注，fI/fJ/pI/pJ/唯一bar f；字体约定；定义5.1.18形状与图式；定义5.1.19(a)/(b)每个u:I→J的锥交换条件、任意A的唯一映射、(5.15)及投影；两张裁片全部标签。",
+      "enSha256": "8ddb344dd2edcb2306f5ea50f2ffc3ec192ef5b745ab29d0739879ece9d7dbfb",
+      "zhSha256": "6013a4e2fc5e087608e53cf19f994783c5130784b4593f626abaa5706a35f6e2",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 128,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：注5.1.20(a)锥与映射双射、(b)典范同构意义下唯一性、(c)顶点/整体锥和小极限；例5.1.21(a)离散形状积和空形状终对象、(b)平行对的锥与s∘f=t∘f=g；裁片全部箭头标签及页末f:片段。",
+      "enSha256": "7dfdd3716afece88378c25a48d29e6bfa1ad9c25b090645926263b25ff35dadc",
+      "zhSha256": "1b0ebace04460bdd8ba2f47bb7c6c912d68e51530c2fe0000ce262ac6400c9dc",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 129,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文中英文与原图比较：例5.1.21(b)跨页A→X叉形及等化子、(c)拉回、(d)I=(N,≤)^op的逆链和交集；锥范畴的终对象及对应措辞；例5.1.22存在性思想实验开头保留延至130的片段；两张裁片标签及原生逆链的箭头方向。",
+      "enSha256": "7ac4b2178f6c531210603ed088fa699cb015267cfb575a8683bedc3666032b71",
+      "zhSha256": "20d4f8dcc32bd26fd3654efa764acea9bc6e74dae0fb73173e02739c9af68cce",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pdfPage": 139,
+  "printedPage": "131",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "English retains the original proof. Chinese visibly applies both official 2024 corrections: trivial group action on V* in V tensor V* and f(xg)=g^{-1}f(x).",
+    "Original Remark 5.23.3 prints 1^m; Chinese visibly corrects it to 1^N, consistent with N=dim V and simultaneous shifts of all coordinates."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0139.png",
+  "sourceHashes": {
+    "en": "0768b36a8eb6bb65eb9d599d73b81f3207699a2f3cd930dfc016e0d62dcd71e5",
+    "zh": "f80b6612f03ffbe93c9bb9775466c22beba848e32fa7242ebf0406ea86801fd1"
+  },
+  "enSha256": "0768b36a8eb6bb65eb9d599d73b81f3207699a2f3cd930dfc016e0d62dcd71e5",
+  "zhSha256": "f80b6612f03ffbe93c9bb9775466c22beba848e32fa7242ebf0406ea86801fd1"
+}

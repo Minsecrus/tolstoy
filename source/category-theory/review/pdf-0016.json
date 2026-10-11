@@ -1,0 +1,42 @@
+{
+  "pdfPage": 16,
+  "printedPage": "7",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Opening fragment continues Example 0.9 from PDF 15; equation (0.3) and the fundamental-group square are preserved as inspected PDF crops.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0016-open-cover-universal.png",
+      "widthPt": 222,
+      "clipPt": [
+        231,
+        150,
+        453,
+        254
+      ],
+      "sha256": "d9c388a7966fe8c9e2b951daabf2ac53612835f8528de89b31630458769bdc2a"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0016-fundamental-groups.png",
+      "widthPt": 108,
+      "clipPt": [
+        239,
+        304,
+        347,
+        375
+      ],
+      "sha256": "144f04d9b836b6816990ffd77f10d1a81b7678d52e453dcf6c73ed2d4e957e5a"
+    }
+  ],
+  "markdownSha256": {
+    "en": "71afca7855f3a0f6775ecfed9e6ec99bfaf9cde0f3a6614ab6589f63eb03164c",
+    "zh": "ec09fab6a6f0d9aadf46fb66369992e371c9028a8a4fad1896dfb4f8d775161a"
+  }
+}

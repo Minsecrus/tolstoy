@@ -1,0 +1,19 @@
+{
+  "pdfPage": 4,
+  "printedPage": "iii",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full arXiv preface visually checked against the supplied PDF and official arxivpreface.tex; the December 2016 author date is retained.",
+    "No mathematical formulas or content diagrams on this page."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "c4aeb9781231858a6adace7d5c84f1625a3af28d216dc65354a7d5dff233230a",
+    "zh": "7a307f0ca15043fd43515a45cf4bb2630af3014ea7c7b08b7835fb6bfece4c13"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "pdfPage": 167,
+  "printedPage": "158",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0167-adjunction.png",
+      "widthPt": 50,
+      "clipPt": [
+        209,
+        162,
+        259,
+        194
+      ],
+      "sha256": "30d180b5c6d563981fa4a6015fb1514cf486f31c1f8b2435232d56f2fed27848"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0167-limit-adjunction.png",
+      "widthPt": 65,
+      "clipPt": [
+        169,
+        613,
+        234,
+        650
+      ],
+      "sha256": "799115a7f7165d1e7f26cdf18ab960eb725f7120a0b430e11328fa3a03b5cd94"
+    }
+  ],
+  "enSha256": "db4f3ba0c894505a5905b21c180ce4e0cfb638984398a93cbd4ae9afd3dfa98b",
+  "zhSha256": "0adb096a8d7270c2c2bcdd10a920ced527ff5448396475622adb43b57a665bc6"
+}

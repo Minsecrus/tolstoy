@@ -1,0 +1,26 @@
+{
+  "pdfPage": 97,
+  "printedPage": "88",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0097-natural-transformation.png",
+      "widthPt": 68.5,
+      "clipPt": [
+        245.5,
+        193,
+        314,
+        235
+      ],
+      "sha256": "81abbef5594dcb595cf12ce5bee7cd4e25092d687d83b2cd5134a06da6214884"
+    }
+  ],
+  "englishSha256": "300a63e0b043678beeea19cae553796144068abf3ca49fc692ccc949477d652f",
+  "chineseSha256": "2227c3eb5db47371b7613e75c70e93b4109fc6a2eb194d87181bd95642fd11ba"
+}

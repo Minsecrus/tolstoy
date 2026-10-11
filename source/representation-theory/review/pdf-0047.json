@@ -1,0 +1,20 @@
+{
+  "pdfPage": 47,
+  "printedPage": "39",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Commutant K(g) is explicitly the span of brackets; Chinese term consistently 导出代数 and notified the index translator. Checked Clebsch–Gordan character identities, both tensor summands of A, Lie-theorem hypotheses and trace argument.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "afd5791afd65817fb20ee9e162d8dddf10accb454bee38d75f874ffc20549de0",
+  "zhSha256": "a3b720af77b4664e53baaf039c39391e15cb2a4019a523139cce40f4e7fdabe5",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0047.png",
+  "officialErrataChecked": true
+}

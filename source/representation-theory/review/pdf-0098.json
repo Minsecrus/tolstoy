@@ -1,0 +1,18 @@
+{
+  "pdfPage": 98,
+  "printedPage": "90",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Hamilton 历史插曲逐句核对，桥上纪念牌全部引文和 i²=j²=k²=ijk=−1 完整保留；页面下半部留白不作为正文。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "d0c0a721ce0aaf71c4a2990a9537462303b3a25b5ebcb533d767c02664a9d267",
+  "zhSha256": "8e127d5775bb6255d2aba82c945f631eb9c1d0835f7ecc730fc8c543bfadaf35"
+}

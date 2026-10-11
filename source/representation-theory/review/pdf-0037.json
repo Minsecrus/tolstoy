@@ -1,0 +1,19 @@
+{
+  "pdfPage": 37,
+  "printedPage": "29",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full historical interlude retained, including all quotations and exact references [22, pp.186,188–189] and [56,p.371]."
+  ],
+  "diagrams": [],
+  "enSha256": "8c73538ffe5d5aacf224d3694943b2901c43c01cbe481317dee275ee152e34c6",
+  "zhSha256": "029c23580ec5ee329de563ef429ee73dc5871dc03b7d223959ee52b3962db7ce",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0037.png",
+  "officialErrataChecked": true
+}

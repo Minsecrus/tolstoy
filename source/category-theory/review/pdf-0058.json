@@ -1,0 +1,44 @@
+{
+  "pdfPage": 58,
+  "printedPage": "49",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Diagrams rendered directly from the supplied PDF at 300 dpi.",
+    "Natural Chinese phrasing review completed; no added teaching explanations. English transcription, mathematical expressions, and diagram crops unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0058-composed-adjunctions.png",
+      "widthPt": 103,
+      "clipPt": [
+        241,
+        409,
+        344,
+        442
+      ],
+      "sha256": "a514f26c066dab53a02aec2865a064cb4bd5c5b4599eb87c204e3a4148cb7040"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0058-composite-adjunction.png",
+      "widthPt": 62,
+      "clipPt": [
+        262,
+        475,
+        324,
+        508
+      ],
+      "sha256": "7180f9e001d7c768a4c4745728f0f852e46d699b7000514993e871f5e57a2cdc"
+    }
+  ],
+  "englishSha256": "935e647f1b96e2be15d69256447ec121b9e9d9eb52dea758fc3182e81c237513",
+  "chineseSha256": "b5b146f4e8fda602c5ad9f5855b64298970ea7dcca87bfbaf85e77759df3cc89",
+  "sourceSha256": {
+    "en": "935e647f1b96e2be15d69256447ec121b9e9d9eb52dea758fc3182e81c237513",
+    "zh": "b5b146f4e8fda602c5ad9f5855b64298970ea7dcca87bfbaf85e77759df3cc89"
+  }
+}

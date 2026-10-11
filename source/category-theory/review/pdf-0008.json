@@ -1,0 +1,19 @@
+{
+  "pdfPage": 8,
+  "printedPage": "vii",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full text visually checked against the supplied PDF and official preface.tex. The final sentence continues on PDF page 9; the page fragment is retained.",
+    "No mathematical formulas or content diagrams on this page."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "0154d3de0b2ae853c8fbab1eb85a0643551eef15ca05daf0ac151261f89577ae",
+    "zh": "e80265eb261d74fac820f155f1704b24a50211febb69a4a8f72d17135046c5e9"
+  }
+}

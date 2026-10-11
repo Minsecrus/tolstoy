@@ -1,0 +1,279 @@
+{
+  "status": "complete",
+  "reviewer": "representation_149_168",
+  "firstPdfPage": 189,
+  "lastPdfPage": 208,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 189,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.3函子态射定义的全部自然性交换等式、逆态射与Hom记号；7.3.2有限/无限维双对偶、GL(V)逆对偶函子、遗忘函子End=A、恒等函子中心等四例逐段完整核对。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "5f89121984d735c9c8d386949e5c5c58260574c03c6645b0db48dfde32b72d53",
+      "zhSha256": "44508e422bd2e8bffb714cc708a0b4861a9f43dfc6a701ad1805f422d671545a"
+    },
+    {
+      "pdfPage": 190,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.4全部等价动机、严格范畴同构定义、C1一个对象与C2两个对象四态射及两复合恒等式、函子同构类自然双射和对象数区分，英文与中文全部内容对源核对。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "d8bdf39a912a9882c30818c3d02ec3d18da86f935b0936fbe4f5041d65fae61b",
+      "zhSha256": "ca10f333b9427ecc13ab31a39cc169752fa57de1ac894c7756f82f9574f74a74"
+    },
+    {
+      "pdfPage": 191,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.4.1等价及拟逆两复合同构条件、有限集与整数范畴Hom(m,n)公式和全文议论；7.5协变/反变可表函子定义、表示对象同构xi及Yoneda引理跨192句首完整核对。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "c82165525813e131a07057089d6804e27beeeb4f60536cba68b25eb668848c61",
+      "zhSha256": "9562e3357ba303053272d78d7fb84293a8a8da19086916ba37f72c692cc79c1e"
+    },
+    {
+      "pdfPage": 192,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承191的Yoneda引理态射方向、a_phi与逆元公式及证明完整；丰盈可表注和自由秩1遗忘函子例；7.6.1伴随Hom_C/D官方勘误、C^op×D变元类型可见修订及末句与193连续性。",
+      "unresolved": [],
+      "notes": [
+        "原书伴随定义Hom下标交换错误，中文按官方勘误修正并有可见译校注；原书C×D域首变量实际逆变，中文补C^op并另有简短可见译校注，英文保留原书。"
+      ],
+      "enSha256": "5c7b6916f2830c1b497604edb56382cfdfac0eefb6688f8d475f998fb72b3d5d",
+      "zhSha256": "d043755e2bb2c9549b01c2b4edd5269e90209636e402979ef30b3eecb55127b8"
+    },
+    {
+      "pdfPage": 193,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承192伴随唯一性的两个表示对象句完整接续；7.6.2类比说明完整；表1十四行逐行对原扫描表核对，含非退化/非对称条件、反范畴、Yoneda、无穷维不可表及伴随唯一性。",
+      "unresolved": [],
+      "notes": [
+        "原表是浮动表，稿件移到同页7.6.2后；表14行同序完整，保持192末句与193首句接续。"
+      ],
+      "enSha256": "0d0d853784c4b0b8204a1b4b7fe38b89cef17783e4639296d208cc7c53c645be",
+      "zhSha256": "93792c3d917987adab4e90117a7643fb97aa758913d52ac01e8ccfdb979fed70"
+    },
+    {
+      "pdfPage": 194,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.6.3全部五例中的张量对偶、限制/诱导Frobenius、Lie泛包络、GL1群代数、张量/对称代数左伴随公式与条件；7.7Freyd–Mitchell定义、满子范畴有限直和及核余核像封闭条件。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "a8bdfc208c88ae924347c4d119cdaa90ff2b6076a069e60ba31250969a832bf7",
+      "zhSha256": "6321c5b225127057586555bb38e8fa3755e17d44188e6ff691fa26e84e8108fb"
+    },
+    {
+      "pdfPage": 195,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.7.2两模范畴例、7.7.3有限生成交换环与Hilbert提示、Morita等价注全部内容、k线性双变量复合条件；7.8.1指标Z与微分平方零定义；de Rham脚注全文及跨196上同调定义。",
+      "unresolved": [],
+      "notes": [
+        "已实际对照原扫描底部脚注，de Rham复形/微分m形式/欧氏空间或流形/外微分/术语缘由全部保留，并检查195→196定义片段接续。"
+      ],
+      "enSha256": "cec3654c88f371e2faa8e94500ccce3621b16dc77446d88e531eb7de529b1517",
+      "zhSha256": "971a0ef3d6ec605faf515ed0b08979a3c019ae6de18601a651bc12ead567a12d"
+    },
+    {
+      "pdfPage": 196,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承195上同调Ker(d_i)/Im(d_{i-1})、正合定义，复形态射d_i f_i=f_(i+1)d_i、上闭链上边缘上同调类全文、有界条件与n+1项、短正合三条件及分裂例完整对照。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "d46494d3bba52555034e74ff86879a438d00cb11420b7cd379c25422d587ab72",
+      "zhSha256": "4a3ef0aaeb42307bb31230af03bf4d966ffa75d3e6f7217e143faa3db6eb54dc"
+    },
+    {
+      "pdfPage": 197,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.8.4向量空间正合列分解与阿贝尔群提问；7.8.5提升x/x′/x″/y′、连接同态定义良定性、长正合7.8.1全部指标和映射；7.8.7张量直和j+m=i及微分(-1)^j符号与跨198四问。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "d4e02b397e26ce622b890b5de3589bbee99b5238bfa102b713e6b09b328afde0",
+      "zhSha256": "a075462b5accce68b16362e10130d216235e4ae28a79204b1dbb87f38d3ebd4f"
+    },
+    {
+      "pdfPage": 198,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承197张量复形题四项与A=k域假设、分解提示和诱导上同调恒等条件、Kunneth公式全部指标；7.9加性/k线性定义及例、左右正合分别首尾零及正合等价定义。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "fbad2b5b971a7af59b2982320c856a47edbb3edc1b624d28fc20032aa8db2c54",
+      "zhSha256": "b039c42d5e704146f3e38665b8faa558ac09c59013edc65fafa388f043acdc58"
+    },
+    {
+      "pdfPage": 199,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.9.4半单短正合分裂条件、有限群特征条件；Ind/Res正合、Hom与张量分别左右正合的Z/2Z反例、7.9.7伴随正合方向、7.9.8源点反射函子两Hom自然同构与左右正合。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "006e7419257dbd4d9ccdc0ff3f91be5e9e8df7c7b3fd839241f99f1733d66fdd",
+      "zhSha256": "bf12bf6dc2c07d5946fb6327b787296a25f238f9f3d7a2694b7d83581e7392b0"
+    },
+    {
+      "pdfPage": 200,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "7.10历史插曲标题、Mac Lane生卒、教会职业引文及[33]349–350，抽象代数/逻辑经历与[36]152/[33]39，哥廷根Weyl/Noether/27政党/Godel及承201论文内容。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "0e2bac117125cc57bea6c539b8e503f14307af4f80f9b9b84b866f9d1f677a8b",
+      "zhSha256": "abb74cb8dfaab3b0f32f40865328e42b6b93885c0fed5f65641699306748b3c5"
+    },
+    {
+      "pdfPage": 201,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承200论文提炼Principia证明模式、1933Hilbert学派破坏/Genugend/婚礼及全[33]六页引用；1930年代哈佛逻辑与1941现代代数教科书/三页引用；密歇根六讲与Eilenberg姓名生卒、承202相似性。",
+      "unresolved": [],
+      "notes": [
+        "英文保留原书Eilenberg 1913–1988错年；中文以本书参考文献[6]纪念文题名1913–1998为据修为1998并加可见译校注，复核引用源PDF225已实际查看。"
+      ],
+      "enSha256": "a497dfeddd805d40b337080a3783c293f67f5ad1838b798df61bbe1c7c179276",
+      "zhSha256": "8e8d1db9de00d47da854f4f887d079b2b03f9f679fe5c1928122baef3d555064"
+    },
+    {
+      "pdfPage": 202,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承201群扩张与Steenrod螺线管同调、整夜合作15篇及[33]101–104；波兰父亲/Veblen/Lefschetz移民经历、性格引文[6]1351–1352/[7]360；Pontine比喻、1956Cartan合作/Grothendieck梁龙与[6]1348及数学价值引文。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "c9223c89fab73427ad575a2be7a0a6a78fcf7dc3a6a7bcf547e922c4e67928d2",
+      "zhSha256": "411d6903d4223bf49eeeea99a41c35409f733b07786fe9cd7dd519c08ca0b462"
+    },
+    {
+      "pdfPage": 203,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承202文体家与[6]四页；三筷子故事与[7]361；1942论文标题/Weil评论[4]743；战时工作/泛系数/范畴函子与抽象废话两引文及[33]125–126；1945论文跨204句全接续。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "61c8655297e658d13fcd3c87c7181f3936a093c210ad22333bc9b289b3b97abe",
+      "zhSha256": "c4d96c466cc24eb5278132f2a32e5969feb8e4008cb769031e2d48841f0b0f1c"
+    },
+    {
+      "pdfPage": 204,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承2031945首次范畴定义、拒稿/Thats the point/[7]362、审稿交涉[37]5983和元数学宣言[12]236全文；Freyd[6]1351认可与空军资助到1960年代中止[33]239；辅助概念/唯一论文及跨205两群定义引文。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "2ab297fba5087283073ddf71dc6d42ee2b1bcb8fae01a9b86f9b86003c626a33",
+      "zhSha256": "37d95965429e3e20bb0a3283900a32dc726dac92b828720bd8d0cda8c16263cb"
+    },
+    {
+      "pdfPage": 205,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承204逐对给定群引文[12]247；语言而非研究领域[35]334–335、应用与内在研究Freyd、Grothendieck/Kan/Lawvere及Heller引用；Bourbaki统一计划/1950加入15年/1954会议和跨206Weil态度，所有姓名年份引用完整。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "53657755f9f9efa9dd3deb656b37db4c548cd96be18c4eca002b289492087b8f",
+      "zhSha256": "28616c34ec5ff9f99321dda31e96ce4f294f469763ed56b798560d52aa19e965"
+    },
+    {
+      "pdfPage": 206,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承205谨慎Weil[39]5、战前结构与统一[5]236、法语/多卷怪物/学究式结构[39]6全文；1954几何观点及向量n元组条件与[40]245；帆船哲学经历和跨207数学初等内容句接续。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "c1e1c9f58f682f59ea8bf01047ac637354b75a144c7d54a82daa338790d8db7e",
+      "zhSha256": "b8813e0902f98fb5cd0b2e6661a0d209c75d9216a54ee518bda4ba1ea8f313f8"
+    },
+    {
+      "pdfPage": 207,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承206初等关注片段、1986书名、集合论/形式主义/直觉主义/经验主义/柏拉图主义五立场引文、形式功能主义与正确/为真区别和[33]六页引用；Eilenberg形而上学/艺术收藏/Heller审美/雕塑内外关系引文跨208。",
+      "unresolved": [],
+      "notes": [
+        "已复核正确(correct)与为真(true)的区分，中文调整为正确却并不为真，未添加数学哲学讲解；206→207初等问题片段调整为自然接续。"
+      ],
+      "enSha256": "f8cff10eabb3895f37921139d4564de7e43022b002aacab9a25fcbb2050f4037",
+      "zhSha256": "99fa8aca3689319ba15107f408128a9b5a8cf45247a4df29cb97a896203aea97"
+    },
+    {
+      "pdfPage": 208,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "承207雕塑由表面到内部及数学对应问题Freyd[6]1350引文接续；东西合作/1940年代移民[33]347、代数拓扑合作与20世纪下半叶学派交汇和学科壁垒全文；余下原页为空白未额外补文。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "1c61bbab53422e0284a960b8944b55fb7764b5a15d0ea697a4aba48f93805129",
+      "zhSha256": "621979a1eac548deaca2b75ba272c0131a3126b1fc89bb001abc5c84c8d5321b"
+    }
+  ]
+}

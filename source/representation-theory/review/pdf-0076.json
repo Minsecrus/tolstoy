@@ -1,0 +1,18 @@
+{
+  "pdfPage": 76,
+  "printedPage": "68",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Original Remark 4.5.5 says elements conjugate to G; English preserves capital G, Chinese corrects to g with visible translator note."
+  ],
+  "diagrams": [],
+  "enSha256": "7bba721431f88c555ffa7297de257ad98bd0bbc3aad79b16ea55be13b9831f4c",
+  "zhSha256": "f2035a6df289b737d0d7ba2a52c915d9c1b8dfc18aecfa2dc539b9aae7ea7355",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0076.png"
+}

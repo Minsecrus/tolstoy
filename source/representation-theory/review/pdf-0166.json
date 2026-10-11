@@ -1,0 +1,62 @@
+{
+  "pdfPage": 166,
+  "printedPage": "158",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0166-sum-splitting.png",
+      "widthPt": 294.2562259983372,
+      "clipPt": [
+        38.20864991883974,
+        56.08566436767578,
+        332.4648759171769,
+        193.07365875244142
+      ],
+      "sha256": "dd4e83443135adcce4a865555a0f8a9b988e4d9da55397ce6abcedb201fe431b"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0166-arm1.png",
+      "widthPt": 102.22054393871409,
+      "clipPt": [
+        134.4745990650074,
+        213.9196578979492,
+        236.69514300372148,
+        280.4283218383789
+      ],
+      "sha256": "76ad179683d22845bea44783ac8c944bb6306bb4119b5a6024f24ca1c0ce3d51"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0166-arm2.png",
+      "widthPt": 93.28865174989443,
+      "clipPt": [
+        62.02702908902555,
+        314.17898712158205,
+        155.31568083891997,
+        382.17665100097656
+      ],
+      "sha256": "2f166c03968034dea64b2f0f908c585c21d28c7c823d266cab183c5bf7a6b939"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0166-arm3.png",
+      "widthPt": 93.28865174989443,
+      "clipPt": [
+        209.89946643726245,
+        314.17898712158205,
+        303.1881181871569,
+        382.67298431396483
+      ],
+      "sha256": "54a6a18519a32116328aba75b2cf8cb7efda1b76c8884c32f585cd522f58a5c0"
+    }
+  ],
+  "enSha256": "88cd8db92805c26518e569e7e6b12586d0454799bf236e21a7cc4a3c242639d9",
+  "zhSha256": "82910c4499c10c22dd33145752c52ce4964fb256331b60aeb1379904f080125f",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0166.png"
+}

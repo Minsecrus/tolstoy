@@ -1,0 +1,22 @@
+{
+  "pdfPage": 130,
+  "printedPage": "122",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full beginning of the Hermann Weyl historical interlude retained; references 53 pp.357,358 checked against the actual page."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0130.png",
+  "sourceHashes": {
+    "en": "c83af6ff6f5551bed5b77839f6dd5f0319179a52e4ddd27a946aad7653b068c2",
+    "zh": "da893711643cd47c9d31baafa75e5ca071f60783ec4e3c5698c8338588c391e7"
+  },
+  "enSha256": "c83af6ff6f5551bed5b77839f6dd5f0319179a52e4ddd27a946aad7653b068c2",
+  "zhSha256": "da893711643cd47c9d31baafa75e5ca071f60783ec4e3c5698c8338588c391e7"
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 58,
+  "printedPage": "50",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Theorem 3.7.1 proof: English preserves W_n prime in second quotient list; Chinese changes endpoint to W_m prime with visible note, following official corrections. Footnote 2 is retained."
+  ],
+  "diagrams": [],
+  "enSha256": "0eb9470c8088c73ff991f283966c9febd34e71ef16212fc402ce0f73c1510341",
+  "zhSha256": "ebaaedea6cca1d3dbe577561e38199677225f48ca8fe795b5bb725646e925c10",
+  "reviewer": "representation_049_068",
+  "reviewMethod": "Direct visual reading of every assigned original PDF page image, comparison with English transcription and Chinese translation; formula indices, operators, matrices, hypotheses, proofs, exercises and original footnotes checked.",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0058.png"
+}

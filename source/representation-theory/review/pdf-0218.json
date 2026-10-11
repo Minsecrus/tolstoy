@@ -1,0 +1,17 @@
+{
+  "pdfPage": 218,
+  "printedPage": "210",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页与作者2024-06-03勘误第2页。英文保留原书e0；中文将归纳步骤中被提升元素修正为e{k-1}，添加可见译校注。定理9.2.1(ii)扫描文字层遗漏，已从图中完整恢复。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "950992798731de2df569423c9443e243737ad584e83947906b3bf8fa52aaafa7",
+  "zhSha256": "9502827a22ea4ff3623f92f5a7d4339c3f6e53d1ad6cb9097e552222e2d0536b"
+}

@@ -1,0 +1,26 @@
+{
+  "pdfPage": 132,
+  "printedPage": "123",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0132-monic-pullback.png",
+      "widthPt": 56,
+      "clipPt": [
+        264,
+        552,
+        320,
+        613
+      ],
+      "sha256": "d5ec6444d733a52a7244a29b77e06f723ca70005031f59cb9c249887926b118e"
+    }
+  ],
+  "englishSha256": "d5ea943ac4f66ee3f5ed5809fd15e2cfc3bab8de56f004d48ac34d43efb1223c",
+  "chineseSha256": "2fd3b9e9f1f101c627133595cd6813d311f1d145fc2c65cae554c539542ba312"
+}

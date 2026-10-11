@@ -1,0 +1,23 @@
+{
+  "pdfPage": 185,
+  "printedPage": "177",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Chapter 7 and Section 7.1 introduction, 1942–1945 history, abstract nonsense reference to 7.10 and McL citation; Definition 7.1.1(i) objects class."
+  ],
+  "actualReviewScope": "Chapter 7 and Section 7.1 introduction, 1942–1945 history, abstract nonsense reference to 7.10 and McL citation; Definition 7.1.1(i) objects class.",
+  "diagrams": [],
+  "enSha256": "c45263f1fdb8d667b8dae1d52b4e4a56448d33716caa84a3d24ff8457f8913ed",
+  "zhSha256": "01716dcfd2a2e25fde03e89fcf528981864a1cffbe6b2623bb5b199a67ce291f",
+  "sourceSha256": {
+    "en": "c45263f1fdb8d667b8dae1d52b4e4a56448d33716caa84a3d24ff8457f8913ed",
+    "zh": "01716dcfd2a2e25fde03e89fcf528981864a1cffbe6b2623bb5b199a67ce291f"
+  }
+}

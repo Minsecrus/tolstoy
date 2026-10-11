@@ -1,0 +1,26 @@
+{
+  "pdfPage": 135,
+  "printedPage": "126",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0135-cocone.png",
+      "widthPt": 65,
+      "clipPt": [
+        248,
+        478,
+        313,
+        531
+      ],
+      "sha256": "ab6a5671e525e58313adcfda08dd8780199671b2abbe9390a005b2efb7c399f0"
+    }
+  ],
+  "englishSha256": "1719e5ce2376f95998c43833efd543770bcb89f24b0c5ae675edce1ddad08669",
+  "chineseSha256": "3d40b05e390834037ff1d00090f5162aaa0a1e8a8a768286fec829d64150f5fe"
+}

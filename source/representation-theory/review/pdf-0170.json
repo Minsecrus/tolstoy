@@ -1,0 +1,23 @@
+{
+  "pdfPage": 170,
+  "printedPage": "162",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Continuation of Lemma 6.4.6: bilinear cross term and underbraced inequalities; Definitions 6.4.7–8; Example 6.4.9(1), lattice embedding, basis, inner products and root formula; checked every subscript and sign."
+  ],
+  "actualReviewScope": "Continuation of Lemma 6.4.6: bilinear cross term and underbraced inequalities; Definitions 6.4.7–8; Example 6.4.9(1), lattice embedding, basis, inner products and root formula; checked every subscript and sign.",
+  "diagrams": [],
+  "enSha256": "e04e6e839e6f719993e1f75a722bd9043e07a541f0f1d5935e7481f25a5c55d5",
+  "zhSha256": "5c7ba81104734bd04128afd7405efd893d4fef681f825eed97937ca23c73e0d5",
+  "sourceSha256": {
+    "en": "e04e6e839e6f719993e1f75a722bd9043e07a541f0f1d5935e7481f25a5c55d5",
+    "zh": "5c7ba81104734bd04128afd7405efd893d4fef681f825eed97937ca23c73e0d5"
+  }
+}

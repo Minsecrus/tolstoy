@@ -4,15 +4,23 @@ import { additionalLibrarySidebar } from './library.additional.mjs'
 import { psychologyLibrarySidebar } from './library.psychology.mjs'
 import { historyProblemLibrarySidebar } from './library.history-problem.mjs'
 import { algebraLibrarySidebar } from './library.algebra.mjs'
+import { categoryTheoryLibrarySidebar } from './library.category-theory.mjs'
+import { representationTheoryLibrarySidebar } from './library.representation-theory.mjs'
 import { curateLibrarySidebar } from './library.sidebar.manual.mjs'
 import { installMathRenderer } from '../../scripts/algebra-math-renderer.mjs'
+import { installMathematicalBookTypography } from '../../scripts/mathematical-book-typography.mjs'
+import { installCategoryTheoryDiagramRenderer } from '../../scripts/category-theory-diagram-renderer.mjs'
+import { installRepresentationTheoryDiagramRenderer } from '../../scripts/representation-theory-diagram-renderer.mjs'
+import { installRepresentationTheoryFootnotes } from '../../scripts/representation-theory-footnotes.mjs'
 
 const curatedLibrarySidebar = curateLibrarySidebar([
   ...librarySidebar,
   ...additionalLibrarySidebar,
   ...psychologyLibrarySidebar,
   ...historyProblemLibrarySidebar,
-  ...algebraLibrarySidebar
+  ...algebraLibrarySidebar,
+  ...categoryTheoryLibrarySidebar,
+  ...representationTheoryLibrarySidebar
 ])
 
 const librarySidebarByPath = {
@@ -75,6 +83,10 @@ export default defineConfig({
     math: true,
     config(md) {
       installMathRenderer(md, { base: process.env.VITEPRESS_BASE || '/' })
+      installMathematicalBookTypography(md)
+      installCategoryTheoryDiagramRenderer(md, { base: process.env.VITEPRESS_BASE || '/' })
+      installRepresentationTheoryDiagramRenderer(md, { base: process.env.VITEPRESS_BASE || '/' })
+      installRepresentationTheoryFootnotes(md)
     },
     typographer: true,
     headers: {

@@ -1,0 +1,33 @@
+{
+  "pdfPage": 12,
+  "printedPage": "3",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and compared the proof, notation, and final mapping display with intro.tex.",
+    "Cropped the basis universal-property diagram from the supplied PDF at 300 dpi and visually inspected the crop.",
+    "The predicate following the final mapping display is an intentional page fragment on PDF page 13.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0012-basis-universal.png",
+      "widthPt": 98.5,
+      "clipPt": [
+        244,
+        480,
+        342.5,
+        535.5
+      ],
+      "sha256": "7a45bb535e79549aea889ba463d52b4532a4dc4533d6cddff0439bd7d5c01b9f"
+    }
+  ],
+  "markdownSha256": {
+    "en": "708112d9f44b02f0fea4b3954a86233040e0487e2d953a61e21f64c84a4c6b99",
+    "zh": "e9cc04a08ff9485abc0155ea9e552921873c1457d3eeeab0c5fda8eb9260067e"
+  }
+}

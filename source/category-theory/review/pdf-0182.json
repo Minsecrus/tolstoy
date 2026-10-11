@@ -1,0 +1,20 @@
+{
+  "pdfPage": 182,
+  "printedPage": "173",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "Independent audit: naturalized the introductory sentence of Exercise A.4 without changing its mathematical scope, hypotheses or subparts."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "37814c6afc96c6be15917720b48cd74e400951458244084817b327dc06260d8e",
+    "zh": "b40e2ea639f3e271d9ba9bf444eaf305dcdade6328363bd50e484707f4aa4074"
+  },
+  "styleReviewed": true
+}

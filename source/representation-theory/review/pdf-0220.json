@@ -1,0 +1,18 @@
+{
+  "pdfPage": 220,
+  "printedPage": "212",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；投射维数、截短解消的核与所有条件完整保留。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "6c9d1475bf6db8568b0423c1c56f8afbc732f3d001b09819156f6a35d117b91f",
+  "zhSha256": "5fae0ffb867ccd71d5cc47289537a3f54173d2fc0b9f26ea49a926bacaf64dc7"
+}

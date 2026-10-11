@@ -1,0 +1,28 @@
+{
+  "pdfPage": 128,
+  "printedPage": "119",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0128-parallel-cone.png",
+      "widthPt": 86,
+      "clipPt": [
+        258,
+        559,
+        344,
+        619
+      ],
+      "sha256": "d4286e2306bd1b82913b7c94fefa66929b8793a20cdf8d95d76c377ce4bf6551"
+    }
+  ],
+  "sourceHashes": {
+    "en": "7dfdd3716afece88378c25a48d29e6bfa1ad9c25b090645926263b25ff35dadc",
+    "zh": "1b0ebace04460bdd8ba2f47bb7c6c912d68e51530c2fe0000ce262ac6400c9dc"
+  }
+}

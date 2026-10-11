@@ -1,0 +1,59 @@
+{
+  "pdfPage": 139,
+  "printedPage": "130",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0139-pushout-shape.png",
+      "widthPt": 98,
+      "clipPt": [
+        231,
+        247,
+        329,
+        303
+      ],
+      "sha256": "99b0dd7005710f6803aa3d16be002c353228b3ceed98a8973f7f5444b1c0cc2d"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0139-pushout-diagram.png",
+      "widthPt": 185,
+      "clipPt": [
+        254,
+        324,
+        439,
+        380
+      ],
+      "sha256": "8333e33cc33679450d50fa2e8c1787ec8fdfc8fe6ba8e08385d5a43655092f98"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0139-pushout-square.png",
+      "widthPt": 53,
+      "clipPt": [
+        254,
+        398,
+        307,
+        456
+      ],
+      "sha256": "8fbbef68fde76be417ddfc5e0ccb89bf3b6abc37d66e4a0fb042b33ebe14c35d"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0139-union-pushout.png",
+      "widthPt": 87,
+      "clipPt": [
+        237,
+        554,
+        324,
+        619
+      ],
+      "sha256": "b1292658850538873848b06ab7d8eb7faff140ff0250ffc5638b9029b29f7eea"
+    }
+  ],
+  "englishSha256": "6da77e2547aa260a3bf50c016f5631764daa240aad5d8f73be29de2713256957",
+  "chineseSha256": "9b16099b569b2901ce1f97789562670930a980fa146d460c77270b644e86e8b2"
+}

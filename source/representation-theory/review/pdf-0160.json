@@ -1,0 +1,51 @@
+{
+  "pdfPage": 160,
+  "printedPage": "152",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0160-injective-surjective.png",
+      "widthPt": 123.0616257126267,
+      "clipPt": [
+        122.56540947991448,
+        55.5893310546875,
+        245.62703519254117,
+        79.90966339111328
+      ],
+      "sha256": "f9671850d7e02d5859d145cebdc087f534e9bb3531b834fe72ca8c22c2a0e331"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0160-first-decomposition.png",
+      "widthPt": 290.78271236935177,
+      "clipPt": [
+        38.70486615155194,
+        129.5429946899414,
+        329.4875785209037,
+        183.1469924926758
+      ],
+      "sha256": "3d2e1e86e3058e87605c867aa87306cd54e88423388aea05ec44450555c8c2bc"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0160-second-decomposition.png",
+      "widthPt": 290.2864961366396,
+      "clipPt": [
+        38.70486615155194,
+        313.6826538085937,
+        328.9913622881915,
+        367.7829849243164
+      ],
+      "sha256": "138007958e732ac174fed241c5276f215b15cd6e2967c1d97e5f2a8263c0aa22"
+    }
+  ],
+  "enSha256": "a9c96867e010966515977e36749ec2b6237e02a8d094469e9813222ef289e192",
+  "zhSha256": "0163bbadeed6c82354c81efa789e39cfcf3e08cebbe702dc49b47af234c85fae",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0160.png"
+}

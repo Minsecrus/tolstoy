@@ -1,0 +1,62 @@
+{
+  "pdfPage": 165,
+  "printedPage": "157",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0165-pair-intersection.png",
+      "widthPt": 293.760009765625,
+      "clipPt": [
+        38.70486615155194,
+        62.53799743652344,
+        332.4648759171769,
+        205.97832489013672
+      ],
+      "sha256": "5bcf2f4da486ca1f37da0afad954cb90829f8ab7ff3c1c431882d84f7813ac73"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0165-pair12.png",
+      "widthPt": 102.22054393871409,
+      "clipPt": [
+        134.4745990650074,
+        239.23265686035157,
+        236.69514300372148,
+        306.2376541137695
+      ],
+      "sha256": "748da2c644a94912f61802c5607d53706ccc248291ae28055db7a6069723b811"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0165-pair13.png",
+      "widthPt": 93.28865174989443,
+      "clipPt": [
+        62.02702908902555,
+        353.88565216064455,
+        155.31568083891997,
+        423.8686492919922
+      ],
+      "sha256": "ed129129f13613fe79442f65981d0209e6e89a828ac31ac0f58d8a7cb0e32638"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0165-pair23.png",
+      "widthPt": 93.28865174989443,
+      "clipPt": [
+        209.89946643726245,
+        354.3819854736328,
+        303.1881181871569,
+        424.36498260498047
+      ],
+      "sha256": "e7ce3da58ca20d73107a7631ef4692a17c90f81a3d6769f1c42acf7db745e4b4"
+    }
+  ],
+  "enSha256": "1fb3ff737f362a4a9bbab2b6b72cb30804862593970bb55718c984f773dbe635",
+  "zhSha256": "595b5a0191df9df81d041076d92f075232794a4e8071089315f593acbdbe48a5",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0165.png"
+}

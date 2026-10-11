@@ -1,0 +1,18 @@
+{
+  "pdfPage": 93,
+  "printedPage": "85",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对形变张量、应力张量及圆盘 σ 的面积 ||v||；保留54参数至下一页的跨页句。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "d2c4551c9a0befb724e0bebf4a70855ead122426f40bfd5677cc73b7d25efe77",
+  "zhSha256": "6a33e1e3146fa6b470748f2ee55e58b07e1f8d793c0711b2d5dc47f868e50be4"
+}

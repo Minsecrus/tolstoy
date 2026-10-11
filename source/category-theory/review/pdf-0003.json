@@ -1,0 +1,19 @@
+{
+  "pdfPage": 3,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Copyright, publication, ISBN and licence statements visually checked against the supplied PDF and official titlepages.tex.",
+    "No mathematical formulas or content diagrams on this page."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "f0194c47705b0c85fa72a6a79ebad970834af47b0fd0619a8f5715361fb885a1",
+    "zh": "6a44bc7ca3e401d07e4753e9949ad4bb3060639fbbe82f31e4de6bb078195f5b"
+  }
+}

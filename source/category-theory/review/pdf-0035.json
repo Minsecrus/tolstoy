@@ -1,0 +1,32 @@
+{
+  "pdfPage": 35,
+  "printedPage": "26",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Begins with the continuation ample of For ex- on PDF 34; Exercise 1.2.25 continues on PDF 36.",
+    "Chinese sentences revisited for natural word order, clear references, and fluent phrasing under the clarified user preference; no added conceptual or proof explanations. English, mathematical expressions, diagrams, and the visible correction note on PDF 37 remain unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0035-functor-image.png",
+      "widthPt": 285,
+      "clipPt": [
+        139,
+        151,
+        424,
+        210
+      ],
+      "sha256": "d31fc2f3cadf3f9927483adb8b9f0e9755db62379e3317a7944ddd896c9c5576"
+    }
+  ],
+  "sourceSha256": {
+    "en": "4e022b9a95d8d52bba76c89eb16bf8d55869a3b2364e71e97e154f59841d2424",
+    "zh": "00d6b4bfc27fbbcde9a9e803e64cd9b27e5969a275a9cc8c8a2821504a0c0779"
+  },
+  "styleReviewed": true
+}

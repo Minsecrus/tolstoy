@@ -1,0 +1,37 @@
+{
+  "pdfPage": 133,
+  "printedPage": "124",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0133-equalizer-square.png",
+      "widthPt": 56,
+      "clipPt": [
+        252,
+        324,
+        308,
+        384
+      ],
+      "sha256": "4893d32ddfa5925555a05a6b58fd86f2cde6eee4247d6ce1e42014edb800ea77"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0133-pasting-pullbacks.png",
+      "widthPt": 76,
+      "clipPt": [
+        242,
+        438,
+        318,
+        490
+      ],
+      "sha256": "f86fee93b302ea992e4d1024d6825dec2658db05f810c99713b701fcc398442e"
+    }
+  ],
+  "englishSha256": "e1006541cfb4d726ab525e9fb215b22d7e4a26810133b41874373fa4b780037c",
+  "chineseSha256": "178b3f9a0d6f6d56982beb6c5b42cd2124b00ade7fe7ca60295314cb9258dace"
+}

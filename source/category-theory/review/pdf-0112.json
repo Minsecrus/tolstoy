@@ -1,0 +1,31 @@
+{
+  "pdfPage": 112,
+  "printedPage": "103",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0112-yoneda-embedding.png",
+      "widthPt": 115,
+      "clipPt": [
+        235,
+        130,
+        350,
+        205
+      ],
+      "sha256": "1518df743562f5284becff884cd99ccb6867052c9f172fe04263a93ffa6fe020"
+    }
+  ],
+  "sha256": {
+    "en": "e7118f25fbb680916d381ed76d9e18ed059d8110982d84696e96cab236e0f73d",
+    "zh": "c83b68e7998ddc3c21c56eeef330185d8b391dd393766239d4862019fd453c99"
+  }
+}

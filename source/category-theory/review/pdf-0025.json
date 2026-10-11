@@ -1,0 +1,23 @@
+{
+  "pdfPage": 25,
+  "printedPage": "16",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the rendered page and checked the prose and formulas against cfnt.tex and macros.tex.",
+    "Opening paragraph completes example (e) from PDF page 24.",
+    "Verified the left-facing arrows and composition order f \\circ g in the opposite-category construction.",
+    "Preserved Constructions 1.1.9 and 1.1.11, Remark 1.1.10, and Exercises 1.1.12–1.1.13. Product formulas use standard TeX.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "58022ff90aeec6adff48665f91449b7ab0347d5c0899abbe11a8d97232640282",
+    "zh": "bf2b4673a9bcb1428a4b4b85ce61f23bd12d201368d19ac89bbb066147c71a6a"
+  }
+}

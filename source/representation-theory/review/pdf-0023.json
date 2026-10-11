@@ -1,0 +1,18 @@
+{
+  "pdfPage": 23,
+  "printedPage": 15,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "单代数定义按官方勘误补 A≠0，原先统一非零假设已删，有可见译校注。",
+    "习题 2.4.1 为保持原文原有语境补非零环，有紧邻可见译校注。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_001_028",
+  "enSha256": "fd975ee03e98e7e7e5164cf3286c98c21de4510dd85934771f1a60c82fba86e9",
+  "zhSha256": "807ce11fe37f0edcf2e2fd591951e23397ba0818e97d5827431f4603a5495df6"
+}

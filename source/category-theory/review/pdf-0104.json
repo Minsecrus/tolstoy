@@ -1,0 +1,31 @@
+{
+  "pdfPage": 104,
+  "printedPage": "95",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments and equation numbers retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0104-yoneda-composite-functor.png",
+      "widthPt": 308,
+      "clipPt": [
+        139,
+        290,
+        447,
+        330
+      ],
+      "sha256": "6da8e5d96df642f158743f25d071b9a0da0d38004a5f859908e0155938d4c0c0"
+    }
+  ],
+  "sha256": {
+    "en": "d901c44c69ac4c9f1f590984ef822ef7766b28c3e4d67dfbc7aeb851d334c6af",
+    "zh": "3915d7e0638975e5b1de192948b7941ffab7793a100bc3c329f14d4e4a7fc040"
+  }
+}

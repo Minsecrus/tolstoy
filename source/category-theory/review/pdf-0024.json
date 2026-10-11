@@ -1,0 +1,23 @@
+{
+  "pdfPage": 24,
+  "printedPage": "15",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the rendered page and checked the prose and formulas against cfnt.tex and macros.tex.",
+    "Opening fragment ‘category.’ continues the final sentence on PDF page 23; preserved in both languages.",
+    "Preserved examples (d) and (e) and the printed reference to Example 3.2.11.",
+    "Restored the isomorphism symbol as standard TeX \\cong after visual verification; expanded category, number-set and subset macros.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "b03994b2ec2242ab937928c6f5a60c0415e955ccb15bfc723f3aaf3c60717604",
+    "zh": "a836e162b619b7e87fed25e0522449aad5325e8a17ecc25f740d41e0474f4c18"
+  }
+}

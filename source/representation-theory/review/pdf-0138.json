@@ -1,0 +1,22 @@
+{
+  "pdfPage": 138,
+  "printedPage": "130",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Highest-weight shifts, tensor/exterior powers, group actions and cross-page embedding proof visually checked."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0138.png",
+  "sourceHashes": {
+    "en": "37e1b1f3665c05bb0d47d18663d4c5b3fa9195c30bc1f07457f851dcbe88e457",
+    "zh": "210fe756a19668a9335ad1cc833dab5cfba12acca367fbce3a575af9ae77d41c"
+  },
+  "enSha256": "37e1b1f3665c05bb0d47d18663d4c5b3fa9195c30bc1f07457f851dcbe88e457",
+  "zhSha256": "210fe756a19668a9335ad1cc833dab5cfba12acca367fbce3a575af9ae77d41c"
+}

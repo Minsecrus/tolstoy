@@ -1,0 +1,20 @@
+{
+  "pdfPage": 186,
+  "printedPage": "177",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "All 113 entries of the three-column notation index retained in column reading order; blank accents, typefaces, subscripts and superscripts checked visually."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "4f46e0963b118d90616f405f9eb559320b2f91b1c33c9e5b44b197322982dfa7",
+    "zh": "59e4a91bcf7433e329c29e84a27f2bba4449679b05db5209492af8cc395c1e46"
+  },
+  "styleReviewed": true
+}

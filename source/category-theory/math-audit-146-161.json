@@ -1,0 +1,252 @@
+{
+  "status": "complete",
+  "reviewer": "category_180_192 independent second review",
+  "reviewedRange": [
+    146,
+    161
+  ],
+  "reviewMethod": "Personally viewed every original page image and compared all source-page English and Chinese content, mathematical formulas and hypotheses, proof steps, exercises, figure captions and diagram labels. Relevant saved crops were also viewed. Primary review flags were not used as substitutes for this comparison. Chinese wording was read under the clarified natural-expression preference; no extra explanations were introduced.",
+  "pages": [
+    {
+      "pdfPage": 146,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full continuation of the preservation discussion; Examples 5.3.2–5.3.4, including the Top-to-Set cone (5.23), discrete versus product topology, non-preserved initial objects and binary sums, and the complete group-product multiplication uniqueness argument with both coordinate formulas.",
+      "enSha256": "a4634b663d43e44b5a72c6d76cb2d055ccac8c4988c1b70e24c9e8ed8e65417e",
+      "zhSha256": "54719495490646b3f409f75d2deb37e5ff2a1f38e67b5015f21c86dbb1a12b24",
+      "unresolved": [],
+      "notes": [
+        "No missing prose, coordinate factor, topology hypothesis or altered mathematical claim found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 147,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full continuation of Example 5.3.4, inverse and identity formulas, existence of the group structure and product-cone verification; both summary bullets; Figure 5.3 and Definition 5.3.5 in full, including the unique cone, exact F(A)=B and F(p_I)=q_I requirements and the second limit-cone condition.",
+      "enSha256": "d21b71f1d9e5b0759b1bed9af73e776945cdf90e41d8d6ea662e4ab9ab593fd1",
+      "zhSha256": "65a54784f789089022ed27a8166c840d83b5ca31e9704b909151c98175df2f18",
+      "unresolved": [],
+      "notes": [
+        "Inspected the saved Figure 5.3 crop against the original: dashed cone A/p/D, solid cone B/q/F∘D, ambient categories and downward F arrow are intact. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 148,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Lemma 5.3.6 with all smallness and existence/creation hypotheses and proof reference; all of Remark 5.3.7 on equality versus isomorphism and strict creation; Exercises 5.3.8–5.3.9 in full, chosen product projections and naturality in A,X,Y.",
+      "enSha256": "9406438c110f84634747240c55361cb5086d9b73d158f7d81184b0b53c53c957",
+      "zhSha256": "60cdd1803f1a252006a003dc3256e6ad1bd8e136af5a23223cfa950f1aea27bd",
+      "unresolved": [],
+      "notes": [
+        "Natural-expression Chinese review found no added explanation or lost qualification. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 149,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Exercises 5.3.10–5.3.13 in full, all parts (a)–(c), arbitrary limits for algebra forgetful functors, projective and injective object definitions, epic preservation, the Set/B adjunction with F and G orientations, and requested Ab/Vect examples.",
+      "enSha256": "cf8798f8ebb5d3d31b854432beb8b1262dbe8c347897d47a293012c3c42bfedd",
+      "zhSha256": "52754424a844cf218a0def16549cd2b2e658437a0abf4b8cd7f6d619c4d65135",
+      "unresolved": [],
+      "notes": [
+        "Inspected the adjunction crop: F points from Set to B and G points back, with the adjunction marker preserved. Opposite-category injectivity condition is faithful."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 150,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full Chapter 6 opening, all three-formalism and coordinate-comparison paragraphs, all five highlight bullets, section 6.1 heading and its complete opening page fragment; preservation versus non-preservation and presheaf-category notation checked.",
+      "enSha256": "2fd989e3e91e141ce9d79950af325a3322d9a2e642135ff5f4d1b06231deab32",
+      "zhSha256": "08ede6d5ced89842419fee1a80f0eae8d60f2998447623842f43696472bb8d69",
+      "unresolved": [],
+      "notes": [
+        "All five opening bullets are retained; no change needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 151,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full continuation of section 6.1 introduction; constant diagram and diagonal functor definitions, two-object discrete-category case, cone/natural-transformation diagram, equation (6.1), Proposition 6.1.1 and complete proof, representing-object identification and equation (6.2).",
+      "enSha256": "96afac969ee2b80ff28d452d09f6d34c16312a9e0544ac05ec99efaa2e331656",
+      "zhSha256": "d46787619c3567590ec69ad7c26beae82c24026f57d11364f353e7e8dc164f15",
+      "unresolved": [],
+      "notes": [
+        "Inspected the cone-transformation crop: upper ΔA and lower D arrows both run from I to A with downward natural-transformation arrow. Equations and naturality variables match."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 152,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Figure 6.1 with all vertices, diagram labels, solid/dotted arrows and (a)/(b) regions; full continuation of the natural-in-A statement, both correspondence directions, projection domains, Corollary 6.1.2, introductory paragraph, and Lemma 6.1.3 through its exact page-ending fragment.",
+      "enSha256": "d918c2f61a8cf2747c61e87a299c3bc2c47b6cfe2bb7fe8ca4d1c399ac0ba603",
+      "zhSha256": "5a7fe709db2cf908a9578761a4a2433996472c63d9c314b32b5a8a26f6668227",
+      "unresolved": [],
+      "notes": [
+        "Inspected both saved crops independently. The backward element correspondence and source-page fragments are correctly retained."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 153,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "All remaining statements of Lemma 6.1.3 including the three commutative squares and all vertex/arrow labels; complete (a)/(b) proof and projection equation chain; Proposition 6.1.4 with all limits-of-shape-I hypotheses and proof opening through its continuation boundary.",
+      "enSha256": "82b54d451d6c9814d8311ceed83ce292caae0e0257e27044d4f64cb778741fdf",
+      "zhSha256": "99af19fa0e48f22954b077794af695f8691825310e79d85e8470c2ed8147bed0",
+      "unresolved": [],
+      "notes": [
+        "Inspected all three square crops; p_I/p′_I, α_I, s, f_I/f′_I and f-bar/f′-bar labels and all directions match. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 154,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full continuation and completion of Proposition 6.1.4 proof, naturality in A and D and noncanonical-choice paragraph; Exercises 6.1.5–6.1.6; full section 6.2 opening, all questions, representables-preserve-limits subsection and binary-product bijection (6.3), ending equalizer hypothesis fragment.",
+      "enSha256": "08ccdb5b7f61967afe98bbc421706530791ce1dddff5e5e5f31576b0903b07ca",
+      "zhSha256": "b389736e4b4287c1133b99fc931f5d91c77edc26feac643aaecd7efa67fc6ada",
+      "unresolved": [],
+      "notes": [
+        "Checked proof continuation across 153–154 and equation (6.3); both naturality variables and noncanonical-choice qualification retained."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 155,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full equalizer discussion, parallel s/t arrows, map equation (6.4), induced s_* and t maps and equality condition, canonical bijection (6.5), conjecture (6.6) with naturality and shape hypotheses, complete definition/composite of A(A,D), and full Lemma 6.2.1 including local-smallness and naturality.",
+      "enSha256": "f5a7cf1b4800db21219206fe131f27cf483824998d6b0be4fd75692a26e395aa",
+      "zhSha256": "6dfa57089c3867e8bc3088659016dd5fd0006947ec3bf77d08fa077f4f5ee16e",
+      "unresolved": [],
+      "notes": [
+        "Inspected all three equalizer crops, including equation numbers and parallel labels s,t,A(A,s),A(A,t). No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 156,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full proof of Lemma 6.2.1 with every family and morphism condition (6.7); Proposition 6.2.2 and complete proof; all of Remark 6.2.3, equations (6.8)–(6.9), I-op index and contravariant domains, limit/colimit distinction and binary-sum example.",
+      "enSha256": "49a25c8acdec02704a24ae9e4e0dbd466d46899520b91b12f7dffd9fa6b95f48",
+      "zhSha256": "31e29b6c2fb65e0ca44fe1a3497c9b153f153efd30fd6e3a6120dc6bb383f5fc",
+      "unresolved": [],
+      "notes": [
+        "Explicitly checked that the RHS of (6.9) is a limit over I-op, not a colimit; local-smallness and all-u conditions retained."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 157,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire functor-category introduction and assumptions, pointwise product formula, Notation 6.2.4 and both evaluation mappings, Theorem 6.2.5 in full with A/I smallness, S local-smallness and each evaluated diagram having a limit, including the moreover clause, slogan and full concluding page fragment.",
+      "enSha256": "b23d689ef021dca2c34790bd5de8fe73e2a12c2c50c39f591379244c6ef170fd",
+      "zhSha256": "a1fdbfb7c372f6606e232a8353f6e59ca379a96ed9dfcb7171e1bb1242083ee0",
+      "unresolved": [],
+      "notes": [
+        "Checked that the theorem assumes a limit for every D(-)(A), rather than unnecessarily requiring all limits in S. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 158,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full continuation of pointwise-product paragraph and colimit dual; Theorem 6.2.5 proof part (a), chosen cone (6.10), both assertions (a)/(b), uniqueness and definition of L(f), parameter natural transformation, square (6.11), projection natural transformation, and full cone/functor verification.",
+      "enSha256": "6f67e6cf8ce399a50ff3d807487d205ad4866e7a7359e862f7b5505653830e38",
+      "zhSha256": "e3d2b6a1ee50af6faea4c18912e8f85ccf7148e65cce3c08a55879609c3a27ca",
+      "unresolved": [],
+      "notes": [
+        "Inspected all three saved crops: D(-)(A)/D(-)(A′), D(-)(f), p_{I,A}/p_{I,A′}, L(f), D(I)(f), and p_I are correctly preserved."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 159,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Complete proof part (b), unique q-bar_A factorization and its naturality; Corollary 6.2.6 and Warning 6.2.7 with all hypotheses; full limit-commutation introduction, functor-category isomorphisms, D^bullet/D_bullet definitions and three limit orders; exact opening fragment of Proposition 6.2.8.",
+      "enSha256": "4a481cf696dd2d0df1f6f7108e479a4118697bfc7c35be13eb0ad247605888ef",
+      "zhSha256": "79decebec47a51d0585b8e72713244e0a8ca0eaf88dcd1acc305afaf33b79933",
+      "unresolved": [],
+      "notes": [
+        "Checked upper/lower bullet placement and the orders of I/J in all three iterated-limit expressions. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 160,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full completion of Proposition 6.2.8 statement and existence conclusion; Fubini/colimit analogy paragraph; full three-isomorphism proof with all functor-category and Delta labels; Example 6.2.9 in full, discrete two-object image, fourfold-product indices, commutativity, associativity and terminal-object isomorphisms.",
+      "enSha256": "32b477a179e8372fed042df1e74cb4ee713c74272fe2290516cebc144d1f219e",
+      "zhSha256": "8f97204a992b274d7f23d45e76e498a598ed10c55a074c46512cf0084a011d2f",
+      "unresolved": [],
+      "notes": [
+        "Inspected the two-object category crop. Fourfold-product coordinate order and all three proof isomorphisms agree with the original."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 161,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Warning 6.2.10 in full with its two displayed comparisons and 4-versus-2-element counterexample; Corollaries 6.2.11 and 6.2.12 with complete proofs and hypotheses, both projected cones and Yoneda composite; Example 6.2.13 opening and (6.12), with page-162 continuation checked.",
+      "enSha256": "b8722051c4e8ca64acda19b5da78a20ad385d735b3323e311530b8cb05bef35d",
+      "zhSha256": "038a55a1470394c4dde62a0d799ecf8fd0c2ef153d284d3745699c7290c4ff7c",
+      "unresolved": [],
+      "notes": [
+        "Explicitly confirmed the composite ev_A∘H_bullet is H^A with A as a superscript in both languages. Inspected PDF162 and read the opening English/Chinese paragraphs solely to confirm Example 6.2.13 continues correctly after (6.12); no part of that continuation is omitted or moved onto PDF161. No correction needed."
+      ],
+      "status": "verified"
+    }
+  ],
+  "unresolved": []
+}

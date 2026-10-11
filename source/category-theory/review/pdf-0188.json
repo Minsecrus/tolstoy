@@ -1,0 +1,21 @@
+{
+  "pdfPage": 188,
+  "printedPage": "179",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "All entries of both subject-index columns retained in original reading order, with nesting and all printed page references preserved; matched BasicCategoryTheory.ind.",
+    "Independent audit: distinguished epic and epimorphism headwords and their cross-references by retaining the original English words in parentheses, preventing a Chinese self-reference. Page references and nesting retained."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "5f35c5d8caac6a61e025be57bc332a020d5c9f49ab28fcea3d0412a9e257e098",
+    "zh": "013abff8b455542ff035ad27d1017880e4d48ea0eec9beb11fd395b9f431ce3d"
+  },
+  "styleReviewed": true
+}

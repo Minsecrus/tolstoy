@@ -1,0 +1,18 @@
+{
+  "pdfPage": 73,
+  "printedPage": "64",
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page visually inspected against text layer and matching adj.tex.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [],
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "englishSha256": "077fd3ee5f0a48930fbc1d42431833d292a9c64ce584d422fd307de80bf7a0b4",
+  "chineseSha256": "59d720f3a19151468fd3ade572558c087ef4c8aa45ef09d170e8dbfd31454a3f"
+}

@@ -1,0 +1,258 @@
+{
+  "status": "complete",
+  "reviewer": "Independent second reviewer: category_inventory",
+  "sourceSha256": "4d817004b83f46233444c2b3233129cef1154e5e96987fa4be029e040987b59a",
+  "range": [
+    162,
+    179
+  ],
+  "reviewMethod": "Actual view_image inspection of all 18 original page images, independent full reading and comparison of both language manuscripts, with separate high-resolution viewing of all five diagram crops. Current manuscript hashes are raw file-byte SHA256. No primary-review flags were used to infer review coverage.",
+  "pages": [
+    {
+      "pdfPage": 162,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对承前的逐点积同构(6.3)、米田嵌入保极限而不保余极限的解释及警告6.2.14、正整数与幂级数类比、e^z展开、Hom(n,-)与幂函数对应、例6.2.15的离散范畴开头；逐项比较英文原图和中文意思、对象与初始预层条件。",
+      "enSha256": "a64d9f8203f252308a5b46ed7a35f46d863305afeb776c08bdc088bd4e62bf0f",
+      "zhSha256": "57a5fb7cf3504c8ab1ed807e156c6b7b71d8e3818267c5fd24feaad015df66ce",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 163,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对例6.2.15的两个可表函子取值、X(K)三个元素与X(L)两个元素及五项和、可表函子的余极限描述、元素范畴定义6.2.16的对象/态射条件(Xf)(x)=x′、投影函子、稠密性与米田对偶段、定理6.2.17的小范畴假设及完整复合图表和余极限式。",
+      "enSha256": "d55953c177ec86a47573683b2a0b3aa207cd249ad02c35f879e3de06711bc2cd",
+      "zhSha256": "bf6750b6fb3cb219a92d84af4715aeec5559e47cf9b61ca931c954e379b41f13",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 164,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对稠密性定理证明的三种余锥/元素/函数族表述、所有A′→A与x∈X(A)的量词、两个相容性等式、最终函子范畴典范双射、证明结尾及例6.2.18跨页开头；单独查看余锥裁片并核对H_f向下、两条alpha箭头向Y及带(Xf)(x)的下标。",
+      "enSha256": "a6634a1166ebf52e3f4af71431e39dc19fd393022c7cafe81706f7c30d6b7fbb",
+      "zhSha256": "cf3174ae648ecb26f5607908b766f51567733818dae77be5d73262e50a10348e",
+      "unresolved": [],
+      "notes": [
+        "余锥裁片标签alpha_{A′,(Xf)(x)}及H_f箭头方向与原图一致。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 165,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对例6.2.18承前五元素投影及余极限、注6.2.19(a)(b)的广义元素与拓扑稠密类比、练习6.2.20(a)(b)(c)局部小/拉回/逐点计算条件与提示5.1.32、练习6.2.21(a)(b)可表函子连通性和常值空函子条件；高清查看自然变换图的X/Y与alpha方向。",
+      "enSha256": "6f41b33b979db5c8e09fe2c3927edaa24c3ab1f3936f98bf55aa269b464b6246",
+      "zhSha256": "38b6be9423bf31652814fef92bf0c834932bb52a2de5dbe290be15d2552fd9bf",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 166,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对练习6.2.22—6.2.25全部题干、切片范畴的小性/等价条件、左Kan扩张定义中P_B及复合图表、自然变换双射、预复合函子的伴随与对偶、1→G及G→1的重新考察条件；核对6.3节标题和承接命题4.1.11/6.2.2的正文。",
+      "enSha256": "c4ae715f8d992d92d1a537cc65e15d16031a996ab309f046ca74307998ba5d36",
+      "zhSha256": "f1c6c025a4a4b1d6968d079f7881821f824aee9e11eff0279df47efffd1554c1",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 167,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对定理6.3.1与证明、等式6.13—6.16全部极限指标和自然性、各步所用伴随/可表保极限/引理6.2.1；核对例6.3.2—6.3.4全部正文、有限和/积同构6.17—6.18和原书69页引用，高清查看F/G对向箭头及Delta/极限函子的伴随图。",
+      "enSha256": "db4f3ba0c894505a5905b21c180ce4e0cfb638984398a93cbd4ae9afd3dfa98b",
+      "zhSha256": "0adb096a8d7270c2c2bcdd10a920ced527ff5448396475622adb43b57a665bc6",
+      "unresolved": [],
+      "notes": [
+        "对向伴随箭头F从A到B、G从B到A；Delta和极限函子的伴随方向均与原图一致。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 168,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对例6.3.4跨页结论、例6.3.5域特征/空集/始对象反证、伴随函子定理引入全部段落、定义6.3.6的完备与小完备、定理模板中A/B/G假设和双向蕴含，以及末尾关于小/大集族的跨页句子。",
+      "enSha256": "1cb2c2fc6365f44ab36d103c36a7d5f8ae97e107e635aa0a7437d1ace6938d97",
+      "zhSha256": "634baa8db309ff7c4c75f41e09582abb8e451d46065f09e75bf48228c1392a35",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 169,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对偏序集极限与交公式、保交条件及全部量词、命题6.3.7的完整偏序集/完备/保序假设和证明、(A⇒G)的继承序与最小元素、G作用交后的不等式方向≥A、原单位态射eta_A及左伴随公式6.19。",
+      "enSha256": "e5081d1ac2548998393a84f328702afeb5aa8d00f260de76ca2b150b4436ac83",
+      "zhSha256": "d0dd70da7bd6f31f3b2764627faf41c4a9615c5b4ef3ee9e64d8f7e4bd121311",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 170,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对例6.3.8的空并与交的区别、恒等函子极限/空图表余极限、最小上界段、从偏序集推广的公式6.20和投影函子6.21对象映射、极限存在且被G保持的条件、Mac Lane定理X.1.2引用、暂时允许大形状范畴的约定和小极限跨页句。",
+      "enSha256": "b8fc232fb8c110d9dd75e8bb3bdfc29da8c30bb509c1c3f967ca6604f22a4aae",
+      "zhSha256": "7d81cd7321b11265857976ef9dc8d52630c9333b17c956eb1f726e8640725523",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 171,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对大逗号范畴与极限存在障碍、有限/无限类比、完备小范畴与偏序集段、不能简单要求全部大极限的限制、进一步条件与两种伴随函子定理段、弱始集定义6.3.9的每对象存在量词、小集合要求、定理6.3.10全部完备/局部小/弱始集条件及证明指向附录。",
+      "enSha256": "67ee41c6f6fb4b1b933b8104ece46e89a309cf0bb53049751de0678a816dbd13",
+      "zhSha256": "ce1129544bdccb14522358e6b83e19d25392b4f67b248fe1a665501bbc9ff851",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 172,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对例6.3.11的代数范畴与遗忘函子、全部极限/局部小/逗号范畴条件、自由群形式表达式与等价例的指数、所有构造步骤、进入/离开左伴随对象段；核对例6.3.12四种遗忘函子和Set退化代数说明、SAFT与GAFT条件比较及定理6.3.13跨页开头。",
+      "enSha256": "c3d0f372d23209aeaa8f82e6cedec361d48a19e503a2211d55f767cabf756805",
+      "zhSha256": "3ec6bad014313d48ea778659f1163784d68f7b843eafd060aeacf7ecb49f8e0e",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 173,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对SAFT跨页的A/B局部小与B进一步条件、Mac Lane V.8引用、例6.3.14紧Hausdorff范畴/Stone–Čech紧化/单位嵌入分离条件/典范映射闭包公式、笛卡尔闭范畴引入、定义6.3.15有限积与每B右伴随条件、指数对象自然性、例6.3.16—6.3.17。",
+      "enSha256": "bf716f3813bc0a0e97c29f863729520e170334ad84c7dba4d0b5289a06b70f6f",
+      "zhSha256": "2cbd5a2a33bde1417e38a8d8a034f38312220c4caae6d96ea64f6ad4b6b14e22",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 174,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对笛卡尔闭范畴算术段、例6.3.18任意域k上的Vect非笛卡尔闭反证及零向量空间直和式、注6.3.19线性/双线性/张量积与幺半闭范畴区别、离散积范畴逐点计算、预层指数对象思想实验、同构6.22与米田取值式及非逐点结论。",
+      "enSha256": "758e643104a3751cc3990ffef19736cb50a7997357ab076ede71b21bb0d25931",
+      "zhSha256": "221c4e4bfe4f9c8220743c9b22186d0eac533b103d1167fabd4a5f8d3fc0773f",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 175,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对定理6.3.20的小范畴假设、证明策略、先保余极限再构造右伴随的逻辑、逐点积/余极限条件、Z^Y(A)定义、HP复合与稠密性、同构链6.23—6.29的每个方向/指标/参数/公式标签及所有逐步依据、X/Z自然性和拓扑斯跨页句。",
+      "enSha256": "d7379065dffa9646d9da9d095744b648df9542fadd84d7179435f70c257e0a32",
+      "zhSha256": "0151bce05507baaa4149c86f0e51ea1855d768a5cb2e69b721b2954a45320886",
+      "unresolved": [],
+      "notes": [
+        "同构6.24、6.25、6.26的极限形状E(X)^op与6.23、6.27、6.28的余极限形状E(X)逐项核对一致。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 176,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对拓扑斯逻辑/几何与集合宇宙/层范畴段、子对象分类子与两个元素集合的原有说明、练习6.3.21(a)(b)(c)伴随链方向与引用、6.3.22三条件及和/SAFT假设、6.3.23(a)(b)预序/偏序与所有小积条件；高清核对平行f/g图并保留跨页f≠g条件。",
+      "enSha256": "0f1bbf5e914046b0b930c65b8988d7acc02f1b6721704a8e56781713e7e74188",
+      "zhSha256": "42fdbacb0cf4a923fa7f0dfc26a0f496dadf346f3e956557e391adcb1f6cf04c",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 177,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对练习6.3.23承前f≠g与所有集合I的A→B^I、小/有限范畴结论；6.3.24(a)—(d)生成子群基数max{|N|,|A|}、小同构类集、弱始集与GAFT；6.3.25米田保整个笛卡尔闭结构；6.3.26良幂/拉回条件、Sub逆变方向、全部提示/分类子定义及Set为拓扑斯结尾。",
+      "enSha256": "f4801e8033ddf08241e7f12c7c762ff36f295d87941f66f380265876429a2dcd",
+      "zhSha256": "a77d436f6bac8de5b2fed611f35402d24219fb5d9a5b1d9e89742d6327c15683",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 178,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "全文核对练习6.3.27完整题干、小范畴A条件、(a)子对象分类子存在时的思想实验、(b)验证Omega、(c)得出预层范畴为拓扑斯；核对三个题项与6.3.20引用均无遗漏。",
+      "enSha256": "c46d24f825ddcf6c9c7fa679208a780207c2f8a19dd9577877091c65f4f413e3",
+      "zhSha256": "3d078079981071d2909bfb598b1a2fc94cf9a06d2acd8c51fd168d12d70a9fa3",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 179,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "亲自查看整页原图确认其为空白；英中Markdown均为空文件（0字节），与原页一致，没有正文、公式、图或遗漏条件。",
+      "enSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "zhSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unresolved": [],
+      "notes": [
+        "原图为空白，英文和中文文件都是0字节。"
+      ],
+      "status": "verified"
+    }
+  ],
+  "unresolved": [],
+  "notes": [
+    "本范围逐页全文二审未发现需要修改稿件的数学条件、公式、图标签、内容遗漏或中文译义差错；未新增原文外讲解，未改英文来源稿。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pdfPage": 32,
+  "printedPage": "23",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and checked formulas against cfnt.tex and macros.tex. Preserved the continuation of Example 1.2.11 and all page text of Example 1.2.12. Verified both labelled composable-arrow expressions and the contravariant direction. Expanded the author's bold HOM macro as standard TeX \\mathbf{Hom}; simple arrow chains remain native TeX.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "5347a5d64ee073f7494557ef73956a19c60802ae2cf48a71d9d83cdfd40c3ed2",
+    "zh": "1655fcb1fc399d5e86ca93d2a09c7a3d1664d35a0290032b244ee9af78b200ad"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "pdfPage": 45,
+  "printedPage": "36",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Continues Example 1.3.22 from PDF 44. Remarks 1.3.24 continue on PDF 46.",
+    "The text layer garbles the subscript in Set_{neq emptyset}; restored from the printed PDF and matching official TeX."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0045-vertical-composition.png",
+      "widthPt": 40,
+      "clipPt": [
+        265,
+        589,
+        305,
+        628
+      ],
+      "sha256": "f488e1ef38ad7d1684bf9faf882bcf0b179862c965fc9b8407862d21815e92ed"
+    }
+  ],
+  "sourceSha256": {
+    "en": "a0cd0848b27a3f785ad77c7ec1bf731dc153382226a0fc8f72548a9fb7774d17",
+    "zh": "688d01e8212b9a6434304854a777f10c889bcd28a612a557878878e4290d7d92"
+  },
+  "styleReviewed": true
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 38,
+  "printedPage": "30",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full historical interlude retained with references and final assessment. Definition2.11.1 continues on PDF39."
+  ],
+  "diagrams": [],
+  "enSha256": "7363533bc79331d2f64a17afaac8d47b3bb7b8fcfd7edcf4148d9e555de192ee",
+  "zhSha256": "70842371acbaafd7b894d3c2e4694919ead23efe1f67e21ce3d5e773cdfdc232",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0038.png",
+  "officialErrataChecked": true
+}

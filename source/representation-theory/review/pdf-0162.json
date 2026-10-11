@@ -1,0 +1,64 @@
+{
+  "pdfPage": 162,
+  "printedPage": "154",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "独立审校指出原书末项0→1←1右箭无同构标记，已将EN/ZH末项恢复普通左箭。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0162-d4.png",
+      "widthPt": 85.84540825921135,
+      "clipPt": [
+        138.94054515941724,
+        210.44532470703126,
+        224.7859534186286,
+        258.5896560668945
+      ],
+      "sha256": "90ab4d9318a419d5aa54c6f5cd4eeeb50ab85780720f8675f1e729cb5ca5d3ad"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0162-representation.png",
+      "widthPt": 102.22054393871412,
+      "clipPt": [
+        131.49730166873417,
+        280.4283218383789,
+        233.71784560744828,
+        350.41131896972655
+      ],
+      "sha256": "f75529896bf338303f13783516a964b927c210c6581433c103e78ac0af94ae6b"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0162-kernel1.png",
+      "widthPt": 114.129733523807,
+      "clipPt": [
+        124.0540581780511,
+        381.183984375,
+        238.1837917018581,
+        448.68531494140626
+      ],
+      "sha256": "d98facf6ee4663937d28fb65d2549bcb2eeb78e31803bdf1eadbb74c84892c44"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0162-kernel2.png",
+      "widthPt": 98.74703030972867,
+      "clipPt": [
+        129.01622050517315,
+        455.6339813232422,
+        227.76325081490182,
+        523.1353118896484
+      ],
+      "sha256": "7bcef091f173ecb26636fc35401396c706267ef532086bc6682eae29a6204864"
+    }
+  ],
+  "enSha256": "d7c0c171b4ba04a75be80090514ed8c9c893adbc26c30f70a2ad1264c3f496a2",
+  "zhSha256": "6e0921e513780f71f10b546bccfd4590268d5cdd495088ec1220ee7bdebcb89b",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0162.png"
+}

@@ -1,0 +1,26 @@
+{
+  "pdfPage": 164,
+  "printedPage": "155",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0164-density-cocone.png",
+      "widthPt": 66,
+      "clipPt": [
+        260,
+        237,
+        326,
+        291
+      ],
+      "sha256": "98adecf63b22e2067887b7c06b03db86c60ecc80ac05382ff3be2da3fb90f214"
+    }
+  ],
+  "enSha256": "a6634a1166ebf52e3f4af71431e39dc19fd393022c7cafe81706f7c30d6b7fbb",
+  "zhSha256": "cf3174ae648ecb26f5607908b766f51567733818dae77be5d73262e50a10348e"
+}

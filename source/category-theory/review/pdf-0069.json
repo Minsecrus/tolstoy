@@ -1,0 +1,52 @@
+{
+  "pdfPage": 69,
+  "printedPage": "60",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0069-comma-input.png",
+      "widthPt": 58.5843,
+      "clipPt": [
+        251.7139,
+        255.1483,
+        310.2982,
+        311.2412
+      ],
+      "sha256": "28a15943dac57b77f4aa8c06ba89bb52a054b0e5c3bf4a7117ee3ec377ad27a9"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0069-comma-triangle.png",
+      "widthPt": 73.4786,
+      "clipPt": [
+        242.7773,
+        354.4278,
+        316.2559,
+        411.5135
+      ],
+      "sha256": "59b3c238c319ab3d633edabe4535d0a15ba441f34daaaa2d61d0e760dfb42456"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0069-lemma-adjunction.png",
+      "widthPt": 48.6547,
+      "clipPt": [
+        271.0765,
+        557.4543,
+        319.7312,
+        586.7417
+      ],
+      "sha256": "3bac24399efb92f14b41042bbb69d28022bbe4f4e5b0697858178f39933e4afb"
+    }
+  ],
+  "englishSha256": "dfb980b6aa7930e6249838ddf513218f610cd87f092beb2346628c2a85945b35",
+  "chineseSha256": "08691831bef4395eb8bd00042632f198b85f7cef757f41818f22d7065cbb72e7"
+}

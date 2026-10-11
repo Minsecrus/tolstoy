@@ -1,0 +1,50 @@
+{
+  "pdfPage": 95,
+  "printedPage": "86",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked the overline in the element square and in q ∘ f̄ = overline(G(q) ∘ f); it was lost in text extraction."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0095-adjunction.png",
+      "widthPt": 49.0,
+      "clipPt": [
+        209.5,
+        295,
+        258.5,
+        325
+      ],
+      "sha256": "52d20a875bb2679587428e0ad7fefaef2ec77c9f761d7b59a82533cefc9c2e14"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0095-naturality-square.png",
+      "widthPt": 133.5,
+      "clipPt": [
+        213.5,
+        461.5,
+        347,
+        516
+      ],
+      "sha256": "43695a53579be87fc98d18abd99dea03194ca08309686ca09768be63f6770690"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0095-elements-square.png",
+      "widthPt": 134,
+      "clipPt": [
+        213,
+        550,
+        347,
+        615.5
+      ],
+      "sha256": "2bb71973a21586874a5b5f89945a7dd6da5f3f4c02b39a1c6f2a61bba3c187e9"
+    }
+  ],
+  "englishSha256": "73509ce0836764e2bf4ad0042e67566fd2748e022e4b52472b2e4171084535b6",
+  "chineseSha256": "2ce4647c139c292b1dd57d14084349df0f36d22bed357e486cacc0888c53d612"
+}

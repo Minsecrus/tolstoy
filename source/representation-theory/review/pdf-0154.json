@@ -1,0 +1,51 @@
+{
+  "pdfPage": 154,
+  "printedPage": "146",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0154-an.png",
+      "widthPt": 177.64541131096917,
+      "clipPt": [
+        60.53838039088894,
+        292.83665466308594,
+        238.1837917018581,
+        323.1129867553711
+      ],
+      "sha256": "698e52b90099a95b7b0e8526df0ad583f5fb7149cc294b35e507fcc78e7703f2"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0154-dn.png",
+      "widthPt": 150.35351851179792,
+      "clipPt": [
+        60.04216415817673,
+        328.0763198852539,
+        210.39568266997466,
+        381.183984375
+      ],
+      "sha256": "ce315aad78e662f011bc34778539d8977951f21eff8900f066dc989994c25259"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0154-e6.png",
+      "widthPt": 150.84973474451013,
+      "clipPt": [
+        60.53838039088894,
+        388.1326507568359,
+        211.38811513539906,
+        441.7366485595703
+      ],
+      "sha256": "58442b65722610180b16fe50da0ce0ea77c7a0d71fc8b92406f399fc13237231"
+    }
+  ],
+  "enSha256": "8c94b20a46abc40f2ca67a4a5b0d7370f0edc2f1e1b89c3e151653bafcda798f",
+  "zhSha256": "4eeefc4ea26219dd8d88f5ad2212dab8cad64d41c04afcdbd6c6b33d7222fb02",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0154.png"
+}

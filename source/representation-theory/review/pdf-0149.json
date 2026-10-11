@@ -1,0 +1,19 @@
+{
+  "pdfPage": 149,
+  "printedPage": "141",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "依官方勘误在中文紧邻注中补记Y_nu为补系列表示。"
+  ],
+  "diagrams": [],
+  "enSha256": "5fbb76acd78c02af97fc0ccc085386f9d9147e072662440aea7406cb054ab189",
+  "zhSha256": "9a66ccb98aaa75d330925eacfc307ec7f7fdadba2001fd9390eb23e644460a27",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0149.png"
+}

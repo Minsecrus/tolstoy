@@ -1,0 +1,18 @@
+{
+  "pdfPage": 76,
+  "printedPage": "67",
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "All prose and formulas visually checked against the PDF and matching sets.tex; cross-page fragments retained.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed.",
+    "独立二审把页首句式改为“光说这一点，还不能把问题说清楚：范畴有许多，大多数都与集合范畴大不相同。”保留原句含义及后续全部论证。"
+  ],
+  "diagrams": [],
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "englishSha256": "fc0ea8a019e099650e6153bdc0cb78b8c9a4b4cb577bb38a0168d49d66a72714",
+  "chineseSha256": "c3f3e1bf914186cbf0539edb40203550ce6e853d98c186c2e1346e71430ccfeb"
+}

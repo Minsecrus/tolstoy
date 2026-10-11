@@ -1,0 +1,20 @@
+{
+  "pdfPage": 44,
+  "printedPage": "36",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked Dehn-invariant sum, beta/pi and arccos(1/3)/pi, denominator3^k, and the Lie-algebra tensor-product action.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "1827b2dc89f36045790adb9a112b8b547d7909ccfc55111017dab2b4bf45e34e",
+  "zhSha256": "0242297e3f76325bafd037256eca989774fffe386b56fff5e2f28fbd1697e6cc",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0044.png",
+  "officialErrataChecked": true
+}

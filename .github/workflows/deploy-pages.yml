@@ -37,7 +37,7 @@ jobs:
       - name: Build with VitePress
         env:
           VITEPRESS_BASE: /tolstoy/
-          NODE_OPTIONS: --max-old-space-size=8192
+          NODE_OPTIONS: --max-old-space-size=12288
         run: npm run docs:build
 
       - name: Upload Pages artifact

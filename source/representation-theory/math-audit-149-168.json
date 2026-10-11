@@ -1,0 +1,622 @@
+{
+  "status": "complete",
+  "reviewer": "representation_109_128",
+  "firstPdfPage": 149,
+  "lastPdfPage": 168,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 149,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐段比对GL2(Fq)表示的计数、W1张量组合、Artin定理的共轭不变假设及Q/C张成等价、(ii)到(i)证明和跨页虚表示句；中文完整自然，新增补系列名称仅在可见译校注中。",
+      "enSha256": "5fbb76acd78c02af97fc0ccc085386f9d9147e072662440aea7406cb054ab189",
+      "zhSha256": "9a66ccb98aaa75d330925eacfc307ec7f7fdadba2001fd9390eb23e644460a27",
+      "unresolved": [],
+      "notes": [
+        "补系列名称按官方勘误单列译校注；原书随后计数段落本来已有该名称，没有把新增语句冒充原文。"
+      ],
+      "diagrams": []
+    },
+    {
+      "pdfPage": 150,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐段核对Artin证明续句、Frobenius内积与循环子群推论；核对半直积乘法、G/A的作用、稳定子Gx、诱导函数条件及轨道代表元无关性，定理5.27.1(i)。",
+      "enSha256": "cfb49427fc10ad0282d08a47a30f792ae4d2bc610b821804d05b10432b74a957",
+      "zhSha256": "c03a53caa47f40041c6c93e43acb5879741c18f3c6f3506af0c0377b9fb1f343",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": []
+    },
+    {
+      "pdfPage": 151,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际原页及300dpi字符公式区域核对hgh^{-1}条件、|Gx|分母、字符x(h(a))、y(a)官方勘误；完整检查不可约/不同构/完备证明和维数平方求和，以及两个练习。",
+      "enSha256": "d4b1b283314ae9ceb38fef87feb01d886a689f198c5372565380ef3a7bf18b7e",
+      "zhSha256": "5bbfde3eb96bc53bb18ad71dc627cc94100ae2de79a046931d05bdc6bdeb5cc4",
+      "unresolved": [],
+      "notes": [
+        "官方勘误(y,a)->y(a)已在中文改正并明示，英文保留原书。"
+      ],
+      "diagrams": []
+    },
+    {
+      "pdfPage": 152,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际确认整个原页空白；英文、中文均为空文件，主译printedPage为null，不将其插入正文或补造页码。",
+      "enSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "zhSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": []
+    },
+    {
+      "pdfPage": 153,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整核对域嵌入的n/m条件、k代数同态和k线性嵌入、维数增长提示；逐项核对Zariski稠密定义、代数表示、有限轨道、dim V<=n²和GL乘积推广。",
+      "enSha256": "258a78225530255061d3098ff728321554a872524416919ec64210600532b294",
+      "zhSha256": "e4af0f4f30c0b8e6393e31803d97d1a0e69329fc04ce5b73f02f965a5eac0452",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": []
+    },
+    {
+      "pdfPage": 154,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整核对有限连通无自环图、重边允许、邻接矩阵rij及A=2I-R、正定定义和分类定理；独立查看A_N、D_N、E6三裁图，顶点和分支无遗漏。",
+      "enSha256": "8c94b20a46abc40f2ca67a4a5b0d7370f0edc2f1e1b89c3e151653bafcda798f",
+      "zhSha256": "4eeefc4ea26219dd8d88f5ad2212dab8cad64d41c04afcdbd6c6b33d7222fb02",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0154-an.png",
+          "sha256": "698e52b90099a95b7b0e8526df0ad583f5fb7149cc294b35e507fcc78e7703f2",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0154-dn.png",
+          "sha256": "ce315aad78e662f011bc34778539d8977951f21eff8900f066dc989994c25259",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0154-e6.png",
+          "sha256": "58442b65722610180b16fe50da0ce0ea77c7a0d71fc8b92406f399fc13237231",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 155,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际检查E7/E8图、Sylvester判别脚注、标记用途脚注及(a)-(e)所有任务和det=0条件；独立查看环图全部1标签、双分支图端点1/分支2及虚线。",
+      "enSha256": "bf8a74a32636daeb121d1d46be56d8a708be6869e4175ad7a0c3677f467dd1fe",
+      "zhSha256": "21c2b3be5ab5134c6f297fcbe68c75c61268d96357527ae4d5a372c7006bae78",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0155-e7.png",
+          "sha256": "9f758a2cf014f2b580f79587bbd203f4e78b947af54e008b35b717b7483db735",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0155-e8.png",
+          "sha256": "48e15300d52c0e089f48f308d99b252066d9123920164f14ec52d13552b45bc7",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0155-cycle.png",
+          "sha256": "58a408e866e5d94a101319d83fbf59b8036ad97b70f7660f198d51f743576bbf",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0155-fork.png",
+          "sha256": "280b1bb818aa8708d5d4453ee39ee7c51df904df1af3c1bda40c0df94ae12ab2",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 156,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐项核对三仿射图全部数字（E6:1,2,3;E7含4;E8含6等）、分类(f)(g)、有限型定义和Gabriel定理；独立确认半正定必须补但不正定，源英文保留且中文紧邻可见注。",
+      "enSha256": "4cbce7d4725d23da6f92b20433ec27e180048c9546bff00b55e167afb606d26b",
+      "zhSha256": "6b3c28b5de95f3332aa8ace36784d4e981e770300e5e99844bce74b9937d06e7",
+      "unresolved": [],
+      "notes": [
+        "独立数学检查：正定蕴含半正定，因此若不加非正定，有限Dynkin图也符合仿射定义，与(c)-(e)分类不一致；中文补条件并明示来源笔误。"
+      ],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0156-affine.png",
+          "sha256": "b9514b4041b686bf6b3afe86b83c1eb9a279a93e7e24e17c87a9507c5802a0f6",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 157,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整核对6.1.5(a)-(c)及整数/有理数/实数提示，官方无自环假设、删除1/2和xi>=0修订均明示；核对McKay图、SU2子群、rij对称、半正定非正定、-Id和各交叉引用。",
+      "enSha256": "6be585af993f5b56c787e113585524a608ae03d22f2399fba28b9f53c4e2ec39",
+      "zhSha256": "065111344ff0610e6c875b3a9df54b16b59fe93ce85b0b2962f13954bc77750c",
+      "unresolved": [],
+      "notes": [
+        "官方勘误的无自环假设、1/2删除和xi非负限制删除均已落实；英文完整保留原版。"
+      ],
+      "diagrams": []
+    },
+    {
+      "pdfPage": 158,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对McKay维数标记和SO3比较、有限型背景、三类典范映射的维数含义、A1/A2例子及A:V->W；A2裁图的A/V/W、箭头和句末标点完整。",
+      "enSha256": "78dd2062ecadb523dc4adba89d1a3670e4f1f95d44ab05f390c399893fdc99a0",
+      "zhSha256": "3c9b5e9805c08adfa5413ad33fae0c06170def40d5a58989f29ebbcd81f932a1",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0158-a2.png",
+          "sha256": "2835495848f4759d2b701edbe334d79f23e1d970f02c982220f76cab2d9e8f1e",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 159,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐段比对A2三直和分解、ker A/Im A/补空间V′ W′和高斯消元；核对A3两种定向、核及余像分拆、A单射/B满射跨页句，独立查看四图所有标签与零箭头。",
+      "enSha256": "ef03dcf355ecfff25976cb4640d8b28f0f2275a8b3b7423aa1de72439fadad56",
+      "zhSha256": "e5b7d263dce28d86a309491cdd816b8751eb4e7ff79149c747fc1360b4459853",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0159-a2-decomposition.png",
+          "sha256": "232719485c322e085e802ef01a1dd277265524db10cf38b018a3f85817c6fa52",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0159-a3.png",
+          "sha256": "68f3726d30f49c7e34ca06cf6f252d4d919a1be7456a550c6779240577a3d50e",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0159-kernel.png",
+          "sha256": "7c41f0583da1173856943b06b1f4defad3166e8861c5d54fa1956c8553d9954b",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0159-cokernel.png",
+          "sha256": "58027107736c183904f8153365895e6244fc1f8c9a1439604e7a8c12efa0c274",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 160,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对X=ker(BA)、两个补空间及A(X′)条件，再核对X=Im(BA)、B^{-1}(X′)、重命名与六不可分解对象；三分解裁图的所有空间标签、A/B/同构及单射满射箭头完整。",
+      "enSha256": "a9c96867e010966515977e36749ec2b6237e02a8d094469e9813222ef289e192",
+      "zhSha256": "0163bbadeed6c82354c81efa789e39cfcf3e08cebbe702dc49b47af234c85fae",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0160-injective-surjective.png",
+          "sha256": "f9671850d7e02d5859d145cebdc087f534e9bb3531b834fe72ca8c22c2a0e331",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0160-first-decomposition.png",
+          "sha256": "3d2e1e86e3058e87605c867aa87306cd54e88423388aea05ec44450555c8c2bc",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0160-second-decomposition.png",
+          "sha256": "138007958e732ac174fed241c5276f215b15cd6e2967c1d97e5f2a8263c0aa22",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 161,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整比较两单射定向、子空间对问题、交空间和和空间补空间分解、重命名及典范对象；独立查看四裁图核对V/W/Y与V′/W′/Y′、V∩Y、V⊕Y及同构箭头。",
+      "enSha256": "b76742179ce41b87b26118f2453c598ec05c13460e49f3d72f216e3c27bed3e3",
+      "zhSha256": "f710adad8817d44a1d41d80ddf6ecd745f6d853014e50003c96eee4e63fb498e",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0161-injective-pair.png",
+          "sha256": "72aa6adf42089e311ce3cf1622d5c2c738fc7c53827dd122b63534102d4654d5",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0161-intersection-decomposition.png",
+          "sha256": "b8e4d0977e8a55a8f0a578ebfc04803629e692c97f7acdaeffe1474c2325563d",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0161-sum-decomposition.png",
+          "sha256": "fdaa62bad4d84537e44a050da279d6c4eadf1d1cabc36a0c4b03355bf4e51a03",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0161-separate-decomposition.png",
+          "sha256": "b9846c13cb0d43f7695186d266d5de9115a79b553bd07776d38baa1840234bc0",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 162,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对A3六个对象的每条箭头及同构号；主译协作删去最后0->1<-1原书没有的~；完整核对D4定向、A1/A2/A3和拆核引导，四裁图全部标签正确。",
+      "enSha256": "d7c0c171b4ba04a75be80090514ed8c9c893adbc26c30f70a2ad1264c3f496a2",
+      "zhSha256": "6e0921e513780f71f10b546bccfd4590268d5cdd495088ec1220ee7bdebcb89b",
+      "unresolved": [],
+      "notes": [
+        "与主译协作修正最后一项多录入的同构号，最新英中稿均与原页普通左箭一致。"
+      ],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0162-d4.png",
+          "sha256": "90ab4d9318a419d5aa54c6f5cd4eeeb50ab85780720f8675f1e729cb5ca5d3ad",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0162-representation.png",
+          "sha256": "f75529896bf338303f13783516a964b927c210c6581433c103e78ac0af94ae6b",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0162-kernel1.png",
+          "sha256": "d98facf6ee4663937d28fb65d2549bcb2eeb78e31803bdf1eadbb74c84892c44",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0162-kernel2.png",
+          "sha256": "7bcef091f173ecb26636fc35401396c706267ef532086bc6682eae29a6204864",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 163,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对第三个核的跨页接续、三个外顶点单对象、三单射及子空间三元组问题；独立查看五裁图逐个核对0/1、ker A3、V/V1/V2/V3、A1/A2/A3与箭头。",
+      "enSha256": "8d4574c3d7c9cb6ba16f0c1633491d59835bac048bbe827e489a544deaf453d8",
+      "zhSha256": "9330e6a0d9a9c19de72f6d63346eff726920816f5e6bb0c272963831776de1dc",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0163-kernel3.png",
+          "sha256": "7b999dbc9510cd5f54764a00e560c1a4d1a9672c8a212f848e86edcfa290c152",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0163-simple1.png",
+          "sha256": "46264c1c00a595eb01051ef1f940d2b8f2cb796352527544966aa8d2bffb20e4",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0163-simple2.png",
+          "sha256": "2e06ca8be29dff6d63b2a799bc399f6c28e7592ce942a565fa5b7a3a51b0ac62",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0163-simple3.png",
+          "sha256": "78036509c74455627411fbefdce8f7954835984b3d07a451b92773efc462301b",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0163-injective.png",
+          "sha256": "288d164adcc527a31cd42838619ea9ed7d9a34ca137b26b2b90e5bd63321ec2d",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 164,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整核对中心顶点单对象、V1+V2+V3=V、三重交Y、各V′i定义、全一维对象和两重交拆分的跨页条件；三裁图的Y、V′及同构符号全部保留。",
+      "enSha256": "3743b77f6a3710fe7b9c9c4a7b329323544b77036a72fcc2df018a1467f9d5cb",
+      "zhSha256": "de0840f99e0da90dde6aa1f2393d40583514fb2b477e96b18bdb6ac7807143e1",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0164-central-simple.png",
+          "sha256": "1dc124a14142b5d1b7da17da86577dac05b4f62b245fbc18942d324c04ff18b8",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0164-triple-intersection.png",
+          "sha256": "da8487d021f6b0ef028b3652ace6ab130288ce92fe9c470f239588aea22a1ef8",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0164-full-simple.png",
+          "sha256": "bf4bc8baac04bab556018772191d91c35778aa7e2f568d98a2a7ac99bf7e055e",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 165,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整核对V1∩V2的拆分、两种其余交空间对象、三对交为0、V1不包含V2⊕V3的情况、Y与V′1及跨页补空间句；独立核对四图所有V/Y/0/1标记。",
+      "enSha256": "1fb3ff737f362a4a9bbab2b6b72cb30804862593970bb55718c984f773dbe635",
+      "zhSha256": "595b5a0191df9df81d041076d92f075232794a4e8071089315f593acbdbe48a5",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0165-pair-intersection.png",
+          "sha256": "5bcf2f4da486ca1f37da0afad954cb90829f8ab7ff3c1c431882d84f7813ac73",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0165-pair12.png",
+          "sha256": "748da2c644a94912f61802c5607d53706ccc248291ae28055db7a6069723b811",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0165-pair13.png",
+          "sha256": "ed129129f13613fe79442f65981d0209e6e89a828ac31ac0f58d8a7cb0e32638",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0165-pair23.png",
+          "sha256": "e7ce3da58ca20d73107a7631ef4692a17c90f81a3d6769f1c42acf7db745e4b4",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 166,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对包含V2⊕V3的补空间V′、三单臂对象、三个剩余条件、三对直和等于V以及维数n跨页公式；独立查看四裁图原图等号、⊕、V′1/Y及1/0/同构箭头完整。",
+      "enSha256": "88cd8db92805c26518e569e7e6b12586d0454799bf236e21a7cc4a3c242639d9",
+      "zhSha256": "82910c4499c10c22dd33145752c52ce4964fb256331b60aeb1379904f080125f",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0166-sum-splitting.png",
+          "sha256": "dd4e83443135adcce4a865555a0f8a9b988e4d9da55397ce6abcedb201fe431b",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0166-arm1.png",
+          "sha256": "76ad179683d22845bea44783ac8c944bb6306bb4119b5a6024f24ca1c0ce3d51",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0166-arm2.png",
+          "sha256": "2f166c03968034dea64b2f0f908c585c21d28c7c823d266cab183c5bf7a6b939",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0166-arm3.png",
+          "sha256": "54a6a18519a32116328aba75b2cf8cb7efda1b76c8884c32f585cd522f58a5c0",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 167,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐段核对dim V=2n、B1/B2投影及单射因此同构、A=B2 B1^{-1}、三基分解、同构图像分解和12对象数目；中文原生C依官方改k，原图C/k解释为紧邻可见注；两裁图完整。",
+      "enSha256": "a77ddb9a687964f17ccee9b2c99a6c11b273498febf23fb9c7289e2c5b6ffbdb",
+      "zhSha256": "b415bcb88631b4865a70c7ab722042dc57f8f1bfb3aa6dc15bc2699dbee7456a",
+      "unresolved": [],
+      "notes": [
+        "与主译协作将中文原生三行C基分解改为k并保留可见注；留存源图C及C²按k、k²理解；修正替换产生的命令粘连后检查859数学表达式全部通过。"
+      ],
+      "diagrams": [
+        {
+          "path": "/library/volume-88/diagrams/pdf-0167-graph-decomposition.png",
+          "sha256": "9bf737f0cca9e8bcf9b0feac87ed2be06892b31a8b7c0061a543a83d70272719",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        },
+        {
+          "path": "/library/volume-88/diagrams/pdf-0167-two-dimensional.png",
+          "sha256": "8b9aa34681811a766c6b36b293ec2a40d62b7adf43c983fef02dc4395b7343a8",
+          "visuallyComparedToOriginal": true,
+          "allLabelsAndArrowsChecked": true,
+          "pixelIdenticalAt300Dpi": true
+        }
+      ]
+    },
+    {
+      "pdfPage": 168,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际完整比对定向无关观察、Cartan矩阵、格/实空间和内积B；核对偶数性证明全部求和及2因子、根的最短非零条件和B(x,x)=2以及有限性注。",
+      "enSha256": "a8babbc896f859f16dbb3efec35ffe015574343cc52d4228b974d1556fff1560",
+      "zhSha256": "c3d39d880342185df69986dd91831497b06f901690f00ba74d4378d327f1b077",
+      "unresolved": [],
+      "notes": [],
+      "diagrams": []
+    }
+  ],
+  "cropImagesVisuallyReviewed": 42,
+  "cropImagesPixelVerified": 42,
+  "visualReviewContactSheets": [
+    "tmp/pdfs/representation-theory/audit-149-168/crops-00.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-01.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-02.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-03.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-04.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-05.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-06.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-07.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-08.png",
+    "tmp/pdfs/representation-theory/audit-149-168/crops-09.png"
+  ]
+}

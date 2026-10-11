@@ -1,0 +1,19 @@
+{
+  "pdfPage": 9,
+  "printedPage": "viii",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Continuation from PDF page 8 retained. François Petit was checked against the rendered PDF and official preface.tex to repair the text-layer cedilla encoding.",
+    "No mathematical formulas or content diagrams on this page."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "07e25c3d12fe4dde36713de0ea401a5493ea7dddbb5e50939bbff0a1d8e6972a",
+    "zh": "332d4a57d37b560703575bc79632e4ba98fc3e69435084534c314172f937b6c1"
+  }
+}

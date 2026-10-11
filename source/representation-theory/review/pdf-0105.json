@@ -1,0 +1,18 @@
+{
+  "pdfPage": 105,
+  "printedPage": "97",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对 Frobenius 整除性证明的全部类大小因子、特征标上的复共轭横线、g_C_i的|G|次幂和最后分母dim V。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "29561e2f988c3ad5b0f83aa9c7ea596f272068b06a2b3ed43bac37a90f86afab",
+  "zhSha256": "ecec03a1952c40866431672f77ddb03c6e5fcab4de3ba5778e4588c3117659f2"
+}

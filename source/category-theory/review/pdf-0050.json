@@ -1,0 +1,31 @@
+{
+  "pdfPage": 50,
+  "printedPage": "41",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Compared PDF image, text layer and adj.tex; labelled opposing arrows cropped at 300 dpi.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0050-functor-pair.png",
+      "widthPt": 48,
+      "clipPt": [
+        229,
+        559,
+        277,
+        588
+      ],
+      "sha256": "c2c0a7ac616ef82e01d6e3cc026db94c8e8bae51a4a9040d9832f49a4ca4aca0"
+    }
+  ],
+  "sourceSha256": {
+    "en": "5d0da87ebd382fee5c132c69cfe1fb58022d65710a92ad7c4fb4c1afee3807c3",
+    "zh": "d6fa0e5f116546abf0af65b6a6de8391e3297719a568b200af66854453895de6"
+  }
+}

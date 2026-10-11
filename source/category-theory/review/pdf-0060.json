@@ -1,0 +1,45 @@
+{
+  "pdfPage": 60,
+  "printedPage": "51",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Diagrams rendered directly from the supplied PDF at 300 dpi.",
+    "Begins with the continuation from PDF 59; the final sentence continues on PDF 61.",
+    "Natural Chinese phrasing review completed; no added teaching explanations. English transcription, mathematical expressions, and diagram crops unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0060-adjunction.png",
+      "widthPt": 47,
+      "clipPt": [
+        253,
+        131,
+        300,
+        162
+      ],
+      "sha256": "74c41e5082ec1794682eab5d10be13cbd1d76815cfdef69d617ccf6df6956044"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0060-vector-adjunction.png",
+      "widthPt": 63,
+      "clipPt": [
+        311,
+        492,
+        374,
+        523
+      ],
+      "sha256": "b1d736446e3a0f339d5637005cd9565be307fcda6871f4728ac283b77c3eb85e"
+    }
+  ],
+  "englishSha256": "e62a14eeac4c78804053551eb2660019c9097393f2fb609e9bc0f7536598e368",
+  "chineseSha256": "0ac4e9435b54eed68e60942b7cd6c579589a88dbd5c0d4888c30653bb5559167",
+  "sourceSha256": {
+    "en": "e62a14eeac4c78804053551eb2660019c9097393f2fb609e9bc0f7536598e368",
+    "zh": "0ac4e9435b54eed68e60942b7cd6c579589a88dbd5c0d4888c30653bb5559167"
+  }
+}

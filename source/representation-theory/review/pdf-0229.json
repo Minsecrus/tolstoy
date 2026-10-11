@@ -1,0 +1,19 @@
+{
+  "pdfPage": 229,
+  "printedPage": "221",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "Historical bibliography entries [56]–[61] retain every author, title, date, publisher, journal, and page range; the running header and printed page number are recorded separately."
+  ],
+  "diagrams": [],
+  "enSha256": "85562c766ca5779b2c5bdbf60627d88ddc09a470bd8dfd1d218a745cc9e3a597",
+  "zhSha256": "314d7592209187be2aedb516d6e4f5b4d58052734b9cc3bc9a1ee5c897408e08",
+  "primaryReviewer": "representation_229_238"
+}

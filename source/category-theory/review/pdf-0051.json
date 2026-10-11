@@ -1,0 +1,33 @@
+{
+  "pdfPage": 51,
+  "printedPage": "42",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Compared PDF image and adj.tex; overlines in (2.2) and (2.3) checked visually.",
+    "Transpose correspondence cropped to preserve the inverse mapping arrow.",
+    "Page ends with the fragment associative, continued on PDF 52.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0051-transpose-correspondence.png",
+      "widthPt": 146,
+      "clipPt": [
+        207,
+        198,
+        353,
+        239
+      ],
+      "sha256": "9da5e3d89b4f9e697c3b520e8f70da1776fc2c39cc283418faa087dffe4d30be"
+    }
+  ],
+  "sourceSha256": {
+    "en": "407f89d63ce8f2593a781bfe534a3968ee677bed2386c9996d11158b0c2e15fa",
+    "zh": "3373330d76606f959290fc67fedc0df94bbdefacb8865d89198793f8da11d74d"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pdfPage": 61,
+  "printedPage": "52",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Diagrams rendered directly from the supplied PDF at 300 dpi.",
+    "Begins with the continuation from PDF 60; Lemma 2.2.4 continues on PDF 62.",
+    "Equation (2.4) and its number are preserved together in the component-triangles crop.",
+    "The transpose of the identity and double transpose in the proof were checked against both the rendered PDF and the author TeX.",
+    "Natural Chinese phrasing review completed; no added teaching explanations. English transcription, mathematical expressions, and diagram crops unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0061-triangle-identities.png",
+      "widthPt": 158,
+      "clipPt": [
+        201,
+        207,
+        359,
+        266
+      ],
+      "sha256": "88bc918cf83c2ff3fe0095062dcc05709d324718165452212eb924e1ee719567"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0061-component-triangles.png",
+      "widthPt": 263,
+      "clipPt": [
+        174,
+        350,
+        437,
+        410
+      ],
+      "sha256": "734be01a8bc16fcbbce72aad0cf726d88bdcb0ba7b2f74377004743a888b3003"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0061-adjunction.png",
+      "widthPt": 48,
+      "clipPt": [
+        206,
+        589,
+        254,
+        620
+      ],
+      "sha256": "bc3f72b741fcb23a2c730774ab9d500ea1ca1deb3bcc7fc4826b3dd7543bab51"
+    }
+  ],
+  "englishSha256": "28086cd2531721980b8dd059b3866d81950decdc6c38520b1cff74957845d1af",
+  "chineseSha256": "e4f47a9b7cc6dc6c142011eb4f1a7f678940740f994f548250379be740793ff6",
+  "sourceSha256": {
+    "en": "28086cd2531721980b8dd059b3866d81950decdc6c38520b1cff74957845d1af",
+    "zh": "e4f47a9b7cc6dc6c142011eb4f1a7f678940740f994f548250379be740793ff6"
+  }
+}

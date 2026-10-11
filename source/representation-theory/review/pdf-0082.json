@@ -1,0 +1,18 @@
+{
+  "pdfPage": 82,
+  "printedPage": "74",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Original A5 rotation paragraph prints (13254) instead of (13245); English preserved, Chinese corrected with visible note. Conjugation by even (23)(45) maps (12345) to (13254), verifying original cannot represent the other five-cycle class."
+  ],
+  "diagrams": [],
+  "enSha256": "5180d1e3862a1192e223740e7432b8483998a693652cda5b6c9cb8e51c5f5c35",
+  "zhSha256": "eab4ef6269f657e48f2ea59afdeaf261aff749ca58aa0821a5d6bb99bde01ef1",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0082.png"
+}

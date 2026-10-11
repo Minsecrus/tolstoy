@@ -1,0 +1,24 @@
+{
+  "pdfPage": 180,
+  "printedPage": "172",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Corollary 6.8.3 proof with inverse-reflection expressions and both V and V-prime; smallest i official correction visibly applied; finiteness conclusion; Corollary 6.8.4 and proof fragment, positive-to-negative reflection sequence.",
+    "English retains Let i be such that; Chinese chooses the smallest integer i with an adjacent visible official-errata note."
+  ],
+  "actualReviewScope": "Corollary 6.8.3 proof with inverse-reflection expressions and both V and V-prime; smallest i official correction visibly applied; finiteness conclusion; Corollary 6.8.4 and proof fragment, positive-to-negative reflection sequence.",
+  "diagrams": [],
+  "enSha256": "1e6259080e4423f0d6f8404924301c6b5afee3d31ecd538e19502cdbd9061aff",
+  "zhSha256": "e69d4540c2d04f7476ada6f096fb026f8faaaa656d7e6e5c02f0ccf9597a9aa5",
+  "sourceSha256": {
+    "en": "1e6259080e4423f0d6f8404924301c6b5afee3d31ecd538e19502cdbd9061aff",
+    "zh": "e69d4540c2d04f7476ada6f096fb026f8faaaa656d7e6e5c02f0ccf9597a9aa5"
+  }
+}

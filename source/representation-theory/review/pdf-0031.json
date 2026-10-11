@@ -1,0 +1,20 @@
+{
+  "pdfPage": 31,
+  "printedPage": "23",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked every matrix entry and commutator sign, including [y,x]=c for the Heisenberg basis.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "79e9a71bf7ce39170d1a8726bc70305e7aa4b45a5eca0106db10f1ed83756f82",
+  "zhSha256": "825ca7c7bd9707132a6a17124a3285c8f565fccff628d11a48a9e8d236f45e0e",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0031.png",
+  "officialErrataChecked": true
+}

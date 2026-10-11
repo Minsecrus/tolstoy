@@ -1,0 +1,19 @@
+{
+  "pdfPage": 29,
+  "printedPage": "21",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Visually checked arrow endpoints h′ and h″, restriction x′_h, all four graded-algebra cases, and the Hilbert-series numerator and denominator."
+  ],
+  "diagrams": [],
+  "enSha256": "6dfae3cb3650e9cc6dd8f3b9e6edb17c31aac042ee7738d6698653f485421ba6",
+  "zhSha256": "f60364cd6b71393e1164e7e270c2c4676d438f5fa5ec6ae411091b6ec76cc1b6",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0029.png",
+  "officialErrataChecked": true
+}

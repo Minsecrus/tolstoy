@@ -1,0 +1,20 @@
+{
+  "pdfPage": 11,
+  "printedPage": "2",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and compared both displayed formulas and the isomorphism symbol with intro.tex and the author's macro definitions.",
+    "The opening fragment continues the final sentence of PDF page 10; the proof of Lemma 0.3 begins on PDF page 12.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "a604ad5d0e77f35a336a20e3050d3ad2326220e9e62aeaca044cbcb5ddd32e6b",
+    "zh": "2e4157babfe810a869b2ced51d3e6d9591b631cd9368420907e742b1bb6a0748"
+  }
+}

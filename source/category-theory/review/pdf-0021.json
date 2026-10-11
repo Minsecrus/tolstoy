@@ -1,0 +1,20 @@
+{
+  "pdfPage": 21,
+  "printedPage": "12",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts.",
+    "Independent audit: replaced the English-article terminology in the inverse parenthesis with natural Chinese referring to the original the; Exercise 1.1.13 and the original claim remain intact, without an added uniqueness explanation."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "c5caadb1fb02fddb746d13e583b5cb00f569326f3ca643049db61e59d1897b68",
+    "zh": "cbf26cabce0369c54b1dbd0fab3b9cbcaee5d4a1ce8a0bc1f11cf183004c34d7"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pdfPage": 99,
+  "printedPage": "90",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0099-natural-transformation.png",
+      "widthPt": 76,
+      "clipPt": [
+        242,
+        153,
+        318,
+        197
+      ],
+      "sha256": "ba09b082dce8fd0990755f699d05cadab640770b7e2065be9533bf270ad411d6"
+    }
+  ],
+  "sha256": {
+    "en": "e9f38fab2dc79f3e08d6c27e85d4377064a08ebca7ce79a422971f8432bf9939",
+    "zh": "3ab5b6dd7207d93a32d3189c48ac78248036b64fd4e509449ede5e4426254695"
+  }
+}

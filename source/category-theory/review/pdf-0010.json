@@ -1,0 +1,20 @@
+{
+  "pdfPage": 10,
+  "printedPage": "1",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and compared the prose and mathematical notation with intro.tex.",
+    "The final sentence is an intentional page fragment and continues on PDF page 11.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "6a4666006fcdc8310abd3b3908e784833cfe044304dbc923fff8471a548e7cba",
+    "zh": "2a98452b4cf807e02b345b65ef6c755f130b0c430b8d065b6f992a1aaf52fe2f"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "pdfPage": 210,
+  "printedPage": "202",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "逐页实际查看源页；平坦模定义、局部化指数及投射模提升条件均按扫描核对。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "696d63156546949feb455955dfb708ca7683b101463ab17303943f21e8c4fbf7",
+  "zhSha256": "f150d726db6924f32c9b4c6c3f92f2f2fb59d1ecea6efa4a807006080e76ce9d"
+}

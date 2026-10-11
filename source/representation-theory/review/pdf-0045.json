@@ -1,0 +1,20 @@
+{
+  "pdfPage": 45,
+  "printedPage": "37",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "300dpi verification: generalized eigenspace is overline V(lambda), not tilde V(lambda). Restored the OCR-omitted sentence E restricted to overline V(lambda)=0. Checked all parts (a)–(e), including minimal N_v.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "8bce304c002ff94f2e14186ab2a3a04a5bc1746e1ed8556647b592594d728c38",
+  "zhSha256": "85ea88c31da2a2f4614a2bfd71deb9680b54b29e17c678dffd31deac30851c66",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0045.png",
+  "officialErrataChecked": true
+}

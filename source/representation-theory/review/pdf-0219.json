@@ -1,0 +1,17 @@
+{
+  "pdfPage": 219,
+  "printedPage": "211",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；矩阵单位E^i_{jj}、双重直和指标与Cartan矩阵重数方向逐项核对。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "924ff89e68b21ba06ebd71aeb57c3a6d79f6bce344fe3201bafe0d1f9153df65",
+  "zhSha256": "ff5071b663a2b9dfad45618305e9183f623f08ecf9aa276c2b9922565972066c"
+}

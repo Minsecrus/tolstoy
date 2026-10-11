@@ -1,0 +1,65 @@
+{
+  "pdfPage": 39,
+  "printedPage": "30",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Example 1.3.5 continues from PDF 38. Four double-arrow diagrams preserved as inspected 300 dpi PDF crops.",
+    "Chinese sentences revisited for natural word order, clear references, and fluent phrasing under the clarified user preference; no added conceptual or proof explanations. English, mathematical expressions, diagrams, and the visible correction note on PDF 37 remain unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0039-determinant.png",
+      "widthPt": 116,
+      "clipPt": [
+        222,
+        256,
+        338,
+        298
+      ],
+      "sha256": "a24707c733737fe56802fcecea70504dff0a763d462908fee3fa46bc92525382"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0039-vertical-composition.png",
+      "widthPt": 78,
+      "clipPt": [
+        241,
+        401,
+        319,
+        465
+      ],
+      "sha256": "f9708e6eb9039e156656a9e21187d67f0e0f7f7e68329d70c504c9e3ea20c81a"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0039-composite.png",
+      "widthPt": 75,
+      "clipPt": [
+        244,
+        484,
+        319,
+        526
+      ],
+      "sha256": "6d99c1f482d141860db82da868ff01b8276f1bd7ee9ad1959145e9d61545fe76"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0039-identity.png",
+      "widthPt": 74,
+      "clipPt": [
+        244,
+        555,
+        318,
+        595
+      ],
+      "sha256": "017363731582abdf923bddee09db6613e0f15e7da804efdae4226777659ea94c"
+    }
+  ],
+  "sourceSha256": {
+    "en": "628cd4f25f2fa48389faa1c94b549e38f2b1336fc6b2bf69a1b3fec4c7de5ad4",
+    "zh": "728bd454aa14c312e744320574e7288ddc1743d11aac2ab039d7cde7c0847a18"
+  },
+  "styleReviewed": true
+}

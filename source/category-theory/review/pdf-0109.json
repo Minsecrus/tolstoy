@@ -1,0 +1,30 @@
+{
+  "pdfPage": 109,
+  "printedPage": "100",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0109-free-vector-space-universal.png",
+      "widthPt": 78,
+      "clipPt": [
+        250,
+        576,
+        328,
+        634
+      ],
+      "sha256": "d30918d49b9b7f28f9ffdbdec93fe00e5198c974616d0802aaecac068c902931"
+    }
+  ],
+  "sha256": {
+    "en": "3eba823a8c3b25e08803267f528ad0e4e13df91a9be8b7280bb63ab685ecb1f9",
+    "zh": "dcc56447414d06981bf4bf401dbc1576afbd961bde67854e9739232eabb62242"
+  }
+}

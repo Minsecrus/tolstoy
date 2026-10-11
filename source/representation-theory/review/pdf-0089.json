@@ -1,0 +1,18 @@
+{
+  "pdfPage": 89,
+  "printedPage": "81",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已从扫描原页核对 Heisenberg 群的两个生成矩阵、作用中的平移方向 x−1 和 z^x；修复识别层的字母和数字错误。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "d641aade2bccc66802956f8792228c44798836d47df775720523b1cab4490d6d",
+  "zhSha256": "b414b79550104c12b0ca4b0f5e6930675dc8e6c1d10c8c85070ecff92f27c8a7"
+}

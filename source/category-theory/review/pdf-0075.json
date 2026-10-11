@@ -1,0 +1,64 @@
+{
+  "pdfPage": 75,
+  "printedPage": "66",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; geometric illustrations cropped from the supplied PDF at 300 dpi.",
+    "All prose and formulas visually checked against the PDF and matching sets.tex; cross-page fragments retained.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed.",
+    "独立二审把无距离结构的描述改为“也谈不上一个点离另一个点近不近”，使中文自然；原意、公式和插图保持原样。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0075-set.png",
+      "widthPt": 45.1794,
+      "clipPt": [
+        257.6716,
+        219.9041,
+        302.851,
+        275.0042
+      ],
+      "sha256": "c93da77019de64781e60c215119fca766e6705b400aa61eeb876b717db31abaf"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0075-function.png",
+      "widthPt": 127.0981,
+      "clipPt": [
+        216.464,
+        412.5063,
+        343.5621,
+        464.628
+      ],
+      "sha256": "9d8133a56aa283e90ca15f60e13c83450a6e0bf59649dc5b8d6c8148ff679d80"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0075-composable.png",
+      "widthPt": 206.5345,
+      "clipPt": [
+        176.7458,
+        488.4551,
+        383.2803,
+        542.5624
+      ],
+      "sha256": "e0dd92574faf1874f386a62745f8e9b548afc8243d306bcfbe40404be514fb25"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0075-composite.png",
+      "widthPt": 206.5345,
+      "clipPt": [
+        176.7458,
+        564.9003,
+        383.2803,
+        614.54
+      ],
+      "sha256": "fc47266f021795789e0eac633da5048f16cf7fb63285eafbc517c585792e33fb"
+    }
+  ],
+  "englishSha256": "aba62fc00255216629899a14645582b9990838b9e69b9997635f0dd1ca892a9b",
+  "chineseSha256": "22232db7707102b70409a1e3ee6cd08442c13bc19e92432d07cd4e6ddff782b7"
+}

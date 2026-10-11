@@ -1,0 +1,284 @@
+{
+  "status": "complete",
+  "reviewer": "representation_049_068",
+  "firstPdfPage": 89,
+  "lastPdfPage": 108,
+  "unresolved": [],
+  "scope": "20页实际原扫描图像逐页查看、完整英中稿与数学条件/证明/习题/提示/历史引用/脚注复核；100与106以300dpi原扫描局部确认误读并由主译修正后重读。主译终稿术语统一后再次完整阅读20页中文，所有散列绑定当前终稿，未经视觉内容审核不会记通过。",
+  "pages": [
+    {
+      "pdfPage": 89,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Frobenius历史插曲结尾全部应用与Lie和解叙述；4.12标题、正N边形习题4.12.1两问、Heisenberg群习题4.12.2的p素数/阶p³/zᵖ=1、两个3×3生成元矩阵和函数作用、(a)(b)全部条件。",
+      "enSha256": "d641aade2bccc66802956f8792228c44798836d47df775720523b1cab4490d6d",
+      "zhSha256": "b414b79550104c12b0ca4b0f5e6930675dc8e6c1d10c8c85070ecff92f27c8a7",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 90,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "习题4.12.2(c)(d)与R1分解；4.12.3对称/外幂不可约性及特征向量、δjk矩阵单位提示；4.12.4邻接矩阵重特征值；4.12.5二十面体顶点/面/边函数表示完整；4.12.6有限域仿射群跨页开头。",
+      "enSha256": "775f2a0beccffd361554c542049b333831ea11dd3c7d57d9fdb2a166a5862206",
+      "zhSha256": "6092f6b4698ab4211c29388324076b5f3d35aad0958712525a4ac9f0fa8081c9",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 91,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "4.12.6仿射群a非零与特征标/张量积、零和函数提示；4.12.7 SU(2)实表示(a)–(f)、四元数乘法全部正负号、共轭反序与乘法范数、单位球面和SO(3)满射及核。",
+      "enSha256": "09f7042aef225dd6fa3dd626523b2f6ed925eb35fbcf212d47280dc91c027626",
+      "zhSha256": "95e91f3dfd427f4e5eff29cdda610e2f4e50c29472e7ffc81bac851676b403b0",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 92,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "4.12.8五类SO(3)有限子群及n下界、正二边形脚注2；极点/循环稳定子/轨道n/m、2(1−1/n)=Σ(1−1/mi)完整提示；SU(2)分类；4.12.9与4.12.10忠实表示的跨页开头。",
+      "enSha256": "34c5e27279d215f255ee109836cba1d3cba00f878892f52c9193603835c1c709",
+      "zhSha256": "7115b4a4f3abf6b570d5fcefc9e3cf5bf3fb60bd54f09ceccb48d32ac1642d5c",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 93,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "4.12.10忠实表示在对称幂/张量幂出现及fu(g)=f(gu)提示；4.12.11弹性理论背景、dg(P)极分解、形变张量dP、圆盘面积范数、力Fv与应力SP、Hooke线性映射及54参数，和94连续衔接。",
+      "enSha256": "d2c4551c9a0befb724e0bebf4a70855ead122426f40bfd5677cc73b7d25efe77",
+      "zhSha256": "6a33e1e3146fa6b470748f2ee55e58b07e1f8d793c0711b2d5dc47f868e50be4",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 94,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "4.12.11压缩K/剪切μ、SO(3)不变性、End(V)=R⊕V⊕W与S²V、复化不可约/Schur/对称应力、Kx+μy和黏土例；4.13标题与Hamilton17岁/Laplace/大学/皇家天文台历史开篇全部。",
+      "enSha256": "0177b939f789c771a317b089d3ef75028c10cb04f004fa24f0a4568f908c6487",
+      "zhSha256": "1289be88e78f1fb0c2e2df026e1b8857bd56bfc55778ca2980aa9339bc0def56",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 95,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Hamilton浪漫派交往、Kant空间与时间直观、[61]与[17卷页]引文；特征函数和3n二阶常微分方程到两条一阶二次PDE；三派代数学家及全部引用；负数/虚数形而上学跨页句。",
+      "enSha256": "a5e15108cdc20081cf5d460c95a9ee369b8eeb7f675b146409666da44f8ca652",
+      "zhSha256": "bcc70f3f0f546f837b01655e3b59079ba40c038db4fce15312560d53c6d91f1c",
+      "unresolved": [],
+      "notes": [
+        "原书引用[17, 2:96, 2:98]的逗号已由主译恢复并复核。"
+      ]
+    },
+    {
+      "pdfPage": 96,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "上页虚数句完成；Argand图、代数偶与时间哲学全部引用；三元数/Frobenius不可能性、四元数放弃交换律、1843-10-16与妻散步、两组直接引文及公式记录/科学院会议跨页。",
+      "enSha256": "73f696ee9bf2e11c33537de3ed880337e193df8b2c0d98181b52091636a11fa2",
+      "zhSha256": "f152437a71f26f4e04489c6d4fd5fabfe370f4049dd409399ea1b87bf6dfa00b",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 97,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "科学院院长跨页衔接；10–15年计划、电量与极性、时空第四维、两行十四行诗硬换行与出处；Herschel婴儿硬食引文；1853年800页术语表全部14项、两本书与Tait/Gibbs/Heaviside论战跨页。",
+      "enSha256": "c58fd0908429e860c887f5cd382ad901f4320375c22ca6675e5b94ac5c9b1869",
+      "zhSha256": "fa3d019b1c5453a0bcde51a1db06e0b7e2b596673e18e7c61514f59aa407d0d6",
+      "unresolved": [],
+      "notes": [
+        "两行诗首行硬换行已恢复并实际重读英中文终稿；术语串与原书拼写逐项核对，未用现代词替换作者列表。"
+      ]
+    },
+    {
+      "pdfPage": 98,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "向量点/叉积与Tait评语及[10,185]；23年后的桥石刻公式故事、两处引用与桥牌i²=j²=k²=ijk=−1、数学家朝圣的完整历史结尾。",
+      "enSha256": "d0c0a721ce0aaf71c4a2990a9537462303b3a25b5ebcb533d767c02664a9d267",
+      "zhSha256": "8e127d5775bb6255d2aba82c945f631eb9c1d0835f7ecc730fc8c543bfadaf35",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 99,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "第5章标题与5.1指标；定义5.1.1复/实/四元数型三条件；习题5.1.2三种实自同态代数、V⊕V*复化、双线性B与正定Hermitian型及跨页标量唯一性提示。",
+      "enSha256": "a4701e7c9948e2c784449a5329f862ee6b715a2ad169d9c3071d5720a3ad2ae1",
+      "zhSha256": "3f1e90ab5be3dd0e405f202518fed96313ee1826906c20e6db73fc5cb527c158",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 100,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.1.2反线性ji=−ij/j²=λId/zz̄归一化和实型复化；5.1.3 Z/nZ/S3/S4/A5/Q8全部标签与型；5.1.4 FS指标；5.1.5阶≤2对合及对称/外幂迹公式三式与i≤j/i<j条件。",
+      "enSha256": "ef2a88b9d3df96c3d2c62327d3d0670a0c19d47deb800a5f003812d219761f45",
+      "zhSha256": "d08811cd6b6604c87129a9e3a4dddb46efda66fba21a8599c9b2a20c636e79f8",
+      "unresolved": [],
+      "notes": [
+        "A5两种三维不可约表示原标签在300dpi扫描局部明确为C_+^3,C_-^3；已由主译恢复并复核英中文终稿，未保留C^{3 prime}的任意换名。"
+      ]
+    },
+    {
+      "pdfPage": 101,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.1.5 g²特征标、平均投影P、固定空间维数与三种型cases、对合计数完整；5.1.6实数可定义假设与5.1.7奇数阶练习；5.2开篇、代数数/代数整数两种首一根/矩阵特征值定义。",
+      "enSha256": "34eeb896fa8758621cdd32b9c2bfaf7d3490f62dd7dd0033229be21f780b6483",
+      "zhSha256": "12781538648dd5fac79787ca90731730c45ea44c74787b3bb0c7d424f0e17d64",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 102,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.2.3定义等价双向证明、首一多项式和相伴矩阵完整负系数/次对角线；Qbar与A记号；5.2.4环/代数闭包断言，α/β特征向量与A⊗Idm±Idn⊗B的跨页证明。",
+      "enSha256": "5a011e729f7ba358f0b831fb15ef389c1b5582dcb36fcb262d38e621c1b9265e",
+      "zhSha256": "3d0f29c91935f48b6a36b357b94f5d68082c5809326e3a2b5126184f818475d8",
+      "unresolved": [],
+      "notes": [
+        "终稿依全书术语统一将companion matrix译为相伴矩阵；已完整重读102中文及矩阵证明，数学内容和英文不变，当前散列与主译一致。"
+      ]
+    },
+    {
+      "pdfPage": 103,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.2.4乘积特征向量、逆元多项式和有限扩张证明结尾；5.2.5 A∩Q=Z与最简p/q分母论证，英稿p(x)保原、中文p(z)按官方勘误紧邻校注；最小多项式/代数共轭/Vieta整数系数；5.2.6求和共轭引理及证明跨页开头。",
+      "enSha256": "b4b48e06e4de525fb526cd2fb012af80523c2c4a22ca270c74df64e8e0e46206",
+      "zhSha256": "683edae0f4ebeaae45144bcbfcb03c8962e29d28b8130635eac0e9bfd34e8fcd",
+      "unresolved": [],
+      "notes": [
+        "英文原文p(x)保留；中文依2024-06-03作者官方勘误改p(z)，已确认紧邻可见译校注和理由，无静默修订。"
+      ]
+    },
+    {
+      "pdfPage": 104,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.2.6 Kronecker和特征值证明结尾；5.2.7有限Galois扩张(a)、维数>1特征标有零点(b)、标准正交/算术平均/β共轭完整提示；5.2.8群幂双射、分圆域及Galois自同构；5.3 Frobenius整除性定理。",
+      "enSha256": "4f2fc4bc1de7ae1d97b5b79f731bd32f4abe2d652edf07095e95cb6737ff122d",
+      "zhSha256": "b246673f1f60542f6f6f7519c036589ce6b555deb37ea3c5c65ea8057558ff88",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 105,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.3.1共轭类代表与λi定义；5.3.2中心类和P、整性与迹证明；代数整数的三条理由、全部χ共轭条与类函数转换、标准正交得到|G|/dimV的所有公式及证明跨页。",
+      "enSha256": "29561e2f988c3ad5b0f83aa9c7ea596f272068b06a2b3ed43bac37a90f86afab",
+      "zhSha256": "ecec03a1952c40866431672f77ddb03c6e5fcab4de3ba5778e4588c3117659f2",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 106,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Frobenius整除性证明整数结尾；5.4可解群正规序列/阿贝尔商定义；Burnside pᵃqᵇ与a,b≥0及历史引用；5.4.4 gcd条件/标量或零；5.4.5单位根平均、全部代数共轭乘积证明。",
+      "enSha256": "c7e324f2ca0547cc59ff90dcedeeb17b8960ebc17f24ca431494d23940103d5c",
+      "zhSha256": "4d39100f9e9b05fb010517a9a8dbff74f0d6356a06873f0e37cd483281d0574d",
+      "unresolved": [],
+      "notes": [
+        "引理5.4.5证明变量在300dpi原扫描明确为Latin a,a prime；主译已恢复全部英中文变量并复核，没有将校录错误作作者勘误。"
+      ]
+    },
+    {
+      "pdfPage": 107,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.4.4证明Bézout整数系数及单位根等式；5.4.6共轭类大小pᵏ、k>0及真非平凡正规子群；(5.4.1)列正交；IrrG三分D/N全部条件；5.4.7存在χ非零与代数整数a定义。",
+      "enSha256": "aeda5b2ff80707633171a1986b1a4f6e7aa55ccceaf538d225084f0fe2368b04",
+      "zhSha256": "5cdc1ab699c5907e6bbfd1401ceab682ed1f04740ba45bca3087ee8a8421fe16",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 108,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "5.4.7三部分和0=1+pa+ΣN和非零结论；H由ab⁻¹生成/正规/平凡作用及真非平凡完整；Burnside最小反例/单群/共轭类计数/非平凡中心矛盾；5.5 Burnside1852–1927/1875/1885、赛艇/任职/退休历史开头并核109接续。",
+      "enSha256": "d64f8553c50af009bf318eca91b3f9d460321ed07a37bc50f51810f3d0b8d178",
+      "zhSha256": "a98fb0a886eca307ba4a16b09225b940d933a7073eaf1e0ef6b7e3725422e2d4",
+      "unresolved": [],
+      "notes": [
+        "额外实际查看109原图和该页英中开头，确认Even/甚至的历史叙述接续准确。邻页88的年数最初低清误读为forty，已实际查看300dpi原扫描并查匹配2011原文，确认为thirty odd years，三十多年译文正确；该邻页不纳入本审计范围。"
+      ]
+    }
+  ]
+}

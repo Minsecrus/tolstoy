@@ -1,0 +1,245 @@
+{
+  "status": "complete",
+  "pages": [
+    {
+      "pdfPage": 50,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full chapter-opening prose, Mac Lane quotation, Section 2.1 introduction and Definition 2.1.1; opposing F and G arrows, left/right adjoint terminology, both hom-sets of (2.1), naturality in both A and B, and choice of adjunction.",
+      "enSha256": "5d0da87ebd382fee5c132c69cfe1fb58022d65710a92ad7c4fb4c1afee3807c3",
+      "zhSha256": "d6fa0e5f116546abf0af65b6a6de8391e3297719a568b200af66854453895de6",
+      "unresolved": [],
+      "notes": [
+        "All original text and the natural-isomorphism choice, rather than mere existence, agree in both languages. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 51,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full transpose notation and two-direction correspondence; double-bar identities; equations (2.2) and (2.3) including all domains, arrow labels, bars and universal quantifiers; Remarks 2.1.2(a)-(c), map-array construction and continued Lie/associative-algebra dialogue.",
+      "enSha256": "407f89d63ce8f2593a781bfe534a3968ee677bed2386c9996d11158b0c2e15fa",
+      "zhSha256": "3373330d76606f959290fc67fedc0df94bbdefacb8865d89198793f8da11d74d",
+      "unresolved": [],
+      "notes": [
+        "Checked both long-bar naturality equations directly against the original image; transpose directions and all quantifiers agree. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 52,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full continuation of Remarks 2.1.2(c)-(d), uniqueness up to isomorphism of left and right adjoints, universal-enveloping-algebra discussion; Examples 2.1.3(a), free/forgetful vector-space diagram and both functions between hom-sets, with coefficient formula continued onto PDF 53.",
+      "enSha256": "0c29f594ceb6b4996fc55a8b3b40538552c797f90008163f1920d6c32e6efe6b",
+      "zhSha256": "1649839eb7db54d4c50c7907d8b4c73c79639b2b9d8506e0385f0513f9ac5798",
+      "unresolved": [],
+      "notes": [
+        "Checked F upwards from Set and U downwards from Vect_k, and all coefficients in the linear-extension formula. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 53,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full free-vector-space inverse proof, all four summation expressions and double-bar evaluations, universal quantifiers and canonical bijection; distinction between V and U(V); Example 2.1.3(b), free-group adjunction diagram and general-adjoint-functor-theorem discussion.",
+      "enSha256": "e953074d9e87f428838e8fd4a5dabb22bf68d87eb3fac295d332cb6933e32cf5",
+      "zhSha256": "baf7bf103ff7e15e9f80027597a1de369ad7ff27ed482cc5c2d7157701fc2b1d",
+      "unresolved": [],
+      "notes": [
+        "Double bars and summation indexes agree with the PDF; source order of the two example references is preserved. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 54,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full Examples 2.1.3(c)-(d): abelianization and group/monoid adjunctions, eta/phi/unique-bar-phi universal-property diagram including all quantifier labels; hom-set bijection in both directions, commutator normal subgroup construction, and right adjoint consisting of invertible elements.",
+      "enSha256": "61f6a18ef64635429f50dbf06fae8d48e64fb7095aa31ae0c84d6d6c67a2ffed",
+      "zhSha256": "a9f9c84a6a2de39b1c01eb851a13f9d040f19873e8ba8265db0ff02f3ebb5dc7",
+      "unresolved": [],
+      "notes": [
+        "The crop retains eta, universal phi and A, and unique bar-phi labels; both F adjoint to U and U adjoint to R are preserved. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 55,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full reflective/coreflective definitions and Example 2.1.3(e) on fields with ring homomorphisms and x nonzero restriction; Remark 2.1.4 algebraic theories, all examples, group operations with arities 2, 1 and 0, X^0=1, inverse-structure/property distinction, and model definition continued onto PDF 56.",
+      "enSha256": "446ed2990db3744ee1ec92510975d5a802b9d279d811d48cbab28f1736efd415",
+      "zhSha256": "635ec10ca9c39f4cd9d2d4a69be5c7b74427e7526be1c064ffe59f45ffec67b9",
+      "unresolved": [],
+      "notes": [
+        "No universal quantifier or arity condition omitted; the field exception and cross-page model definition remain complete. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 56,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full algebraic-theory continuation, everywhere-defined operations and equations, fixed-field vector-space example and scalar operations; Example 2.1.5 discrete/indiscrete adjunction with D, U and I arrow directions; Example 2.1.6 product/exponential functors and hom-set bijection with B fixed.",
+      "enSha256": "bb42c13280229408e6233d46f15fd29984aad76c797f88ed3e5fe53bd8622aa9",
+      "zhSha256": "67b8180d3bcf5a328e6e8b2101a7a22f25b9f8bacacbfa77019ad783672ca73a",
+      "unresolved": [],
+      "notes": [
+        "The discrete/indiscrete arrow directions and fixed exponent B agree; English and Chinese retain the cross-page final fragment. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 57,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full Figure 2.1 and caption including A/B/C labels; both currying/uncurrying formulas with a and b conditions, real-valued surface interpretation and product/exponential adjunction; Definition 2.1.7 initial/terminal objects, every Set/Grp/Ring/CAT example, and uniqueness up to unique isomorphism.",
+      "enSha256": "19c902992191fcd03210edafc52a9d547379189c728da126871e818e255dc30c",
+      "zhSha256": "de645868fb3ae64d64b3ffebb63f1075b25604839f27369682d89233039b6983",
+      "unresolved": [],
+      "notes": [
+        "Checked the empty/trivial-object examples and unique-isomorphism assertion; the caption and all geometric labels are complete. No correction needed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 58,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对引理2.1.8及唯一同构证明、例2.1.9始/终对象的伴随描述、注2.1.10对偶与注2.1.11伴随复合、自然Hom同构链、习题2.1.12–13；另看两张裁图，检查F/G/F′/G′及F′∘F、G∘G′标签与箭头方向。",
+      "enSha256": "935e647f1b96e2be15d69256447ec121b9e9d9eb52dea758fc3182e81c237513",
+      "zhSha256": "b5b146f4e8fda602c5ad9f5855b64298970ea7dcca87bfbaf85e77759df3cc89",
+      "unresolved": [],
+      "notes": [
+        "独立逐段比对原页全文与当前英中稿；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 59,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对习题2.1.14单一自然性等式的整条转置链与量词、2.1.15始/终对象保持条件、2.1.16(a)(b)群作用与表示、2.1.17开集偏序与五函子伴随链；2.2标题、导言及跨页句子；另看伴随裁图，核对F/G与范畴、箭头和伴随标记。",
+      "enSha256": "c2df499f3560ec5a985b69cb849a455386decd67e702ccfcb048c7b92cb251d5",
+      "zhSha256": "9c3b785722eb75817c25c6fff17ec946a63148608a5be0eb807418d10eded2e1",
+      "unresolved": [],
+      "notes": [
+        "完整保留59→60的自然性要求跨页句子；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 60,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对导言续句、自然性与转置/复合的两种路径、单位η与余单位ε的分量定义及自然变换方向；例2.2.1自由向量空间/遗忘伴随、形式线性和与实际值、无限维例子跨页片段；另看两张伴随裁图核对方向及U/F标签。",
+      "enSha256": "e62a14eeac4c78804053551eb2660019c9097393f2fb609e9bc0f7536598e368",
+      "zhSha256": "0ac4e9435b54eed68e60942b7cd6c579589a88dbd5c0d4888c30653bb5559167",
+      "unresolved": [],
+      "notes": [
+        "单位/余单位定义中的两条整链上横线，以及形式和指标、60→61无限维片段均与原页一致；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 61,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对例2.2.1续段、引理2.2.2与注2.2.3、全部函子与分量三角恒等式(2.4)、引理2.2.2完整证明的单/双转置与对偶步骤、单位余单位决定伴随的导语、引理2.2.4起句与首公式；另看三张裁图核对Fη/ηG/εF/Gε及全部分量下标、恒等箭头、式号。",
+      "enSha256": "28086cd2531721980b8dd059b3866d81950decdc6c38520b1cff74957845d1af",
+      "zhSha256": "e4f47a9b7cc6dc6c142011eb4f1a7f678940740f994f548250379be740793ff6",
+      "unresolved": [],
+      "notes": [
+        "完整数学条件、证明和61→62引理片段一致；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 62,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对引理2.2.4续句与两条转置公式及证明；定理2.2.5(a)(b)的一一对应条件、定义回顾、唯一性与存在性证明、函数(2.5)的双向定义、互逆断言与跨页证明；另看函子对及互逆转置裁图，核对F(η_A)、FG(g)、ε_{F(A)}、ε_B、1、g全部标签和方向。",
+      "enSha256": "2b5ab51da55c5570ca63fb9828f07a9ee7b03a0f737e11af04f75d838ed60413",
+      "zhSha256": "c0cce161499d47e5b28528ac7c9ec3b0ced1ffba09e1a0c17367b24695cfbc24",
+      "unresolved": [],
+      "notes": [
+        "定理要求F在左、G在右及自然性(2.2)/(2.3)均完整；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 63,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对定理2.2.5证明续段两条外缘路径、双转置互逆、自然性验证与单位/余单位恢复；推论2.2.6、例2.2.7有序集伴随条件(2.6)、至多单元素Hom集、自然性/三角恒等式、单位余单位不等式及全部量词；另看三张裁图，核对F/G、f/g、p/q的两向或平行箭头与对象。",
+      "enSha256": "ed7725cdf4bce502a57cf892d3b676ace8f0210a740733a6c64fe2ddbd167932",
+      "zhSha256": "650b83677fae0f32f5d30d8ceb3705cd8caeaa962c2d5d9c48f78eee6bb9ff37",
+      "unresolved": [],
+      "notes": [
+        "公式下标、转置横线、全部有序集条件与双向等价一致；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 64,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对例2.2.7闭包/包含伴随续例及A⊆X、B闭且⊆X等全部条件；注2.2.8等价四元组与伴随四元组的区别及引用；注2.2.9两串函子、自然变换α和通常图/弦图；另看三张裁图，核对Cl/i、所有范畴下标、F1–F4/G1–G2、α及箭头/弦连接。",
+      "enSha256": "f7e1e83a5a60e33599764b29fe02876f258e3cd05e0f5971d53fc6347de8f489",
+      "zhSha256": "55026ba4ac0e940d299b0555c46cce25ac0326f45c6f5b73e1ca9f57f5eec2c3",
+      "unresolved": [],
+      "notes": [
+        "闭集限制、两个等价表述以及η/ε未必为单位余单位的限定均准确；无修正。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 65,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对注2.2.9续段任意m/n与零值情形、垂直/水平复合与恒等弦、单位/余单位弦图、两条三角恒等式弦图及拉直说明；习题2.2.10起句与(a)全部量词及不等式，保留65→66片段；另看六张裁图，核对F/G/η/ε所有标签、连接位置、等号与保序映射方向。",
+      "enSha256": "46969c339ccb3d8925919edb61c33441062cf5cd8b63fc68e812b97a963c02cf",
+      "zhSha256": "b21ddedcda457a5dfbf3a186647399bbac45b0d60b8c06ac48fb69fb8fecc802",
+      "unresolved": [],
+      "notes": [
+        "将中文同义词‘竖直复合’统一为既有译法‘垂直复合’；无内容、公式或图像改变。修正后已更新primary review当前哈希。"
+      ],
+      "status": "verified"
+    }
+  ]
+}

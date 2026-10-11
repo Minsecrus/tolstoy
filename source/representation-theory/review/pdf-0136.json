@@ -1,0 +1,22 @@
+{
+  "pdfPage": 136,
+  "printedPage": "128",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Schur-polynomial determinant, permutation indices, signs, exponents and summation conditions visually checked."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0136.png",
+  "sourceHashes": {
+    "en": "6c4ee1e10d122fa46099845c04d28902674d016128acb4fd0c744a47c90c71f1",
+    "zh": "38449bcb78bd9cbeb3a7168342cd4d3c2bf53bd714bdc4caeb43b95add4105b7"
+  },
+  "enSha256": "6c4ee1e10d122fa46099845c04d28902674d016128acb4fd0c744a47c90c71f1",
+  "zhSha256": "38449bcb78bd9cbeb3a7168342cd4d3c2bf53bd714bdc4caeb43b95add4105b7"
+}

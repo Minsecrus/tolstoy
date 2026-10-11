@@ -1,0 +1,1217 @@
+{
+  "status": "complete",
+  "reviewer": "representation_089_108",
+  "pdfPath": "output/pdf/Introduction-to-Representation-Theory-Zh.pdf",
+  "pdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+  "pdfPhysicalPageCount": 134,
+  "pdfBytes": 1769351,
+  "firstPhysicalPage": 49,
+  "lastPhysicalPage": 96,
+  "overviewPagesActuallyViewed": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96
+  ],
+  "overviewContactSheets": [
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-049-054.jpg",
+      "physicalPages": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "sha256": "812aec854206ce2ab8e86de44f3f761a7ac4c44280e7888f70be02dc93197f8d",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-055-060.jpg",
+      "physicalPages": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "sha256": "ca566d9d5538f8b05fe363c1a9e0db6053c3617b02e095bf0cb0aa6b0ee833b8",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-061-066.jpg",
+      "physicalPages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "sha256": "fc3f995401979ca0d8a8f8807ff3bf9bc49423adc2dfa1174df5ca2404ff6b02",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-067-072.jpg",
+      "physicalPages": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "sha256": "e6620ff69aeaf357e89345af12815e87bf13873b76f7c082a07ce9eebecf230e",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-073-078.jpg",
+      "physicalPages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "sha256": "41a19ba6e35245992597f1db321d43232c8877c215b92f4e6913d4ae9c0779b7",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-079-084.jpg",
+      "physicalPages": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "sha256": "6f5c2c8c51bdaaf5e344ebbaa0a50ecc609c95c7862fd3994401d3beb119f5c5",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-085-090.jpg",
+      "physicalPages": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "sha256": "0d013979a0c9d17ce4c402c133be17a0f34fc657be6bf22478855cade5b98acb",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    },
+    {
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-contact-sheets/contact-091-096.jpg",
+      "physicalPages": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "sha256": "9c563ab9d943d7d934adcc105a146b7ced02f8fac79e2609c10825be605de02f",
+      "dpi": 110,
+      "allSixPagesActuallyViewed": true,
+      "status": "verified",
+      "unresolved": []
+    }
+  ],
+  "highResolutionPagesActuallyViewed": [
+    51,
+    63,
+    74,
+    75,
+    78,
+    79,
+    82,
+    85,
+    95,
+    96
+  ],
+  "highResolutionImages": [
+    {
+      "physicalPage": 51,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-051.png",
+      "sha256": "5c2732868d24a07734a1f733a058ff8bc9a1b453ff5e991b68489675326c009e",
+      "pixelSha256": "4d465a3360559044bba6e1dca9cf3312549e680866d8ad8f81ad62fe339f6db4",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "第五章章首、Frobenius–Schur 指标定义与分类列表、复合上下标及对称/外幂迹公式；标题宋体粗体、章首换页、页眉页脚。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 63,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-063.png",
+      "sha256": "a38797044ada74e263d69ff38a35be266b3f7221317e888854dee14ff44f6516",
+      "pixelSha256": "f51b83153e042064bb2886c64182dc2da3c094c16fca2df55098cfa143bf6d46",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "Specht 模与杨表证明的长中文段落、置换符号、分式和 Hom 公式，译校注及证明结束符；正文边距及行距。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 74,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-074.png",
+      "sha256": "1976d7660939f3d8312bc5882b7e8b8401a87cb80d2a56956e32648e8922fc66",
+      "pixelSha256": "2c1e66342ea9f56e55ac72d8024ba744b43a76775e439206062d87abb2b7a9d3",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "5.23–5.24 正文与习题、官方勘误译校注和页底收尾；确认 5.25 引导段及单字“则”已整体移到下一页，页底无孤立引导词。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 75,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-075.png",
+      "sha256": "3bda5be01787e267d5e5a9ab01fd2d279a0266c3bdefcc6c33c57ffa0a6aca68",
+      "pixelSha256": "b1f5d01536217576535f95b8ffdd5b072b0a5c02cb733ac3ec25b5345107375e",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "5.25/5.25.1 小节标题、G 阶公式及“则”同页，GL2 四类共轭宽表的全部行列、矩阵、条件、表线及椭圆型特征值公式；表格未越过边距。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 78,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-078.png",
+      "sha256": "35f722ef5acf8770de670f452637b9b5503f477268f0923844fe08b063f07143",
+      "pixelSha256": "cf965218a2863b48f3d3d6f217c0ea36b444544699858ef3cf8ad40c4d44df5f",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "主系列表示定义及定理 5.25.2，Frobenius 求和和三种矩阵情形；页底双曲型结果完整，未留下孤立“若”。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 79,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-079.png",
+      "sha256": "c43c6c37ee05914a1b2510a5ff74bbfb794726818a2d7f816431d9348ad3b5d1",
+      "pixelSha256": "9ce30daf30f9a6f58b245c8677c146b0981ce214b03e3d0ce4250287f078e993",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "承接双曲型说明、椭圆型“若”与矩阵及 y≠0 同页，紧邻译校注、三行内积计算、直和分解及页底 Hom 公式。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 82,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-082.png",
+      "sha256": "11b247ed3a8827593101d36ae5b37f85b88eb98c93d3584d040224ae3b27987f",
+      "pixelSha256": "3c3d5191d055a3fe06b590823204a64119ab125b8c2d4d0c08f2a9cc10b4d457",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "离散系列虚表示特征标、两个矩阵公式、内积与正维数引理、多行大分式、椭圆型求和及页底条件上下标。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 85,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-085.png",
+      "sha256": "1d554452d88ae3c01a3443ce752f53a64aedbefa2acf004574868fdb003c760d",
+      "pixelSha256": "a92b9b6a4c8ad93a4df9cc487c8840af6e9561163d9dd96cc942e30a85bd975f",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "第六章章首、域嵌入/一点代数几何习题、Dynkin 图定义及 AN/DN/E6/E7/E8 五幅图；底部 E8 支点完整，标题宋体粗体。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 95,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-095.png",
+      "sha256": "da5f1b4cc8761fd4b976d69f1abc3a75a3dc7a22b359b3977aa5d52754e6f9d6",
+      "pixelSha256": "3275722eb9d45b3e02ce3f4d8e7fef08ccba8a4a3e1b932c0aeddd6a7346a972",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "D4 的三行原生空间公式、带求和的大直和图及维数标记图，紧邻域修正译校注，6.4 标题、Cartan 矩阵与正定性证明衔接。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    },
+    {
+      "physicalPage": 96,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-096.png",
+      "sha256": "a7d2434e59dccb3b4f77479bf92e10941b7148251621c19f71d268a5f04bdcb6",
+      "pixelSha256": "5021a719060159ac0fe145f1f0560e94edd491fa66bb1f15bed8d9bfaf7a6616",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "Cartan 二次型偶数性两行公式、单根注释上括号、Dynkin 删除边图和两个框图、β/γ 求和及页底上下标。",
+      "status": "verified",
+      "unresolved": [],
+      "wholePageActuallyViewed": true
+    }
+  ],
+  "additionalPixelEquivalentHighResolutionPages": [
+    65,
+    67,
+    86,
+    88,
+    90,
+    91,
+    93
+  ],
+  "additionalPixelEquivalentHighResolutionImages": [
+    {
+      "physicalPage": 65,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-065.png",
+      "sha256": "5645b287be4c9cb72d1bc3193487035ac847213772fe1c5468e5764d5fe502ac",
+      "pixelSha256": "c380a8c96b96a61f659c828e655030eddbc235426c3ca9ab6237abab9f24b547",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "对称群特征标的多重求和与乘积、分式、幂和 Laurent 公式，5.15 标题与后续正文衔接。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-final-highres-049-096/page-065.png",
+        "sha256": "5645b287be4c9cb72d1bc3193487035ac847213772fe1c5468e5764d5fe502ac",
+        "pdfSha256": "98ec2f61b483de6e7ac95452070eacfd8c0723a438100279ca6dca740ae06ef9"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    },
+    {
+      "physicalPage": 67,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-067.png",
+      "sha256": "cd8f0b91eaa548bdd38fb4933f912f540033d7d8709751dea91eeb19c9c5b7a6",
+      "pixelSha256": "2022986029cf431e330f621ec2309a7e90dc379d99f6ddd99568831094945e6e",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "Kostka 数、习题及钩长公式的三行推导，乘积与行列式、公式编号 5.17.1，页底上下标完整。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-final-highres-049-096/page-067.png",
+        "sha256": "cd8f0b91eaa548bdd38fb4933f912f540033d7d8709751dea91eeb19c9c5b7a6",
+        "pdfSha256": "98ec2f61b483de6e7ac95452070eacfd8c0723a438100279ca6dca740ae06ef9"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    },
+    {
+      "physicalPage": 86,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-086.png",
+      "sha256": "cf56360ab598fbd6d3ce7d9752748c00fc1d5c5ac78db1519c1e5f57cb75a7cc",
+      "pixelSha256": "7ba7b704cf53ad9358edce736910885380dcd3ad76bd269594214b934bdc1841",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "Dynkin 环、双分叉及三幅例外扩展图的点、线、数字，正文与两条脚注及页脚间距。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-highres-049-096/page-086.png",
+        "sha256": "cf56360ab598fbd6d3ce7d9752748c00fc1d5c5ac78db1519c1e5f57cb75a7cc",
+        "pdfSha256": "6e3e1380301d9a95fba40c91ed449fcdecda07a3081813e7aae1968e805ee038"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    },
+    {
+      "physicalPage": 88,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-088.png",
+      "sha256": "0bae59f0fa0c7dfeecf8ac58d76ba6af7b46ded32dede227644c42be1ba2f891",
+      "pixelSha256": "5fe18afe070cd7d5cb811901d053e7d9de7fb61fe90141a246393fa3e92ca6c0",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "A1/A2/A3 箭图、算子图及直和分解图，核/像标签、方向、原生箭头公式及页底图的下标。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-highres-049-096/page-088.png",
+        "sha256": "0bae59f0fa0c7dfeecf8ac58d76ba6af7b46ded32dede227644c42be1ba2f891",
+        "pdfSha256": "6e3e1380301d9a95fba40c91ed449fcdecda07a3081813e7aae1968e805ee038"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    },
+    {
+      "physicalPage": 90,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-090.png",
+      "sha256": "b9f04b9fdc150e05b782c63cf145504a173b7a7bbdeb1673fbc0260b693dc56d",
+      "pixelSha256": "187debf819512be3af158fd6f6fd93ea61ada50b22b6763245fc0772dab1c631",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "A3 子空间对的多幅直和分解图、不可分解对象、6.3 标题与 D4 首图，底部第四节点完整且与页脚分离。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-final-highres-049-096/page-090.png",
+        "sha256": "b9f04b9fdc150e05b782c63cf145504a173b7a7bbdeb1673fbc0260b693dc56d",
+        "pdfSha256": "98ec2f61b483de6e7ac95452070eacfd8c0723a438100279ca6dca740ae06ef9"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    },
+    {
+      "physicalPage": 91,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-091.png",
+      "sha256": "7ad5b7624c66b57178bb9b5519c87e942c97cf75fef1a867d09e6592cf246a33",
+      "pixelSha256": "835ac20c73631f0f0c720760a346b3e11af6a5469ed14dd3edce8b73fb5307ac",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "D4 的七幅分枝图、核标签、零/一维标记与上下节点，纵向图间距、底部标签与页脚。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-highres-049-096/page-091.png",
+        "sha256": "7ad5b7624c66b57178bb9b5519c87e942c97cf75fef1a867d09e6592cf246a33",
+        "pdfSha256": "6e3e1380301d9a95fba40c91ed449fcdecda07a3081813e7aae1968e805ee038"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    },
+    {
+      "physicalPage": 93,
+      "path": "tmp/pdfs/representation-theory-export/qa-delivery-highres-049-096/page-093.png",
+      "sha256": "426c06b2e1e4f261e7f4e48389b7cdfce5e9afa585c2510fe8b36efd1c99067d",
+      "pixelSha256": "71b2a6474f5468908fef8cf1c9205f80e0e3efae7f5fc3c5a87e742f6adc8a19",
+      "dpi": 180,
+      "renderer": "Poppler pdftoppm",
+      "renderedFromPdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+      "scope": "D4 子空间的多幅分解图、直和符号、互不相交条件，箭头/单射/同构标签及页底承接文字。",
+      "status": "verified",
+      "unresolved": [],
+      "currentImageActuallyViewed": false,
+      "samePixelsAsActuallyViewedPriorImage": true,
+      "previousWholePageActuallyViewed": true,
+      "priorViewedImage": {
+        "path": "tmp/pdfs/representation-theory-export/qa-highres-049-096/page-093.png",
+        "sha256": "426c06b2e1e4f261e7f4e48389b7cdfce5e9afa585c2510fe8b36efd1c99067d",
+        "pdfSha256": "6e3e1380301d9a95fba40c91ed449fcdecda07a3081813e7aae1968e805ee038"
+      },
+      "reviewReuseBasis": "Independent 180-dpi rerender compared exact full-page pixel bytes to an image previously actually viewed; final overview also actually viewed."
+    }
+  ],
+  "pages": [
+    {
+      "physicalPage": 49,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        94,
+        95,
+        96
+      ],
+      "sourceRangeLabel": "原书 86–88",
+      "scope": "第四章 有限群的表示：基本结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 86–88”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 50,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        96,
+        97,
+        98
+      ],
+      "sourceRangeLabel": "原书 88–90",
+      "scope": "第四章 有限群的表示：基本结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 88–90”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 51,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        99,
+        100,
+        101
+      ],
+      "sourceRangeLabel": "原书 91–93",
+      "scope": "第五章章首、Frobenius–Schur 指标定义与分类列表、复合上下标及对称/外幂迹公式；标题宋体粗体、章首换页、页眉页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 52,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        101,
+        102
+      ],
+      "sourceRangeLabel": "原书 93–94",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 93–94”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 53,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        102,
+        103
+      ],
+      "sourceRangeLabel": "原书 94–95",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 94–95”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 54,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        103,
+        104,
+        105
+      ],
+      "sourceRangeLabel": "原书 95–97",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 95–97”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 55,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        105,
+        106,
+        107
+      ],
+      "sourceRangeLabel": "原书 97–99",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 97–99”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 56,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        107,
+        108,
+        109
+      ],
+      "sourceRangeLabel": "原书 99–101",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 99–101”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 57,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "sourceRangeLabel": "原书 101–104",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 101–104”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 58,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        112,
+        113,
+        114
+      ],
+      "sourceRangeLabel": "原书 104–106",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 104–106”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 59,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        114,
+        115
+      ],
+      "sourceRangeLabel": "原书 106–107",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 106–107”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 60,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        115,
+        116
+      ],
+      "sourceRangeLabel": "原书 107–108",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 107–108”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 61,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        116,
+        117,
+        118
+      ],
+      "sourceRangeLabel": "原书 108–110",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 108–110”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 62,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        118,
+        119,
+        120
+      ],
+      "sourceRangeLabel": "原书 110–112",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 110–112”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 63,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        120,
+        121
+      ],
+      "sourceRangeLabel": "原书 112–113",
+      "scope": "Specht 模与杨表证明的长中文段落、置换符号、分式和 Hom 公式，译校注及证明结束符；正文边距及行距。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 64,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        122,
+        123
+      ],
+      "sourceRangeLabel": "原书 114–115",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 114–115”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 65,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        123,
+        124
+      ],
+      "sourceRangeLabel": "原书 115–116",
+      "scope": "对称群特征标的多重求和与乘积、分式、幂和 Laurent 公式，5.15 标题与后续正文衔接。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 66,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        124,
+        125
+      ],
+      "sourceRangeLabel": "原书 116–117",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 116–117”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 67,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        125,
+        126,
+        127
+      ],
+      "sourceRangeLabel": "原书 117–119",
+      "scope": "Kostka 数、习题及钩长公式的三行推导，乘积与行列式、公式编号 5.17.1，页底上下标完整。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 68,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        127,
+        128,
+        129
+      ],
+      "sourceRangeLabel": "原书 119–121",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 119–121”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 69,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        129,
+        130
+      ],
+      "sourceRangeLabel": "原书 121–122",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 121–122”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 70,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        130,
+        131,
+        132,
+        133
+      ],
+      "sourceRangeLabel": "原书 122–125",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 122–125”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 71,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        133,
+        134,
+        135
+      ],
+      "sourceRangeLabel": "原书 125–127",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 125–127”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 72,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        135,
+        136,
+        137
+      ],
+      "sourceRangeLabel": "原书 127–129",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 127–129”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 73,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        137,
+        138
+      ],
+      "sourceRangeLabel": "原书 129–130",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 129–130”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 74,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        139,
+        140
+      ],
+      "sourceRangeLabel": "原书 131–132",
+      "scope": "5.23–5.24 正文与习题、官方勘误译校注和页底收尾；确认 5.25 引导段及单字“则”已整体移到下一页，页底无孤立引导词。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 75,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        140,
+        141,
+        142
+      ],
+      "sourceRangeLabel": "原书 132–134",
+      "scope": "5.25/5.25.1 小节标题、G 阶公式及“则”同页，GL2 四类共轭宽表的全部行列、矩阵、条件、表线及椭圆型特征值公式；表格未越过边距。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 76,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        142,
+        143
+      ],
+      "sourceRangeLabel": "原书 134–135",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 134–135”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 77,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        143
+      ],
+      "sourceRangeLabel": "原书 135",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 135”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 78,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        143,
+        144
+      ],
+      "sourceRangeLabel": "原书 135–136",
+      "scope": "主系列表示定义及定理 5.25.2，Frobenius 求和和三种矩阵情形；页底双曲型结果完整，未留下孤立“若”。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 79,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        145
+      ],
+      "sourceRangeLabel": "原书 137",
+      "scope": "承接双曲型说明、椭圆型“若”与矩阵及 y≠0 同页，紧邻译校注、三行内积计算、直和分解及页底 Hom 公式。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 80,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        145,
+        146
+      ],
+      "sourceRangeLabel": "原书 137–138",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 137–138”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 81,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        146,
+        147
+      ],
+      "sourceRangeLabel": "原书 138–139",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 138–139”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 82,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        147,
+        148
+      ],
+      "sourceRangeLabel": "原书 139–140",
+      "scope": "离散系列虚表示特征标、两个矩阵公式、内积与正维数引理、多行大分式、椭圆型求和及页底条件上下标。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 83,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        148,
+        149,
+        150
+      ],
+      "sourceRangeLabel": "原书 140–142",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 140–142”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 84,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        150,
+        151
+      ],
+      "sourceRangeLabel": "原书 142–143",
+      "scope": "第五章 有限群的表示：进一步的结果连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 142–143”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 85,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        153,
+        154,
+        155
+      ],
+      "sourceRangeLabel": "原书 145–147",
+      "scope": "第六章章首、域嵌入/一点代数几何习题、Dynkin 图定义及 AN/DN/E6/E7/E8 五幅图；底部 E8 支点完整，标题宋体粗体。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 86,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        155,
+        156
+      ],
+      "sourceRangeLabel": "原书 147–148",
+      "scope": "Dynkin 环、双分叉及三幅例外扩展图的点、线、数字，正文与两条脚注及页脚间距。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 87,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        156,
+        157,
+        158
+      ],
+      "sourceRangeLabel": "原书 148–150",
+      "scope": "第六章 箭图表示连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 148–150”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 88,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        158,
+        159
+      ],
+      "sourceRangeLabel": "原书 150–151",
+      "scope": "A1/A2/A3 箭图、算子图及直和分解图，核/像标签、方向、原生箭头公式及页底图的下标。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 89,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        159,
+        160,
+        161
+      ],
+      "sourceRangeLabel": "原书 151–153",
+      "scope": "第六章 箭图表示连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 151–153”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 90,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        161,
+        162
+      ],
+      "sourceRangeLabel": "原书 153–154",
+      "scope": "A3 子空间对的多幅直和分解图、不可分解对象、6.3 标题与 D4 首图，底部第四节点完整且与页脚分离。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 91,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        162,
+        163
+      ],
+      "sourceRangeLabel": "原书 154–155",
+      "scope": "D4 的七幅分枝图、核标签、零/一维标记与上下节点，纵向图间距、底部标签与页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 92,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        163,
+        164,
+        165
+      ],
+      "sourceRangeLabel": "原书 155–157",
+      "scope": "第六章 箭图表示连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 155–157”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 93,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": true,
+      "sourcePdfPages": [
+        165,
+        166
+      ],
+      "sourceRangeLabel": "原书 157–158",
+      "scope": "D4 子空间的多幅分解图、直和符号、互不相交条件，箭头/单射/同构标签及页底承接文字。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 94,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": false,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        166,
+        167
+      ],
+      "sourceRangeLabel": "原书 158–159",
+      "scope": "第六章 箭图表示连续正文、公式/段落/插曲/习题的边距与分页，页眉“原书 158–159”及物理页脚。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 95,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        167,
+        168
+      ],
+      "sourceRangeLabel": "原书 159–160",
+      "scope": "D4 的三行原生空间公式、带求和的大直和图及维数标记图，紧邻域修正译校注，6.4 标题、Cartan 矩阵与正定性证明衔接。",
+      "unresolved": []
+    },
+    {
+      "physicalPage": 96,
+      "status": "verified",
+      "overviewActuallyViewed": true,
+      "highResolutionActuallyViewed": true,
+      "highResolutionVerifiedByExactPixelEquivalence": false,
+      "sourcePdfPages": [
+        168,
+        169
+      ],
+      "sourceRangeLabel": "原书 160–161",
+      "scope": "Cartan 二次型偶数性两行公式、单根注释上括号、Dynkin 删除边图和两个框图、β/γ 求和及页底上下标。",
+      "unresolved": []
+    }
+  ],
+  "checks": {
+    "clippingOrOverlapFound": false,
+    "brokenOrMissingGlyphsFound": false,
+    "isolatedSectionHeadingFound": false,
+    "orphanedShortFormulaIntroducerFound": false,
+    "unexplainedLargeBlankFound": false,
+    "chineseSongTypefaceAndBoldHeadingsVisuallyChecked": true,
+    "nativeMathOperatorsFractionsSubscriptsSuperscriptsAndMatricesVisuallyChecked": true,
+    "nativeWideTableAndDiagramSizingVisuallyChecked": true,
+    "visibleSourceRangesInRunningHeadersAndPhysicalPageFootersChecked": true,
+    "chapterStartsOnFreshPagesActuallyViewed": [
+      51,
+      85
+    ],
+    "withinChapterContinuousFlowVisuallyChecked": true
+  },
+  "expectedWhitespace": [
+    {
+      "physicalPage": 50,
+      "reason": "第四章历史插曲结束，下一页第五章章首；下部余白属于大章换页。"
+    }
+  ],
+  "notes": [
+    "First candidate physical 78 orphaned “若” was reported and corrected; final 78/79 independently rerendered and actually viewed.",
+    "Later candidate physical 74 orphaned “则” was reported and corrected; final 74/75 independently rerendered and actually viewed, 5.25 starts with its formula on 75.",
+    "All eight delivery contact sheets were actually viewed after final freeze. Ten final high-resolution whole pages were directly actually viewed; seven further rerendered samples are exact pixel matches to previously actually viewed whole-page images, with evidence retained.",
+    "Representative final pages embed Chinese font SimSun; Song-style serif forms and bold chapter/section/emphasis text also checked visually. Embedded Chinese font names: SimSun.",
+    "This record concerns layout. Primary transcription, translation and independent mathematical audits remain separate current-SHA records."
+  ],
+  "unresolved": []
+}

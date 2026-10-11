@@ -1,0 +1,61 @@
+{
+  "pdfPage": 123,
+  "printedPage": "114",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0123-kernel.png",
+      "widthPt": 103,
+      "clipPt": [
+        229,
+        163,
+        332,
+        193
+      ],
+      "sha256": "8ef8aab4bfc2def71d118fdfc138205d2c56f44c0251886cd28bb427bc71bebd"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0123-corner-5-6.png",
+      "widthPt": 185,
+      "clipPt": [
+        254,
+        410,
+        439,
+        466
+      ],
+      "sha256": "8ab01ea1d4b43e5749c7dfe1cadaf5da4365ed58daf7602929564b840906e192"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0123-square-5-7.png",
+      "widthPt": 188,
+      "clipPt": [
+        251,
+        504,
+        439,
+        565
+      ],
+      "sha256": "58fecbf7a3f35058d42c8ca73e7b3f0fd31b4c72097245884ddc2e9e6432fc67"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0123-cone-5-8.png",
+      "widthPt": 187,
+      "clipPt": [
+        252,
+        591,
+        439,
+        653
+      ],
+      "sha256": "1943b0a043bb40211f52dc864578842ab4e1d2e377a7e87ec9a8c9d8297d48ca"
+    }
+  ],
+  "sourceHashes": {
+    "en": "b56354380094d2686f321e0cc656fb2d6e0fd34e1a78295d46a7cc1d17ac1acf",
+    "zh": "fdf1f2ba66f66b46d4d6123ca3bfc4c6d5a7cbc5ae46e9d84a67f716bdb5d783"
+  }
+}

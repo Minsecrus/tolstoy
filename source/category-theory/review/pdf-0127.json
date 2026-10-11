@@ -1,0 +1,39 @@
+{
+  "pdfPage": 127,
+  "printedPage": "118",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0127-limit-figure.png",
+      "widthPt": 171,
+      "clipPt": [
+        193,
+        123,
+        364,
+        245
+      ],
+      "sha256": "52d847b27f38c81e1cca2b8f36deee366ce179f2baebb129a26d8e7428619081"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0127-cone-triangle.png",
+      "widthPt": 65,
+      "clipPt": [
+        256,
+        538,
+        321,
+        591
+      ],
+      "sha256": "6c429f1f7e6ab392a2f1331d5cd20541396e3c0fa0f5dc837d676543449c8616"
+    }
+  ],
+  "sourceHashes": {
+    "en": "8ddb344dd2edcb2306f5ea50f2ffc3ec192ef5b745ab29d0739879ece9d7dbfb",
+    "zh": "6013a4e2fc5e087608e53cf19f994783c5130784b4593f626abaa5706a35f6e2"
+  }
+}

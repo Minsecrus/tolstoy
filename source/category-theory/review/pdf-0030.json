@@ -1,0 +1,21 @@
+{
+  "pdfPage": 30,
+  "printedPage": "21",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and checked formulas against cfnt.tex and macros.tex. Preserved the opening continuation of Examples 1.2.5 and the final incomplete sentence of Example 1.2.7. Verified equation tags (1.1) and (1.2), the induced fundamental-group map, and both functoriality identities. No complex diagram requires a crop.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts.",
+    "Independent audit: rendered instead of the original space through the Chinese verb turn to, and adjusted the final Chinese clause to connect naturally with PDF 31; all source content and formulas remain intact."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "006cfbffde62576c05405f450ee4904df14a1ae4d653bf8456df64186f08eebc",
+    "zh": "3e53040c72e7ae697118a7d2edeadd6122b582cbd68b112b5d2ffa4d269ba810"
+  }
+}

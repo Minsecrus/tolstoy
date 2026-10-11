@@ -1,0 +1,72 @@
+{
+  "pdfPage": 117,
+  "printedPage": "108",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0117-projections.png",
+      "widthPt": 113,
+      "clipPt": [
+        224,
+        250,
+        337,
+        285
+      ],
+      "sha256": "b735c53a37f596a5535f91b62f57dd0e3d6a00c9be5b7b9e2247a9ef9e58286d"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0117-product.png",
+      "widthPt": 87,
+      "clipPt": [
+        237,
+        342,
+        324,
+        392
+      ],
+      "sha256": "0fa1e1741b4bf79f4491234d72832f599216c54be23df61c46841a602896d1b2"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0117-cone-5-1.png",
+      "widthPt": 203,
+      "clipPt": [
+        237,
+        416,
+        440,
+        465
+      ],
+      "sha256": "82d50083cbddfcbf12c8f7fe71a6b88bfaad08211f6a30e6d16bff26ef7f9fae"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0117-universal-5-2.png",
+      "widthPt": 203,
+      "clipPt": [
+        237,
+        488,
+        440,
+        578
+      ],
+      "sha256": "3801703daabf6fa024dc606abfb93c8b827075426c7fbf9041e6292501a4a229"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0117-discrete.png",
+      "widthPt": 63,
+      "clipPt": [
+        256,
+        632,
+        319,
+        653
+      ],
+      "sha256": "427aaa463ff5fa3b202de1721f3a9adea02ef5fa5f59c8fabc90c26b9bd6d2e5"
+    }
+  ],
+  "sourceHashes": {
+    "en": "36c6cb869fc2c18a79977d20468dc03aec4b7f7fccb746f8a32a1a02db017709",
+    "zh": "fe115e7b3a09372da1fe950f8fdb163e56cc4d8de0902537620c2fceaf0526af"
+  }
+}

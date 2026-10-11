@@ -1,0 +1,55 @@
+{
+  "pdfPage": 64,
+  "printedPage": "55",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Diagrams rendered directly from the supplied PDF at 300 dpi.",
+    "Natural Chinese phrasing review completed; no added teaching explanations. English transcription, mathematical expressions, and diagram crops unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0064-closure-pair.png",
+      "widthPt": 80,
+      "clipPt": [
+        253,
+        173,
+        333,
+        200
+      ],
+      "sha256": "a0bc837d1d339c632b7147a1e9946fd1f588a8c8d10ce16d9769e74771fabdab"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0064-natural-transformation.png",
+      "widthPt": 241,
+      "clipPt": [
+        172,
+        475,
+        413,
+        535
+      ],
+      "sha256": "7990a8bbd6b38b6f45e40b34b742408b6d69bd3a207d95057ec3d12165738743"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0064-string-diagram.png",
+      "widthPt": 188,
+      "clipPt": [
+        199,
+        557,
+        387,
+        651
+      ],
+      "sha256": "1cbbfd13ab413f477daf984993efa38d2eaf75d2642474104392da60007f5923"
+    }
+  ],
+  "englishSha256": "f7e1e83a5a60e33599764b29fe02876f258e3cd05e0f5971d53fc6347de8f489",
+  "chineseSha256": "55026ba4ac0e940d299b0555c46cce25ac0326f45c6f5b73e1ca9f57f5eec2c3",
+  "sourceSha256": {
+    "en": "f7e1e83a5a60e33599764b29fe02876f258e3cd05e0f5971d53fc6347de8f489",
+    "zh": "55026ba4ac0e940d299b0555c46cce25ac0326f45c6f5b73e1ca9f57f5eec2c3"
+  }
+}

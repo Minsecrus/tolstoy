@@ -1,0 +1,18 @@
+{
+  "pdfPage": 70,
+  "printedPage": "62",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official corrections: Corollary 4.2.4 finite dimensional is required; English preserved and Chinese corrected with visible translator note."
+  ],
+  "diagrams": [],
+  "enSha256": "a2f75ba288e1a1e0393ced3038f8018faf9947f6c404bc94e08082d9e377e225",
+  "zhSha256": "fd047377ac8a81df78b0724120139cd7e17e9feb3efb4dfb61f24c525572a0aa",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0070.png"
+}

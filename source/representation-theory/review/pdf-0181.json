@@ -1,0 +1,23 @@
+{
+  "pdfPage": 181,
+  "printedPage": "173",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Corollary 6.8.4 proof completion and C_(i); Example 6.8.5 D4 calculation (all functor products and roots); Problem 6.9.1 up to (a)(3), E_(n,lambda), E_(n,infinity), H_n basis and all operator definitions."
+  ],
+  "actualReviewScope": "Corollary 6.8.4 proof completion and C_(i); Example 6.8.5 D4 calculation (all functor products and roots); Problem 6.9.1 up to (a)(3), E_(n,lambda), E_(n,infinity), H_n basis and all operator definitions.",
+  "diagrams": [],
+  "enSha256": "44ed04c15a98b590b5cd1b95f5567d62998b989fb0099c8127b8b5fd93450483",
+  "zhSha256": "6fb49c618836bc791754a6c8ee110ab75e49c4be79e30d57988f04c78049281e",
+  "sourceSha256": {
+    "en": "44ed04c15a98b590b5cd1b95f5567d62998b989fb0099c8127b8b5fd93450483",
+    "zh": "6fb49c618836bc791754a6c8ee110ab75e49c4be79e30d57988f04c78049281e"
+  }
+}

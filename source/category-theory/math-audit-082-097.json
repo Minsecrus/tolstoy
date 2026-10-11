@@ -1,0 +1,229 @@
+{
+  "status": "complete",
+  "pdfPageRange": [
+    82,
+    97
+  ],
+  "printedPageRange": [
+    73,
+    88
+  ],
+  "pages": [
+    {
+      "pdfPage": 82,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: continuation of assumptions about the empty set; x^0 and exponent law; Exercises 3.1.1–3.1.2; Section 3.2 introductory paragraphs.",
+      "enSha256": "6b28c31e8a25d49abadcb12528c8677166ac10734266cc3a2292f1430fdf6dfd",
+      "zhSha256": "b8e2e4518fa3c9a56c35bbbaf2f2e1f84d3cdcb30d6275e36212ed3d843629d8",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 83,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: cardinality preorder; Cantor–Bernstein theorem 3.2.1 and proof reference; strict inequality (3.2); Cantor theorem 3.2.2, finite-set observation, proof reference and Corollary 3.2.3; concluding and cross-page paragraphs.",
+      "enSha256": "1f265ed266efad4ce8405398800e0527f92a663b38960fb620f74a7e8fbd32aa",
+      "zhSha256": "2a078574e072ad8b8df90f5d22587963ca60cdc9fd4d245b6b78a86c0eb6e8d1",
+      "unresolved": [],
+      "notes": [
+        "Original text calls Theorem 3.2.2 'the lemma' in the following paragraph; English and Chinese faithfully retain lemma/引理."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 84,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: continuation concerning finite-set isomorphism classes; Proposition 3.2.4 and proof inequalities; class, small, large and locally small definitions; hom-set qualification; Example 3.2.5.",
+      "enSha256": "dda6fad5218e7822bf46384c7f8222ce4bcf887b474ae9038bc94044e031bf3f",
+      "zhSha256": "fc64e727ede049aebea542b9b561897623d69b07b2380a0da80849c76a6d3b3b",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 85,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: Examples 3.2.6–3.2.9; small versus locally small and finite analogy; essentially small definition; Proposition 3.2.8 and proof; vector-space cardinality argument, free/forgetful adjunction labels and direction, set S formula.",
+      "enSha256": "7cb540baafea37d754d27498d0f815ccc1081c711cefea4ce79695b2f2efb8b2",
+      "zhSha256": "13e900eab6c5184758629147b34c9c689523145e59d00353fe12f21a2b4fddcc",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 86,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: conclusion of Example 3.2.9; CAT/Cat and Definition 3.2.10; one-object category Example 3.2.11; Exercises 3.2.12(a–c), 3.2.13(a–b), 3.2.14(a), including theta(R) superset R, diagram f/g directions, g(B minus fS)=A minus S, diagonal subset and all functor hypotheses.",
+      "enSha256": "09c5e7f48d7e6fb4178cf970b951b703c629b42f2ee9160fb22a329c8db723f1",
+      "zhSha256": "5e8697071b7d73a4762d2cca6abc82918a8a2f7c3b03367bbb89a3da78b7bdcf",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 87,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: Exercises 3.2.14(b–c), 3.2.15(a–e), 3.2.16 and adjunction chain; Section 3.3 introduction and all Cantor history paragraphs including cross-page ending.",
+      "enSha256": "397a6bc6c236f982f48dc0e43e719404bc3b776386649a589a8c54d71baeec45",
+      "zhSha256": "4400bc61f6c60afd39894d0f898396c096419a89114e7e6897211f2bd85a1969",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 88,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: historical continuation; Types examples sqrt(2), pi, log, Q, S_3, derivative operator and programming variable types; membership-based set theory/ZFC introduction and full comparison of basic concepts.",
+      "enSha256": "410a4cf8ac8e030eb0009df02d63a15caa4df96cb1454b2e6f038301bf868e9a",
+      "zhSha256": "d8ef00626817e8384f9330168a6498e3fbc8c31cbfef6685f69aa399d1a7e5d7",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 89,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: all four membership-based set theory bullet points and continuation paragraphs; explicit nested set encoding of number 4; A in B, Q in sqrt(2), intersection and cyclic-group examples; Set theory today paragraphs and cross-page fragment.",
+      "enSha256": "82bce090e1439cb99d7a97fbd1d0ce6ffd72c1f2f26888f30197193711dfc533",
+      "zhSha256": "ed6df8e150752e7f17c1f2c9bbb3884f48929bbbf737f307420c1e210d245653",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 90,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: function-based set theory continuation and categorical probing maps 1 to A and A to 2; complete ZFC readers' footnote, both axiomatization lists with composition order, and closing paragraphs.",
+      "enSha256": "8ae42ced29d3628dfcc81d1c487eb21c8904b5f4eab2f936d7624ac3ef608633",
+      "zhSha256": "310fe0855c6a4218b07132890b5e8a839840b8a6815915a0eb3efa7923acd9ed",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 91,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: all ten categorical set axioms, including inverse image, subset-function correspondence and section assumption; explanatory source paragraphs, well-pointed topos phrase, bibliographic references; Exercise 3.3.1.",
+      "enSha256": "b32344091b4939f735a6c56c57583277433ba050fdcfc7835b18965a118624e1",
+      "zhSha256": "9b535e34f7369efd5333c1a65752185e961c2257395b877c92695179435ec88e",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 92,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: Chapter 4 introduction, topological points and curves; infinite/prime cyclic group element descriptions and uniqueness condition; field characteristics and disjoint subcategories; ordered-real example; all Sierpinski-space/open-subset correspondence paragraphs.",
+      "enSha256": "05cca7d3db759c8bda4eec5d196c7e45fc744da2761a5245b88a73c13ecd3495",
+      "zhSha256": "d6785ec45e10fbe28378118fed6c92dfafe5d11850b00d7176bee6cb21ab7739",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 93,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: chapter introduction and Section 4.1; Definition 4.1.1 including category hypotheses, covariant hom-functor object/map action and composition order; Remarks 4.1.2(a–b); Definition 4.1.3 representation and codomain restriction.",
+      "enSha256": "4022a1be76968b373ed376f0d7bb7609aabb91259010c7e136af628c061a2667",
+      "zhSha256": "62f9b04c07cf8e62afea006cc921a2913b9c0d5d4bc1dadaedc3f9da8eb2b644",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 94,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: Examples 4.1.4–4.1.8, all natural isomorphisms and prime/order conditions, objects and maps functors, monoid left regular representation, pointed homotopy category and pi_1/U composite.",
+      "enSha256": "fff4f17a08431b562ba81cc81cc2267e5be2a9a201858a948cefe31ef77328f0",
+      "zhSha256": "a4dcc461d456c33937217d3fd37f11567b338e4035ed9b20be2376dc1c0ef88b",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 95,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: bilinear-map functor and tensor product Example 4.1.9; Lemma 4.1.10 with local smallness/adjunction hypotheses; full proof, both squares and all labels/directions; equality q composed with f-bar equals overline of G(q) composed with f, and naturality (2.2) specialization.",
+      "enSha256": "73509ce0836764e2bf4ad0042e67566fd2748e022e4b52472b2e4171084535b6",
+      "zhSha256": "2ce4647c139c292b1dd57d14084349df0f36d22bed357e486cacc0888c53d612",
+      "unresolved": [],
+      "notes": [
+        "Personally verified that the overline spans the whole G(q) ∘ f in both the source element square and concluding formula; the current English/Chinese formula and crop preserve it correctly."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 96,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: Proposition 4.1.11 and full representability proof; Examples 4.1.12–4.1.14, terminal set versus category, vector-space generator, commuting polynomial variables, representing ring Z[x]; all concluding aerial-photo analogy paragraphs and cross-page fragment.",
+      "enSha256": "3f1e137cb6c28b15b56f2c223064a830f4a9adfafd7515dc23ae48d79016c87e",
+      "zhSha256": "3e8e508ace381dc497099230d11b63dfc04d1bdc0c15f901d5f373780464d4f8",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 97,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full page: continuation of consistency analogy; A' to A map and induced natural transformation with H^A/H^{A'} labels and downward double arrow; complete component formula and names; Definition 4.1.15 contravariant functor; duality paragraphs; Definition 4.1.16, all object/map actions and reversed hom-set directions.",
+      "enSha256": "300a63e0b043678beeea19cae553796144068abf3ca49fc692ccc949477d652f",
+      "zhSha256": "2227c3eb5db47371b7613e75c70e93b4109fc6a2eb194d87181bd95642fd11ba",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    }
+  ],
+  "unresolved": [],
+  "notes": [
+    "Independent full-page comparison of original images against current English and Chinese; also inspected all six referenced diagram crops in this range. No textual or mathematical correction was necessary."
+  ]
+}

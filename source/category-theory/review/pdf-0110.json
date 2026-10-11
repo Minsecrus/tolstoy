@@ -1,0 +1,33 @@
+{
+  "pdfPage": 110,
+  "printedPage": "101",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Source prints Vect(F(S), V) without subscript k in the first paragraph. This source notation is preserved in both languages.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source.",
+    "Independent second review recast the opening η_S sentence in natural Chinese; the original missing k subscript in Vect(F(S),V) remains preserved."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0110-adjunction-fg.png",
+      "widthPt": 52,
+      "clipPt": [
+        398,
+        372,
+        450,
+        404
+      ],
+      "sha256": "29255f9a8405fa518e3db3a85dee6ce3c606d5172630bf8aab1e6bc42ad39356"
+    }
+  ],
+  "sha256": {
+    "en": "fc53ddc0dcfedf620aee3329dd3363667a5bcae9d51ce19d1ba21f1681704912",
+    "zh": "9753b536f79accc0fe528c236650c8043edcca4d54380035c4ee38460bee1b82"
+  }
+}

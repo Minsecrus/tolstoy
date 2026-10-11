@@ -1,0 +1,19 @@
+{
+  "pdfPage": 49,
+  "printedPage": "41",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Remark 3.1.3: English preserves omitted finite-dimensional condition; Chinese adds finite dimensionality with visible note according to official June 3, 2024 corrections. Original later Hom notation without A subscript is retained as author shorthand following explicit Hom_A."
+  ],
+  "diagrams": [],
+  "enSha256": "26b3166f033401293c82ac999cb89ef31459c0cd45763a639dd64f7334e1fd05",
+  "zhSha256": "d95a73622c3b81fc3fc7f6247f7150c29c92ed1b4de6114246a40a2c531ca5b5",
+  "reviewer": "representation_049_068",
+  "reviewMethod": "Direct visual reading of every assigned original PDF page image, comparison with English transcription and Chinese translation; formula indices, operators, matrices, hypotheses, proofs, exercises and original footnotes checked.",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0049.png"
+}

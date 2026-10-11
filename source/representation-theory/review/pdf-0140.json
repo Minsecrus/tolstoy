@@ -1,0 +1,23 @@
+{
+  "pdfPage": 140,
+  "printedPage": "132",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "English preserves original N versus n inconsistency in Problem 5.24.2. Chinese visibly applies official 2024 correction N to n.",
+    "Full exercise hints and start of GL_2(F_q) section retained."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0140.png",
+  "sourceHashes": {
+    "en": "50a7f12ae3923abed1baef51a041ae366607dabc7471933e2a7d217dbc361890",
+    "zh": "1eea17d044faec6b7e1b70c9e88c53dc77a05a088818bb10b39bd222c50c63f9"
+  },
+  "enSha256": "50a7f12ae3923abed1baef51a041ae366607dabc7471933e2a7d217dbc361890",
+  "zhSha256": "1eea17d044faec6b7e1b70c9e88c53dc77a05a088818bb10b39bd222c50c63f9"
+}

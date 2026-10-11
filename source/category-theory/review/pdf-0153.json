@@ -1,0 +1,52 @@
+{
+  "pdfPage": 153,
+  "printedPage": "144",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0153-limit-square.png",
+      "widthPt": 87,
+      "clipPt": [
+        246,
+        145,
+        333,
+        220
+      ],
+      "sha256": "fff7a4d7e126238aebae2eaa15208e238c0405311379a6e98af938a5595c96c8"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0153-cone-square.png",
+      "widthPt": 69,
+      "clipPt": [
+        254,
+        262,
+        323,
+        328
+      ],
+      "sha256": "99696d1a209beb922cd7074c18ce033f854686a4b7926c804930aaa39cfd4a99"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0153-induced-square.png",
+      "widthPt": 80,
+      "clipPt": [
+        249,
+        354,
+        329,
+        424
+      ],
+      "sha256": "b22e6a70097f2253919e0afbd2bd745b8619d3d135bc4b65c86f4a953bc2a562"
+    }
+  ],
+  "snapshots": {
+    "en": "82b54d451d6c9814d8311ceed83ce292caae0e0257e27044d4f64cb778741fdf",
+    "zh": "99af19fa0e48f22954b077794af695f8691825310e79d85e8470c2ed8147bed0"
+  }
+}

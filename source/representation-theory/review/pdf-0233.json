@@ -1,0 +1,24 @@
+{
+  "pdfPage": 233,
+  "printedPage": "225",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "All 51 flat index entries and their original printed page references were visually checked. Reading order is full left column followed by full right column; wrapped continuation lines do not create child entries. Index total across PDF 233–236: 230 entries.",
+    "Aligned commutant of a Lie algebra with the printed-page-39 definition and its translator: 李代数的导出代数 (linear span of [x,y]).",
+    "Independent audit: companion matrix changed to 相伴矩阵 to distinguish it from adjugate matrix; coordinated with printed-page-94 prose translator."
+  ],
+  "diagrams": [],
+  "enSha256": "ff11d1b6bb1eb4a7b74f3509bfc30436a0211cb09c402f2d19b71d3b85b0fcd8",
+  "zhSha256": "09736fde37bb8829849f5cd6012022ed0fe8d91894d33ad870b168d3150ebb92",
+  "primaryReviewer": "representation_229_238",
+  "indexEntryCount": 51,
+  "indexReadingOrder": "left-column-then-right-column",
+  "indexEntryDepth": 0
+}

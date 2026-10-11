@@ -1,0 +1,30 @@
+{
+  "pdfPage": 160,
+  "printedPage": "151",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0160-two-object-category.png",
+      "widthPt": 46,
+      "clipPt": [
+        272,
+        463,
+        318,
+        479
+      ],
+      "sha256": "21c1d5e73d8e5dadfaf90d8dc462ab2cf78e299244abbf8bd382af813f9b54d1"
+    }
+  ],
+  "snapshots": {
+    "en": "32b477a179e8372fed042df1e74cb4ee713c74272fe2290516cebc144d1f219e",
+    "zh": "8f97204a992b274d7f23d45e76e498a598ed10c55a074c46512cf0084a011d2f"
+  }
+}

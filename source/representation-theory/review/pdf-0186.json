@@ -1,0 +1,23 @@
+{
+  "pdfPage": 186,
+  "printedPage": "178",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Definition 7.1.1(ii)–(iii), morphism classes, composition and identity axioms; Remark 7.1.2; all six Example 7.1.3 categories and morphisms; full important remark on classes versus sets."
+  ],
+  "actualReviewScope": "Definition 7.1.1(ii)–(iii), morphism classes, composition and identity axioms; Remark 7.1.2; all six Example 7.1.3 categories and morphisms; full important remark on classes versus sets.",
+  "diagrams": [],
+  "enSha256": "3837b5047c76ae7ccac241da6fe19cba4793fb3fc143c0136ee10c8b6e87ee4b",
+  "zhSha256": "96397c38f3ee2bcbc1d5b1d51511ce5103ea0560ec2b352ac661dff649b0197c",
+  "sourceSha256": {
+    "en": "3837b5047c76ae7ccac241da6fe19cba4793fb3fc143c0136ee10c8b6e87ee4b",
+    "zh": "96397c38f3ee2bcbc1d5b1d51511ce5103ea0560ec2b352ac661dff649b0197c"
+  }
+}

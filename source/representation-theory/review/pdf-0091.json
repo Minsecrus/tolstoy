@@ -1,0 +1,18 @@
+{
+  "pdfPage": 91,
+  "printedPage": "83",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对四元数乘法的全部符号顺序、共轭乘积的逆序以及 SU(2)→SO(3) 的核；原生数学排版。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "09f7042aef225dd6fa3dd626523b2f6ed925eb35fbcf212d47280dc91c027626",
+  "zhSha256": "95e91f3dfd427f4e5eff29cdda610e2f4e50c29472e7ffc81bac851676b403b0"
+}

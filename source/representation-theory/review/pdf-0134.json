@@ -1,0 +1,22 @@
+{
+  "pdfPage": 134,
+  "printedPage": "126",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Source spelling Gruppenfest retained in English and Chinese; historical quotation and final cross-page citation retained."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0134.png",
+  "sourceHashes": {
+    "en": "431ea609de58bd4648a0e9be8f14c812d893f5d9b0af284ac2230bbb03d81e71",
+    "zh": "99eebcf05bb58a31693e0513bf881db24b1426ec3c8a353b3487dab48743ff50"
+  },
+  "enSha256": "431ea609de58bd4648a0e9be8f14c812d893f5d9b0af284ac2230bbb03d81e71",
+  "zhSha256": "99eebcf05bb58a31693e0513bf881db24b1426ec3c8a353b3487dab48743ff50"
+}

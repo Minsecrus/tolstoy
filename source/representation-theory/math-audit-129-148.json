@@ -1,0 +1,281 @@
+{
+  "status": "complete",
+  "reviewer": "representation_089_108",
+  "firstPdfPage": 129,
+  "lastPdfPage": 148,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 129,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书121页；完整英中比较引理5.18.3(i)(ii)的向量空间/代数条件、对称函数多项式P及Δ_n(a^j)、定理5.18.4的互中心化子/半单性/分拆直和与零表示条件；与128页前接的特征零域条件和官方k代替C可见校注核对。",
+      "enSha256": "215500659bc22b55b126764431d9b3bb0354bc5601a4e685843d81c431e24b97",
+      "zhSha256": "c98f5cd85bc45f1bbf76cce94d6ac441b50ed0cedaf8d2acabd1c555d25517f7",
+      "unresolved": [],
+      "notes": [
+        "官方特征零代数闭域k修订有可见译校注；英文忠实保留C。"
+      ]
+    },
+    {
+      "pdfPage": 130,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书122页；完整英中比较GL(V)像张成B的多项式参数t证明、Hom_Sn定义、λ=(n)/(1^n)与n>dimV零条件；Weyl历史开篇的1885–1955、Hilbert引文及[53]页码全部核对。",
+      "enSha256": "c83af6ff6f5551bed5b77839f6dd5f0319179a52e4ddd27a946aad7653b068c2",
+      "zhSha256": "da893711643cd47c9d31baafa75e5ca071f60783ec4e3c5698c8338588c391e7",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 131,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书123页；完整英中比较Weyl1913聘任、一次大战服役和1916退伍、1917相对论课程与四版著作、长度依赖路径及规范观念，保留所有引文、[22]/[52]/[46]出处和跨页句。",
+      "enSha256": "a73eac46b085217052460ffde8678818401d33f4f9e7bd96e5ce7d160e8ef63f",
+      "zhSha256": "599f593cc1eac6fb2ee8441e48b4ac8fcdf7e2909a62c2a6fd36d980f4b1ce8b",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 132,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书124页；完整英中比较规范与铁路轨距类比、统一场理论、Weyl/Einstein相互批评的所有直接引文、各[42]/[52]/[22]页码及转向张量代数和有限群理论的全过程。",
+      "enSha256": "defb3336ad8550d62c46449c47672c15c5ed7a6f0a407fafde9abe187835e95d",
+      "zhSha256": "57b2922959e3b92d076ed84915d9e3b525f76b5f6ab727756de3e63fd918279d",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 133,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书125页；完整英中比较Weyl/Schur通信、Cartan无穷小与Schur整体方法、原书simple Lie groups、1928量子著作和Slater Gruppenpest所有引文与出处；原录误作semisimple已恢复simple/单李群。",
+      "enSha256": "a3d41dc893e7cf153ee176a7ee59240f30caf9c4964d4cb74f58b461dc7a8f10",
+      "zhSha256": "09fba09982750f8211840f011095a925d6a208325e75e2c4edf1d9ba6e974e37",
+      "unresolved": [],
+      "notes": [
+        "独立二审发现首段simple误录为semisimple；主译英中已恢复simple/单李群，当前稿重新读取通过。"
+      ]
+    },
+    {
+      "pdfPage": 134,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书126页；完整英中比较1975年Gruppenfest引文、Schwinger和Dirac原话、电子/反电子等质量、美与真、1930返回哥廷根、种族歧视引文、妻子孩子风险、移居决定及跨页[52]引文。",
+      "enSha256": "431ea609de58bd4648a0e9be8f14c812d893f5d9b0af284ac2230bbb03d81e71",
+      "zhSha256": "99eebcf05bb58a31693e0513bf881db24b1426ec3c8a353b3487dab48743ff50",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 135,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书127页；完整英中比较普林斯顿数学文化、明亮牢房与开阔景观引文、1939经典群、Atiyah评语、数学艺术与客观合理化引文、广岛后数学责任问题及其跨页句。",
+      "enSha256": "0bee24d985a749bf9f223ab3e60db9b7098ae2c61078271a399b36e675369a2e",
+      "zhSha256": "73b21136099d3322e8779ba5da93b87c798c8b2b3418fcd8bf8979c629d74a0a",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 136,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书128页；完整英中比较历史插曲结尾Hardy观点和限制/自由引文；Schur多项式D_λ的S_N求和/(-1)^s/λ_j+N−j指数、S_λ=D_λ/D_0、命题5.21.1的i_m幂与λ:p≤N条件及证明完整准确。",
+      "enSha256": "6c4ee1e10d122fa46099845c04d28902674d016128acb4fd0c744a47c90c71f1",
+      "zhSha256": "38449bcb78bd9cbeb3a7168342cd4d3c2bf53bd714bdc4caeb43b95add4105b7",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 137,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书129页；完整英中比较Schur特殊值乘积的1≤i<j≤N、z指数/分母、Weyl特征标公式推导中每个迹/循环类型/i_m幂/λ求和、N<p零表示及N≥p条件与维数公式。",
+      "enSha256": "91397f2b48b9ef17fb80036edbc4b3dbf829a3571279496b2b822dd76b1a46dc",
+      "zhSha256": "78b8558c4827886f2d53dcde597351232d244da02f76befd99979a32017033d5",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 138,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书130页；完整英中比较L_{λ+1^N}与Λ^N V、张量幂n+N、代数/有理/多项式表示定义及k[g_ij][1/det(g)]、最高权全整数条件、Peter–Weyl作用φ(g^−1 xh)、直和因子顺序与ξ嵌入定义。",
+      "enSha256": "37e1b1f3665c05bb0d47d18663d4c5b3fa9195c30bc1f07457f851dcbe88e457",
+      "zhSha256": "210fe756a19668a9335ad1cc833dab5cfba12acca367fbce3a575af9ae77d41c",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 139,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书131页；完整英中比较Peter–Weyl两部分证明、保留英文旧版V*步骤及f(gx)=gf(x)，中文按官方勘误说明V*因子群作用平凡并改f(xg)=g^−1f(x)，校注均可见；SL(V)同时平移1^m→1^N校注、sl(2)引用及习题5.24.1的b_λ a_λ次序准确。",
+      "enSha256": "0768b36a8eb6bb65eb9d599d73b81f3207699a2f3cd930dfc016e0d62dcd71e5",
+      "zhSha256": "f80b6612f03ffbe93c9bb9775466c22beba848e32fa7242ebf0406ea86801fd1",
+      "unresolved": [],
+      "notes": [
+        "三处修訂均有紧邻可见译校注，英文保持2011原书；不把官方新版全文替换来源。"
+      ]
+    },
+    {
+      "pdfPage": 140,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书132页；完整英中比较习题5.24.1全部同态/符号自同构/共轭杨图条件、5.24.2不变量/字母词/次数d_i与张量幂官方N→n校注；GL2有限域特征非2、群阶两等式及列独立性理由完整。",
+      "enSha256": "50a7f12ae3923abed1baef51a041ae366607dabc7471933e2a7d217dbc361890",
+      "zhSha256": "1eea17d044faec6b7e1b70c9e88c53dc77a05a088818bb10b39bd222c50c63f9",
+      "unresolved": [],
+      "notes": [
+        "N→n官方修訂仅中文修正并可见说明，英文保留N。"
+      ]
+    },
+    {
+      "pdfPage": 141,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书133页；逐格比较四类共轭表：四代表矩阵、标量/抛物/双曲/椭圆条件，每类元素数和类数、抛物中心化子(t,u;0,t)且t≠0、双曲对角中心化子t,u≠0、椭圆y∈F_q×/ε非平方及y↔−y；下方二次扩域、α/ᾱ特征值及v/v̄等式全部核对。",
+      "enSha256": "803ecce2ecfdcda1fe6dc29c81fb9e9141f2764da053506e4d6e29f5267518e1",
+      "zhSha256": "a37b4718253dc2c5713754fb129a314ba2e52f87943345760d3ad7e8eaf1157e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 142,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书134页；完整英中比较e_1=v+v̄/e_2=√ε(v−v̄)、A矩阵末列εα_2、中心化子diag(λ,λ̄)与λ∈F_{q²}×的q²−1计数；[G,G]=SL2证明的det、三个生成矩阵、转置步骤及A(1/2)/B(−1)交换子准确。",
+      "enSha256": "ce6079c8f4b52cad47e01faba7ca139cb7b48f84909c2aa34815f4b0fc8c601f",
+      "zhSha256": "c2fc67adafea97ebe555674377e9b592452ea9f04c8df6f1e9f401def73761a3",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 143,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书135页；完整英中比较对角交换子A/B、G/[G,G]→F_q×的det映射、一维表示ξ及q−1计数；主系列B的上三角形、q(q−1)^2阶、[B,B]=U、两个对角元商群和λ_1(a)λ_2(c)均与原页一致。",
+      "enSha256": "fb61eb93d672e5494434901caff3277ac8a59c7d4aceb4d649c06e1e8d44c709",
+      "zhSha256": "e9e83179688a469589a5700d5127503bafcb6326a42ce4715621dd7cf0cb40ad",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 144,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书136页；完整英中比较诱导V_{λ1,λ2}、维数q+1、定理5.25.2三个断言及相等/不等全部假设；Frobenius求和限制a∈G/aga^−1∈B，标量/抛物/双曲三种特征标的乘子和换序项准确。",
+      "enSha256": "7e8cec42cc4708fb2daf18e7132831a9131ea9f371bcb878bc7ed2ebd899dbda",
+      "zhSha256": "96d683b9690be934490fe09fcdb2e109b40731429698f83cc236de5feb388e88",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 145,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书137页；完整英中比较双曲换位条件、椭圆矩阵原书x≠y与中文y≠0可见校注及其位置，内积展开每个q因子/复共轭/Σ_x≠y、相等λ的2|G|结果及Frobenius互反性、不同μ断言与z=xy^−1、Σ_{x;z≠1}/Σ_z≠1条件完整。",
+      "enSha256": "382c0a06fc2342f6b5f1a8684c03ff35e8706c81467202f17f8cbd96b4bdaa62",
+      "zhSha256": "93682d6886ceb460e373c63fabbe5462960ab77d5a5e0e5683347262c48020c8",
+      "unresolved": [],
+      "notes": [
+        "椭圆条件y≠0与原共轭表、非平方ε假设相符；保留英文原x≠y，中文校注已紧邻矩阵。"
+      ]
+    },
+    {
+      "pdfPage": 146,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书138页；完整英中比较非平凡特征标全F_q×求和零、λ1/λ2(1)及−(q²+q)(q−1)、原书负号错误与中文官方校注删负号；三断言证明、主系列命名官方补注、补系列扩域K/阶q²−1/诱导Yν和三类特征标全部一致。",
+      "enSha256": "4bbe760950947faf560f1c9a86034b1d4a7c9f17dfd5b0b3f642ac95009b84ae",
+      "zhSha256": "3d1b4fe6f0c4083b8ce8e968b2dccd93ca92417a9e8e37e271c6ce29fcf4b8fc",
+      "unresolved": [],
+      "notes": [
+        "原书负号保持英文，中文按官方勘误删去并以可见译校注说明差值方向。"
+      ]
+    },
+    {
+      "pdfPage": 147,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书139页；完整英中比较F_{q²}/F_q唯一非平凡自同构q次幂、Indν^q≅Indν及ν^q≠ν计数、W1⊗V_{α,1}与虚表示三个项、四类特征标正负号、α为ν限制及后续ν^q≠ν条件、跨页引理导语完整。",
+      "enSha256": "8944963c20eb686a806670fb725ad675ebc6afd76005f0a6d25003fed24dc481",
+      "zhSha256": "bac6e0ea90333ae99eeca33033e261d9dd8d82026c0638e0cd75bc4185fd63dc",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 148,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看原书140页；完整英中比较引理5.25.3的内积1及χ(1)>0、χ(1)=q−1计算、归一化(q−1)^2q(q+1)、全部类计数因子、elliptic ζ求和、ν^{q−1}/ν^{1−q}、全F_{q²}×求和与F_q×扣除、−2(q−1)以及最终内积1逐项准确。",
+      "enSha256": "600e8a20acf150acb246f4e39ea35e2bbd9eb3af9b68c46632fd308feb8897fa",
+      "zhSha256": "be75f142d2121bcf32884743aab3df2ae04987dab62dc50ce319a7a6021520d7",
+      "unresolved": [],
+      "notes": []
+    }
+  ]
+}

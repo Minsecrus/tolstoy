@@ -1,0 +1,16 @@
+{
+  "pdfPage": 189,
+  "printedPage": "181",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "编号 Problem 2.3.17 的中文引用统一为“习题”，英文不改。"
+  ],
+  "diagrams": [],
+  "enSha256": "5f89121984d735c9c8d386949e5c5c58260574c03c6645b0db48dfde32b72d53",
+  "zhSha256": "44508e422bd2e8bffb714cc708a0b4861a9f43dfc6a701ad1805f422d671545a"
+}

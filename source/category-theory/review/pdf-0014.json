@@ -1,0 +1,43 @@
+{
+  "pdfPage": 14,
+  "printedPage": "5",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Opening fragment continues Example 0.6 from PDF 13; equation (0.1) and the proof diagram are preserved as inspected PDF crops.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added.",
+    "The Chinese phrase spanning PDF pages 13–14 follows natural Chinese word order; the entire original phrase universal bilinear map out of U times V is retained across the page boundary."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0014-tensor-universal.png",
+      "widthPt": 212,
+      "clipPt": [
+        241,
+        162,
+        453,
+        221
+      ],
+      "sha256": "e1b2e8f0c5bc7912e4961995346b1098aa8b6705f07e19bde37d9da3d3993c05"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0014-tensor-isomorphism.png",
+      "widthPt": 76,
+      "clipPt": [
+        255,
+        503,
+        331,
+        595
+      ],
+      "sha256": "eb4a3fef0c4b3a07f260fa29256c844878278a032b2cd96d3404c4ccdfdc8af2"
+    }
+  ],
+  "markdownSha256": {
+    "en": "7fb7b86547bb2e5a80a5d36959f6cbdcd8a27fa0fbd8aa0af6097e8cb9fb0d61",
+    "zh": "a5857a065bf0b98bb352fca634b8308abdffa530d09de31acdac3b6835197875"
+  }
+}

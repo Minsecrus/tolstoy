@@ -1,0 +1,18 @@
+{
+  "pdfPage": 107,
+  "printedPage": "99",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对定理5.4.4证明的 Bézout 系数等式、定理5.4.6及其证明取g∈C（识别层误作g∈G）；公式编号5.4.1完整保留。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "aeda5b2ff80707633171a1986b1a4f6e7aa55ccceaf538d225084f0fe2368b04",
+  "zhSha256": "5cdc1ab699c5907e6bbfd1401ceab682ed1f04740ba45bca3087ee8a8421fe16"
+}

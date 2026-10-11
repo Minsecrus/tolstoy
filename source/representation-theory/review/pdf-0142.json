@@ -1,0 +1,22 @@
+{
+  "pdfPage": 142,
+  "printedPage": "134",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Quadratic-extension basis and all commutator matrices checked against the actual page."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0142.png",
+  "sourceHashes": {
+    "en": "ce6079c8f4b52cad47e01faba7ca139cb7b48f84909c2aa34815f4b0fc8c601f",
+    "zh": "c2fc67adafea97ebe555674377e9b592452ea9f04c8df6f1e9f401def73761a3"
+  },
+  "enSha256": "ce6079c8f4b52cad47e01faba7ca139cb7b48f84909c2aa34815f4b0fc8c601f",
+  "zhSha256": "c2fc67adafea97ebe555674377e9b592452ea9f04c8df6f1e9f401def73761a3"
+}

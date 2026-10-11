@@ -1,0 +1,24 @@
+{
+  "pdfPage": 177,
+  "printedPage": "169",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Proposition 6.6.8 completion; Coxeter element, Lemma 6.7.2, coefficient conditions, c^M=1, geometric sum of operators and eigenvector argument; actual original N retained.",
+    "Official errata mentions n to N, but actual attached 2011 page already prints N in Lemma 6.7.2; no change or redundant visible note added."
+  ],
+  "actualReviewScope": "Proposition 6.6.8 completion; Coxeter element, Lemma 6.7.2, coefficient conditions, c^M=1, geometric sum of operators and eigenvector argument; actual original N retained.",
+  "diagrams": [],
+  "enSha256": "011642087229204486c4640ccad305b2f6c352254dfae511588afb7217df1209",
+  "zhSha256": "32af59a85b6909f2d96f1bbae15b038a4e8aec52e9988a3a316ae398a64184a8",
+  "sourceSha256": {
+    "en": "011642087229204486c4640ccad305b2f6c352254dfae511588afb7217df1209",
+    "zh": "32af59a85b6909f2d96f1bbae15b038a4e8aec52e9988a3a316ae398a64184a8"
+  }
+}

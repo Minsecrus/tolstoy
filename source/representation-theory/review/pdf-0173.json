@@ -1,0 +1,36 @@
+{
+  "pdfPage": 173,
+  "printedPage": "165",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "All of definitions of reflected arrows and F_i^-, cokernel and inclusion maps; Proposition 6.6.5, sink surjectivity/source injectivity; complement decomposition image. Original projection typo additionally inspected in 400 dpi detail and corrected visibly in Chinese.",
+    "English retains original erroneous projection bigoplus_j V_{j->i}->V_i. Chinese visibly corrects the summation indices and the target to the appropriate V_j. The official 2024 errata corrects only the summation indices and still prints V_i; the target correction follows the type of the projection and is not attributed to the official errata."
+  ],
+  "actualReviewScope": "All of definitions of reflected arrows and F_i^-, cokernel and inclusion maps; Proposition 6.6.5, sink surjectivity/source injectivity; complement decomposition image. Original projection typo additionally inspected in 400 dpi detail and corrected visibly in Chinese.",
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0173-decomposition.png",
+      "widthPt": 188,
+      "clipPt": [
+        92,
+        470,
+        280,
+        528
+      ],
+      "sha256": "42a6224a18d070423fe5ea1be216458a0de39834ad5d5d3b94e9929b62201923"
+    }
+  ],
+  "enSha256": "2b1108f1b0ca5a92d90f8b8b3c509c597f5304db2597f68c6a03dec61099ab61",
+  "zhSha256": "32ee9a8922121954790387392e9a82f1124caef64b10590bd551eb070d02de43",
+  "sourceSha256": {
+    "en": "2b1108f1b0ca5a92d90f8b8b3c509c597f5304db2597f68c6a03dec61099ab61",
+    "zh": "32ee9a8922121954790387392e9a82f1124caef64b10590bd551eb070d02de43"
+  }
+}

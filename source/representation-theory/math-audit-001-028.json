@@ -1,0 +1,389 @@
+{
+  "status": "complete",
+  "reviewer": "representation_189_208",
+  "firstPdfPage": 1,
+  "lastPdfPage": 28,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 1,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对封面书名、Student Mathematical Library第59卷、七位作者、Slava Gerovitch历史插曲署名及AMS出版地；无印刷页码。",
+      "unresolved": [],
+      "notes": [
+        "主译已把无印刷页码的封面printedPage由i改为null。"
+      ],
+      "enSha256": "cbf90d89136dd7e07db282d33172329d5f0a022d54bedd4cf897c9b5dbd79a73",
+      "zhSha256": "70980a6f03951416544794cd131440235daaf1f7bde29d3a2d53788a192e8a82"
+    },
+    {
+      "pdfPage": 2,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对编辑委员会、16Gxx/20Gxx、ISBN、QA155.E586编目号、版权与复制许可完整正文、邮箱网址、印次数字；无印刷页码。",
+      "unresolved": [],
+      "notes": [
+        "主译已把无印刷页码的版权页printedPage由ii改为null。"
+      ],
+      "enSha256": "283a32a41a5e0498052a94d0925f859c6697f1af28432d8ef427804a119b62e3",
+      "zhSha256": "4293295eed4cc73cad59f978caa2178bbe0eaafea79a07b6a22f2aa082e21156"
+    },
+    {
+      "pdfPage": 3,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对纸目录iii上第1、2章及2.1–2.15标题和原书页码，包括sl(2)、张量积与历史插曲。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "1d29e363545925163e1a4b8e53723e1aaa5ab59c4026a5832875ff485c8610b6",
+      "zhSha256": "cf276c5ec109a0ffc9a46942a8e4b3d9f32d8c0b206eea0d442eb39d2de67259"
+    },
+    {
+      "pdfPage": 4,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对纸目录iv上2.16、第3章3.1–3.10、第4章4.1–4.13全部标题与页码。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "ccb8023244f4ff542dfa44c5313bed7e0397fbc1e753ccd37b338100d9233a16",
+      "zhSha256": "a96b55027694e6cf811db8636d71036ed8980e737f2df48aa33603f1a0e1a548"
+    },
+    {
+      "pdfPage": 5,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对纸目录v上第5章5.1–5.26全部标题与页码，特别Sn、gl(V)、GL(V)、L_lambda、GL2(Fq)。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "a778e9e1f7db980f7148bfe04d0c72fa7692578987ea4c88a18caee12c2fab31",
+      "zhSha256": "c0654dc2d71808168995095a89857edcff46b7d9f79e5b7efeda99990c6de86f"
+    },
+    {
+      "pdfPage": 6,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对纸目录vi上5.27、第6–9章及其列出的所有小节标题与页码，包括7.10完整标题、Tor/Ext。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "c8c6fa2b8dd63665a048f4929d030eb898a9b0dce57c93525b6d9b384949d44a",
+      "zhSha256": "5a754b0c2fd52e3fbca699e0de10dbe359023f152ae3983538fe070ff9c6749e"
+    },
+    {
+      "pdfPage": 7,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对纸目录vii上9.3–9.7、两类参考文献与索引标题和原书页码。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "8cd09b367c81fddd9b29b4dcb379b6f41fa87497fc9914275b5199f1263746f2",
+      "zhSha256": "7b150b53ad5bf07e5488d65ea78f7e234f85867fdf2bd5d314a7a17654a0892d"
+    },
+    {
+      "pdfPage": 8,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看整张源图确认全空白，英中文稿均为空，blankPage=true、printedPage=null。",
+      "unresolved": [],
+      "notes": [
+        "主译已把空白页printedPage由空字符串改为null。"
+      ],
+      "enSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "zhSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "pdfPage": 9,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对引言起源、1896与Dedekind群乘法表X_G、变量x_g、不可约因子重数等于次数、全书定位；末句续页10。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "6aa2ac9a5ed77cb200ca9ba25b9aa197f3379c1d0fdc9f2ceba2c2ff974a02dc",
+      "zhSha256": "2dcaf0151f95c10e8712a54ec75a9b21dab3323bd5a339932c96ad1691d60ebd"
+    },
+    {
+      "pdfPage": 10,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对引言续句、全部[S]/[FH]/[CR]/[BGP]/[W]引用及第2–5章介绍、练习提示、有限群与重数内容；末句续页11。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "e07385dc95371b78b77cd82285abac4b49a3d24b06f960e45f9c189ab6649b97",
+      "zhSha256": "24b2daab18afb69f7ac29e60fdcc0952f115e2791d927d19dce80979e6ca9b40"
+    },
+    {
+      "pdfPage": 11,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对引言第5章续句、6–9章介绍、六篇Gerovitch历史插曲、七位历史人物、[Cu]、2004/2008致谢以及幽默脚注1全部内容；致谢续页12。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "e1f5454d90738c90d93314892feae91d44d21ef23f37485055b4c930d68e63a1",
+      "zhSha256": "92053fb7be153e170a7285ce916b83e684e9b46af0b1218994fd402cb91bc1c9"
+    },
+    {
+      "pdfPage": 12,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对引言致谢续句Josh Nichols-Barrer/Thomas Lam/Darij Grinberg、全部习题和练习编号、W.Casselman图署名。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "9d6f1672c5ba3b99d65cea641eb2c85a323677846b2ab4e2961211f2019e33ff",
+      "zhSha256": "4ad3e3898d5982d46c2a46956157f9807001518644c626ce0896dc7b15295812"
+    },
+    {
+      "pdfPage": 13,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对2章及2.1结合代数双线性结合乘法与单位元、EndV、表示同态保持乘法单位元、子表示与直和。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "3ae6e03f94a419c2c79bd0858756d9df66be2ca6d063eaff1844b6526fa73561",
+      "zhSha256": "ff1ae1d268b5d72b0e5f28125f987c2c22ba5341afb4c8d24c169400e70295d0"
+    },
+    {
+      "pdfPage": 14,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对非零不可约/不可分解、分类问题、sl(2)三条关系(2.1.1)、N×N矩阵、定理2.1.1复数域与齐次度d−1、h/e/f三个微分算子及完全可约结论。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "49612547a54622344fc89f6bfd61c70713e985c583282f82cb74ff1dc1ea69c7",
+      "zhSha256": "1d4cc228d4660f795a78ff9e243614c7c1d47ad32f6ae0226a26cca5753e4444"
+    },
+    {
+      "pdfPage": 15,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对有限箭图、重边自环、Vi与Ah方向、路径代数、有限型和Gabriel定理2.1.2；五个A_n/D_n/E6/E7/E8图均实际查看源图及300dpi裁切，核对节点、分支与省略点；中文固定代数闭域条件和紧邻官方勘误注正确。",
+      "unresolved": [],
+      "notes": [
+        "实际核对官方2024-06-03勘误第1页，固定代数闭域条件补入正确。"
+      ],
+      "enSha256": "16a062d800e4f8830ad3bc6b7ace7a0fe81d81893c718d2c9176c1fdcea46d3c",
+      "zhSha256": "96f33861d3c972dd427cc0bf4a3ac9b5dffd328931ce3ec4a32fc99e2a383d59"
+    },
+    {
+      "pdfPage": 16,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对单边Dynkin图分类和外星文明原文、有限群代数乘法、Maschke/Frobenius/Burnside陈述、p^a q^b、2.2代数闭域默认和F_p代数闭包、定义2.2.1。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "32997e6cd57e4e2def97c8c76be478bb0724f51efa4178c8450c8e8085a7c100",
+      "zhSha256": "b23eb511515b6dd4f807f7972d49e7de82017455eec8f23d73dfb3dcfc60e535"
+    },
+    {
+      "pdfPage": 17,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对单位元唯一证明、全部五个代数例、交换性条件、代数同态f(1)=1、2.3.1；英文A≠0保留，中文按官方勘误取消统一非零条件且可见注说明在单代数定义补回。",
+      "unresolved": [],
+      "notes": [
+        "官方勘误不再统一排除零代数；中文删去全局A≠0，英文忠实保留。"
+      ],
+      "enSha256": "2aea8f5b78148ec7ac646cfbe79575fc2b8788391ee01c1c4f810c5b000c39f9",
+      "zhSha256": "602b4941ad89cea33c2d35b2dfd59837c7f002aef582dbf1ac0c007798e11c39"
+    },
+    {
+      "pdfPage": 18,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对右模反同态次序、左右模结合律、交换环、正则表示、自由代数任意算子、2.3.4/2.3.5非零条件、2.3.6定义跨页。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "092795d71160e8cf0207f4cf8f279cc1ac3e9caf7d5fcdc201152d08bba8caa4",
+      "zhSha256": "eb0d311d6fae068df6a2e6b06d7e46c3d7e04ac2263026a96b4b1549730b7734"
+    },
+    {
+      "pdfPage": 19,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对2.3.6续句交织条件、逆同构、Hom_A、直和作用、不可分解非零条件和一般分类问题、Schur引理任意域F条件续页20。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "182b23a430e72547b4d900693f0a0690f09f70febf50f30e8911ab8ff3d4150b",
+      "zhSha256": "fd9e3239070b2f4e4c73e5bb705e6bfaea3f0553a451828ebab368332822f274"
+    },
+    {
+      "pdfPage": 20,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对Schur非零态射的单满射及核像证明、有限维代数闭域推论、实域反例、特征值证明、交换代数一维推论和rho(a)rho(b)公式；证明续页21。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "de1e59ab14bb9d1dd168063212c2e18d90dd442d5fca2795743516c8d7c600ec",
+      "zhSha256": "2d5c143220e4caee291b3fd990afa1c3b0fc4d60b6e31363045a439c63199966"
+    },
+    {
+      "pdfPage": 21,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对交换代数推论续证、例2.3.14三个例子、Jordan块系数和e_(i−1)/i>1、群表示GL(V)；中文有限维假设已按官方勘误明确补入并注记。",
+      "unresolved": [],
+      "notes": [
+        "官方例2.3.14有限维补充准确，Jordan分类范围符合补充条件。"
+      ],
+      "enSha256": "4e6ba4b9280f29cb2b1508a59ae7b74efc78887e0bc83b05310457abb0feaadf",
+      "zhSha256": "bbb2e6207e8d3fcd7d58583af169359ed591bf49340b4f6992c6cef3a9595028"
+    },
+    {
+      "pdfPage": 22,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对2.3.15–2.3.18所有问题、中心特征标(a)–(c)、End_A(A)=A^op、Dixmier至多可数基假设与除代数/超越扩张/不可数维数提示。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "f60c3cbb4abfc3997bfd59b0126e9164f5d4741cc124141109389d1c238cd9c6",
+      "zhSha256": "3429ab0b1073147150f455e147c4ded6a824ba78f1a03a485632a86973ece92d"
+    },
+    {
+      "pdfPage": 23,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对左/右/双边理想、span{asb}及左右生成理想、2.4.1极大理想与Zorn提示、2.5商乘法良定义两条完整公式；中文单代数非零和习题非零含幺环条件有明确可见注，英文原保；良定义证明续页24。",
+      "unresolved": [],
+      "notes": [
+        "单代数非零条件按官方补回，2.4.1非零环条件保持原题适用语境，均有可见译校注。"
+      ],
+      "enSha256": "fd975ee03e98e7e7e5164cf3286c98c21de4510dd85934771f1a60c82fba86e9",
+      "zhSha256": "807ce11fe37f0edcf2e2fd591951e23397ba0818e97d5827431f4603a5495df6"
+    },
+    {
+      "pdfPage": 24,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对商乘法续证、V/W作用、左理想商模、2.5.1包含所有次数≥N齐次多项式的真理想、2.5.2循环条件(a)–(c)与A*反例全部提示、2.6自由代数商的完整生成关系。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "f196561fd38059f2f6a9840889dc1fbe7058b9ab085e6ba5c8f675ba1d236097",
+      "zhSha256": "ff6cbc57f129628e49477f5373ed920bd8eea49df7604110abacc9fc5be21149"
+    },
+    {
+      "pdfPage": 25,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对Weyl/q-Weyl所有生成关系、基指标非负整数/整数、排序证明及形式t^a表示、微分t^(a+n)、线性关系、L求和与最高Q_r≠0、下降阶乘和t^(a−j)；证明续页26。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "fe48f0b79b54ea71fc707af3227cf1e1cc3a3a78c79428af139c6355e87cfc18",
+      "zhSha256": "9704dad4b6199992f87e5be527fc785f622446a5bd960ce120be8320ebec6d25"
+    },
+    {
+      "pdfPage": 26,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对最高a项矛盾、q排序、忠实表示单射、特征零/p区别、(d/dt)^pQ=0、2.7.4所有问题与提示、x^p/y^p中心、p个基向量、2.7.5非零复数q续页27。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "71c73d0bf459be61c2cdde436d47de7fe66104948a07a1a4cfb1a85b9184bdfa",
+      "zhSha256": "de1c121be97b236216a1918a5fbb3ab80103d22c62054546163766dde13fee17"
+    },
+    {
+      "pdfPage": 27,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对2.7.5(a)–(c)单位根和行列式提示、2.8箭图定义、两个箭图源图及实际300dpi裁切、三个箭头皆指中心、h箭头h′→h″、Vi/x_h方向、路径代数陈述。",
+      "unresolved": [],
+      "notes": [],
+      "enSha256": "ce32a5880eeca048bc36f0bca54309bbe5273d23bd2202490a3f31c22b80b78a",
+      "zhSha256": "9e5ca96d2b6f1d8d226c971f2e8bda63560799957067fc3cf6eb401772268516"
+    },
+    {
+      "pdfPage": 28,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对路径乘法先b后a、平凡路径与和p_i=1、2.8.6全部指标h′/h″、V_i=p_iV、路径算子复合和V_(h_m′)→V_(h_1″)、逆对应、2.8.7；中文有限Q及单位关系按官方勘误有可见注。",
+      "unresolved": [],
+      "notes": [
+        "官方2.8.6补有限箭图及sum p_i=1准确，英文仍保留原书三条关系。"
+      ],
+      "enSha256": "b4c208e5c39aabd0dc400e067ec35f8eec9bf0ba208413ec6904afa5e4d968db",
+      "zhSha256": "6759b308f707cc3555c781cf16c116c531be40b9790b8b1941c7c724e8dfd1d4"
+    }
+  ]
+}

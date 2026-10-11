@@ -1,0 +1,26 @@
+{
+  "pdfPage": 142,
+  "printedPage": "133",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0142-sphere-coequalizer.png",
+      "widthPt": 154,
+      "clipPt": [
+        216,
+        203,
+        370,
+        232
+      ],
+      "sha256": "c7035f7c6087c99b3ee1b3ac074427d09b6cbb8fab6cec0942e852cc1a2a0f9c"
+    }
+  ],
+  "englishSha256": "4e26c84588c7bbc14f59d1a9123990f778a779c828e48cd4bf60dedda8b0f298",
+  "chineseSha256": "7381235f7390df0dabadbe6435be009e1ec7e6f9c0a3208cb0cf4cdc02781239"
+}

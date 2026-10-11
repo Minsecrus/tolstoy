@@ -1,0 +1,18 @@
+{
+  "pdfPage": 96,
+  "printedPage": "88",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Hamilton 历史插曲逐句核对，保留1843年10月16日发现经过、哲学引文和跨页句片段。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "73f696ee9bf2e11c33537de3ed880337e193df8b2c0d98181b52091636a11fa2",
+  "zhSha256": "f152437a71f26f4e04489c6d4fd5fabfe370f4049dd409399ea1b87bf6dfa00b"
+}

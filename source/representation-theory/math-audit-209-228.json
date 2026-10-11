@@ -1,0 +1,298 @@
+{
+  "status": "complete",
+  "reviewer": "representation_169_188",
+  "firstPdfPage": 209,
+  "lastPdfPage": 228,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 209,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Chapter 8 introduction; Theorem 8.1.1(i)–(iv), lifting/splitting/free-summand/exact-Hom equivalence, all morphism types and compositions; proof fragment and open parenthesis continuing on 210. Original image and both manuscripts fully read.",
+      "enSha256": "0c79f2214ab4f7d9f1cff9ac575daf9a13c9d95e497c4bf021edfd90fdcaddd3",
+      "zhSha256": "13da63d60711b5998bda5c0243259da78a4c551b935637f35949812be281b027",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 210,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Completion of Theorem 8.1.1 proof, kernel short exact sequence; Definition 8.1.2; all three flat-module exercises including localization and flat nonprojective Laurent module; horseshoe Exercise 8.1.4; injective-module introduction and Theorem 8.1.5(i)–(ii) with reversed types.",
+      "enSha256": "696d63156546949feb455955dfb708ca7683b101463ab17303943f21e8c4fbf7",
+      "zhSha256": "f150d726db6924f32c9b4c6c3f92f2f2fb59d1ecea6efa4a807006080e76ce9d",
+      "unresolved": [],
+      "notes": [
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 211,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Theorem 8.1.5(iii) and pushout proof: quotient embedding sign, inclusion, retraction and restriction map; Definition 8.1.6; Example 8.1.7 duality; projective/injective objects; Section 8.2 opening and right/left module continuation. Final Chinese finite-dimensional-algebra condition and adjacent correction note reread after primary changes; original English retained.",
+      "enSha256": "ce95e50f3d92c0884c4ebbf3176de330bbda3a90c95e0176f0d25a45c11b30b7",
+      "zhSha256": "eeb976d6ab6a0be46bf2dbf487144ab284a9799fb2d93ef79096e24b29fc0a02",
+      "unresolved": [],
+      "notes": [
+        "Resolved source omission: Chinese adds finite-dimensional A to preserve the printed equivalence; note accurately distinguishes general flat/dual-injective equivalence from projectivity."
+      ]
+    },
+    {
+      "pdfPage": 212,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Definitions 8.2.1, 8.2.3 and 8.2.4: resolutions, right/left module types, Tor tensor differential and Ext Hom differential; Exercise 8.2.2; Problem 8.2.5 setup, augmentations and chain-map identities (i)–(ii), every degree and subscript.",
+      "enSha256": "631099a597150e810580b21220f01ddcd827e6f75e533c83defa1965cfd1af4b",
+      "zhSha256": "1b353a3f7c392e7f456691c6294e187c77909a120c218ea8e4f7211fb8569f16",
+      "unresolved": [],
+      "notes": [
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 213,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Problem 8.2.5(iii)–(v), induced maps, composition and independence; Problem 8.2.6(i)–(iv), Tor_0/Ext^0, Yoneda Ext^1, two long exact sequences, order of all N_i, connecting maps and double-resolution hint continuation. Chinese Ext arrow Q→P and visible variance correction checked against f:P→Q and contravariant Hom.",
+      "enSha256": "6c3a08a2618e3803696060c8f7928dd174e3e032497a1d7b5a61684962e6f491",
+      "zhSha256": "66cd466cd51176bd1337d675d7d0e1dc9ac8ac5caf8e123fd686751f3e59c4d9",
+      "unresolved": [],
+      "notes": [
+        "Resolved source variance error in Problem 8.2.5(v): final Chinese Ext map Q→P matches Hom(f,N); English still reproduces original P→Q.",
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 214,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Double-resolution hint; Problem 8.2.6(v) horseshoe terms and contravariant Ext/covariant Tor sequences; Problem 8.2.7 all cases; Problem 8.2.8 tensor-product Kunneth formulas, summation degrees, module handedness and finiteness hypotheses; general enough-projectives paragraph. Final Chinese explicitly separates Tor right/left from Ext left/left, adds finite-generated-projective resolutions as sufficient Ext hypothesis, and qualifies generic Tor structure, with all adjacent source-correction notes; full English original retained.",
+      "enSha256": "8c838b9355584e18c7cb2f9f11ae3c5b839798c24d6ea532509bbc64a4f4398a",
+      "zhSha256": "f8921ac9909b8bf104ee49ebbdc9af2f04b2cdedeae0d6b78b02992087fdcbdb",
+      "unresolved": [],
+      "notes": [
+        "Resolved source omissions: Tor variables right/left separately from Ext left/left; Kunneth Ext formula retains N_i finite-dimensional and adds each M_i with a resolution by finitely generated projectives as sufficient condition. The latter holds when A_i and M_i are finite-dimensional. Generic Tor additionally needs appropriate tensor/right-exact structure; all corrections visible.",
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 215,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Exercise 8.2.9(i)–(ii); all five parts and hints of Problem 8.2.10: Koszul terms, contraction sign (-1)^j as printed, omission of v_j, left/right bimodule structure, dimension bound, Hilbert syzygies and self Tor/Ext computations; every wedge/tensor exponent and polynomial-function argument.",
+      "enSha256": "d67873b0b996a9d6c4d0acf2f6ca1d1766edb12565cad38d8a9f1cff3a53a3f6",
+      "zhSha256": "9f17b96506b76d112a19cba1b5ddbb958cc6a875eb7c1218f61ca7f4aed620f6",
+      "unresolved": [],
+      "notes": [
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 216,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire original image personally viewed: genuinely blank intervening page, no omitted text, equations, figure or printed folio; both bilingual files blank.",
+      "enSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "zhSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 217,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Chapter 9 assumptions (algebraically closed field, arbitrary characteristic); Proposition 9.1.1 statement, nilpotent ideal and conjugation; square-zero proof, lifting error a, correction b, equation and equality signs, commutation and next c step. Original English plus/minus typo preserved; Chinese official correction consistently changes b equation and b value to -a and -(2e_0-1)a with visible note.",
+      "enSha256": "857c64f31ce9ce19105d161a86faf95ed7a29087552eb35c615d9eb94a5c854e",
+      "zhSha256": "961af732dc6f77611bb10e9c1471e743b17d7524e15237b36eec3e856ced7e3f",
+      "unresolved": [],
+      "notes": [
+        "Author 2024 errata independently checked: Chinese fixes signs after the equation for b; original English typo remains faithful."
+      ]
+    },
+    {
+      "pdfPage": 218,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Proposition 9.1.1 continuation, double commutator and conjugation inverse; nilpotency induction; orthogonal idempotent system and Corollary 9.1.3; corners and induction; Section 9.2 and all three Theorem 9.2.1 conclusions including multiplicity decomposition. Official Chinese e_(k-1) lift correction and adjacent note checked against original e_0.",
+      "enSha256": "950992798731de2df569423c9443e243737ad584e83947906b3bf8fa52aaafa7",
+      "zhSha256": "9502827a22ea4ff3623f92f5a7d4339c3f6e53d1ad6cb9097e552222e2d0536b",
+      "unresolved": [],
+      "notes": [
+        "Author 2024 errata independently checked: lift e_(k-1) rather than e_0 at inductive stage; original English remains faithful."
+      ]
+    },
+    {
+      "pdfPage": 219,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Full proof of Theorem 9.2.1: radical quotient, rank-one projectors, all i/j/k indices, primitive idempotent lifts, P_ij decomposition, Hom dimensions, conjugacy and indecomposability; Definition 9.2.2; Proposition 9.2.3 multiplicity and exact-Hom proof; Cartan entry definition and page transition.",
+      "enSha256": "924ff89e68b21ba06ebd71aeb57c3a6d79f6bce344fe3201bafe0d1f9153df65",
+      "zhSha256": "ff5071b663a2b9dfad45618305e9183f623f08ecf9aa276c2b9922565972066c",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 220,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Definition 9.3.1 and nonnegative/positive diagonal entries; Problem 9.3.2 algebra relations gx=-xg,x^2=0,g^2=1; projective dimension and all three Problem 9.4.2 parts and hint, nonsplit condition, kernel degree convention P_-1=M and finite-dimensional resolution conclusion.",
+      "enSha256": "6c9d1475bf6db8568b0423c1c56f8afbc732f3d001b09819156f6a35d117b91f",
+      "zhSha256": "5fae0ffb867ccd71d5cc47289537a3f54173d2fc0b9f26ea49a926bacaf64dc7",
+      "unresolved": [],
+      "notes": [
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 221,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Left/right global homological dimension, exact versus bounded dimension; Hilbert example; Cartan determinant exercise, truncated polynomial/free/path algebra exercises and all assumptions; block linking chains with both possible Ext directions and length-zero case; partition and composition-factor definition.",
+      "enSha256": "5662dc42b27e4183d5b1aabbb6bcde024274a8a5c4d83ecdf3e7123a40954142",
+      "zhSha256": "fac6560d8b0e0f372d2e3e9f61d47e95189aac19c1b824c5fb487a97ee12804f",
+      "unresolved": [],
+      "notes": [
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 222,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Block examples and all three Problem 9.5.3 parts, central idempotents, direct-sum decomposition and characteristic 2 S3 case; finite length, k-linear Hom and simple endomorphism conditions; finite abelian-category and progenerator definitions; Exercise 9.6.3. Final Chinese projectivity hypothesis and adjacent note independently verified; English omits it as original.",
+      "enSha256": "c1e8ff2508461a76d622616acc292434746664e85c66c03206b2df377139ad79",
+      "zhSha256": "419ca234c6109fad44edd1ff60cd86f0dcdc0ca3168e586c97f0f64cbc914365",
+      "unresolved": [],
+      "notes": [
+        "Resolved source omission in Exercise 9.6.3: Chinese explicitly assumes P projective. Mere nonzero Hom to each simple cannot imply projectivity.",
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 223,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "End(P)^op handedness, B-fmod finite-dimensional left modules, Hom functor; Theorem 9.6.4 and full Problem 9.6.5 proof exercise: balanced tensor cokernel, action maps, natural xi, surjectivity, exact kernel sequence and quasi-inverses; Morita introduction. Chinese finite-dimensional-module conclusion and adjacent note checked against immediately stated target B-fmod.",
+      "enSha256": "d65506149dc584c799c67a3e468a6f01646d0abb0b6740280a4a7d8ff69db4f6",
+      "zhSha256": "16a857d81f7ee7aafef7ad561e21ad1332df3aa1d43c14eb6fc0d8731ca06b90",
+      "unresolved": [],
+      "notes": [
+        "Resolved source shorthand omission: conclusion restricted to finite-dimensional modules, consistent with B-fmod and finite-length category.",
+        "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+      ]
+    },
+    {
+      "pdfPage": 224,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "All finite-abelian/Morita statements: projective generator multiplicities n_i≥1, opposite endomorphism algebra, equivalence class, dimension sum c_ij n_i n_j, minimal basic algebra and semisimple quotient matrix sizes; basic definition and both Corollary 9.7.3 clauses. All expressions and Chinese meaning compared in full.",
+      "enSha256": "5a29dd9897789d626a64dc0154e936c62667c29ff076922814fe90d5125d4eb1",
+      "zhSha256": "3c1746baa63e271b9101c22320e8d44c1c2ff79637568b200a776df94284a579",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 225,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Historical bibliography heading and every reference [1]–[9], author initials, article/book titles, editor/compiler markers, volume/issue numbers, dates, cities/publishers and page ranges; Chinese titles checked against full faithful English entries and original image, including Cyrillic transliteration in [2].",
+      "enSha256": "9286e7585245dbf21df9d5e57497b16c2586541314d2d51be015643d15282d00",
+      "zhSha256": "896d12a7a056aca9679c8d808ffe0049d4e67a8b795d016824a2bb6e5bc341f8",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 226,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Every historical bibliography reference [10]–[25], full names and proper spelling (Freudenthal, Gillispie, Brauer), titles, collected-volume references, editors, volume/series numbers, years and all numerical page ranges; uninterrupted numbering from 225 and into 227; both complete manuscripts read.",
+      "enSha256": "55dc5069a5afd14cd34dd1a074520a1a8d84aaec6869743652f072119b21e6fe",
+      "zhSha256": "43a9d69d2a65d4c1eded54168496eb65762b8f4583900bf5b860ddfe9d9923ce",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 227,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Every historical bibliography reference [26]–[41], literal Dedekind-letters URL, Krömer/Göttingen diacritics, titles, authors, editors, part/volume/year/issue and page numbers; roman iii–iv; two Mac Lane American-century entries distinct; both manuscript sets and original fully compared.",
+      "enSha256": "4ccc966f4c965fac9e2b94e44728bc27347f2bb3250e630c92e46925e06d7933",
+      "zhSha256": "078fd325fa2fe7d2d5651f93d1db15b62108bd03e0b0fd3598bc2b0647db3cbf",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 228,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Every historical bibliography reference [42]–[55], author names, compound titles and diacritics (Schrödinger, Söllner, Jürgen, Émigré, Göttingen), dissertation institution/year, collected volume references, all page ranges including [54]45–54 exactly as printed; consecutive numbering to 55 preserved, Chinese titles natural without added teaching.",
+      "enSha256": "7b71219f02a58ddd7c88c6bb7b939aa518f69a21f472a60b713ba2548e95cef5",
+      "zhSha256": "d81ecff2fd66c0f318a0bacecd331edf8f0b7ff7a0884dbb66334d8890502e3f",
+      "unresolved": [],
+      "notes": []
+    }
+  ],
+  "reviewMethod": "Personally viewed all 20 original page images and fully read both current bilingual manuscripts. Rechecked final primary corrections on pages 211,213,214,222,223 after hashes were updated; math rendering checks are supplementary, not a substitute for this content comparison."
+}

@@ -1,0 +1,30 @@
+{
+  "pdfPage": 149,
+  "printedPage": "140",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0149-adjunction.png",
+      "widthPt": 54,
+      "clipPt": [
+        140,
+        287,
+        194,
+        317
+      ],
+      "sha256": "3e95ebae3206d2605ac45b110fc49cf43765429e4cb4397425d3850e479edda6"
+    }
+  ],
+  "snapshots": {
+    "en": "cf8798f8ebb5d3d31b854432beb8b1262dbe8c347897d47a293012c3c42bfedd",
+    "zh": "52754424a844cf218a0def16549cd2b2e658437a0abf4b8cd7f6d619c4d65135"
+  }
+}

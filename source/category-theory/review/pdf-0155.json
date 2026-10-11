@@ -1,0 +1,52 @@
+{
+  "pdfPage": 155,
+  "printedPage": "146",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0155-equalizer-notation.png",
+      "widthPt": 64,
+      "clipPt": [
+        164,
+        128,
+        228,
+        156
+      ],
+      "sha256": "f3dbe8e773975c87be25681772566a4ce0eb4fe677efe14076193771a2811597"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0155-map-to-equalizer.png",
+      "widthPt": 204,
+      "clipPt": [
+        234,
+        166,
+        438,
+        194
+      ],
+      "sha256": "7b8f160ad9e750e05a6a94441dabcd6bed034519636915c0b520c1c09314515a"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0155-equalizer-bijection.png",
+      "widthPt": 275,
+      "clipPt": [
+        163,
+        344,
+        438,
+        375
+      ],
+      "sha256": "4c90f4dc16cf272b4ecf9b24579c518284ae8995638f157d8676b2182483a91d"
+    }
+  ],
+  "snapshots": {
+    "en": "f5a7cf1b4800db21219206fe131f27cf483824998d6b0be4fd75692a26e395aa",
+    "zh": "6dfa57089c3867e8bc3088659016dd5fd0006947ec3bf77d08fa077f4f5ee16e"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "pdfPage": 114,
+  "printedPage": "105",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "独立二审将直译的“那个张量积”改为自然中文“张量积”，保留所有此类空间同构而名称合理的原意。"
+  ],
+  "diagrams": [],
+  "sourceHashes": {
+    "en": "d55e55c4d459354409b81e1e0ef038ed30db04562a5ae1cb434cbf9091cff5c5",
+    "zh": "fa97d567fe7e9dcde29b8b7157a7364b328ee9b3fb02cd89e46e107117f239f0"
+  }
+}

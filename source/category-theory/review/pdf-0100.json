@@ -1,0 +1,53 @@
+{
+  "pdfPage": 100,
+  "printedPage": "91",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0100-hom-functor-action.png",
+      "widthPt": 151,
+      "clipPt": [
+        218,
+        146,
+        369,
+        200
+      ],
+      "sha256": "8af8da12e2592ae65698a5c4e67d16a94b343de1cafe4f0879bfcd542bec82c4"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0100-functors-fg.png",
+      "widthPt": 48,
+      "clipPt": [
+        353,
+        486,
+        401,
+        510
+      ],
+      "sha256": "59713e07be34111216faa937d5d71a31c8bbe98331188773df17b9e926e75fa2"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0100-adjunction-naturality.png",
+      "widthPt": 118,
+      "clipPt": [
+        234,
+        521,
+        352,
+        583
+      ],
+      "sha256": "2159aefbae8bf7d699f736fddfde63af595635835b7a22140d036848aa5e328a"
+    }
+  ],
+  "sha256": {
+    "en": "9ca3e7b907eb0bbb1e5a431908686c99ea4a3c6a9f3804eef910f00e84df1bc2",
+    "zh": "8ca5bb524ac9a27c3e7e9ffa34a5d42f452d8d45e1f2132ccc50d12ce9d7d9a2"
+  }
+}

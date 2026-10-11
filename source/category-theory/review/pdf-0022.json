@@ -1,0 +1,31 @@
+{
+  "pdfPage": 22,
+  "printedPage": "13",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0022-categories.png",
+      "widthPt": 275,
+      "clipPt": [
+        163,
+        508,
+        438,
+        568
+      ],
+      "sha256": "0216e512c83d0e57a97912bd5a3ca9200cc3c77359ba115eeb9e3bf1a442e67b"
+    }
+  ],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "c6ebd5ae4ac61ef02c1491ffbd77530e2e599b24876e7a4a0bdaa4324e0c880c",
+    "zh": "776eae6f26942e026533a5266e348ef2357c74a42842c8f7e9c2eb791bd71898"
+  }
+}

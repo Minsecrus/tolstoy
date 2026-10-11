@@ -1,0 +1,35 @@
+{
+  "pdfPage": 174,
+  "printedPage": "166",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Proposition 6.6.5 proof continuation and simple supported representation diagram; Proposition 6.6.6 and proof fragment, domains, F_i^- F_i^+ versus F_i^+ F_i^- and kernel K."
+  ],
+  "actualReviewScope": "Proposition 6.6.5 proof continuation and simple supported representation diagram; Proposition 6.6.6 and proof fragment, domains, F_i^- F_i^+ versus F_i^+ F_i^- and kernel K.",
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0174-simple-representation.png",
+      "widthPt": 62,
+      "clipPt": [
+        153,
+        102,
+        215,
+        156
+      ],
+      "sha256": "f1a85872c6bcc4f8d8c948bb4b33a50df64376f5b56c8118a8b35a942795212c"
+    }
+  ],
+  "enSha256": "fb4ac2a6404a98a7dca2e50e177945d4c4fd28848c05fa54e0baa83a889f602e",
+  "zhSha256": "49aee65d51bdd0b7c8294d17fd8ea6b27bd051c2a3f4ba378c2cc186592d5a4b",
+  "sourceSha256": {
+    "en": "fb4ac2a6404a98a7dca2e50e177945d4c4fd28848c05fa54e0baa83a889f602e",
+    "zh": "49aee65d51bdd0b7c8294d17fd8ea6b27bd051c2a3f4ba378c2cc186592d5a4b"
+  }
+}

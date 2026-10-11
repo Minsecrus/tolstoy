@@ -1,0 +1,32 @@
+{
+  "pdfPage": 52,
+  "printedPage": "43",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page begins with the continuation of Remark 2.1.2(c) from PDF 51.",
+    "Page ends with for all formal; the linear combinations continue on PDF 53.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0052-free-vector-space.png",
+      "widthPt": 39,
+      "clipPt": [
+        282,
+        417,
+        321,
+        472
+      ],
+      "sha256": "d333bc7632acca08ff03260af8be1ca53f8a724ce72791e606fd5bb98ae9e5ae"
+    }
+  ],
+  "sourceSha256": {
+    "en": "0c29f594ceb6b4996fc55a8b3b40538552c797f90008163f1920d6c32e6efe6b",
+    "zh": "1649839eb7db54d4c50c7907d8b4c73c79639b2b9d8506e0385f0513f9ac5798"
+  }
+}

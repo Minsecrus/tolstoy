@@ -1,0 +1,16 @@
+{
+  "pdfPage": 201,
+  "printedPage": "193",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "原书生卒年 Samuel Eilenberg (1913–1988) 与本书PDF225参考文献[6]纪念文题名1913–1998不符。已实际查看PDF225，英文保留原书1988，中文订正为1998并紧邻可见译校注。"
+  ],
+  "diagrams": [],
+  "enSha256": "a497dfeddd805d40b337080a3783c293f67f5ad1838b798df61bbe1c7c179276",
+  "zhSha256": "8e8d1db9de00d47da854f4f887d079b2b03f9f679fe5c1928122baef3d555064"
+}

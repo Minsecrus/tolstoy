@@ -1,0 +1,22 @@
+{
+  "pdfPage": 234,
+  "printedPage": "226",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "All 82 flat index entries and their original printed page references were visually checked. Reading order is full left column followed by full right column; wrapped continuation lines do not create child entries. Index total across PDF 233–236: 230 entries."
+  ],
+  "diagrams": [],
+  "enSha256": "324c10a59165fbb78f5cb3d89dd5f1e8d7490861d423b9ca95777e9e583090f0",
+  "zhSha256": "80f40ea505756bfe03948c671f67e3abd165a2cddf6c7becb8c4bbdfea348bff",
+  "primaryReviewer": "representation_229_238",
+  "indexEntryCount": 82,
+  "indexReadingOrder": "left-column-then-right-column",
+  "indexEntryDepth": 0
+}

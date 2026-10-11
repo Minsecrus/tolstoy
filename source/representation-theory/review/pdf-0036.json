@@ -1,0 +1,19 @@
+{
+  "pdfPage": 36,
+  "printedPage": "28",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full historical interlude retained, including Engel collaboration, German book title and cross-page quotation."
+  ],
+  "diagrams": [],
+  "enSha256": "275f2e753b553fd86133ec62414fbf803ae39dfbeef5c0cd27bb8ae6c2e44277",
+  "zhSha256": "c5fd65b331b4fbbd05a9b8f340b801e3d5f90857883eea91baf6bea3c6b3f17c",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0036.png",
+  "officialErrataChecked": true
+}

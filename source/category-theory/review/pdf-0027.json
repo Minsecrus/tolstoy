@@ -1,0 +1,36 @@
+{
+  "pdfPage": 27,
+  "printedPage": "18",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the rendered page and checked the prose and formulas against cfnt.tex and macros.tex.",
+    "Opening fragment completes Remarks 1.2.2(a) from PDF page 26. Preserved part (b) and all four parts of Examples 1.2.3.",
+    "The parallel-arrow diagram was cropped directly from the supplied PDF at 300 dpi, then viewed; both rightward arrow directions and complete labels were verified.",
+    "Expanded fixed-category macros and verified the identity functor subscript and the composition G \\circ F.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts.",
+    "Independent audit: the Chinese opening in B fragment is now incorporated in PDF 26, and the next example begins naturally here; no original mathematical qualification was omitted."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0027-functor-parallel-maps.png",
+      "widthPt": 160,
+      "clipPt": [
+        209,
+        196,
+        369,
+        232
+      ],
+      "sha256": "a6dea4e1de15f917d9784252c4e317e9ae9b53e7e582006e3fbf8add093fc7ea"
+    }
+  ],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "44407edc3f8477db9e1b3dce825ea4f4ed06908d6b086af80d5f2e1771f49683",
+    "zh": "70eb6769887ccb68862b878bd032ac4ba0031dd44f128bf2da2555ccff128d5f"
+  }
+}

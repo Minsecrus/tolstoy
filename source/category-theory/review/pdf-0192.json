@@ -1,0 +1,21 @@
+{
+  "pdfPage": 192,
+  "printedPage": "183",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "All entries of both subject-index columns retained in original reading order, with nesting and all printed page references preserved; matched BasicCategoryTheory.ind.",
+    "Independent audit: aligned the terminal cross-reference with the actual terminal-object subentry. All remaining subject-index entries and references retained."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "562b19e3ac91ae05a202bbf47feb412dd69f89dc9a9b679e8bd3ab923d1ac3ba",
+    "zh": "c2d4a3805026bc262abed4882899a09aea5996e5b9a44e96dad8425261b26125"
+  },
+  "styleReviewed": true
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 1,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Illustrated cover has no text layer. Series title, volume number, book title and author were manually transcribed from the rendered page.",
+    "No mathematical formulas or content diagrams on this page."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "99bc2a3dfd35e88b43ba3e3b4bc171e75d387694c987e1e51612bf86d015205c",
+    "zh": "45e3cc1672d0e05f60f152811fc9432bdfec59f619b083bbeba807ef7314b7d8"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "pdfPage": 211,
+  "printedPage": "203",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页。英文保留例8.1.7无有限维条件的原文；主译与独立审校确认一般dual injective等价flat，中文补A有限维充分条件并紧邻译校注说明。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "ce95e50f3d92c0884c4ebbf3176de330bbda3a90c95e0176f0d25a45c11b30b7",
+  "zhSha256": "eeb976d6ab6a0be46bf2dbf487144ab284a9799fb2d93ef79096e24b29fc0a02"
+}

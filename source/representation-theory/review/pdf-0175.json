@@ -1,0 +1,23 @@
+{
+  "pdfPage": 175,
+  "printedPage": "167",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Proposition 6.6.6 proof completion with inclusion, image and quotient; Proposition 6.6.7 statement and proof fragment, surjective case, one-dimensional case, F_i^+V=0 and X direct sum Y."
+  ],
+  "actualReviewScope": "Proposition 6.6.6 proof completion with inclusion, image and quotient; Proposition 6.6.7 statement and proof fragment, surjective case, one-dimensional case, F_i^+V=0 and X direct sum Y.",
+  "diagrams": [],
+  "enSha256": "339170d99a43eb76305d6c3cd75993e7c586f755dca675d4089a2ca9d245dd71",
+  "zhSha256": "d9078c82e1f1c2e277c99af8d858bf33542397e8119860e489c111115eeb7d27",
+  "sourceSha256": {
+    "en": "339170d99a43eb76305d6c3cd75993e7c586f755dca675d4089a2ca9d245dd71",
+    "zh": "d9078c82e1f1c2e277c99af8d858bf33542397e8119860e489c111115eeb7d27"
+  }
+}

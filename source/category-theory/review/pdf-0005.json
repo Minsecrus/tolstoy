@@ -1,0 +1,18 @@
+{
+  "pdfPage": 5,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": true,
+  "unresolved": [],
+  "notes": [
+    "Rendered page visually verified to be blank; both Markdown bodies are intentionally empty."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "zh": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "pdfPage": 101,
+  "printedPage": "93",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对 Frobenius–Schur 证明中的三个类型分支、群代数平均元 P、对合包括阶≤2的元素；推论、练习与两种代数数定义完整保留。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "34eeb896fa8758621cdd32b9c2bfaf7d3490f62dd7dd0033229be21f780b6483",
+  "zhSha256": "12781538648dd5fac79787ca90731730c45ea44c74787b3bb0c7d424f0e17d64"
+}

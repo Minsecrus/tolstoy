@@ -1,0 +1,16 @@
+{
+  "pdfPage": 193,
+  "printedPage": "185",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Floating Table 1 moved after Remark 7.6.2 within the same source page so that the sentence continued from page 192 is uninterrupted; all 14 table rows preserved."
+  ],
+  "diagrams": [],
+  "enSha256": "0d0d853784c4b0b8204a1b4b7fe38b89cef17783e4639296d208cc7c53c645be",
+  "zhSha256": "93792c3d917987adab4e90117a7643fb97aa758913d52ac01e8ccfdb979fed70"
+}

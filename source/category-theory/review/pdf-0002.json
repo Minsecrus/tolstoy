@@ -1,0 +1,19 @@
+{
+  "pdfPage": 2,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Title-page arXiv identification and date in the left margin were retained as source metadata.",
+    "No mathematical formulas or content diagrams on this page."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "cad5cf6628c127f2297e007b1e249002e333d93f64adc50f9793f2c906684995",
+    "zh": "c1299bc5a9abcd3f797d8901c67aeca9979c1e952cd73b8e9440163a26b951bd"
+  }
+}

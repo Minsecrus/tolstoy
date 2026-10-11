@@ -1,0 +1,50 @@
+{
+  "pdfPage": 125,
+  "printedPage": "116",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0125-cone.png",
+      "widthPt": 62,
+      "clipPt": [
+        257,
+        198,
+        319,
+        264
+      ],
+      "sha256": "797488a660a8dc03a39f33c39efa4b96ac4595c13a1d198b7eed9234d955bd62"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0125-universal.png",
+      "widthPt": 118,
+      "clipPt": [
+        230,
+        289,
+        348,
+        397
+      ],
+      "sha256": "4cdd25484274cf07a457bd06a786c597a2da54994522ddcf0cb386c9276973cd"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0125-intersection.png",
+      "widthPt": 75,
+      "clipPt": [
+        252,
+        540,
+        327,
+        608
+      ],
+      "sha256": "28f3cf27c7f3e1d7721dabdbf048a01cf2760cfd7124d9c02601e8fd49a20e2f"
+    }
+  ],
+  "sourceHashes": {
+    "en": "c13620ad029c94ea831a315cb74451f0072812eb040b4afb5916818ea92c9315",
+    "zh": "b0d672f73c44329bc3a035909c23475821b5d392e06f6965fe212109dc70d0f3"
+  }
+}

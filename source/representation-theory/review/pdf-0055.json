@@ -1,0 +1,17 @@
+{
+  "pdfPage": 55,
+  "printedPage": "47",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [],
+  "enSha256": "e620e5833daff1ca9eadf5cf09c7589898ce6c33d4f77fbf17ec572c0ce9c9b8",
+  "zhSha256": "ef7521b14c5b28245b578f0c351b7912f7b44f7eff824ca830145d65761cd685",
+  "reviewer": "representation_049_068",
+  "reviewMethod": "Direct visual reading of every assigned original PDF page image, comparison with English transcription and Chinese translation; formula indices, operators, matrices, hypotheses, proofs, exercises and original footnotes checked.",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0055.png"
+}

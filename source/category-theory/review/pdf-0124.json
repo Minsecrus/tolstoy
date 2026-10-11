@@ -1,0 +1,41 @@
+{
+  "pdfPage": 124,
+  "printedPage": "115",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "独立二审将连续左括号“（（5.9）”改为“（图（5.9）”，使原括号内的交换条件表述自然。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0124-universal-5-9.png",
+      "widthPt": 203,
+      "clipPt": [
+        249,
+        148,
+        452,
+        239
+      ],
+      "sha256": "6d3a9cee5cb2834eab28826aa9d1af8cdd45b1ff3e7a3f58a94902eeacdeb170"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0124-inverse-5-10.png",
+      "widthPt": 186,
+      "clipPt": [
+        266,
+        580,
+        452,
+        652
+      ],
+      "sha256": "e538e556014b62d5ea0b4f161e3969d6cbc01f03001964ec468aff2c57963400"
+    }
+  ],
+  "sourceHashes": {
+    "en": "5f2b3a54f178c75c88cf6093586c0f8337fe7f1651debbe0d4e952db3d916ad7",
+    "zh": "dd42d0f95b177e120d8725002fc194051fe44473979ac0185af63d892391613e"
+  }
+}

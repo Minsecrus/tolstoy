@@ -1,0 +1,23 @@
+{
+  "pdfPage": 147,
+  "printedPage": "139",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "All four virtual-character values retained, including the hyperbolic zero omitted by the recognized text layer.",
+    "Final sentence continues to PDF148."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0147.png",
+  "sourceHashes": {
+    "en": "8944963c20eb686a806670fb725ad675ebc6afd76005f0a6d25003fed24dc481",
+    "zh": "bac6e0ea90333ae99eeca33033e261d9dd8d82026c0638e0cd75bc4185fd63dc"
+  },
+  "enSha256": "8944963c20eb686a806670fb725ad675ebc6afd76005f0a6d25003fed24dc481",
+  "zhSha256": "bac6e0ea90333ae99eeca33033e261d9dd8d82026c0638e0cd75bc4185fd63dc"
+}

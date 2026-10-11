@@ -1,0 +1,19 @@
+{
+  "pdfPage": 102,
+  "printedPage": "94",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "伴随矩阵按扫描的对角线和末列完整转为原生矩阵，省略的中间行用标准省略号表示；代数数 Q̄ 与代数整数 A 的字母形体均核对。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。",
+    "Companion matrix按全书术语统一为“相伴矩阵”，区别于adjugate的伴随矩阵；公式不变。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "5a011e729f7ba358f0b831fb15ef389c1b5582dcb36fcb262d38e621c1b9265e",
+  "zhSha256": "3d0f29c91935f48b6a36b357b94f5d68082c5809326e3a2b5126184f818475d8"
+}

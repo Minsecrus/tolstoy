@@ -1,0 +1,29 @@
+{
+  "pdfPage": 158,
+  "printedPage": "150",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0158-a2.png",
+      "widthPt": 54.08756936563029,
+      "clipPt": [
+        156.8043295370566,
+        497.8223129272461,
+        210.89189890268688,
+        524.127978515625
+      ],
+      "sha256": "2835495848f4759d2b701edbe334d79f23e1d970f02c982220f76cab2d9e8f1e"
+    }
+  ],
+  "enSha256": "78dd2062ecadb523dc4adba89d1a3670e4f1f95d44ab05f390c399893fdc99a0",
+  "zhSha256": "3c9b5e9805c08adfa5413ad33fae0c06170def40d5a58989f29ebbcd81f932a1",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0158.png"
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 232,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": true,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "Original image is entirely blank, including its header and footer; no body content fabricated. Embedded PDF page label is not a visible printed page number."
+  ],
+  "diagrams": [],
+  "enSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "zhSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "primaryReviewer": "representation_229_238"
+}

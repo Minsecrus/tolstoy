@@ -1,0 +1,23 @@
+{
+  "pdfPage": 133,
+  "printedPage": "125",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Reference 55 uses Roman page x, not an OCR-omitted Arabic number.",
+    "Independent review correction: restored source simple Lie groups / 单李群; no source erratum involved."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0133.png",
+  "sourceHashes": {
+    "en": "a3d41dc893e7cf153ee176a7ee59240f30caf9c4964d4cb74f58b461dc7a8f10",
+    "zh": "09fba09982750f8211840f011095a925d6a208325e75e2c4edf1d9ba6e974e37"
+  },
+  "enSha256": "a3d41dc893e7cf153ee176a7ee59240f30caf9c4964d4cb74f58b461dc7a8f10",
+  "zhSha256": "09fba09982750f8211840f011095a925d6a208325e75e2c4edf1d9ba6e974e37"
+}

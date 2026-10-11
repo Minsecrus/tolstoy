@@ -1,0 +1,18 @@
+{
+  "pdfPage": 213,
+  "printedPage": "205",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页。英文保留问题8.2.5(v)原书Ext箭头P→Q；主译与独立审校确认Hom反变，中文修正Q→P并添加紧邻译校注。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "6c3a08a2618e3803696060c8f7928dd174e3e032497a1d7b5a61684962e6f491",
+  "zhSha256": "66cd466cd51176bd1337d675d7d0e1dc9ac8ac5caf8e123fd686751f3e59c4d9"
+}

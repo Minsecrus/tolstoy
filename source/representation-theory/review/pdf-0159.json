@@ -1,0 +1,62 @@
+{
+  "pdfPage": 159,
+  "printedPage": "151",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0159-a2-decomposition.png",
+      "widthPt": 264.97946826831713,
+      "clipPt": [
+        52.10270443478146,
+        82.39132995605469,
+        317.0821727030986,
+        109.19332885742188
+      ],
+      "sha256": "232719485c322e085e802ef01a1dd277265524db10cf38b018a3f85817c6fa52"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0159-a3.png",
+      "widthPt": 121.07676078177786,
+      "clipPt": [
+        123.0616257126267,
+        353.3893188476562,
+        244.13838649440456,
+        380.1913177490234
+      ],
+      "sha256": "68f3726d30f49c7e34ca06cf6f252d4d919a1be7456a550c6779240577a3d50e"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0159-kernel.png",
+      "widthPt": 126.53513934161212,
+      "clipPt": [
+        119.58811208364126,
+        400.0446502685547,
+        246.1232514252534,
+        425.357649230957
+      ],
+      "sha256": "7c41f0583da1173856943b06b1f4defad3166e8861c5d54fa1956c8553d9954b"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0159-cokernel.png",
+      "widthPt": 116.11459845465583,
+      "clipPt": [
+        125.54270687618771,
+        462.08631439208983,
+        241.65730533084354,
+        486.4066467285156
+      ],
+      "sha256": "58027107736c183904f8153365895e6244fc1f8c9a1439604e7a8c12efa0c274"
+    }
+  ],
+  "enSha256": "ef03dcf355ecfff25976cb4640d8b28f0f2275a8b3b7423aa1de72439fadad56",
+  "zhSha256": "e5b7d263dce28d86a309491cdd816b8751eb4e7ff79149c747fc1360b4459853",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0159.png"
+}

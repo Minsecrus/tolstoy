@@ -1,0 +1,44 @@
+{
+  "pdfPage": 37,
+  "printedPage": "28",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Source misprint in displayed sequence: third source object is F_1 (PDF and official cfnt.tex), while following diagram shows F_2. English preserves F_1; Chinese corrects to F_2 with adjacent 译校注 giving original, correction, and reason.",
+    "Equation (1.3) and diagram of discrete-category components preserved as inspected 300 dpi PDF crops.",
+    "Chinese sentences revisited for natural word order, clear references, and fluent phrasing under the clarified user preference; no added conceptual or proof explanations. English, mathematical expressions, diagrams, and the visible correction note on PDF 37 remain unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0037-discrete-components.png",
+      "widthPt": 314,
+      "clipPt": [
+        123,
+        223,
+        437,
+        288
+      ],
+      "sha256": "d37b015e1cda4e1e9095cd01b6f5385c2daf62854749cae8fb61b1b4f75782b4"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0037-naturality-square.png",
+      "widthPt": 201,
+      "clipPt": [
+        238,
+        486,
+        439,
+        549
+      ],
+      "sha256": "ef77b359b9d8f3bf60d85698e29ebeba84291a7169f91ac2d23edb1a79b72afb"
+    }
+  ],
+  "sourceSha256": {
+    "en": "71ff064a22bb5387cd2305dc946370d3da214e0ecb689e924b3df114dde5e354",
+    "zh": "e6c165a17fac29ce3c46ad79518b85a1547555556f228f2b2fbc45297ce7a0f9"
+  },
+  "styleReviewed": true
+}

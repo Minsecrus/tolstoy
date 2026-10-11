@@ -1,0 +1,74 @@
+{
+  "pdfPage": 15,
+  "printedPage": 7,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "定理 2.1.2 按官方勘误补入固定代数闭域条件，英文保留原书；中文有紧邻译校注。",
+    "五个 Dynkin 图逐一按原扫描裁切 300 dpi，并实际查看全部裁切。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0015-an.png",
+      "widthPt": 143,
+      "clipPt": [
+        94,
+        259,
+        237,
+        276
+      ],
+      "sha256": "e061e948c90e4ccbe9a3079df928b0dc8f9063bbed17be198800304f65f77b1b"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0015-dn.png",
+      "widthPt": 114,
+      "clipPt": [
+        94,
+        294,
+        208,
+        332
+      ],
+      "sha256": "2430a366a6b5d09d22c7e4a055e55b78ec015239a48683fa9a63d5601cd12dfc"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0015-e6.png",
+      "widthPt": 114,
+      "clipPt": [
+        94,
+        354,
+        208,
+        393
+      ],
+      "sha256": "a6dce221bb6d6a48dbbd2fcbdb9e766274bce23d4cfcefac40ee11d88768b339"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0015-e7.png",
+      "widthPt": 143,
+      "clipPt": [
+        94,
+        415,
+        237,
+        454
+      ],
+      "sha256": "027b6743fe910e2d31b40566443c3219fe4f0df0ee6e9b0a61c64750278523bd"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0015-e8.png",
+      "widthPt": 169,
+      "clipPt": [
+        94,
+        475,
+        263,
+        514
+      ],
+      "sha256": "90ba06ae792f4c85167850c7419ba66247f4016db587fee94afaae9149a7b094"
+    }
+  ],
+  "reviewer": "representation_001_028",
+  "enSha256": "16a062d800e4f8830ad3bc6b7ace7a0fe81d81893c718d2c9176c1fdcea46d3c",
+  "zhSha256": "96f33861d3c972dd427cc0bf4a3ac9b5dffd328931ce3ec4a32fc99e2a383d59"
+}

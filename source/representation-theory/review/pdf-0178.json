@@ -1,0 +1,24 @@
+{
+  "pdfPage": 178,
+  "printedPage": "170",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Lemma 6.7.2 proof completion, fixed simple reflections and nondegenerate form; Section 6.8 topological labeling, successive sink reflection sequence, reversing arrows twice. Official Q_n/Q_r correction visibly applied only in Chinese.",
+    "English retains Q-bar_n in the general parenthetical definition; Chinese uses Q-bar_r and has an adjacent visible correction note citing the official 2024 errata."
+  ],
+  "actualReviewScope": "Lemma 6.7.2 proof completion, fixed simple reflections and nondegenerate form; Section 6.8 topological labeling, successive sink reflection sequence, reversing arrows twice. Official Q_n/Q_r correction visibly applied only in Chinese.",
+  "diagrams": [],
+  "enSha256": "8b0714931c5fb06e3bbe2df90e9350e95771b8b50514bab173843d54d874ca9e",
+  "zhSha256": "08d2d51e9f5f04d383364e7969f79985bddffb718f03537b2f463b43d5fba896",
+  "sourceSha256": {
+    "en": "8b0714931c5fb06e3bbe2df90e9350e95771b8b50514bab173843d54d874ca9e",
+    "zh": "08d2d51e9f5f04d383364e7969f79985bddffb718f03537b2f463b43d5fba896"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "pdfPage": 158,
+  "printedPage": "149",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0158-parameter-transformation.png",
+      "widthPt": 110,
+      "clipPt": [
+        237,
+        339,
+        347,
+        389
+      ],
+      "sha256": "5413968faedb085c8216a1c2c52a743b7695856b19eb102aa718408bcc5fc2ae"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0158-pointwise-square.png",
+      "widthPt": 210,
+      "clipPt": [
+        241,
+        421,
+        451,
+        485
+      ],
+      "sha256": "2a8bebcdb66f3f2d55a41318c31b1b12a2a5bdb68544ceacfe8ac090bab60b13"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0158-projection-transformation.png",
+      "widthPt": 69,
+      "clipPt": [
+        258,
+        558,
+        327,
+        600
+      ],
+      "sha256": "e09c64d412156f92e9cd25bb856b94435ce18dcb3ead97fe508ae9a071366da6"
+    }
+  ],
+  "snapshots": {
+    "en": "6f67e6cf8ce399a50ff3d807487d205ad4866e7a7359e862f7b5505653830e38",
+    "zh": "e3d2b6a1ee50af6faea4c18912e8f85ccf7148e65cce3c08a55879609c3a27ca"
+  }
+}

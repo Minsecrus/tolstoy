@@ -1,0 +1,26 @@
+{
+  "pdfPage": 86,
+  "printedPage": "77",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0086-functions.png",
+      "widthPt": 40.5,
+      "clipPt": [
+        248,
+        456.5,
+        288.5,
+        481
+      ],
+      "sha256": "96b6b70c663a86ae33211befbfa28ebe252ed43626ce559a86836dcb109517a7"
+    }
+  ],
+  "englishSha256": "09c5e7f48d7e6fb4178cf970b951b703c629b42f2ee9160fb22a329c8db723f1",
+  "chineseSha256": "5e8697071b7d73a4762d2cca6abc82918a8a2f7c3b03367bbb89a3da78b7bdcf"
+}

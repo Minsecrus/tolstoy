@@ -1,0 +1,23 @@
+{
+  "pdfPage": 148,
+  "printedPage": "140",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Inner-product proof checked directly against the scan, including both conjugate factors, elliptic versus scalar summation sets, character exponents and all class-count coefficients.",
+    "Source elliptic summation labels translated inside standard TeX text commands; MathJax rendering passed."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0148.png",
+  "sourceHashes": {
+    "en": "600e8a20acf150acb246f4e39ea35e2bbd9eb3af9b68c46632fd308feb8897fa",
+    "zh": "be75f142d2121bcf32884743aab3df2ae04987dab62dc50ce319a7a6021520d7"
+  },
+  "enSha256": "600e8a20acf150acb246f4e39ea35e2bbd9eb3af9b68c46632fd308feb8897fa",
+  "zhSha256": "be75f142d2121bcf32884743aab3df2ae04987dab62dc50ce319a7a6021520d7"
+}

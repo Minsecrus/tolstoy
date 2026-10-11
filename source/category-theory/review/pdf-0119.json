@@ -1,0 +1,28 @@
+{
+  "pdfPage": 119,
+  "printedPage": "110",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0119-vector-product.png",
+      "widthPt": 222,
+      "clipPt": [
+        170,
+        210,
+        392,
+        264
+      ],
+      "sha256": "143a52dbf43e8965ed0444de0696da5db393feb23700ed6c1a8cf2ad8df6babb"
+    }
+  ],
+  "sourceHashes": {
+    "en": "921ac270786cf70fa9e8aa42ced904e7fd6a5bb0c46ff16586be012ac082b097",
+    "zh": "e652c06b6e18ef063dfc5cff9cba476bbbdb73edb15febc2b88447dd294044dd"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 223,
+  "printedPage": "215",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；原书拼写appropiate保留在英文，中文正常翻译。",
+    "定理9.6.4原书结论省略模的finite-dimensional限制，英文保留；中文按上文B-fmod补有限维模范畴并添加可见译校注。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "d65506149dc584c799c67a3e468a6f01646d0abb0b6740280a4a7d8ff69db4f6",
+  "zhSha256": "16a857d81f7ee7aafef7ad561e21ad1332df3aa1d43c14eb6fc0d8731ca06b90"
+}

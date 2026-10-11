@@ -1,0 +1,23 @@
+{
+  "pdfPage": 129,
+  "printedPage": "121",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page begins with clauses (i) and (ii) of Lemma 5.18.3 continued from the preceding page; no heading invented.",
+    "English preserves C[S_n]; Chinese visibly applies the official 2024 correction that Sections 5.18 and 5.19 work over any algebraically closed field k of characteristic zero."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0129.png",
+  "sourceHashes": {
+    "en": "215500659bc22b55b126764431d9b3bb0354bc5601a4e685843d81c431e24b97",
+    "zh": "c98f5cd85bc45f1bbf76cce94d6ac441b50ed0cedaf8d2acabd1c555d25517f7"
+  },
+  "enSha256": "215500659bc22b55b126764431d9b3bb0354bc5601a4e685843d81c431e24b97",
+  "zhSha256": "c98f5cd85bc45f1bbf76cce94d6ac441b50ed0cedaf8d2acabd1c555d25517f7"
+}

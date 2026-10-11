@@ -1,0 +1,30 @@
+{
+  "pdfPage": 151,
+  "printedPage": "142",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0151-cone-transformation.png",
+      "widthPt": 53,
+      "clipPt": [
+        253,
+        306,
+        306,
+        344
+      ],
+      "sha256": "0a0799b64c2c500d4817d81362f278420e62542354d3e3381dcad71ec861d65d"
+    }
+  ],
+  "snapshots": {
+    "en": "96afac969ee2b80ff28d452d09f6d34c16312a9e0544ac05ec99efaa2e331656",
+    "zh": "d46787619c3567590ec69ad7c26beae82c24026f57d11364f353e7e8dc164f15"
+  }
+}

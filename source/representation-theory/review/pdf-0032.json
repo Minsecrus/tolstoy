@@ -1,0 +1,20 @@
+{
+  "pdfPage": 32,
+  "printedPage": "24",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked universal-enveloping-algebra structure constants and all relations. Closing sentence continues on PDF33.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "7ee26fea410ecfb6a2578972a8babe393b8a29b27940612478afdb10646c899e",
+  "zhSha256": "902394472566b205c6be9b9af1e17c206b6a570f61ef3a3a383189bfdb3a9dff",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0032.png",
+  "officialErrataChecked": true
+}

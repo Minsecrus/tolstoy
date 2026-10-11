@@ -1,0 +1,22 @@
+{
+  "pdfPage": 144,
+  "printedPage": "136",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full three-part principal-series theorem and all four Frobenius-formula cases retained across the page boundary."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0144.png",
+  "sourceHashes": {
+    "en": "7e8cec42cc4708fb2daf18e7132831a9131ea9f371bcb878bc7ed2ebd899dbda",
+    "zh": "96d683b9690be934490fe09fcdb2e109b40731429698f83cc236de5feb388e88"
+  },
+  "enSha256": "7e8cec42cc4708fb2daf18e7132831a9131ea9f371bcb878bc7ed2ebd899dbda",
+  "zhSha256": "96d683b9690be934490fe09fcdb2e109b40731429698f83cc236de5feb388e88"
+}

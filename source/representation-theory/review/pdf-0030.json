@@ -1,0 +1,20 @@
+{
+  "pdfPage": 30,
+  "printedPage": "22",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked Jacobi identity (2.9.1), all five Lie-algebra examples, the derivation Leibniz rule, and exponential e^{tD}.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "88649188ce0b278a14f55d6c6669a69650c2cfc18094d028c6e1695dbdb7b2e3",
+  "zhSha256": "0ebbc9640e5560bb6923c59e14e2e5bcfafbd2f7d9bf24394441ef37f981eaa7",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0030.png",
+  "officialErrataChecked": true
+}

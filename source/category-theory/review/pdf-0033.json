@@ -1,0 +1,20 @@
+{
+  "pdfPage": 33,
+  "printedPage": "24",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and checked formulas against cfnt.tex and macros.tex. Preserved the continuation of Example 1.2.12, Examples 1.2.13 and 1.2.14, Definition 1.2.15, and the final incomplete paragraph. Verified dual-space placeholder notation, cohomology superscript, opposite categories, open-set inclusion, and restriction-map direction. No complex diagram requires a crop.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "d629ef228543af9f4679c69652ccd07b993b8c8500ed307c420e599f51750fc4",
+    "zh": "e1533da865c9101f346300a555b9939b3ab29d5b138405da32a6ed8c65565413"
+  }
+}

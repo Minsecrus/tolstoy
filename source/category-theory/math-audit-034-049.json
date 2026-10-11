@@ -1,0 +1,261 @@
+{
+  "status": "complete",
+  "reviewer": "Independent review by category_018_033; this reviewer did not author PDF pages 34–49.",
+  "pdfPageRange": [
+    34,
+    49
+  ],
+  "printedPageRange": [
+    "25",
+    "40"
+  ],
+  "unresolved": [],
+  "notes": [
+    "All 16 original page images were personally viewed. Both manuscripts were read in full against the original pages, including all prose, mathematical hypotheses, proofs, exercises, captions, labels and page fragments.",
+    "All 23 delivered diagram crops were also personally viewed and compared with the original PDF arrows and labels. Crops, physical widths and SHA256 metadata were verified.",
+    "No new transcription, translation or mathematical error was found. No page manuscript or primary review was changed by this independent audit.",
+    "The original F_1 misprint on PDF 37 is retained in English; the Chinese F_2 correction and visible translator note remain intact. The original For ex- / ample page split on PDF 34–35 remains in canonical English."
+  ],
+  "pages": [
+    {
+      "pdfPage": 34,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐句核对图1.1及图注、忠实与充满的逐对象对定义、提醒1.2.17中的量词与虚线箭头、子范畴的复合和恒等态射封闭条件、充满子范畴及包含函子、提醒1.2.19跨页开头。",
+      "enSha256": "b414cdde8ba4d8140631dd7276d93a35dea50574b3b221edaf3c863adccb4c6e",
+      "zhSha256": "35464c1169162ccb0813ca3ade7fd26c7a1f71c08ed63b244e74423a79799877",
+      "unresolved": [],
+      "notes": [
+        "The closing For ex- is the original across-page fragment; PDF 35 begins ample. The manuscript retains both fragments as instructed."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 35,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐句核对提醒1.2.19续段与函子像反例图中的A,B,B',C,X,Y,Z及f,g,p,q,qp箭头；完整核对习题1.2.20–1.2.25(a)的同构保持、群与幺半群对偶、群中心函子问题、积范畴上函子的两个分族定义。",
+      "enSha256": "4e022b9a95d8d52bba76c89eb16bf8d55869a3b2364e71e97e154f59841d2424",
+      "zhSha256": "00d6b4bfc27fbbcde9a9e803e64cd9b27e5969a275a9cc8c8a2821504a0c0779",
+      "unresolved": [],
+      "notes": [
+        "The opening ample completes PDF 34's For ex-. The functor-image crop preserves the non-composable source arrows and the target composite qp."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 36,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐句核对习题1.2.25(b)(c)的两项相容等式、存在且唯一的要求，以及1.2.26–1.2.29所有分项和条件；核对1.3节引言、两个同定义域与陪域函子的平行箭头记号、离散范畴序列的跨页末句。",
+      "enSha256": "94d9f4e211789e8ad66976fbc5ad7e23f6eda20c871a0734af28270ccf8c8d9e",
+      "zhSha256": "6232b9da7d6d219fdb63ca4c468c700ddaa2e1e80776e7c168a453e85e732d6c",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 37,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对离散范畴序列、分量图、相容性说明、定义1.3.1自然性方块及编号(1.3)、各分量的源与目标、注1.3.2(a)中的恒等态射特例和一般对角态射。原书第三项F_1已亲见；英文保留，中文F_2及可见译校注完整保留。",
+      "enSha256": "71ff064a22bb5387cd2305dc946370d3da214e0ecb689e924b3df114dde5e354",
+      "zhSha256": "e6c165a17fac29ce3c46ad79518b85a1547555556f228f2b2fbc45297ce7a0f9",
+      "unresolved": [],
+      "notes": [
+        "Original third term F_1 was personally confirmed in the supplied page; English preserves it. Chinese uses F_2 with the complete adjacent correction note."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 38,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐句核对注1.3.2(b)的二胞记号与方向、例1.3.3离散范畴自然性条件、例1.3.4单对象群/幺半群的G-集等变条件及问题“为什么”、例1.3.5固定自然数n和交换环条件、矩阵乘法幺半群与底层乘法幺半群两函子的定义。",
+      "enSha256": "f42a362d28850b94c7342502e8f33d9d72b4d6f65b639177cf2ce556d057e97c",
+      "zhSha256": "48895a8a58e40521ec628ee62e7a417c602dc8f6e827aefc18898f9cff245ec6",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 39,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对行列式的乘法与单位公式、逐环分量和自然性论述、构造1.3.6的三个函子及两个自然变换方向、垂直复合分量顺序、恒等自然变换分量、函子范畴对象/态射及两种记号。",
+      "enSha256": "628cd4f25f2fa48389faa1c94b549e38f2b1336fc6b2bf69a1b3fec4c7de5ad4",
+      "zhSha256": "728bd454aa14c312e744320574e7288ddc1743d11aac2ab039d7cde7c0847a18",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 40,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对例1.3.7二对象离散范畴和积范畴同构、例1.3.8左右G-集范畴、例1.3.9逐点序与至多一个自然变换、关于同构和相等的全部论述、定义1.3.10及引理1.3.11各分量同构的充要条件与图方向。",
+      "enSha256": "24e390085f08b21384c2d98af273896577f68d1c674ef750c9adabc5fe130c50",
+      "zhSha256": "83bb8084a5e6c26493ca842ea834d8393247ef90fdda119da6cff6a4ad275c80",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 41,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对引理1.3.11证明的习题引用、自然同构记号、定义1.3.12关于A自然成立、离散范畴与一般范畴的区别、组合数学练习引用、例1.3.14有限维/域条件、求值定义及双重对偶自然变换图、跨页结尾。",
+      "enSha256": "3d671f59ba73e0f489249263abfac3ee2e8b67080e79cc4778f37132cea9f8d7",
+      "zhSha256": "d6a69ad244e28766b98760ab80db369dda0f8fd3240f811cdd0f816c83e851d3",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 42,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对双重对偶跨页结论、与单对偶选择基的对比、典范的原文解释及集合换位/投影/常值函数三个例子、相等/同构/自然同构的三项比较、范畴同构的反向函子图(1.4)、严格逆等式(1.5)及跨页等价引言。",
+      "enSha256": "aa7bc2a204277320ba770b199f8100b3e526380f1fe45b92b426fda389a5a27f",
+      "zhSha256": "de636f94d292ed783f70f2ee5f9a2a694a3ca69d91c7affa39d76e43d329d87f",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 43,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对从等号到自然同构的替换、定义1.3.15中eta和varepsilon的方向与定义域/陪域、同构和等价两个记号、对象上本质满射的全部量词、命题1.3.18的三条件充要结论、证明引用及与逆/分量同构结果的比较、跨页推论引句。",
+      "enSha256": "58b6644cac2dba5f21e5e4f366a1d0e1a65b297422770b3c52054fba0b2f3cdd",
+      "zhSha256": "b9088ebd3281bb3019c03718fe0558dd9a4652841a21ead4666c19e6284d4600",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 44,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对推论1.3.19陈述与证明、等于F(C)/同构于F(C)两种解释、例1.3.20每个同构类至少一个对象的条件及删除/加入对象论述、有限集合例子的n元集合、例1.3.21单对象范畴与幺半群等价和集合论限制、例1.3.22对偶定义。",
+      "enSha256": "b4f94919a72a853459bbe5703d135d0abd33bc0bfda7ad308a9448234090b6f6",
+      "zhSha256": "12ce484e266f9e2f980c96d1da46c0158eefb4bb68132f4f264c35b57fa25727",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 45,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对四个高级对偶例子的Boolean/完全不连通紧Hausdorff、交换含幺C*、代数闭域/有限生成/无非平凡幂零元、局部紧阿贝尔拓扑群条件；例1.3.23的全部函数态射与非空条件；评注1.3.24各定义、引用及垂直复合图。",
+      "enSha256": "a0cd0848b27a3f785ad77c7ec1bf731dc153382226a0fc8f72548a9fb7774d17",
+      "zhSha256": "688d01e8212b9a6434304854a777f10c889bcd28a612a557878878e4290d7d92",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 46,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐句核对垂直/水平复合定义、两个输入二胞与复合函子的输出方向、自然性方块四对象和四箭头标签、水平复合分量的两种等价顺序、两种恒等特例的输入/输出图及alpha'F、F'alpha分量公式。",
+      "enSha256": "77835b38060b78115b9e7298a33d4ab79409a0102fd2d6fcf96e2ce47e7a7d48",
+      "zhSha256": "a5bc2bdd2ef8a37c856c4ce67e48c8245eacb11f9b5411965ba42b8be2e0d6a6",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 47,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对两组F,G,H及F',G',H'自然变换图、交换律的两边复合次序与源/目标、恒等式、函子范畴复合函子的定义和保持同构推论、内部复合函数的对比、二维及高阶范畴全部论述、习题1.3.25–26。",
+      "enSha256": "c3cae4c02d02fba1088dc402230eac0df7d7205a43b6999372e15317b2b620b8",
+      "zhSha256": "d437923931053bbf2a1e8c04b0c520d853baf0236476db5d34eec7db0f288e93",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 48,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对习题1.3.27反范畴函子范畴公式、1.3.28两典范函数与嵌套指数、1.3.29两个变量自然性的充要条件及所有索引、1.3.30群同态唯一性/自然同构等价关系问题及提示、1.3.31置换/全序定义与有限集合双射范畴。",
+      "enSha256": "8ee6dde549ab0ab7a8d37bfbe9d12de5487f228a0a626f8cbaa5982bddfb44a5",
+      "zhSha256": "dfce7611830aedaa3bf775087bc72401620a363ac159ee1be5d2a588baa36976",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 49,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对习题1.3.31(a)–(c)、无自然变换提示和非自然同构结论；1.3.32两方向证明、G(B)的选择、varepsilon_B方向、FG和GF自然同构目标；1.3.33域/自然数对象/n×m矩阵方向、典范函子问题和提示；1.3.34等价关系问题。",
+      "enSha256": "9017b1d74331535aa4e37353c8b125ce7e47bc7cce458a59e43ed6e310d419df",
+      "zhSha256": "3fb7a0eb4ccf6ffa2b392c166de2a6346452db9ef33366476dda1ac6ed63a0ff",
+      "unresolved": [],
+      "notes": [
+        "Full page content and mathematical conditions verified personally; no new issue found."
+      ],
+      "status": "verified"
+    }
+  ]
+}

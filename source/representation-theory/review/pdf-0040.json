@@ -1,0 +1,19 @@
+{
+  "pdfPage": 40,
+  "printedPage": "32",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Original has T^{i_1...i_n}_{j_1...j_m} e_{i_1}...e^{j_m}, but following prose reverses which coefficient indices correspond to V and V*. English keeps the original prose; Chinese corrects the correspondence and includes an adjacent visible 译校注 explaining the correction from the displayed formula."
+  ],
+  "diagrams": [],
+  "enSha256": "3777539156356efa30ab225cafd9f35069429b8848172c86b945d5ce82902a75",
+  "zhSha256": "f86839ba6658bbfcf095ab457c1ea7bfcf299a011a06f568e6932c288eca3b51",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0040.png",
+  "officialErrataChecked": true
+}

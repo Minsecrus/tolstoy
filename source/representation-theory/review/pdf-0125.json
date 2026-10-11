@@ -1,0 +1,17 @@
+{
+  "pdfPage": 125,
+  "printedPage": "117",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official erratum: Cauchy identity in Corollary 5.15.4 requires (-1)^sigma in determinant expansion numerator."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "3710e04c0d27ed688e650de402084f1112d202f4dee3bbec9e4b6dd312d9d174",
+  "zhSha256": "598022b9602046aa7253743658c8fd54684a5d0075db7184d73d1b19e30d205d"
+}

@@ -1,0 +1,24 @@
+{
+  "pdfPage": 146,
+  "printedPage": "138",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official correction list refers to its later-pagination p.141 negative-sign error; the corresponding original 2011 source is PDF146, printed138. English preserves the negative sign; Chinese visibly removes it and states the subtraction order.",
+    "Author-added principal-series terminology is clearly marked as an official 2024 correction note, not silently inserted into the 2011 original.",
+    "All complementary-series induction and character equations checked visually."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0146.png",
+  "sourceHashes": {
+    "en": "4bbe760950947faf560f1c9a86034b1d4a7c9f17dfd5b0b3f642ac95009b84ae",
+    "zh": "3d1b4fe6f0c4083b8ce8e968b2dccd93ca92417a9e8e37e271c6ce29fcf4b8fc"
+  },
+  "enSha256": "4bbe760950947faf560f1c9a86034b1d4a7c9f17dfd5b0b3f642ac95009b84ae",
+  "zhSha256": "3d1b4fe6f0c4083b8ce8e968b2dccd93ca92417a9e8e37e271c6ce29fcf4b8fc"
+}

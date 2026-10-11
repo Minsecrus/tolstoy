@@ -1,0 +1,18 @@
+{
+  "pdfPage": 72,
+  "printedPage": "64",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Exercise 4.3.1 original right equivariance f(gi) is not stable under right translation f(xg); English preserved; Chinese changes to left equivariance f(ig) with visible translator note."
+  ],
+  "diagrams": [],
+  "enSha256": "7edc3c281f34f24289ab8f6d73e180e72860f44aa41a49e72792b47bb41bbdcb",
+  "zhSha256": "60b28dd4fe1e70f28ae640064be880d523cc8f84ffe991e0644c701ed9c5a4fe",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0072.png"
+}

@@ -1,0 +1,22 @@
+{
+  "pdfPage": 135,
+  "printedPage": "127",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Historical quotations and full references retained; final sentence continues on next page."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0135.png",
+  "sourceHashes": {
+    "en": "0bee24d985a749bf9f223ab3e60db9b7098ae2c61078271a399b36e675369a2e",
+    "zh": "73b21136099d3322e8779ba5da93b87c798c8b2b3418fcd8bf8979c629d74a0a"
+  },
+  "enSha256": "0bee24d985a749bf9f223ab3e60db9b7098ae2c61078271a399b36e675369a2e",
+  "zhSha256": "73b21136099d3322e8779ba5da93b87c798c8b2b3418fcd8bf8979c629d74a0a"
+}

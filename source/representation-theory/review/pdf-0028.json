@@ -1,0 +1,17 @@
+{
+  "pdfPage": 28,
+  "printedPage": 20,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "习题 2.8.6 按作者官方勘误补有限箭图条件及单位元关系 ∑p_i=1，英文保留，中文有紧邻译校注。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_001_028",
+  "enSha256": "b4c208e5c39aabd0dc400e067ec35f8eec9bf0ba208413ec6904afa5e4d968db",
+  "zhSha256": "6759b308f707cc3555c781cf16c116c531be40b9790b8b1941c7c724e8dfd1d4"
+}

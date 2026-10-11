@@ -1,0 +1,18 @@
+{
+  "pdfPage": 215,
+  "printedPage": "207",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "源页实际查看；Koszul收缩符号(-1)^j与原扫描一致。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "d67873b0b996a9d6c4d0acf2f6ca1d1766edb12565cad38d8a9f1cff3a53a3f6",
+  "zhSha256": "9f17b96506b76d112a19cba1b5ddbb958cc6a875eb7c1218f61ca7f4aed620f6"
+}

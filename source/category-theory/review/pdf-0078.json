@@ -1,0 +1,17 @@
+{
+  "pdfPage": 78,
+  "printedPage": "69",
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Full text layer transcribed and translated; formulas visually checked against PDF and sets.tex, including function-set exponents, characteristic function nonmembership, inverse images and quotient equation (3.1).",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [],
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "englishSha256": "ac810b0ce3779c04d50b23a3992b61f7549e0ec9f504eeaaa0ccfea723fe1a1f",
+  "chineseSha256": "3d69c672ec980ca794e601294d15c39744d4e7ae152dbd3944b36a440f215e55"
+}

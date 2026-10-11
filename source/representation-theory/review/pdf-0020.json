@@ -1,0 +1,15 @@
+{
+  "pdfPage": 20,
+  "printedPage": 12,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [],
+  "reviewer": "representation_001_028",
+  "enSha256": "de1e59ab14bb9d1dd168063212c2e18d90dd442d5fca2795743516c8d7c600ec",
+  "zhSha256": "2d5c143220e4caee291b3fd990afa1c3b0fc4d60b6e31363045a439c63199966"
+}

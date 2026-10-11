@@ -1,0 +1,18 @@
+{
+  "pdfPage": 115,
+  "printedPage": "106",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "独立二审发现诱导函子显示公式内混入中文句号；已移除并在引出公式的句子末加冒号。习题条件和公式内容均保留。"
+  ],
+  "diagrams": [],
+  "sourceHashes": {
+    "en": "7bd06a3fbf73fff6d6aabbecfc4af83038d4c80d267ff7f979a4d6e84c27bf05",
+    "zh": "2b5556aae42f8f5278e0c6ce55d6584a744c8ab9bd589783b800a48c1f3e2188"
+  }
+}

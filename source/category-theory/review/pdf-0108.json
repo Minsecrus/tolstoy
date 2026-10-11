@@ -1,0 +1,18 @@
+{
+  "pdfPage": 108,
+  "printedPage": "99",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [],
+  "sha256": {
+    "en": "cda56db2467c6b43a9a6a23a3ace5b4f42a41d620e6be493ba3ce17ed9e46069",
+    "zh": "b8f3a7b3be4014a1b3f471fdbf4430a6f1bfa4d461ad83dd56609472ba23e21e"
+  }
+}

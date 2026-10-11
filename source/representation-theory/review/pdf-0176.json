@@ -1,0 +1,23 @@
+{
+  "pdfPage": 176,
+  "printedPage": "168",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Proposition 6.6.7 proof completion: canonical embedding, nonzero summands, inverse reflection; Proposition 6.6.8 dimension vectors, kernel dimension, component i and all other j."
+  ],
+  "actualReviewScope": "Proposition 6.6.7 proof completion: canonical embedding, nonzero summands, inverse reflection; Proposition 6.6.8 dimension vectors, kernel dimension, component i and all other j.",
+  "diagrams": [],
+  "enSha256": "b9f79a8fa6f23f95324e4095325c3a517f13995d416bb13b96a85e60ea38bfaf",
+  "zhSha256": "f4023920091a6ebf2b4456ae28a1fa9c3cf16c0804abe1d671fd6d7b65adfd4e",
+  "sourceSha256": {
+    "en": "b9f79a8fa6f23f95324e4095325c3a517f13995d416bb13b96a85e60ea38bfaf",
+    "zh": "f4023920091a6ebf2b4456ae28a1fa9c3cf16c0804abe1d671fd6d7b65adfd4e"
+  }
+}

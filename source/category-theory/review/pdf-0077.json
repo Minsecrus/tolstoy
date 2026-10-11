@@ -1,0 +1,30 @@
+{
+  "pdfPage": 77,
+  "printedPage": "68",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; geometric illustrations cropped from the supplied PDF at 300 dpi.",
+    "All prose and formulas visually checked against the PDF and matching sets.tex; cross-page fragments retained.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0077-sum.png",
+      "widthPt": 219.9394,
+      "clipPt": [
+        170.2916,
+        343.507,
+        390.231,
+        399.5999
+      ],
+      "sha256": "536eb19e8d77892f38dc28a74b681eb1ece16cb548b064aa3ce769688d95c963"
+    }
+  ],
+  "englishSha256": "3c133337ee0805181362107a5a672921b3f0575e55dd188a90a9aa393b35b81b",
+  "chineseSha256": "54f4a549f4740e54a600c8c794640901c358dd9f2b0e7063280c77b0e69a1d54"
+}

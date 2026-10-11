@@ -1,0 +1,288 @@
+{
+  "status": "complete",
+  "reviewer": "representation_229_238",
+  "firstPdfPage": 49,
+  "lastPdfPage": 68,
+  "unresolved": [],
+  "scope": "Independent actual original-image review and full bilingual comparison of all 20 source pages, including blank 66; final revised primary files compared before current SHA binding. Read source page 69 solely to check the trailing proof continuation.",
+  "pages": [
+    {
+      "pdfPage": 49,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "第3章与3.1开篇、半单表示定义3.1.1、End(V)左乘的n份分解例3.1.2、注3.1.3的Hom张量评价映射与有限维勘误。",
+      "enSha256": "26b3166f033401293c82ac999cb89ef31459c0cd45763a639dd64f7334e1fd05",
+      "zhSha256": "d95a73622c3b81fc3fc7f6247f7150c29c92ed1b4de6114246a40a2c531ca5b5",
+      "unresolved": [],
+      "notes": [
+        "中文按作者2024勘误注明有限维条件；英文保留原书省略。Hom省略A下标在原书与辅助新版均存在，保持作者记号。"
+      ]
+    },
+    {
+      "pdfPage": 50,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "命题3.1.4全部有限维/两两不同构条件、行独立矩阵嵌入、归纳证明中Gi右作用和Wg_i分解、脚注1完整存在性证明及注3.1.5跨页开头。",
+      "enSha256": "99d9c698b9aa0cf45347c08643c3dce794dad44ddcc56bcf25518b870db0f961",
+      "zhSha256": "32381c71528fa067b002c6ebbe5550bda3b2a48fbd823f2717edff75289629fb",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 51,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续注3.1.5除代数句、3.2代数闭域条件、推论3.2.1与线性独立矛盾证明、稠密性定理3.2.2(i)(ii)及两个满射证明。",
+      "enSha256": "97a855f7481e417531145f40ea60f64e0c7d6fb42ba0f66aa0772761786697c1",
+      "zhSha256": "08d53ee244ccfced9dbea068677cf6222564a43333374a742914f3901aaf1b22",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 52,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "3.3任意域条件、矩阵代数直和分类定理3.3.1、反代数/右模对偶作用定义3.3.2、转置与phi/phi*嵌入的完整证明及n份标签。",
+      "enSha256": "b4ee2cb42b6ffab1ef883091da7c66d4e9ffd99fb70faea8b4076374c52c318b",
+      "zhSha256": "412b5c461aa51a5006f589279e3b07da8b4dae3a78692e9dc8eb5347101612dc",
+      "unresolved": [],
+      "notes": [
+        "经二审沟通，中文公式n copies标签已译为n份。"
+      ]
+    },
+    {
+      "pdfPage": 53,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "习题3.3.3(a)(b)(c)与完整矩阵单位提示、S(v)的非零条件及译校注、直和与基分解、3.4滤过定义3.4.1。",
+      "enSha256": "1460c35fc30af8897087d41d3e5028b30b16574fdb854ee79a1e4f6b471a1dc9",
+      "zhSha256": "ba86470cca491ba226662ec44b8b2e4c66ae29bd751715ad98ebdcbb04808e78",
+      "unresolved": [],
+      "notes": [
+        "二审发现v=0会使S(v)=0，不能同构k^d；主译补中文非零条件并添加紧邻可见译校注，英文保留原文。"
+      ]
+    },
+    {
+      "pdfPage": 54,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "引理3.4.2归纳与自然投影原像证明、根基定义3.5.1、双边理想命题3.5.2、幂零性命题3.5.3(i)(ii)全部证明。",
+      "enSha256": "d33a824ea44819344086f38d0ad06f838e6efce52b6ca35950d45e7d09076a05",
+      "zhSha256": "002cfcfa8488ae3ee2c4204d2d0bf87ceda3abf08c13c4d3c954a2b930e65b78",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 55,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "定理3.5.4不可约表示有限性与A/Rad(A)分解、各满射和维数不等式、推论3.5.5平方和界证明、例3.5.6两种代数及其跨页续句。",
+      "enSha256": "e620e5833daff1ca9eadf5cf09c7589898ce6c33d4f77fbf17ec572c0ce9c9b8",
+      "zhSha256": "ef7521b14c5b28245b578f0c351b7912f7b44f7eff824ca830145d65761cd685",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 56,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续例3.5.6严格上三角与分块矩阵、半单定义3.5.7、命题3.5.8五项等价及Schur/反代数完整证明、3.6特征标定义跨页开头。",
+      "enSha256": "71518cefb8658345561d25a7821a17b4a68f0423647b5ce03adda84d84e74946",
+      "zhSha256": "13208a2a3213c416a7388c55e0648058f774dc2486aaa0884b929e6d4f1b576d",
+      "unresolved": [],
+      "notes": [
+        "二审沟通后把不能映射到不同V_j自然且准确写为表示同态都为零，不添教学讲解。"
+      ]
+    },
+    {
+      "pdfPage": 57,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续3.6特征标映射与迹公式、[A,A]商空间、练习3.6.1、定理3.6.2两项及稠密性/矩阵单位/迹零空间的完整证明。",
+      "enSha256": "9ef3ab88cad994a092b02ca2f581b7672d8633cae449b76b3de20c546818b47c",
+      "zhSha256": "fbc3295a34b0cca0f9f6fbd50b6f56b87f58ed69c8ad7c5329bba0577262678a",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 58,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "若尔当–赫尔德定理3.7.1两个滤过及重数置换条件、特征零与一般两种证明、W'_m索引勘误、脚注2特征p证明限制。",
+      "enSha256": "0eb9470c8088c73ff991f283966c9febd34e71ef16212fc402ce0f73c1510341",
+      "zhSha256": "ebaaedea6cca1d3dbe577561e38199677225f48ca8fe795b5bb725646e925c10",
+      "unresolved": [],
+      "notes": [
+        "作者勘误W'_n应为W'_m已在中文修正并显注；英文保留原印刷式。"
+      ]
+    },
+    {
+      "pdfPage": 59,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续3.7.1归纳证明与跨页重数集合、长度和若尔当–赫尔德列定义、克鲁尔–施密特定理3.8.1自然嵌入/投影与theta_s、引理3.8.2(i)(ii)。",
+      "enSha256": "727075b1f900a4f5d17b55a885a1a8e812bf889a45efb2f233045891bbf3e4a4",
+      "zhSha256": "e6adb8f5b414b5822a3fb7c5cd4fabf7f4fa17b8a4816902e049a2d2f048c2e6",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 60,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "引理3.8.2两项证明、原求和i=0与中文i=1显注、3.8.1其余分解和B到B'同构证明、习题3.8.3与3.8.4(i)全部条件和跨页提示。",
+      "enSha256": "c6eb2cb089dbe178c7f991a544282e11a4aa1e0f323ebe41ba9eb4668ecfc2fe",
+      "zhSha256": "d45740ccdefab544c1041f85d23e7a4e4b9300d2bb84891b39e7cce5bffc4f12",
+      "unresolved": [],
+      "notes": [
+        "原求和下限i=0未定义theta_0；中文改i=1并显注，英文保留。"
+      ]
+    },
+    {
+      "pdfPage": 61,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续习题3.8.4(i)提示与(ii)Noether–Deuring条件、周期/反周期函数习题3.8.5、有限长度注3.8.6、扩张习题3.9.1分块矩阵与(a)跨页句。",
+      "enSha256": "4312af60dd330073e10829abbfc6b112c49abd96fca7010c622f210349e71b88",
+      "zhSha256": "015ea98d7394566334965296b6992e66ae4493ce38d3574e41a9b9fbc592918e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 62,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续3.9.1(a)、上边缘/上闭链/Ext商空间(b)、(c)phi(a)与B1次序显注、(d)比例/射影空间分类全部条件、习题3.9.2(a)(b)与3.9.3。",
+      "enSha256": "6b40a0d9b91ec726060f11c014424577b782257a03c3d8461a6b42b328dc628c",
+      "zhSha256": "50256a050bcb4881d36b1219a9ad43dff05899b354e04b679407ffb8814d6ae9",
+      "unresolved": [],
+      "notes": [
+        "phi(a)应为phi已依作者勘误改中文；B^1(V,W)与f的Hom(W,V)值域不合，应为B^1(W,V)，中文已显注。"
+      ]
+    },
+    {
+      "pdfPage": 63,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "形式形变习题3.9.4级数与共轭等价、(a)(b)及对偶数反例提示、Clifford代数习题3.9.5商代数/关系、(i)偶奇维表示与完整基/求导提示及次数标签。",
+      "enSha256": "6b4517559ab45fa8e1d65694de0a7ed760617d11f36c656bba4cdfcd653a0e65",
+      "zhSha256": "cbad4277246bcc3376f314c88d4ef41141f14eccb2879f5cc43be8bfb1a8a2e8",
+      "unresolved": [],
+      "notes": [
+        "二审沟通后中文指数degree、degree+1已译次数、次数+1，英文保持。"
+      ]
+    },
+    {
+      "pdfPage": 64,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续Clifford张成集与(ii)退化/根基问题、张量积乘法与练习3.10.1、定理3.10.2唯一性条件、无限维失败注3.10.3、证明(i)及(ii)有限维归结和根基式。",
+      "enSha256": "166d89c152bbc622d41c8fba4ac708d795bb94b65ede0c4e6c3e4af2b795262b",
+      "zhSha256": "b995617dabff544fedafb316d9d3cc146f43fc9ac634efd6852bc79a8f5bf6cf",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 65,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "续定理3.10.2(ii)根基J的双重包含和商代数公式、M=V张量W存在性与唯一性、完整章末证明。",
+      "enSha256": "fb0f23dad916d24fc1ba1ce099e267fbea9fa6e9a6dc98f8188f3288602558c3",
+      "zhSha256": "744d82bf598325e783ca668478ecec7917d3d7b44dba76ba8a599cc1900c7fd0",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 66,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看全部原页并确认全页空白，英文与中文空稿均无虚构正文。",
+      "enSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "zhSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "unresolved": [],
+      "notes": [
+        "已实际查看空白原页；未把提取字符为空单独当作视觉核对。"
+      ]
+    },
+    {
+      "pdfPage": 67,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "第4章引言与群表示/群代数定义、Maschke定理4.1.1的有限G和特征不整除条件、两项结论与代数同构/正则表示分解/平方和公式。",
+      "enSha256": "547bbfebac7f2df7b7a6a8512d21dcbd0bc089a5c91087f0aeae67be58c04710",
+      "zhSha256": "2aa59b64b9a409da8c8b4e3658d5f8e92d0ac2a880534d79b94b9d135c143520",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 68,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Maschke定理完整平均投影证明、补空间与barP/ker公式、h和y换元求和细节、逆命题4.1.2及证明的分解式，与069页定义d_i的续接核对。",
+      "enSha256": "b4b274559a9e0bf62ce972cb6f5434579d35b7d067c45e9898801b8466cf0b56",
+      "zhSha256": "3d5ab13c6f219f9098757edc9a06a3495c1564f9c5de240cdda857554bdfff22",
+      "unresolved": [],
+      "notes": []
+    }
+  ]
+}

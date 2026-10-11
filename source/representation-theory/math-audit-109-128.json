@@ -1,0 +1,283 @@
+{
+  "status": "complete",
+  "reviewer": "representation_069_088",
+  "firstPdfPage": 109,
+  "lastPdfPage": 128,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 109,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐字比较 Burnside 历史插曲的水与流体研究、1893皇家学会、1897英文教材、十年后告别主席演说、哥廷根三十学生；全部直接引文及文献11/8页码完整；结尾序言句与110页连续。",
+      "enSha256": "f57bc3a841d65eb07717cbcb074107e86df470f9c847946b3166ed00ec112e13",
+      "zhSha256": "e89f7640930090f9e3371633c602e9d2c5914ad8d5b0a3aa2992eb8d4b99d33e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 110,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整比较1897序言Cayley引文、504阶例子、15/2的引文及页码、Arnold批评、线性替换群、省略应用及Frobenius论文影响、Lie群/代数方法、106页免责声明；无遗漏和新增解释。",
+      "enSha256": "66b839ea39342f1354087c1624ebad195443642ad17984d3ecb0addad87f67fe",
+      "zhSha256": "20e7789f545fedcec3827e945099bfb25ee713628a7b6d98163a4b08acb83e58",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 111,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整比较Frobenius/Dedekind与Burnside独立发现争论全部引文24/23、平方无因子及p^a q阶、1872/1895/1898/1904年份、p^a q^b可解性、奇数阶猜想、1962 Feit/Thompson、1994 Zelmanov及全部引用。",
+      "enSha256": "c098d30ddc4602ba2c84d357f292709e7bfaaed776819c4c8aa2f82d864c9dfc",
+      "zhSha256": "bfa07578b65eb3063b76f6258efd73b51578dcc159c3a135590144a706b0e2a3",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 112,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整比较海军学院隔离、41/11文献页码、1925中风及划船讣告、Philip Hall明信片/论文/目标引文；定理5.6.1有限G/H、任意特征域及V_i tensor W_j；跨113证明引用3.10.2。",
+      "enSha256": "eb69d256ba21dadea3386c5e6a2bfcd9e071e9f1e3253b59e07941c38c6c6734",
+      "zhSha256": "aa33a216c56deddc1368c116f406dbd170f5f7e9aed469fd9fe270a4fbfbe8e5",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 113,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对5.6.1证明尾句、虚表示定义整数系数/特征标、5.7.2单位范数正维数及sum n_i^2证明、限制表示作用、诱导函数左H等变/右G平移、Hom_H自然同构；全部公式和条件一致。",
+      "enSha256": "9d0c9bc6e0c6e1aa5e7089996ea509e512b39cbcdb2c035981dbe1cf021283ee",
+      "zhSha256": "a349839657c83e655b9247f11cdbcce5b7ce191c91c1cfd4fac145eb3d0af81f",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 114,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对诱导作用良定义与乘法顺序；右陪集取值/维数公式，5.8.3和5.9.1有限指数官方勘误已可见说明；5.8.4传递性及5.8.5幂等元/左乘实现；Frobenius特征标求和约束全比较。",
+      "enSha256": "776e572d78106dc4ed0613e76caa33c8e7ae9452c057560e224019b6be7ca1d5",
+      "zhSha256": "f0383034697de145c3fb4ebdd5b53c5f8acb9a6c6bdbfbc2179f83bc73df629b",
+      "unresolved": [],
+      "notes": [
+        "官方勘误的群指数替代|G|/|H|与特征标有限维前提均已紧邻说明。"
+      ]
+    },
+    {
+      "pdfPage": 115,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对5.9.2特征与|H|条件/按元素求和公式、陪集支撑空间及对角块迹、固定陪集条件、alpha评价同构和rho(h)链式等式、最终固定陪集求和；5.10.1两个Hom空间自然同构条件。",
+      "enSha256": "55bf3b5a58d232c4a3606281d8dc375d179b9265317e59bea2634f21d9e69ae7",
+      "zhSha256": "ef08b7278db48f29a6c20d028e0c839d8ce9e0fbfce85e67db843db5297e1be1",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 116,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐项核对Frobenius互反性证明F/Fprime定义及(a)至(e)五项所有等式，(e)原F(alpha xv)英文保留，中文F(alpha)(xv)可见译校注；5.10.2引入双模和2.11.6引用完整。",
+      "enSha256": "9eb155b6351bb640f247a9ba4296d8d19e66bbfd1618afac8fff6c1c2907e64f",
+      "zhSha256": "0cb89ae44df89d1ebecaaf9211e05b6fe01efcb8f0ecc08f0f5642423a82a845",
+      "unresolved": [],
+      "notes": [
+        "原书(e)括号误位：英文忠实保留F(alpha xv)，中文修F(alpha)(xv)并可见注。"
+      ]
+    },
+    {
+      "pdfPage": 117,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对5.10.2(a)至(f)限制/诱导tensor-Hom同构、代表元逆元求和、伴随Hom、双对偶配对/Sg逆元；(f)配对第二因子Ind V按官方勘误可见修正，英文保持原Ind Vstar。",
+      "enSha256": "9485d76ffbcbf775cd03285d1711e1c27ad9963331678f0589483486542774c4",
+      "zhSha256": "5c89f379653e69a5bf6df49123d1ac4d29b1491ab40308fbb812ab5d64b8e097",
+      "unresolved": [],
+      "notes": [
+        "官方勘误5.10.2(f)配对域Ind(Vstar)改Ind(V)，中文已可见标明。"
+      ]
+    },
+    {
+      "pdfPage": 118,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对S3从Z2/Z3及S4从S3诱导的每个分解、5.11.1五个子群；分拆正整数非递增条件、杨图坐标范围、杨表不重复数字与行优先排列、跨119行列子群引入。",
+      "enSha256": "1b175b29ea4f3191e35285b3fb7c0c0e1abc4184fc897e197be1a8f99088b11e",
+      "zhSha256": "d67af989bdd54477fbafbba60a09254bb57d5cc0b458df0df394d07fa3112ffd",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 119,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对行列子群定义/交集、a_lambda和b_lambda各自归一化因子与置换符号、Specht不可约分类和唯一性；n=3/4五个分拆表示、矩阵有理性及5.12.5维数和习题。",
+      "enSha256": "dd756b1ce1828fc31b817a4a93bc85574b4bc93b1deb60c7a56bc17cfa44c319",
+      "zhSha256": "cbb829889e240fe73b8cf1b925608226d7660134ed91fd7d0afa148b1e8a6bc7",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 120,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对5.12.5提示实表示/对称型、5.13.1全部换位符号等式、g不在PQ与同行同列条件、gT/共轭列群、pT=qprimeTprime变换、逐行归纳步骤、字典序及5.13.2跨页命题。",
+      "enSha256": "096e38272021fb35fe121e7c7e3a28d8122d59e3c2df9b122e9344afdfe023ba",
+      "zhSha256": "1fd627ea3a7b8ac6600627a44ca852407b3953352d47f89974426a74c35381dc",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 121,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对5.13.2抽屉原理逐行证明；5.13.3幂等元系数/正则迹/单位元系数与官方归一化勘误可见注；5.13.4 Ae模评价同构与分解；分类定理Hom空间和分拆等共轭类完整收束。",
+      "enSha256": "b81733842b43729ff1521c269c892758a0a13c8f877b238d3ba815ec36bb72cd",
+      "zhSha256": "f45ae1ad6d0c514e505ff456fd1a6052a969fdfb29f326be42d0f9d86daf6c9b",
+      "unresolved": [],
+      "notes": [
+        "官方勘误5.13.3归一化因子1/(|P_lambda||Q_lambda|)在公式和迹证明均正确。"
+      ]
+    },
+    {
+      "pdfPage": 122,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对U_lambda诱导/左理想实现、Kostka三角条件/对角1、Hom表达式、幂和定义、5.14.3变量N>=p及零lambda_j脚注；Frobenius公式计数/中心化子阶/交集因子全比较。",
+      "enSha256": "a443f914e3aa6547da7ea52642935760d079fd9139ec0561c6e1bdb2342830da",
+      "zhSha256": "494237605d92154c648fcbd0976d50e566c04ae0d94c6a99eb5523c7118c22fe",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 123,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际300dpi核对首式原半直积ltimes及对称群置换循环坐标的结构，修正先前EN误抄times并删除无根据ZH译校注；核对中心化子阶、r_jm双约束、阶乘计数/多项式系数及Delta/rho定义。",
+      "enSha256": "c34d3b2aa38d010a045893034c1330e6c89b9350e4145c38af55d6b67f345ec0",
+      "zhSha256": "2ce89e010a867394528bf69dd5996cc7b68626473a1cee09afd4a65be32b9e8a",
+      "unresolved": [],
+      "notes": [
+        "原书首式实际为ltimes；300dpi再次辨字后，primary已修复英文误抄times并删除不成立的中文原书笔误注。"
+      ]
+    },
+    {
+      "pdfPage": 124,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对5.15.1多项式系数与lambda+rho指数、等价Laurent公式、theta与chi整数三角组合、sigma符号/负分量删项/重排、正根偏序比较、范数与共轭类阶、生成级数S全部公式及跨125求和。",
+      "enSha256": "0db7455c042f52f08a5bc0f15e90e76cc6b8d382f19bbbe690937004408b08ab",
+      "zhSha256": "707f7e0d2667bf6bf934040e957b49f565915d7c309f84954191351d4011654e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 125,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对S指数/对数/乘积三个等式、R双Vandermonde商式、Cauchy行列式引理及归纳证明、z_i=1/x_i；5.15.4官方漏符号勘误中文可见修为(-1)^sigma；系数1论证及偏序Kostka逆矩阵跨页。",
+      "enSha256": "3710e04c0d27ed688e650de402084f1112d202f4dee3bbec9e4b6dd312d9d174",
+      "zhSha256": "598022b9602046aa7253743658c8fd54684a5d0075db7184d73d1b19e30d205d",
+      "unresolved": [],
+      "notes": [
+        "官方勘误5.15.4行列式展开符号已补入中文，英文忠实保留原分子1。"
+      ]
+    },
+    {
+      "pdfPage": 126,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对Kostka逆矩阵尾句、5.16.1加删方格限制/诱导分解、5.16.2含量双求和与换位作用、5.16.3特征整数界和矩形条件/提示；5.17维数系数及l_j=lambda_j+N-j跨127计算。",
+      "enSha256": "35792d2a27872ab3181460add06d60027880f593a1ddf4caf4aec1b792eff040",
+      "zhSha256": "8dff40694478f7553161ab10a40fbcf8d918fc30b5e5cf9ec9e976d856f08859",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 127,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "逐式核对维数三行置换求和/阶乘/下降积行列式、Vandermonde式(5.17.1)每个指数及范围；钩的两种坐标条件、钩长公式及删第一行归纳证明；5.18双中心化子引入。",
+      "enSha256": "226857e7fd14abaf04b93fe3c7f461caddfa938935698ad6c11e1499d595367d",
+      "zhSha256": "ef6b3ed77207cf85497a5a5f7daad1f80361dc957f299eb1467041b4a5006e73",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 128,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "核对5.18.1双中心化子三结论/半单分解/End Wi证明，5.18使用特征零代数闭域k及k[S_n]官方勘误可见注；5.18.2泛包络像与Delta_n所有tensor项；B=S^n End V及5.18.3跨129条件/两结论衔接完整。",
+      "enSha256": "d96074de88aa4d57e02cde1134f9717e5d9dce0d6c1176d01d186f1d80c027c7",
+      "zhSha256": "a62327e20f663be447d4cf829d72fd1d837e6b762eecdd9f56beb5d740b06457",
+      "unresolved": [],
+      "notes": [
+        "5.18官方勘误底域统一为任意特征零代数闭域k；已同时实际查看129页以确认引理5.18.3跨页完整。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "pdfPage": 65,
+  "printedPage": "56",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Diagrams rendered directly from the supplied PDF at 300 dpi.",
+    "Exercise 2.2.10 continues on PDF 66 after part (a).",
+    "The word and between each pair of string diagrams is native text, translated in Chinese.",
+    "Natural Chinese phrasing review completed; no added teaching explanations. English transcription, mathematical expressions, and diagram crops unchanged.",
+    "Independent comparison against PDF 65: changed the synonym 竖直复合 to 垂直复合 to match the established translation of vertical composition; no content, formulas, or diagram changes."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0065-identity-string.png",
+      "widthPt": 11,
+      "clipPt": [
+        275,
+        240,
+        286,
+        292
+      ],
+      "sha256": "58a808ac4f1a231375189df73fe8e2eebcbab859102fb096599ae6c0ad7b49a2"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0065-unit-string.png",
+      "widthPt": 71,
+      "clipPt": [
+        176,
+        318,
+        247,
+        378
+      ],
+      "sha256": "54a63059f0f5586f5fbfad65a1db71f9bbbc970b9961700d9ecee7a3999e2a34"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0065-counit-string.png",
+      "widthPt": 71,
+      "clipPt": [
+        313,
+        319,
+        384,
+        378
+      ],
+      "sha256": "b1d57ccf0c8e5ded39bc102fcf8e03ca785cbde29b45b5dbccd0d6585d288bc0"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0065-triangle-string-f.png",
+      "widthPt": 116,
+      "clipPt": [
+        130,
+        398,
+        246,
+        509
+      ],
+      "sha256": "8cb1bd967222d8a6b45489a1e739a86e8a809d73496a46f27ccc3b643819a3c0"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0065-triangle-string-g.png",
+      "widthPt": 119,
+      "clipPt": [
+        311,
+        398,
+        430,
+        509
+      ],
+      "sha256": "a78d8b328bbe0a627b8694fa7e955bf5676d2ceac98a5b1339a058c1f5c35ac4"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0065-ordered-pair.png",
+      "widthPt": 41,
+      "clipPt": [
+        176,
+        573,
+        217,
+        599
+      ],
+      "sha256": "4372526b6c1d47c156fbc79cacf8c2539433f0339860646efeb48a8d92614f8c"
+    }
+  ],
+  "englishSha256": "46969c339ccb3d8925919edb61c33441062cf5cd8b63fc68e812b97a963c02cf",
+  "chineseSha256": "b21ddedcda457a5dfbf3a186647399bbac45b0d60b8c06ac48fb69fb8fecc802",
+  "sourceSha256": {
+    "en": "46969c339ccb3d8925919edb61c33441062cf5cd8b63fc68e812b97a963c02cf",
+    "zh": "b21ddedcda457a5dfbf3a186647399bbac45b0d60b8c06ac48fb69fb8fecc802"
+  }
+}

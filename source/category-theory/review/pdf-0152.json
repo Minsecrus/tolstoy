@@ -1,0 +1,41 @@
+{
+  "pdfPage": 152,
+  "printedPage": "143",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0152-induced-maps.png",
+      "widthPt": 157,
+      "clipPt": [
+        214,
+        137,
+        371,
+        247
+      ],
+      "sha256": "e95d13dd4e1937966a16660a1e4e44939187a85c117c541a43135d0267480e8f"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0152-natural-transformation.png",
+      "widthPt": 46,
+      "clipPt": [
+        326,
+        517,
+        372,
+        556
+      ],
+      "sha256": "2df317bdea5c5b126930d1608d937a76f6d78c608c7376a133aadf5b20a2f4b8"
+    }
+  ],
+  "snapshots": {
+    "en": "d918c2f61a8cf2747c61e87a299c3bc2c47b6cfe2bb7fe8ca4d1c399ac0ba603",
+    "zh": "5a7fe709db2cf908a9578761a4a2433996472c63d9c314b32b5a8a26f6668227"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": "complete",
+  "reviewKind": "final_production_browser_render_check",
+  "checkedAtUtc": "2026-10-11T05:19:56.561Z",
+  "siteBase": "http://127.0.0.1:4173/tolstoy/",
+  "sourcePdfSha256": "4d817004b83f46233444c2b3233129cef1154e5e96987fa4be029e040987b59a",
+  "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+  "chapter": {
+    "cItems": 8,
+    "copyrightSymbols": 0,
+    "diagram": {
+      "centerDifferencePx": 0,
+      "fontSize": "17px",
+      "textAlign": "center",
+      "width": 199.640625
+    },
+    "failedVisibleImages": 0,
+    "metadataInBody": false,
+    "pdfLinks": 0,
+    "sourceAnchorHeights": [
+      0
+    ],
+    "title": "第一章 范畴、函子与自然变换\n​",
+    "visibleImages": 15
+  },
+  "inlineDiagrams": [
+    {
+      "imageDisplay": "inline-block",
+      "inlineClass": true,
+      "page": "chapter-002",
+      "paragraphAlign": "justify",
+      "paragraphImageCount": 1,
+      "paragraphIndent": "34px",
+      "paragraphStart": "定义 2.1.1 设  是范畴和函子。如果",
+      "width": 81.90625
+    },
+    {
+      "imageDisplay": "inline-block",
+      "inlineClass": true,
+      "page": "chapter-006",
+      "paragraphAlign": "justify",
+      "paragraphImageCount": 5,
+      "paragraphIndent": "34px",
+      "paragraphStart": "例 6.2.9 当   时，命题 6.2.8 说明二元积与二元积可交换：如果  具有二元积，且 ，那么四元积  存在，且满足",
+      "width": 78.4921875
+    }
+  ],
+  "index": {
+    "continuations": [
+      {
+        "children": [
+          "特征函数，69",
+          "单射的，123",
+          "直观描述，66",
+          "函数的个数，67",
+          "部分函数，64",
+          "函数集，47, 69, 164",
+          "满射的，133"
+        ],
+        "parent": "函数"
+      },
+      {
+        "children": [
+          "幂级数，153",
+          "幂集，69, 89, 110, 128"
+        ],
+        "parent": "幂，112"
+      },
+      {
+        "children": [
+          "预层范畴的切片范畴，157"
+        ],
+        "parent": "切片范畴，59"
+      }
+    ],
+    "entryCount": 567,
+    "pdfLinks": 0
+  },
+  "home": {
+    "pdfLinks": 0,
+    "sectionCount": 13,
+    "title": "基础范畴论\n​"
+  },
+  "screenshot": "tmp/pdfs/category-theory-export/final-website-reading.jpg",
+  "scope": "Actual final built VitePress pages checked through the browser, with representative visible mathematics, crop sizing and alignment, inline diagrams, source-anchor heights, item labels, navigation and index continuity. This record does not replace the full source-page mathematical audits or the full output PDF visual review.",
+  "unresolved": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdfPage": 120,
+  "printedPage": "111",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "独立二审将最大下界的“大于其他所有下界”改为“不小于任何其他下界”，避免将偏序中的最大误读为严格不等关系，与该页a≤z条件一致。"
+  ],
+  "diagrams": [],
+  "sourceHashes": {
+    "en": "dcf21ab27b438eaf8d1d806aba7a5cde6c7cfed248aff40a37508b8ea239e64a",
+    "zh": "cb2912cc8725cf4e728f997b71930a1efd650f6634cffa1f173f00d3ba163b53"
+  }
+}

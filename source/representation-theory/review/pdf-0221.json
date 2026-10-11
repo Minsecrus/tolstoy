@@ -1,0 +1,18 @@
+{
+  "pdfPage": 221,
+  "printedPage": "213",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；源OCR遗漏的k[t]/t^n已从图恢复，free algebra用尖括号。",
+    "Terminology synchronization after full review: translated numbered Problem headings and explicit numbered Problem references as 习题; Exercise remains 练习 and ordinary uses of 问题 are unchanged. Checked the actual textual diff: no mathematics, conditions, or other prose changed."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "5662dc42b27e4183d5b1aabbb6bcde024274a8a5c4d83ecdf3e7123a40954142",
+  "zhSha256": "fac6560d8b0e0f372d2e3e9f61d47e95189aac19c1b824c5fb487a97ee12804f"
+}

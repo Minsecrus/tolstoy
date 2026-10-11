@@ -1,0 +1,17 @@
+{
+  "pdfPage": 17,
+  "printedPage": 9,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "例 2.2.4 前 A≠0 依官方勘误从中文移至 §2.4 单代数定义；英文保留，有可见译校注。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_001_028",
+  "enSha256": "2aea8f5b78148ec7ac646cfbe79575fc2b8788391ee01c1c4f810c5b000c39f9",
+  "zhSha256": "602b4941ad89cea33c2d35b2dfd59837c7f002aef582dbf1ac0c007798e11c39"
+}

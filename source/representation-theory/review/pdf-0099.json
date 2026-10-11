@@ -1,0 +1,18 @@
+{
+  "pdfPage": 99,
+  "printedPage": "91",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对三个表示类型的条件、End_R[G](V) 对应的三个代数、V_C=V⊕V* 和提示跨页片段。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "a4701e7c9948e2c784449a5329f862ee6b715a2ad169d9c3071d5720a3ad2ae1",
+  "zhSha256": "3f1e90ab5be3dd0e405f202518fed96313ee1826906c20e6db73fc5cb527c158"
+}

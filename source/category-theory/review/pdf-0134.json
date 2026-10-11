@@ -1,0 +1,37 @@
+{
+  "pdfPage": 134,
+  "printedPage": "125",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0134-product-pair.png",
+      "widthPt": 125,
+      "clipPt": [
+        239,
+        192,
+        364,
+        234
+      ],
+      "sha256": "446905f288251b1f5a706cce38d71eb83ec141271e88512c0a432c6e9651f2b4"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0134-pullback-monic.png",
+      "widthPt": 64,
+      "clipPt": [
+        261,
+        586,
+        325,
+        651
+      ],
+      "sha256": "c7cade410ac58d7c1d873f2eb91c5f2277d1b81debd0e627a6a938db5d8458fd"
+    }
+  ],
+  "englishSha256": "b77b955453447436994e819305051ce074bc253edfa6a3d71c72c7793aff3ee1",
+  "chineseSha256": "4e1f84b5a15032c1fb8ab57bdbeddbeae2a249c39b054298cd1a55c7169edf70"
+}

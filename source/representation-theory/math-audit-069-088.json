@@ -1,0 +1,285 @@
+{
+  "status": "complete",
+  "reviewer": "representation_029_048",
+  "firstPdfPage": 69,
+  "lastPdfPage": 88,
+  "unresolved": [],
+  "pages": [
+    {
+      "pdfPage": 69,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对 Maschke 逆向证明结尾中 epsilon、Lambda、|G| 的等式及左逆矛盾；例4.1.3和习题4.1.4的正特征假设；特征标定义、类函数性质和定理4.2.1。",
+      "enSha256": "81c39b4e5d1c6f7529fb49056add2ba37e155939623fbce871fb767b7917b2fe",
+      "zhSha256": "0be0ab8de15fde9386522d83813f108a8c70cc4a555e51014f2decc9c3bb3323",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 70,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对定理4.2.1证明中的两个商空间/类函数同构、推论4.2.2和练习4.2.3；推论4.2.4有限维官方勘误及可见注；有限阿贝尔群对偶及跨页非典范同构叙述。",
+      "enSha256": "a2f75ba288e1a1e0393ced3038f8018faf9947f6c404bc94e08082d9e377e225",
+      "zhSha256": "fd047377ac8a81df78b0724120139cd7e17e9feb3efb4dfb61f24c525572a0aa",
+      "unresolved": [],
+      "notes": [
+        "官方勘误要求推论4.2.4加有限维，中文紧邻译校注，英文保留原文。"
+      ]
+    },
+    {
+      "pdfPage": 71,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对双重对偶的典范映射、S3共轭类及维数平方和、两个二维矩阵和不可约性证明；Q8全部关系、共轭类、商群及跨页拉回。",
+      "enSha256": "79eb7cdb7f4b830f8b64c03ef46f2759e25d9e3679d118d1f4790c19796d644e",
+      "zhSha256": "28f1a2a8dbd0957cec5fc0d3a8c380a5c69facc630de45b7098382160df1b280",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 72,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对Q8三组矩阵每个符号和公式4.3.1；练习4.3.1右平移与等变条件的原书冲突及可见修订；S4五共轭类、各维数、拉回与旋转/符号表示及跨页函数空间。",
+      "enSha256": "7edc3c281f34f24289ab8f6d73e180e72860f44aa41a49e72792b47bb41bbdcb",
+      "zhSha256": "60b28dd4fe1e70f28ae640064be880d523cc8f84ffe991e0644c701ed9c5a4fe",
+      "unresolved": [],
+      "notes": [
+        "独立发现原f(gi)=sqrt(-1)f(g)不被右平移保持：取右平移j时，f(ij)=f(k)=-sqrt(-1)f(j)。中文将条件改为f(ig)=sqrt(-1)f(g)，保持原右平移作用，紧邻可见译校注。"
+      ]
+    },
+    {
+      "pdfPage": 73,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对对偶表示的逆转置、特征值单位根的G有限假设官方勘误及可见注、共轭特征标、张量积特征标和Hermitian类函数内积。",
+      "enSha256": "3df3ff30ce9ef899508e22546b9fc5a19cb83f0c700d5cff15e16996f156427f",
+      "zhSha256": "1348bf7849cee037b59452acedae4888528963d3a82beb0d1f015f1efc6fca8d",
+      "unresolved": [],
+      "notes": [
+        "官方勘误的群有限假设已在中文补入并紧邻可见译校注。"
+      ]
+    },
+    {
+      "pdfPage": 74,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对定理4.5.1中的Hom方向、两种正交值、投影P的迹证明每一步、不可约判据和跨页中央幂等元psi_i定义。",
+      "enSha256": "a9362433bc89bcbaa085064bfec59ce11722e95607917b8fd5c1965c2c44c1a3",
+      "zhSha256": "5a65569303bab730d0a14b2a190a615fe12b3308ab08e8a05ebd0449083321ad",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 75,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对幂等元的两个结论及Schur提示、卷积定义、本原幂等元说明、重归一化特征标公式和Frobenius说明与[Cu]引用。",
+      "enSha256": "8f56d70c0f5f2801780d107260f52b34b62f7096d9784435b718dd941cbe3e31",
+      "zhSha256": "2148ba11918bcfd08ef8ea8d39bb5e600f62fec01f72cfc170636b4c51235967",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 76,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对列正交定理4.5.4及证明中g tensor (h*)^{-1}、End映射和中心化子计数；注4.5.5归一化U以及G/g原误可见注；酉表示定义跨页。",
+      "enSha256": "7bba721431f88c555ffa7297de257ad98bd0bbc3aad79b16ea55be13b9831f4c",
+      "zhSha256": "f2035a6df289b737d0d7ba2a52c915d9c1b8dfc18aecfa2dc539b9aae7ea7355",
+      "unresolved": [],
+      "notes": [
+        "原书elements conjugate to G应为元素g；英文保原，中文可见注修订。"
+      ]
+    },
+    {
+      "pdfPage": 77,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对定义4.6.1续句及线性/反线性脚注、定理4.6.2平均形式和B1/B2不变官方补充、共轭表示与对偶的半双线性说明；定理4.6.3正交补所属V而非W的原误及可见注。",
+      "enSha256": "1a3d41a7027172ed0be75bbdd7226919b3229bc5089e29d9181c0c5285739246",
+      "zhSha256": "742a00aecce6c90a4124174cd4e44819d658c20ea0e702945dd18f006641e573",
+      "unresolved": [],
+      "notes": [
+        "B1/B2均G不变的官方补充已正确纳入；原W^perp是W子表示误字也可见注改为V子表示。"
+      ]
+    },
+    {
+      "pdfPage": 78,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对无限群反例说明、矩阵元定义与两个正交结论、双对偶Hermitian配对、投影平均公式每个指标/共轭号及跨页V=W情形。",
+      "enSha256": "dfc48156aff55d4652c8e9321da062b5c5765ef418fd3f77648ab2f273b8270d",
+      "zhSha256": "cc0471ce97d52c1a8bcfd2ed50176c9db6c0d7556d191cdca9d20370721329b8",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 79,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对V tensor V*分解、迹零L的条件、delta投影系数、配对及平方和结论；特征标表的行列说明和跨页S3表引导。",
+      "enSha256": "591add109230f7510f084edcdf58b5dd6008833f5d1a50733cac7b3d30b1b3dc",
+      "zhSha256": "75b80826c83b77ddd47c6d973e0caad4eec893a30ff743b59c028181eac07659",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 80,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐格核对S3、A4、Q8三个原生TeX表的类大小和所有特征标值；A4三维旋转描述和120/240/180度；epsilon公式。",
+      "enSha256": "ba9643e84b84efb0e2f3109947e548a8885c6133c7c084d2a2ae844451d7bf25",
+      "zhSha256": "6c4b0c0b259180126eca710e8804311d475e46182fc89c1529d949389a25a1bd",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 81,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际逐格核对S4和A5特征标表，包括两种五循环、类大小、黄金比的正负号和两种三维标记；S4立方体轴/角度及迹公式。",
+      "enSha256": "e670f2ac8c1d9bd2d0a6628bb54e0e6e93b16ead3decff81cb53c84871554732",
+      "zhSha256": "9d8ae209d7ad53542d20b941aa9c98b7ad1afc415239e5b9d8c8860237dbcf14",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 82,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对A5几何实现、两个五循环原误及可见注、奇置换扭转、4维与5维函数实现；重数公式N_ij^k与内积。",
+      "enSha256": "5180d1e3862a1192e223740e7432b8483998a693652cda5b6c9cb8e51c5f5c35",
+      "zhSha256": "eab4ef6269f657e48f2ea59afdeaf261aff749ca58aa0821a5d6bb99bde01ef1",
+      "unresolved": [],
+      "notes": [
+        "独立验证将(12345)共轭到原(13254)的置换为(23)(45)，是偶置换，二者A5共轭；到(13245)对应(23)为奇置换，故中文以(13245)代表另一五循环类正确，英文保原(13254)。"
+      ]
+    },
+    {
+      "pdfPage": 83,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际查看300dpi原表并逐格核对S3/S4/A5所有上三角张量积分解；独立按81页A5表用Q(sqrt5)精确运算重算15种乘积，核实3-平方及第一行上下标修订；Frobenius行列式定义。",
+      "enSha256": "fc3e585ae73ae109fa59775b6eea6678badba06a58bd5b489765122190cff886",
+      "zhSha256": "7f6d560a934577aa43b236b281d002d6080f63b8b9631f28e4f54378105ced8f",
+      "unresolved": [],
+      "notes": [
+        "A5所有15种积均以Q(sqrt5)精确复算：3+平方=1+3++5；3-平方=1+3-+5；3+乘3-=4+5；3+乘4=3-+4+5；3-乘4=3++4+5；两种3乘5均=3++3-+4+5；4平方=1+3++3-+4+5；4乘5=3++3-+4+2*5；5平方=1+3++3-+2*4+2*5。现中文表完全吻合，英文保留原3-平方格内误印3+与首行C_3^+。"
+      ]
+    },
+    {
+      "pdfPage": 84,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对定理4.10.2各因子指数与条件、引理4.10.3循环矩阵和行列式符号、齐次不可约证明；群代数正则表示L(x)作用和列置换跨页证明。",
+      "enSha256": "c5591c53c1e5b39202a6e3eae20f9685dde3407ac966412739f8f42bc2218cdb",
+      "zhSha256": "47f69b2d7aa4424787a1ec881f80cdc008f379229287ea6f794fa6671c2bb36e",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 85,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对Frobenius因式分解证明余下的全部行列式指数、矩阵单位、坐标和不可约性；历史插曲4.11的姓名、年代、职位与跨页引文。",
+      "enSha256": "d2d63e167cd6e704afb46048d8f6669ce8817b77d9003701ecd5afd26846fa65",
+      "zhSha256": "03eb4c3a89c6e5b53e60c8556ca13e2402831be81f9882735c4c3275d2199235",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 86,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对历史插曲4.11全文、[11]与[24]页码引文、Dedekind通信、群行列式线性因子与交换子群指数的猜想、跨页免责声明。",
+      "enSha256": "a6a1f13a94a71f8a1c29eb10c575edbc767f6eeb0cc3ff3f6a0da053a3f68003",
+      "zhSha256": "c24f675b070ae4ae9513c468d37ff294c78e9344dba54ecaddc6ffd74a7fbd1c",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 87,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对历史插曲4.11全文及[24]所有页码、正则表示重数的基本定理描述、马匹交易原则完整引文、度假/展览/文学/毛虫细节和跨页句子。",
+      "enSha256": "93cb1f29e15b4ffe49be12c44ac5b3ed08012a40880b7a064db6ba310ed76632",
+      "zhSha256": "75c51a82dd73b9cd0ee6f54c6885be07dac493cf667235da0f30fc6c29424bf2",
+      "unresolved": [],
+      "notes": []
+    },
+    {
+      "pdfPage": 88,
+      "status": "verified",
+      "originalImageViewed": true,
+      "englishComparedInFull": true,
+      "chineseComparedInFull": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "实际核对历史插曲4.11全文、散乱稿纸与新证明、25美元书信故事及[27]、大学教学/博士生和Schur、哥廷根与[11]引用；页尾连续衔接。",
+      "enSha256": "fd4b03a69ec396c0ed2920efde4cae0307fd5e13729d079bad24a3819fe56317",
+      "zhSha256": "25af61f402c32ba5cf88c12fef2722b3fd5968bd54404655d45a00b54d0aa8b2",
+      "unresolved": [],
+      "notes": [
+        "再次查看原扫描300dpi局部，书信保存时间清楚印为thirty odd years，匹配2011作者版本同为thirty。保留英文thirty、中文三十多年；曾有他审初看误认forty，已凭原图排除。"
+      ]
+    }
+  ]
+}

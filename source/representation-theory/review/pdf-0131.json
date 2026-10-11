@@ -1,0 +1,22 @@
+{
+  "pdfPage": 131,
+  "printedPage": "123",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Historical prose retained in full; final Chinese sentence continues on the next source page."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0131.png",
+  "sourceHashes": {
+    "en": "a73eac46b085217052460ffde8678818401d33f4f9e7bd96e5ce7d160e8ef63f",
+    "zh": "599f593cc1eac6fb2ee8441e48b4ac8fcdf7e2909a62c2a6fd36d980f4b1ce8b"
+  },
+  "enSha256": "a73eac46b085217052460ffde8678818401d33f4f9e7bd96e5ce7d160e8ef63f",
+  "zhSha256": "599f593cc1eac6fb2ee8441e48b4ac8fcdf7e2909a62c2a6fd36d980f4b1ce8b"
+}

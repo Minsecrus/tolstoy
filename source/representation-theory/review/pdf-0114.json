@@ -1,0 +1,17 @@
+{
+  "pdfPage": 114,
+  "printedPage": "106",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official erratum replaces |G|/|H| with (G:H). Since induced representation here is the full function space, the dimension formula and finite-dimensional character formula are stated for finite index; infinite-index full function-space dimension would not obey this product formula. English retains source, Chinese has visible correction."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "776e572d78106dc4ed0613e76caa33c8e7ae9452c057560e224019b6be7ca1d5",
+  "zhSha256": "f0383034697de145c3fb4ebdd5b53c5f8acb9a6c6bdbfbc2179f83bc73df629b"
+}

@@ -1,0 +1,24 @@
+{
+  "pdfPage": 188,
+  "printedPage": "180",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Functor morphism assignment and identity/composition preservation; all nine Example 7.2.2 items, opposite category, Hom functors, integer-valued functions, paths, induction/restriction, tensor/symmetric/exterior powers and Schur functors, reflection functors. Official opposite-category notation clarification visibly applied in Chinese.",
+    "English retains original definition without the opposite-category notation; Chinese adds the explicit C^op notation prescribed by the official errata and an adjacent visible note."
+  ],
+  "actualReviewScope": "Functor morphism assignment and identity/composition preservation; all nine Example 7.2.2 items, opposite category, Hom functors, integer-valued functions, paths, induction/restriction, tensor/symmetric/exterior powers and Schur functors, reflection functors. Official opposite-category notation clarification visibly applied in Chinese.",
+  "diagrams": [],
+  "enSha256": "09a27e1206d351cde8f2650da022d2075d63d9cd6040b3b9eb9307a1e256db58",
+  "zhSha256": "c250088360560bcff71793fa91d70b3eea8afce7b9de682697698e7389963e92",
+  "sourceSha256": {
+    "en": "09a27e1206d351cde8f2650da022d2075d63d9cd6040b3b9eb9307a1e256db58",
+    "zh": "c250088360560bcff71793fa91d70b3eea8afce7b9de682697698e7389963e92"
+  }
+}

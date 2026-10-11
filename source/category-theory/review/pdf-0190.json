@@ -1,0 +1,21 @@
+{
+  "pdfPage": 190,
+  "printedPage": "181",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "All entries of both subject-index columns retained in original reading order, with nesting and all printed page references preserved; matched BasicCategoryTheory.ind.",
+    "Independent audit: distinguished map/morphism, monic/monomorphism and partially ordered set/poset headwords with the original English words in parentheses; aligned cross-references including initial object. All page numbers, entry order and hierarchy retained."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "de1bfbbefcce3611be423114d061719b1b36469e392291f6280fa24789c34802",
+    "zh": "5f79cfb7df1fa6e8000e2a5356ce94f37e3677dca70d4c6fece2c8619e57e01c"
+  },
+  "styleReviewed": true
+}

@@ -1,0 +1,52 @@
+{
+  "pdfPage": 66,
+  "printedPage": "57",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0066-adjunction-a.png",
+      "widthPt": 50.6406,
+      "clipPt": [
+        204.5486,
+        171.7535,
+        255.1892,
+        202.0337
+      ],
+      "sha256": "45d71d0cff3f5d7d7564ec644e31796fee6e16c8c7b4b314abd2b6cb89d50f2f"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0066-adjunction-b.png",
+      "widthPt": 48,
+      "clipPt": [
+        346,
+        550.1,
+        394,
+        580
+      ],
+      "sha256": "f18c827b8df99608706496b797e99837db6a2328c3b10746993ad7ce54e226c0"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0066-induced-adjunction.png",
+      "widthPt": 115.6791,
+      "clipPt": [
+        242.7773,
+        595.6769,
+        358.4564,
+        630.4247
+      ],
+      "sha256": "9cd6be20b25d922fd793825ecf9683268cdb6f42999c662b7ac815a6cf1b91be"
+    }
+  ],
+  "englishSha256": "6567d79d5a75dc0bd389adbb31b420744409daeb2a68eb32487a075ad756b26a",
+  "chineseSha256": "89ec4305772662acbc075a0d81e04cc317e55c4c66cdaf16c430b8134b6f96ef"
+}

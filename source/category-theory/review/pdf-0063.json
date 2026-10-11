@@ -1,0 +1,55 @@
+{
+  "pdfPage": 63,
+  "printedPage": "54",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Diagrams rendered directly from the supplied PDF at 300 dpi.",
+    "Natural Chinese phrasing review completed; no added teaching explanations. English transcription, mathematical expressions, and diagram crops unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0063-functor-pair.png",
+      "widthPt": 47,
+      "clipPt": [
+        313,
+        292,
+        360,
+        318
+      ],
+      "sha256": "5d5c87d5ca0d2753111beef392d4b46ba2920df9f6b134b265dcb5015038c61b"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0063-ordered-pair.png",
+      "widthPt": 42,
+      "clipPt": [
+        180,
+        366,
+        222,
+        392
+      ],
+      "sha256": "ad4689174149d17b702c2ab587ebe7e8b9e4cb3b2b50a70edb153248db4daf16"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0063-parallel-pair.png",
+      "widthPt": 48,
+      "clipPt": [
+        270,
+        481,
+        318,
+        507
+      ],
+      "sha256": "5fbb7afe178524fba02478a100d60696a5e70c7f10fd5e5de472b8407454ad91"
+    }
+  ],
+  "englishSha256": "ed7725cdf4bce502a57cf892d3b676ace8f0210a740733a6c64fe2ddbd167932",
+  "chineseSha256": "650b83677fae0f32f5d30d8ceb3705cd8caeaa962c2d5d9c48f78eee6bb9ff37",
+  "sourceSha256": {
+    "en": "ed7725cdf4bce502a57cf892d3b676ace8f0210a740733a6c64fe2ddbd167932",
+    "zh": "650b83677fae0f32f5d30d8ceb3705cd8caeaa962c2d5d9c48f78eee6bb9ff37"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "status": "complete",
+  "pages": [
+    {
+      "pdfPage": 18,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire chapter-opening page: all five prose paragraphs on objects, maps, functors, natural transformations, the Eilenberg–Mac Lane historical account and applications.",
+      "enSha256": "aeaf69b85f09f30ee0b43dd355c6afcb8c5d24b76a8ab56ae753ba33c44680bf",
+      "zhSha256": "691cb64133991c403198361537aa7b83a036826b34fd0cc9ac68f0e81950610b",
+      "unresolved": [],
+      "notes": [
+        "Direct comparison found no omitted sentence, changed claim or added explanatory content."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 19,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: heading 1.1; all data, quantifiers and associativity/identity laws in Definition 1.1.1; Remarks 1.1.2(a) and (b), notation table, general n-fold composite and the two labelled composite arrows.",
+      "enSha256": "b3ae27745719f1aa4833d7420b1f7eb5189ecd822f8d5432b32addffe3a04bb7",
+      "zhSha256": "a6af33f0bbd6f84b929289d5fde33bff4331cafc69bf606a7718ca390ba2e501",
+      "unresolved": [],
+      "notes": [
+        "Viewed the primary PDF and the saved crop; both parallel arrows, parentheses and identity subscripts agree with the original."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 20,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: continuation of Remark 1.1.2(b), the n=0 identity case; parts (c)–(e), all five labels and directions of the commutative diagram, gf=jih, domains/codomains and disjoint hom-collection condition; Examples 1.1.3(a)–(c).",
+      "enSha256": "5309aef88ef7d39eb7273644874e5cf4acb9e2ae510efc0ea0d9691ba756d1a4",
+      "zhSha256": "450cd6b83ea5a15c3aa89936fbc84cf89c76fd7b6b9e78ec613d6d7976058a31",
+      "unresolved": [],
+      "notes": [
+        "The conditional hom-collection disjointness and the n=0 case are fully retained; saved diagram arrows and all labels were inspected."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 21,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: Examples 1.1.3(d)–(e); Definition 1.1.4 including both inverse equations; inverse/isomorphism terminology and Exercise 1.1.13 reference; Examples 1.1.5–1.1.7, the continuous-bijection array and all closing prose through its page fragment.",
+      "enSha256": "c5caadb1fb02fddb746d13e583b5cb00f569326f3ca643049db61e59d1897b68",
+      "zhSha256": "cbf26cabce0369c54b1dbd0fab3b9cbcaee5d4a1ce8a0bc1f11cf183004c34d7",
+      "unresolved": [],
+      "notes": [
+        "Revised the inverse parenthesis to natural Chinese ('this inverse') while retaining the original definite-article point and Exercise 1.1.13; removed the added linguistic uniqueness gloss."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 22,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: opening continuation and Definition 4.1.25 reference; both italic statements; Examples 1.1.8(a)–(b), empty and one-object categories, scalar arrow displays, all three drawn categories with labels/directions and the complete discrete-category account.",
+      "enSha256": "c6ebd5ae4ac61ef02c1491ffbd77530e2e599b24876e7a4a0bdaa4324e0c880c",
+      "zhSha256": "776eae6f26942e026533a5266e348ef2357c74a42842c8f7e9c2eb791bd71898",
+      "unresolved": [],
+      "notes": [
+        "Viewed the saved three-category crop; all arrows and the labels f, g, gf, j, k, kj, h and hj=gf agree with the primary PDF."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 23,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: Examples 1.1.8(c), one-object category composition and two-sided unit, all entries of the category/group table, all three loops, precise small-category equivalence reference 3.2.11 and the full group-theory narrative through the final fragment.",
+      "enSha256": "8a41ee166f739744f9ead77ab637af6731133ac7a85d720357321adf165fc98b",
+      "zhSha256": "d690503ddd3f9741e87502118df76a2cf6e0ae4ee273d6717ca989788a877a97",
+      "unresolved": [],
+      "notes": [
+        "Viewed the saved loop illustration; the category/group table, composition operation, unit and small-category qualifier agree with the primary PDF."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 24,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: opening narrative continuation; Examples 1.1.8(d)–(e), monoid unit/associativity data, both natural-number examples, every preorder example and quantifier, thin-category argument and antisymmetry/order condition.",
+      "enSha256": "b03994b2ec2242ab937928c6f5a60c0415e955ccb15bfc723f3aaf3c60717604",
+      "zhSha256": "a836e162b619b7e87fed25e0522449aad5325e8a17ecc25f740d41e0474f4c18",
+      "unresolved": [],
+      "notes": [
+        "All reflexivity, transitivity and antisymmetry hypotheses agree; no implicit inverse requirement was inserted into the monoid definition."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 25,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: divisibility counterexample; Construction 1.1.9 with reversed arrows and f composed with g; Remark 1.1.10; both product-category formulas and full Construction 1.1.11; Exercises 1.1.12–1.1.13 with both inverse equations.",
+      "enSha256": "58022ff90aeec6adff48665f91449b7ab0347d5c0899abbe11a8d97232640282",
+      "zhSha256": "bf2b4673a9bcb1428a4b4b85ce61f23bd12d201368d19ac89bbb066147c71a6a",
+      "unresolved": [],
+      "notes": [
+        "Explicitly checked reversal of composition order in the opposite category and both product hom-set arguments; both exercises are complete."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 26,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: Exercises 1.1.14–1.1.15 including both homotopy questions; heading and opening prose of 1.2; every datum and axiom of Definition 1.2.1; complete on-page Remarks 1.2.2(a), including n>=0 and the final image-object arrow.",
+      "enSha256": "738aaf9e068c4af1aeffc2c4159ae9d7ff869cba8e748544383455de91071c15",
+      "zhSha256": "56533c530d48b270ce33e265c7b06df7c93a04597cc1b32afd378fa402a98e91",
+      "unresolved": [],
+      "notes": [
+        "The Chinese 'in B' qualification now precedes the final displayed arrow to follow natural Chinese word order; that qualification was moved from PDF 27 with no content loss. English remains unchanged."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 27,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: continuation of Remarks 1.2.2(a), all parallel-arrow labels; part (b) including CAT, functor composition and identity; Examples 1.2.3(a)–(d), all forgetful functors, their object/map actions and retained structures.",
+      "enSha256": "44407edc3f8477db9e1b3dce825ea4f4ed06908d6b086af80d5f2e1771f49683",
+      "zhSha256": "70eb6769887ccb68862b878bd032ac4ba0031dd44f128bf2da2555ccff128d5f",
+      "unresolved": [],
+      "notes": [
+        "The Chinese opening now begins the example naturally because its original 'in B' qualification has been incorporated into PDF 26. Viewed the saved parallel-arrow crop and checked both full labels."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 28,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: structure/property distinction and finite-field paragraph; Examples 1.2.4(a)–(b), all free-group words, cancellation and concatenation examples, map f and induced F(f), simplification of the image word, free commutative-ring paragraph and its final fragment.",
+      "enSha256": "d366972821a3b40e267540d55fb9a87c0beb9d0a7ba363659da63bf30b1bff13",
+      "zhSha256": "858e70acbc2732d8fcd788baa28c75469bd542b3240d36548311ddbc63cfbdfc",
+      "unresolved": [],
+      "notes": [
+        "All exponents, cancellation words, values of f and the image u^-4 u u^2 v u^-3 = u^-1 v u^-3 agree with the primary PDF."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 29,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: free-ring continuation; Examples 1.2.4(c), finite-support hypothesis, formal sum, addition and scalar-multiplication displays, function realization with all scalar/function/index conditions; final prose and opening of Examples 1.2.5.",
+      "enSha256": "007f8bd5ff2a20411d4a525c5cc1e0c6e2c0b02acd3edca881f65fc73bb46168",
+      "zhSha256": "10f8c2c68eaed99bae2ab85f973ca4266f968b07a8e174c2129a1d914e40685e",
+      "unresolved": [],
+      "notes": [
+        "The finite support restriction, all addition/scalar-multiplication formulas and c, lambda, s conditions were checked individually."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 30,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: algebraic-topology strategy continuation; Examples 1.2.5(a)–(b), basepoint and path-connected qualification, both fundamental-group functor identities, homology n condition; Example 1.2.6 with equations (1.1)/(1.2), induced solution-set map and scheme paragraph; on-page Example 1.2.7 fragment.",
+      "enSha256": "006cfbffde62576c05405f450ee4904df14a1ae4d653bf8456df64186f08eebc",
+      "zhSha256": "3e53040c72e7ae697118a7d2edeadd6122b582cbd68b112b5d2ffa4d269ba810",
+      "unresolved": [],
+      "notes": [
+        "Changed 'then study' to 'then turn to studying' in Chinese to retain the source's 'instead of the original space' sense. Reordered the final fragment together with PDF 31 for natural Chinese; no new explanation was added."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 31,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: completion of Example 1.2.7 with both monoid-homomorphism conditions; Examples 1.2.8–1.2.9 including all action axioms, variables and order implication; Definition 1.2.10, every opposite-category direction/equality, covariant terminology and opening of Example 1.2.11.",
+      "enSha256": "f2ce399c4e4ee6c73b8dee0c8fa106744e6e3c8f383fbe4f6430b3edff8846cf",
+      "zhSha256": "088bb6ad8b9ab06effcbcc5770ca64587402fdc6477b4d432a36cc3af0f2e7cb",
+      "unresolved": [],
+      "notes": [
+        "Revised the opening fragment to finish the Chinese sentence begun on PDF 30. Both monoid-homomorphism equations, left-action equations and contravariant directions are unchanged."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 32,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: all remaining Example 1.2.11 prose and pointwise ring formula, induced C(f) and its contravariant direction; Example 1.2.12 with Hom vector space, pointwise operations, all fixed-variable/linear-map hypotheses, f* direction and final Hom(-,W) functor.",
+      "enSha256": "5347a5d64ee073f7494557ef73956a19c60802ae2cf48a71d9d83cdfd40c3ed2",
+      "zhSha256": "1655fcb1fc399d5e86ca93d2a09c7a3d1664d35a0290032b244ee9af78b200ad",
+      "unresolved": [],
+      "notes": [
+        "Checked the reversal C(Y)->C(X) and Hom(V',W)->Hom(V,W), with all q, f and fixed W conditions; no formula or prose discrepancy found."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 33,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Entire page: placeholder notation and dual-vector-space special case; Examples 1.2.13–1.2.14 with n condition, cohomology direction and right actions; Definition 1.2.15, open-set order/category, all presheaf/restriction conditions and final sentence fragment continuing on PDF 34.",
+      "enSha256": "d629ef228543af9f4679c69652ccd07b993b8c8500ed307c420e599f51750fc4",
+      "zhSha256": "e1533da865c9101f346300a555b9939b3ab29d5b138405da32a6ed8c65565413",
+      "unresolved": [],
+      "notes": [
+        "Checked both set-valued functor directions, inclusion U subseteq U' and restriction F(U')->F(U). The trailing 'for instance' fragment was intentionally retained; read the first lines of PDF 34 to verify continuation without editing that page."
+      ],
+      "status": "verified"
+    }
+  ]
+}

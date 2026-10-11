@@ -1,0 +1,20 @@
+{
+  "pdfPage": 36,
+  "printedPage": "27",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Exercise 1.2.25(b)–(c) continues from PDF 35. Final sentence continues on PDF 37. Simple labelled parallel arrows use standard TeX.",
+    "Chinese sentences revisited for natural word order, clear references, and fluent phrasing under the clarified user preference; no added conceptual or proof explanations. English, mathematical expressions, diagrams, and the visible correction note on PDF 37 remain unchanged."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "94d9f4e211789e8ad66976fbc5ad7e23f6eda20c871a0734af28270ccf8c8d9e",
+    "zh": "6232b9da7d6d219fdb63ca4c468c700ddaa2e1e80776e7c168a453e85e732d6c"
+  },
+  "styleReviewed": true
+}

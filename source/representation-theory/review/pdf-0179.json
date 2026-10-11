@@ -1,0 +1,24 @@
+{
+  "pdfPage": 179,
+  "printedPage": "171",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Theorem 6.8.1 proof, first nonsurjective stage and dimension root; Corollaries 6.8.2 and 6.8.3, reflection sequence and norm 2; official reference to the proof of 6.8.1 applied in Chinese with note.",
+    "English retains By Theorem 6.8.1; Chinese uses By the proof of Theorem 6.8.1 with adjacent visible official-errata note."
+  ],
+  "actualReviewScope": "Theorem 6.8.1 proof, first nonsurjective stage and dimension root; Corollaries 6.8.2 and 6.8.3, reflection sequence and norm 2; official reference to the proof of 6.8.1 applied in Chinese with note.",
+  "diagrams": [],
+  "enSha256": "d48a436c75d67ce51b683343d423ac54363520e1726acaf8aef830aa1ee3a90b",
+  "zhSha256": "ad1898da9ed0d1f2157200b5ee44856267060a4aa6bac9288dd925e339986c3b",
+  "sourceSha256": {
+    "en": "d48a436c75d67ce51b683343d423ac54363520e1726acaf8aef830aa1ee3a90b",
+    "zh": "ad1898da9ed0d1f2157200b5ee44856267060a4aa6bac9288dd925e339986c3b"
+  }
+}

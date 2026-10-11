@@ -1,0 +1,43 @@
+{
+  "pdfPage": 57,
+  "printedPage": "48",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Figure 2.1 and adjunction diagram cropped at 300 dpi and inspected.",
+    "Caption and the continuation of Example 2.1.6 are preserved in the printed order.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0057-figure-2-1.png",
+      "widthPt": 93,
+      "clipPt": [
+        234,
+        129,
+        327,
+        238
+      ],
+      "sha256": "03f18d0107eea1a14a3a9bac336dba6bd9483b8b6094950879e8c03199a64b75"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0057-product-exponential-adjunction.png",
+      "widthPt": 51,
+      "clipPt": [
+        255,
+        431,
+        306,
+        486
+      ],
+      "sha256": "a75617b6c2757f610be5501e78c6e99320224b11287880f130dd794a1e58fb75"
+    }
+  ],
+  "sourceSha256": {
+    "en": "19c902992191fcd03210edafc52a9d547379189c728da126871e818e255dc30c",
+    "zh": "de645868fb3ae64d64b3ffebb63f1075b25604839f27369682d89233039b6983"
+  }
+}

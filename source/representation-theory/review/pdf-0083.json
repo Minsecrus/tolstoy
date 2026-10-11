@@ -1,0 +1,20 @@
+{
+  "pdfPage": 83,
+  "printedPage": "75",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "A5 table original trivial-row entry is C with superscript + and subscript 3; English preserves, Chinese corrects notation with visible note.",
+    "A5 table original C3-minus tensor C3-minus erroneously contains C3-plus; English preserves, Chinese corrects to C3-minus with visible note. Exact character inner products verified below.",
+    "Native TeX arrays preserve all triangular table blanks and terms; long tables use small math size."
+  ],
+  "diagrams": [],
+  "enSha256": "fc3e585ae73ae109fa59775b6eea6678badba06a58bd5b489765122190cff886",
+  "zhSha256": "7f6d560a934577aa43b236b281d002d6080f63b8b9631f28e4f54378105ced8f",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0083.png"
+}

@@ -1,0 +1,98 @@
+{
+  "pdfPage": 46,
+  "printedPage": "37",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Continuation of Remarks 1.3.24 from PDF 45; continues on PDF 47.",
+    "All seven diagrams were cropped directly from the supplied PDF at 300 dpi and visually inspected; the two prose connectors were transcribed and translated outside the crops."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-horizontal-input.png",
+      "widthPt": 114,
+      "clipPt": [
+        236,
+        178,
+        350,
+        221
+      ],
+      "sha256": "6aa90bd24d4df6866d125637c1a89b7dd2f626c2ca79b58cbd7790a858ad42a9"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-horizontal-output.png",
+      "widthPt": 69,
+      "clipPt": [
+        258,
+        258,
+        327,
+        303
+      ],
+      "sha256": "fcb7b94a22538cff839af9f6480eba46295de7bfe03db83f0b055f27012d592c"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-naturality-square.png",
+      "widthPt": 111,
+      "clipPt": [
+        237,
+        353,
+        348,
+        419
+      ],
+      "sha256": "af8bdc182035f2b88bf9208bcdd73f94b4cdc522587c410366ca46dced9c5023"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-whisker-right-input.png",
+      "widthPt": 115,
+      "clipPt": [
+        154,
+        497,
+        269,
+        541
+      ],
+      "sha256": "53936e53e677dc07bb33e2d0d0fe9bb98f47f7068517f3056cdc1f24db35bc01"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-whisker-right-output.png",
+      "widthPt": 75,
+      "clipPt": [
+        357,
+        497,
+        432,
+        541
+      ],
+      "sha256": "19f83c99990aea900e9f5b01280aa8015c1c7190280047e0e0f4fbf55f48066a"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-whisker-left-input.png",
+      "widthPt": 115,
+      "clipPt": [
+        154,
+        581,
+        269,
+        625
+      ],
+      "sha256": "731b9d890e0a45ef8b57bb141499e278b0f6d1abbff18a292f43ce3a82b5e509"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0046-whisker-left-output.png",
+      "widthPt": 75,
+      "clipPt": [
+        357,
+        581,
+        432,
+        625
+      ],
+      "sha256": "265668bbab5cf8d9678d59c22c705e1305b0246a0a8a741cd7964341b1db2ce4"
+    }
+  ],
+  "sourceSha256": {
+    "en": "77835b38060b78115b9e7298a33d4ab79409a0102fd2d6fcf96e2ce47e7a7d48",
+    "zh": "a5bc2bdd2ef8a37c856c4ce67e48c8245eacb11f9b5411965ba42b8be2e0d6a6"
+  },
+  "styleReviewed": true
+}

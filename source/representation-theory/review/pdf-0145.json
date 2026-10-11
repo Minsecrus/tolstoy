@@ -1,0 +1,24 @@
+{
+  "pdfPage": 145,
+  "printedPage": "137",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "English preserves original x!=y beside the elliptic matrix. Chinese visibly corrects it to y!=0, matching the complete conjugacy-class table on PDF141 and the nonsquare-epsilon irreducibility condition. The 2024 auxiliary PDF still has the original typo.",
+    "All conjugation bars, class-size factors and summation reparametrizations checked visually; lengthy displays are split only at algebraically equivalent line breaks.",
+    "Moved the visible elliptic-condition correction note immediately after the corrected matrix block, as requested by independent review."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0145.png",
+  "sourceHashes": {
+    "en": "382c0a06fc2342f6b5f1a8684c03ff35e8706c81467202f17f8cbd96b4bdaa62",
+    "zh": "93682d6886ceb460e373c63fabbe5462960ab77d5a5e0e5683347262c48020c8"
+  },
+  "enSha256": "382c0a06fc2342f6b5f1a8684c03ff35e8706c81467202f17f8cbd96b4bdaa62",
+  "zhSha256": "93682d6886ceb460e373c63fabbe5462960ab77d5a5e0e5683347262c48020c8"
+}

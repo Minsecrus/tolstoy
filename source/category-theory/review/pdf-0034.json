@@ -1,0 +1,32 @@
+{
+  "pdfPage": 34,
+  "printedPage": "25",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Figure 1.1 preserved as a 300 dpi PDF crop; caption transcribed and translated. Page ends mid-word in Warning 1.2.19 (For ex-); continuation remains at the start of PDF 35.",
+    "Chinese sentences revisited for natural word order, clear references, and fluent phrasing under the clarified user preference; no added conceptual or proof explanations. English, mathematical expressions, diagrams, and the visible correction note on PDF 37 remain unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0034-full-faithful.png",
+      "widthPt": 291,
+      "clipPt": [
+        149,
+        134,
+        440,
+        204
+      ],
+      "sha256": "f1a09660ff1042a5787f9e18d582d636f51034d507c82d266159d89383701010"
+    }
+  ],
+  "sourceSha256": {
+    "en": "b414cdde8ba4d8140631dd7276d93a35dea50574b3b221edaf3c863adccb4c6e",
+    "zh": "35464c1169162ccb0813ca3ade7fd26c7a1f71c08ed63b244e74423a79799877"
+  },
+  "styleReviewed": true
+}

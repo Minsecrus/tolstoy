@@ -1,0 +1,26 @@
+{
+  "pdfPage": 85,
+  "printedPage": "76",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0085-free-forgetful.png",
+      "widthPt": 63.0,
+      "clipPt": [
+        212.5,
+        575,
+        275.5,
+        605
+      ],
+      "sha256": "dd25c5212c6a62a1cdfad9dfb6682389dc0ca7ff38fd5a83b688edf4acb7e68e"
+    }
+  ],
+  "englishSha256": "7cb540baafea37d754d27498d0f815ccc1081c711cefea4ce79695b2f2efb8b2",
+  "chineseSha256": "13e900eab6c5184758629147b34c9c689523145e59d00353fe12f21a2b4fddcc"
+}

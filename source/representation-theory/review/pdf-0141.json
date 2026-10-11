@@ -1,0 +1,23 @@
+{
+  "pdfPage": 141,
+  "printedPage": "133",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "The complete three-column conjugacy-class table is transcribed as native Markdown/TeX with all four rows and parenthetical explanations, not a raster substitute.",
+    "Nonsquare epsilon, nonzero y, centralizer matrices and class counts visually checked."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0141.png",
+  "sourceHashes": {
+    "en": "803ecce2ecfdcda1fe6dc29c81fb9e9141f2764da053506e4d6e29f5267518e1",
+    "zh": "a37b4718253dc2c5713754fb129a314ba2e52f87943345760d3ad7e8eaf1157e"
+  },
+  "enSha256": "803ecce2ecfdcda1fe6dc29c81fb9e9141f2764da053506e4d6e29f5267518e1",
+  "zhSha256": "a37b4718253dc2c5713754fb129a314ba2e52f87943345760d3ad7e8eaf1157e"
+}

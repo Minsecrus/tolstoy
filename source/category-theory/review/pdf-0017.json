@@ -1,0 +1,19 @@
+{
+  "pdfPage": 17,
+  "printedPage": "8",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Exercise parts (a)–(d) follow the printed PDF; the TeX source enumerate option is not treated as the printed part labels.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added."
+  ],
+  "diagrams": [],
+  "markdownSha256": {
+    "en": "417b2df3cf76bf29d5c4d99fdd91144ef227b0eecda5ea94055510780915ee2e",
+    "zh": "47c0cf6b29322daaceff17a6807c26865a8d2cc0c7f5233a403cc010c3ca17b6"
+  }
+}

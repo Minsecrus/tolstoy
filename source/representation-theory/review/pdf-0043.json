@@ -1,0 +1,20 @@
+{
+  "pdfPage": 43,
+  "printedPage": "35",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "300dpi verification: original free-algebra expression ends in x_n after a basis ending in x_N. English preserves x_n; Chinese consistently uses x_N and includes an adjacent visible 译校注. Checked all three tensor-algebra quotients and the tensor-Hom adjunction.",
+    "Independent review terminology alignment: 李代数/李子代数/李群/李定理; 若尔当标准形/块; 希尔伯特第三问题 where present. Original personal names and all mathematics unchanged."
+  ],
+  "diagrams": [],
+  "enSha256": "d4c6c635d48f7bdc2027eb9a8e8f0acbcd46d7d80d132b8a45ac48b0629f2a6d",
+  "zhSha256": "7c9dd74566e934e9b3b04833f8c735c5350c336881a1ffbc54aa2b8332e65dba",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0043.png",
+  "officialErrataChecked": true
+}

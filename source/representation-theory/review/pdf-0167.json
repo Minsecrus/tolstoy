@@ -1,0 +1,42 @@
+{
+  "pdfPage": 167,
+  "printedPage": "159",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "官方勘误指出6.3末尾C应为任意特征0代数闭域k；中文原生基分解公式改k，原扫描图保持，并以紧邻译校注明图内C按k理解。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0167-graph-decomposition.png",
+      "widthPt": 276.88865785341005,
+      "clipPt": [
+        45.651893409522806,
+        309.7119873046875,
+        322.54055126293287,
+        381.183984375
+      ],
+      "sha256": "9bf737f0cca9e8bcf9b0feac87ed2be06892b31a8b7c0061a543a83d70272719"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0167-two-dimensional.png",
+      "widthPt": 99.7394627751531,
+      "clipPt": [
+        133.48216659958297,
+        398.55565032958987,
+        233.22162937473607,
+        466.5533142089844
+      ],
+      "sha256": "8b9aa34681811a766c6b36b293ec2a40d62b7adf43c983fef02dc4395b7343a8"
+    }
+  ],
+  "enSha256": "a77ddb9a687964f17ccee9b2c99a6c11b273498febf23fb9c7289e2c5b6ffbdb",
+  "zhSha256": "b415bcb88631b4865a70c7ab722042dc57f8f1bfb3aa6dc15bc2699dbee7456a",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0167.png"
+}

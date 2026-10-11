@@ -1,0 +1,42 @@
+{
+  "pdfPage": 15,
+  "printedPage": "6",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "The final sentence continues on PDF 16; equation (0.2) and the inclusion square are preserved as inspected PDF crops.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0015-kernel.png",
+      "widthPt": 219,
+      "clipPt": [
+        221,
+        398,
+        440,
+        429
+      ],
+      "sha256": "a4dfaf657ce3d9534bf964dd2bf7188b46f57dbc6fe2c4b45b742f31ea67a1bc"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0015-open-cover.png",
+      "widthPt": 80,
+      "clipPt": [
+        241,
+        566,
+        321,
+        633
+      ],
+      "sha256": "b08b85880d7f2d3890f7535c914f4c6e7ca8366c2d62a973ac2294b678bd5809"
+    }
+  ],
+  "markdownSha256": {
+    "en": "8d42731d91c7819ed0da25d66be3618065a09251ff0f37db3377a8d121ca19f1",
+    "zh": "29298513e929ade2ca80d4fe912fade2cd6a8c7ddce3e41d111b6d6f8b2604b6"
+  }
+}

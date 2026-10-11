@@ -1,0 +1,18 @@
+{
+  "pdfPage": 95,
+  "printedPage": "87",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Hamilton 历史插曲逐句核对，保留引文及准确文献页码；3n个二阶常微分方程与两个一阶二次偏微分方程均据原页。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "a5e15108cdc20081cf5d460c95a9ee369b8eeb7f675b146409666da44f8ca652",
+  "zhSha256": "bcc70f3f0f546f837b01655e3b59079ba40c038db4fce15312560d53c6d91f1c"
+}

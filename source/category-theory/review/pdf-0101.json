@@ -1,0 +1,20 @@
+{
+  "pdfPage": 101,
+  "printedPage": "92",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source.",
+    "Independent second review improved Chinese sentence flow: replaced the literal “This inspires the following definition” phrasing and clarified “rational solutions” as “有理数解”; mathematical content unchanged."
+  ],
+  "diagrams": [],
+  "sha256": {
+    "en": "c058c07cd607eb5443f12ad40e48e114e53449e896cca627159a6127220e03a9",
+    "zh": "05dd83297e75d6cd57832cd4b0056bba277336a6b78e6457545a1ab738fbdfa3"
+  }
+}

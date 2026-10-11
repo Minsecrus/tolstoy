@@ -1,0 +1,18 @@
+{
+  "pdfPage": 104,
+  "printedPage": "96",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对问题5.2.7的数域条件、χ_V(g)零值结论、乘积β和各Galois共轭提示；注5.2.8中的ζ、互素条件、各下标均从扫描恢复。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "4f2fc4bc1de7ae1d97b5b79f731bd32f4abe2d652edf07095e95cb6737ff122d",
+  "zhSha256": "b246673f1f60542f6f6f7519c036589ce6b555deb37ea3c5c65ea8057558ff88"
+}

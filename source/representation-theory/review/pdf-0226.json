@@ -1,0 +1,17 @@
+{
+  "pdfPage": 226,
+  "printedPage": "218",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页，历史参考[10]–[25]完整核录。纠正OCR Braver→Brauer、Heudenthal→Freudenthal、Gillespie→Gillispie、Pkobenius→Frobenius，依据扫描字形。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "55dc5069a5afd14cd34dd1a074520a1a8d84aaec6869743652f072119b21e6fe",
+  "zhSha256": "43a9d69d2a65d4c1eded54168496eb65762b8f4583900bf5b860ddfe9d9923ce"
+}

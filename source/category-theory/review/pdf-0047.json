@@ -1,0 +1,31 @@
+{
+  "pdfPage": 47,
+  "printedPage": "38",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Continuation and end of Remarks 1.3.24, followed by Exercises 1.3.25-1.3.26."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0047-interchange.png",
+      "widthPt": 105,
+      "clipPt": [
+        228,
+        158,
+        333,
+        223
+      ],
+      "sha256": "91c52a49cab83a528a0e7c22173e8e943b837b720a6f042230507504ca56b0a4"
+    }
+  ],
+  "sourceSha256": {
+    "en": "c3cae4c02d02fba1088dc402230eac0df7d7205a43b6999372e15317b2b620b8",
+    "zh": "d437923931053bbf2a1e8c04b0c520d853baf0236476db5d34eec7db0f288e93"
+  },
+  "styleReviewed": true
+}

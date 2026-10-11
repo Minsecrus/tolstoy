@@ -1,0 +1,37 @@
+{
+  "pdfPage": 141,
+  "printedPage": "132",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0141-sphere-limit-colimit.png",
+      "widthPt": 260,
+      "clipPt": [
+        151,
+        126,
+        411,
+        272
+      ],
+      "sha256": "7d0724009ffd8dc70e81e8210fe4c72a014d3aaa5675920ee28ba0dbf2aee856"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0141-sphere-equalizer.png",
+      "widthPt": 104,
+      "clipPt": [
+        228,
+        515,
+        332,
+        547
+      ],
+      "sha256": "2b80dfea40a1930ec56e8350ab7eeda6f3db6c94fda7a39bbca103293bdc6667"
+    }
+  ],
+  "englishSha256": "666d532d20188363242ac3f53e7d9c62a0345cf7201d8a849a492fb9c575994f",
+  "chineseSha256": "0da86b67dc8e6040cd9384f3c7b158afdb900e0e83349d92f3a61fe7b315b653"
+}

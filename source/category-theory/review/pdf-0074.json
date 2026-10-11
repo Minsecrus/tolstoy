@@ -1,0 +1,18 @@
+{
+  "pdfPage": 74,
+  "printedPage": "65",
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "All prose and formulas visually checked against the PDF and matching sets.tex; cross-page fragments retained.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed.",
+    "独立二审调整第3章引言的中文句式，包括纯数学的联系、历史一节的目的与逻辑依赖、两种集合论方法的比较；保留英文原有全部内容，未添加解释。"
+  ],
+  "diagrams": [],
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "englishSha256": "8ec6c9cf213d617183b40ab8b48b7d2d896da8b1d6731aebd17aca372f209930",
+  "chineseSha256": "2f724eda8b8277edb9cf54726f74e77aac333a18fa2775abd95084ec3fc4aa25"
+}

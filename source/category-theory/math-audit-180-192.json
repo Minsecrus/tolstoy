@@ -1,0 +1,198 @@
+{
+  "status": "complete",
+  "pages": [
+    {
+      "pdfPage": 180,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed the original printed page 171 and compared the complete appendix opening and restatement of Theorem 6.3.10 in English and Chinese: every category, completeness/local-smallness/weakly-initial-set hypothesis, the two adjoint/limit implications, the poset special case, identity functor and large-versus-small-limit discussion, and the transition to Lemma A.1.",
+      "enSha256": "50654c3fb971102eacb4775baae519ff0dd5d38100821d794f6344890a3b6482",
+      "zhSha256": "70fb195d52b79e9bdec19920f1d7b134b19a68905d2be46382bb972e3e5bf19d",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 181,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed the original printed page 172 and the equalizer crop; compared all of Lemma A.1 and its proof, the small full subcategory argument, cone (A.1), all displayed equalities and compositions, the E, 0, C objects and i, f, g diagram labels and directions, the existence/uniqueness proof, all hypotheses of Lemma A.2 and its proof and references.",
+      "enSha256": "17a57054ad3241fb6c6828daf4dd7942067d87c05f0ebdc3ecda13d7449a0cf3",
+      "zhSha256": "b22c5df20caa7a1a32d3218c2e47379e44f88964ef97aa110ea833738558c02a",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: made the sentences introducing the existence of a map and the remaining proof read naturally in Chinese; all formulas, hypotheses and proof steps retained.",
+        "Inspected the original 300 dpi equalizer crop directly; verified the existing widthPt, clipPt and current PNG SHA256 as supporting image metadata."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 182,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed the original printed page 173 and compared the complete final GAFT proof and Exercises A.3, A.4 and A.5, including every (a)/(b) subpart, the temporary large-index convention, cone and identity conditions, poset/meet hypotheses, small diagram category, fixed A, preservation and creation of limits, and every formula and numbered reference.",
+      "enSha256": "37814c6afc96c6be15917720b48cd74e400951458244084817b327dc06260d8e",
+      "zhSha256": "b40e2ea639f3e271d9ba9bf444eaf305dcdade6328363bd50e484707f4aa4074",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: naturalized the introductory sentence of Exercise A.4 without changing its mathematical scope, hypotheses or subparts."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 183,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed the original printed page 174 and compared the complete Further reading opening, Mac Lane and Awodey bibliography and annotations, all listed categorical topics, parenthetical descriptions and chapter references, and the introductory Catsters video sentence continued on page 184.",
+      "enSha256": "18810746f3476c60219e194a9a52fd64336721d9f461a8dff9be396585c21c3f",
+      "zhSha256": "b06f8e40a7659d4f8e073d0deff71ac836fbbefe1f17ec2fd60b3070667b8d04",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 184,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed the original printed page 175 and compared the complete Catsters citation and annotation, two further book recommendations and descriptions, Borceux and nLab citations and annotations, all author/title/publisher/year/volume data, URLs, topic lists and the closing research paragraph.",
+      "enSha256": "597adc3008f2a93a3c7002c83b3fb5337e903b32230ff7a5b2d175e6bbf4380e",
+      "zhSha256": "c7a11ba6f20b90779321b84c0d43a45ca210c9ebf653be7980971a362c0ad5e4",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 185,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed the original printed page 176 and compared the complete Other texts cited section: all four Gowers, Kelly, Lawvere/Rosebrugh and Leinster references, authors, titles, publishers, years, journal/reprint volume and issue numbers, page ranges and both URLs.",
+      "enSha256": "201b3d5e737feb93f28303baa9f5fdf5cfcff0a69ffa9b38e6aeca2baa09c5b9",
+      "zhSha256": "7f7b2683c587d5a744b98cd85a1523ed08df578a78cbf81ea72c5d5fcb18f821",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 186,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed all three columns of original printed page 177 and compared every one of the 113 notation-index entries with both Markdown languages and notation.tex: exact symbols, font distinctions, arrows, scripts, qualifiers, duplicates, all printed page references and column reading order.",
+      "enSha256": "4f46e0963b118d90616f405f9eb559320b2f91b1c33c9e5b44b197322982dfa7",
+      "zhSha256": "59e4a91bcf7433e329c29e84a27f2bba4449679b05db5209492af8cc395c1e46",
+      "unresolved": [],
+      "notes": [
+        "The English and Chinese notation indexes each retain 113 entries; the three source columns were personally checked, including all symbols and page references."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 187,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed both columns of original printed page 178 and compared all 70 subject-index entries from abelianization through chess with English, Chinese and BasicCategoryTheory.ind: headwords, two levels of nested category and adjunction subentries, see/see-also targets, every printed page number/range and the column reading order.",
+      "enSha256": "172e216ed9db66f6ce5c2ef022b2f6af3b4c73b886d0a43ed65a39ca3a13e9fc",
+      "zhSha256": "669de6418cd02fe6eb55d8af27491bad0f8ff3024df99eeaee7cd9f6f1dbd689",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: distinguished the arrow headword from map by retaining the English word in parentheses; aligned the bilinear-map entry and its cross-reference with the map entry. Original entry order, hierarchy and page references retained.",
+        "After personal page and bilingual reading, an additional comparison of all 567 entries against official BasicCategoryTheory.ind found no hierarchy or printed-reference differences; English and Chinese entry counts, hierarchy and references also agree."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 188,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed both columns of original printed page 179 and compared all 100 subject-index entries from class through the beginning of function with English, Chinese and BasicCategoryTheory.ind: continuing duality subentries across columns, every headword and nested item, epic/epimorphism references, all see/see-also targets and printed page numbers/ranges.",
+      "enSha256": "5f35c5d8caac6a61e025be57bc332a020d5c9f49ab28fcea3d0412a9e257e098",
+      "zhSha256": "013abff8b455542ff035ad27d1017880e4d48ea0eec9beb11fd395b9f431ce3d",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: distinguished epic and epimorphism headwords and their cross-references by retaining the original English words in parentheses, preventing a Chinese self-reference. Page references and nesting retained.",
+        "After personal page and bilingual reading, an additional comparison of all 567 entries against official BasicCategoryTheory.ind found no hierarchy or printed-reference differences; English and Chinese entry counts, hierarchy and references also agree."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 189,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed both columns of original printed page 180 and compared all 99 subject-index entries from the continuing function subitems through kernel with English, Chinese and BasicCategoryTheory.ind: full functor and group hierarchies, continuation of group-category items across columns, all symbols, headwords, cross-reference targets and printed page numbers/ranges.",
+      "enSha256": "aba95eff645aa9caf9680355926f2a186a27c074b384011b39896a29f1165f44",
+      "zhSha256": "816ab84ac37d84d24afdbd486bfb86bcd0d9a3edf6a631cd343074ff27b14990",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: aligned the initial-object and weakly-initial-set cross-reference wording with the actual Chinese target subentries. Original references and conditions retained.",
+        "After personal page and bilingual reading, an additional comparison of all 567 entries against official BasicCategoryTheory.ind found no hierarchy or printed-reference differences; English and Chinese entry counts, hierarchy and references also agree."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 190,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed both columns of original printed page 181 and compared all 99 subject-index entries from Kronecker through power with English, Chinese and BasicCategoryTheory.ind: full limit hierarchy, monic subitems continuing across columns, all monoid/object/ordered-set items, synonym headwords and see/see-also targets, and all printed page numbers/ranges.",
+      "enSha256": "de1bfbbefcce3611be423114d061719b1b36469e392291f6280fa24789c34802",
+      "zhSha256": "5f79cfb7df1fa6e8000e2a5356ce94f37e3677dca70d4c6fece2c8619e57e01c",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: distinguished map/morphism, monic/monomorphism and partially ordered set/poset headwords with the original English words in parentheses; aligned cross-references including initial object. All page numbers, entry order and hierarchy retained.",
+        "After personal page and bilingual reading, an additional comparison of all 567 entries against official BasicCategoryTheory.ind found no hierarchy or printed-reference differences; English and Chinese entry counts, hierarchy and references also agree."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 191,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed both columns of original printed page 182 and compared all 102 subject-index entries from the continuing power subitems through slice category with English, Chinese and BasicCategoryTheory.ind: full presheaf/product/pullback/representation/ring/set hierarchies, ring-category continuation across columns, cross-references, symbols and every printed page number/range.",
+      "enSha256": "958a567aedca434efbaf46288873cc3da738a603aeae8f57eb62e1a3c6666e8d",
+      "zhSha256": "d0d9aeae1fd4d8796dffb981489f9d095b54a085a9ef561187b4b50f7706c165",
+      "unresolved": [],
+      "notes": [
+        "After personal page and bilingual reading, an additional comparison of all 567 entries against official BasicCategoryTheory.ind found no hierarchy or printed-reference differences; English and Chinese entry counts, hierarchy and references also agree."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 192,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Viewed both columns of original printed page 183 and compared all 97 subject-index entries from the continuing slice-category subitem through ZFC with English, Chinese and BasicCategoryTheory.ind: full topological-space/universal/vector-space/Yoneda hierarchies, union continuation across columns, terminal cross-reference, every symbol and printed page number/range.",
+      "enSha256": "562b19e3ac91ae05a202bbf47feb412dd69f89dc9a9b679e8bd3ab923d1ac3ba",
+      "zhSha256": "c2d4a3805026bc262abed4882899a09aea5996e5b9a44e96dad8425261b26125",
+      "unresolved": [],
+      "notes": [
+        "Independent audit: aligned the terminal cross-reference with the actual terminal-object subentry. All remaining subject-index entries and references retained.",
+        "After personal page and bilingual reading, an additional comparison of all 567 entries against official BasicCategoryTheory.ind found no hierarchy or printed-reference differences; English and Chinese entry counts, hierarchy and references also agree."
+      ],
+      "status": "verified"
+    }
+  ]
+}

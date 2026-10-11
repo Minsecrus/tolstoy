@@ -1,0 +1,52 @@
+{
+  "pdfPage": 70,
+  "printedPage": "61",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0070-unit-initial.png",
+      "widthPt": 197.5978,
+      "clipPt": [
+        256.1822,
+        143.4589,
+        453.78,
+        203.0265
+      ],
+      "sha256": "ce829110d8c5debc1b18c4afa4254747487c87fd63be166bade39011dc7d490d"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0070-theorem-functors.png",
+      "widthPt": 48,
+      "clipPt": [
+        325,
+        272,
+        373,
+        297
+      ],
+      "sha256": "e1b0236160bcec090582e4679a9e74e93152d9d1ccb2596f8591398ca356aee1"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0070-triangle-identity.png",
+      "widthPt": 213.4851,
+      "clipPt": [
+        240.2949,
+        549.5119,
+        453.78,
+        608.5832
+      ],
+      "sha256": "8a9aaa0adc190416c798946632e45466a29ce49e7a26664eef8d7f20e6070dcf"
+    }
+  ],
+  "englishSha256": "29baa6848c8c4f2e2d50558ff68e6ac166a4c7efd770208865737b3adb5bcad2",
+  "chineseSha256": "40157b5a657d797071b047c1898a4dc774560ff50cb1c4e900cb93d4af700040"
+}

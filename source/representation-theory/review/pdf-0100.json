@@ -1,0 +1,19 @@
+{
+  "pdfPage": 100,
+  "printedPage": "92",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对反线性算子 j² 的归一化及 z z̄ 因子；全部五个 A5 表示的维数标签和 Frobenius–Schur 示性数定义均从扫描恢复。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。",
+    "独立二审指出 A5 标签辨读误差，经实际查看300dpi原扫描局部恢复 C_+^3 与 C_-^3。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "ef2a88b9d3df96c3d2c62327d3d0670a0c19d47deb800a5f003812d219761f45",
+  "zhSha256": "d08811cd6b6604c87129a9e3a4dddb46efda66fba21a8599c9b2a20c636e79f8"
+}

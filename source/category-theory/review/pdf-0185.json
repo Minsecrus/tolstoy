@@ -1,0 +1,19 @@
+{
+  "pdfPage": 185,
+  "printedPage": "176",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "201b3d5e737feb93f28303baa9f5fdf5cfcff0a69ffa9b38e6aeca2baa09c5b9",
+    "zh": "7f7b2683c587d5a744b98cd85a1523ed08df578a78cbf81ea72c5d5fcb18f821"
+  },
+  "styleReviewed": true
+}

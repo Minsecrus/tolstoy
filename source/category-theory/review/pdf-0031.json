@@ -1,0 +1,21 @@
+{
+  "pdfPage": 31,
+  "printedPage": "22",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and checked formulas against cfnt.tex and macros.tex. Preserved the opening continuation of Example 1.2.7 and all text through the opening paragraph of Example 1.2.11. Verified the group-action array, composition order, opposite-category notation, and printed reference 1.2.22. The ordinary function array remains native standard TeX.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts.",
+    "Independent audit: adjusted the opening Chinese fragment of Example 1.2.7 to complete the natural word order begun on PDF 30; the monoid homomorphism conditions are unchanged."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "f2ce399c4e4ee6c73b8dee0c8fa106744e6e3c8f383fbe4f6430b3edff8846cf",
+    "zh": "088bb6ad8b9ab06effcbcc5770ca64587402fdc6477b4d432a36cc3af0f2e7cb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pdfPage": 182,
+  "printedPage": "174",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Problem 6.9.1(a)(4) and (b)–(e), nilpotent chain indices, Kronecker and cyclic orientation; Problem 6.9.2(a)–(d), half-integer lattice, eight-root basis, E6/E7/E8 root counts; start of Problem 6.9.3."
+  ],
+  "actualReviewScope": "Problem 6.9.1(a)(4) and (b)–(e), nilpotent chain indices, Kronecker and cyclic orientation; Problem 6.9.2(a)–(d), half-integer lattice, eight-root basis, E6/E7/E8 root counts; start of Problem 6.9.3.",
+  "diagrams": [],
+  "enSha256": "8b18d0c818c3d5f468e69f18f91fe7d3d1b83fe0c95a1b056541ac7c723e4499",
+  "zhSha256": "85adbba2ca56d05ba146c840c126338812007485d4f02dd666266a88773a7381",
+  "sourceSha256": {
+    "en": "8b18d0c818c3d5f468e69f18f91fe7d3d1b83fe0c95a1b056541ac7c723e4499",
+    "zh": "85adbba2ca56d05ba146c840c126338812007485d4f02dd666266a88773a7381"
+  }
+}

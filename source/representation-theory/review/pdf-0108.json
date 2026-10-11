@@ -1,0 +1,18 @@
+{
+  "pdfPage": 108,
+  "printedPage": "100",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "已核对两段续证、非平凡正规子群H的生成元ab^−1与群最小性论证；Burnside历史插曲逐句保留，页末Even跨页片段留待下一页。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "d64f8553c50af009bf318eca91b3f9d460321ed07a37bc50f51810f3d0b8d178",
+  "zhSha256": "a98fb0a886eca307ba4a16b09225b940d933a7073eaf1e0ef6b7e3725422e2d4"
+}

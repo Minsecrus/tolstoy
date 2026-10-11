@@ -1,0 +1,2211 @@
+{
+  "status": "complete",
+  "reviewKind": "consolidated_output_pdf_layout_visual_review",
+  "result": "pass_with_minor_observation",
+  "consolidatedAtUtc": "2026-10-11T04:54:47.603909+00:00",
+  "pdfPath": "output/pdf/Basic-Category-Theory-Zh.pdf",
+  "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+  "pdfPageCount": 138,
+  "pdfBytes": 3401069,
+  "scope": "输出 PDF 的排版视觉核验。本记录合并三个分段的既有独立视觉报告；来源原文、译文、数学条件及公式的逐页内容校审另见 math-audit 文件，不由本排版核验替代。",
+  "consolidationMethod": "读取并原样嵌入三个分段报告和最终 pdf-validation.json；核对它们的 PDF SHA256 与当前文件一致、实际查看记录完整且无重叠覆盖物理第 1–138 页；检查报告引用的图片存在并计算当前图片哈希。合并过程中未重新渲染或新增实际看图声明。",
+  "coverage": {
+    "physicalPageRange": [
+      1,
+      138
+    ],
+    "ranges": [
+      [
+        1,
+        50
+      ],
+      [
+        51,
+        100
+      ],
+      [
+        101,
+        138
+      ]
+    ],
+    "actualOverviewPageCount": 138,
+    "actualOverviewPhysicalPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "omittedPhysicalPages": [],
+    "overlappingPhysicalPages": [],
+    "contactSheetCount": 18,
+    "highResolutionPageCount": 53,
+    "highResolutionPhysicalPages": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      10,
+      21,
+      22,
+      26,
+      31,
+      32,
+      38,
+      40,
+      43,
+      45,
+      47,
+      48,
+      49,
+      50,
+      51,
+      63,
+      64,
+      68,
+      74,
+      75,
+      81,
+      82,
+      87,
+      90,
+      93,
+      99,
+      100,
+      103,
+      108,
+      109,
+      110,
+      113,
+      114,
+      115,
+      119,
+      124,
+      125,
+      127,
+      128,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "renderer": "Poppler pdftoppm",
+    "overviewDpi": 110,
+    "highResolutionDpi": 180
+  },
+  "contactSheetsActuallyViewedAsRecorded": [
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-001-009.jpg",
+      "imageSha256": "af6ea6214383ec6edc542cab69825c869c9ac9759bba910d7037ef1f6dcd549c",
+      "physicalPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-010-018.jpg",
+      "imageSha256": "ebbb280a9f47dc9883f907e75c21e840b7a7fefac8423c0f28c3b4fac6c59672",
+      "physicalPages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-019-027.jpg",
+      "imageSha256": "0673faba3e7acb3bb9553801b9719da6c243374ee6c24b10ab997c63c9a831a3",
+      "physicalPages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-028-036.jpg",
+      "imageSha256": "aef223020bf2461b7f5d6dbe8ac989a1d86d6f24ec08937c9e2fa42744131445",
+      "physicalPages": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-037-045.jpg",
+      "imageSha256": "34c8e967401fa0e47360b1421fb6a9438e22fcf40ecde7ef5b5e4805d9d7e64b",
+      "physicalPages": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-046-050.jpg",
+      "imageSha256": "d638271798ba44d47b594675219ba7a7e402026abac401ba84ee043183e586bf",
+      "physicalPages": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-contact-01.png",
+      "imageSha256": "60fa574f534c94657517ade76d41684e2abc109a17b7ac24036b765326b9b52b",
+      "physicalPages": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-contact-02.png",
+      "imageSha256": "2d06c128c3e732e6d951bd6d7af988a0624e32b0b7062a6b4159d49687f77b19",
+      "physicalPages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-contact-03.png",
+      "imageSha256": "3d84b598a277aece4ff53be38a785b93d61b58d552efde1774c73161a9e93cbd",
+      "physicalPages": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-contact-04.png",
+      "imageSha256": "3e8e7b0dc2c7c24b3dcbab65271f60e3c3c9f27a9390ddb42e253a942dd3fb03",
+      "physicalPages": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-contact-05.png",
+      "imageSha256": "5f7b807e89eeba09e0a97d2aa9a40a281b52833059cc7ac5e38988b37987453d",
+      "physicalPages": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-101-106.png",
+      "imageSha256": "b78c2f99ff8b55bb1a1d4a46ff5e5c8a389f0fc1789720d5a3e725c3ba87f08a",
+      "physicalPages": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-107-112.png",
+      "imageSha256": "fa28b6ef088e0a4fa0fda94fc90bc26938773c43ac093159885b1d5d1a4d6179",
+      "physicalPages": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-113-118.png",
+      "imageSha256": "06bfe7318900221bceaac375ef64f31846ab60ad4c2509a535744747cace5538",
+      "physicalPages": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-119-124.png",
+      "imageSha256": "720f528ee40bef4c386c2db80b1d4c079d28accd153a4f5c1599629749b51c60",
+      "physicalPages": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-125-130.png",
+      "imageSha256": "cd85c203e65090ffc9c3a89c2dd40d1d0a603d45d86ed35613530269b89fe2e3",
+      "physicalPages": [
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-131-136.png",
+      "imageSha256": "5301d8f1a06312e4de94eb3c2fce810a29013a360c62da322e3841bdd507d831",
+      "physicalPages": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "actuallyViewedAsRecorded": true
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/contact-137-138.png",
+      "imageSha256": "e590d384c8de0de2d69d19a7aec3c86c8473621d074556ada3721826d806872f",
+      "physicalPages": [
+        137,
+        138
+      ],
+      "actuallyViewedAsRecorded": true
+    }
+  ],
+  "highResolutionPagesActuallyViewedAsRecorded": [
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-001.png",
+      "imageSha256": "e4287b3ccf854236c791e8a4cb121fcd6962a2ef455f948669260324cff04990",
+      "physicalPage": 1,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "目录全页：条目、层次、点线与更新后的正文页码"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-002.png",
+      "imageSha256": "0e98b5013fa6bce83a3ab5d3aeacf00091a0511fb44913292e0b6bc75c9d9362",
+      "physicalPage": 2,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "arXiv 版前言：标题、版权行、长 URL 换行、原书罗马页码"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-004.png",
+      "imageSha256": "fc3378ee1bb5a1ab1d7a31b025cd76a78811ce5ec3e4a3f95c251775b7c1c9ce",
+      "physicalPage": 4,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "导论首：正文、分段函数、大括号与多项式公式"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-006.png",
+      "imageSha256": "9211926fdbdfce8928868ea56286e29113d4210ad5efdcc7b51255f2eb8b4d4f",
+      "physicalPage": 6,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双线性映射及张量积泛性质图、引理和证明起始"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-008.png",
+      "imageSha256": "830c6f594f32c5b542e316fa50e81cd27f8a0823ab90f8548df67ed13deae2b8",
+      "physicalPage": 8,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "泛性质大交换图、基本群方图、导论习题分页"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-009.png",
+      "imageSha256": "5e2020356edd4aeb1b2860629cba1c4bb556dc36759ec041bc573baf0e8b57b5",
+      "physicalPage": 9,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "导论末页：习题 0.14(c)(d) 与新章前留白"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-010.png",
+      "imageSha256": "1351420a0a66aa1bae5ad504b5ccd0c7549c0d75b7014397eb1c83ba00d4d9ed",
+      "physicalPage": 10,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "第一章首及范畴定义：列表、复合映射、恒等式"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-021.png",
+      "imageSha256": "90445a0b0e425bbf9c231dd753a7527a997cf9b630ac3405cda4eaaa95ac1cef",
+      "physicalPage": 21,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "函子小节末：带括号复合图、习题及页面底端数学列表"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-022.png",
+      "imageSha256": "4385a2ffefdf80746ef0f775e4bfe4200de76c80149eabf6ebefa0022cf2b876",
+      "physicalPage": 22,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "自然变换节首：自然变换序列公式、译校注、框图"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-026.png",
+      "imageSha256": "41765a461965ee2450bb9fa4c1ab56aab2068b9e8c8bd0eb2ff7956f49fbe1b8",
+      "physicalPage": 26,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双对偶图、范畴同构及等价公式、定义与页底"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-031.png",
+      "imageSha256": "6f1043c41da0c81575479bf3579eb5dd9d0878b2db5f2a7c1f9939dbd0b5f073",
+      "physicalPage": 31,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "第一章末：习题、矩阵范畴公式、章末留白"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-032.png",
+      "imageSha256": "7ba90002e97e5d9f01b4ea2f958aee013949fa821a95e5319da73bce3c33d557",
+      "physicalPage": 32,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "第二章首：伴随同构、转置、带长横线的公式和编号"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-038.png",
+      "imageSha256": "cc1cf1238ea577e64f1194b3ab38aeee20547452c648c65c9ba0205388ae3f82",
+      "physicalPage": 38,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "定义与例子节末及单位/余单位节首：长自然性公式"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-040.png",
+      "imageSha256": "555225b7416728774ab8d1d2b76df5b1252cbf90cc91f0b6ec5e16ceb19ac1cf",
+      "physicalPage": 40,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "三角恒等式、重叠横线层级、等式推导及伴随图"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-043.png",
+      "imageSha256": "e326455a988dee5deabced8ebdd269e2784f9a0d89e30422351f0243adfc3c1c",
+      "physicalPage": 43,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "多入多出弦图、单位/余单位弦图、页底三角恒等式图"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-045.png",
+      "imageSha256": "572ae1f12fdde0f1d9b1fb76594100630fa40117da40b1e7cbe96d1a5f8e0638",
+      "physicalPage": 45,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "始对象节首：向量空间泛性质、三角图及公式 (2.7)"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-047.png",
+      "imageSha256": "4080f010fac663cdc34a83a2861d13b48fabe59878f131416e2b2f2695b01cbe",
+      "physicalPage": 47,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "逗号范畴构造及引理：叠置图、三角图 (2.8)"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-048.png",
+      "imageSha256": "1cf83a58d1a422117b01086e357830e2cd4ccfaf9007fd455063ea96ed631b70",
+      "physicalPage": 48,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "定理 2.3.6：公式 (2.9)、长态射表达式、双列多层交换图"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-049.png",
+      "imageSha256": "c03ff6f1191bc2e3c706a7291085a747dac7f5a2f96df96558bf82379c320da2",
+      "physicalPage": 49,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "定理证明接续、多层三角恒等式图、推论及习题"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-050.png",
+      "imageSha256": "28082156b81838518a3226176a22440288e495980394578cdd5f8be806c5815c",
+      "physicalPage": 50,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "第二章末：练习接续、伴随图及章末留白"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0051.png",
+      "imageSha256": "7e39fa4d3685e8ab5a5a00d3897fb0fa4db3e85bafac7a0dcaf1a4ff199c74d5",
+      "physicalPage": 51,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0063.png",
+      "imageSha256": "f315f7b1dbc9f749af1a1b36a21744a9fe85bcb60e19a2fb8c53f13a5088bae9",
+      "physicalPage": 63,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0064.png",
+      "imageSha256": "2824fee1bf980c89cf6ae1486da7cf09b7a95863fbf6fc096ebc7065d2d79cd2",
+      "physicalPage": 64,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0068.png",
+      "imageSha256": "c5ed8714cc9be03de1908510838501b956f833616c3e0169b1e0495db9552697",
+      "physicalPage": 68,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0074.png",
+      "imageSha256": "aa8d2de2a33f15b1d14f7ab6deb3db8adbbb769335f04ce73be6b3cf7ae71bbc",
+      "physicalPage": 74,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0075.png",
+      "imageSha256": "443751617d18873a1ae9e2a60ac2bf9f11815266cd38248ab18ffb3161eed00a",
+      "physicalPage": 75,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0081.png",
+      "imageSha256": "126984259b2aaec912bcc9eea6869ed84316a25cc19c33521874f97dfde92d7e",
+      "physicalPage": 81,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0082.png",
+      "imageSha256": "98972ee4b8f9fce12556bf7833715470c4a72b93386434dd3a47333aee99140b",
+      "physicalPage": 82,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0087.png",
+      "imageSha256": "c592ecb2ce1ab59efc61c82975c28206515175fc2a405047f7ae1440a8b5211e",
+      "physicalPage": 87,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0090.png",
+      "imageSha256": "1fb74cff97e01e599e2e12efff8b9193aab1c4a3e253129e010b7139a0812d17",
+      "physicalPage": 90,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0093.png",
+      "imageSha256": "e2fcf17d204606500142eb18b0ad53256bc626e99030d6288c33e5ca768a0304",
+      "physicalPage": 93,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0099.png",
+      "imageSha256": "75ccbf1ad103d2bb41dd165e5535c00bef4bac56181ecf969d2448982d583989",
+      "physicalPage": 99,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-051-100/final-high-0100.png",
+      "imageSha256": "bb75e8f6c4bfc7befce93fe8dec110b60dce57863a43df0b8d68f4e75d1cbfa5",
+      "physicalPage": 100,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-103.png",
+      "imageSha256": "77d139f5f6d0e536632d599dd833a2c804ba5914a46169070e9c77cd7bd4b41a",
+      "physicalPage": 103,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "保持与反映极限的定义；极限锥、典范态射与式 (5.22)、(5.23) 的行距和编号。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-108.png",
+      "imageSha256": "c4f71fcc6aed8dd71e296695859d194a3a2ac912ddb38616c8f5b3b506313939",
+      "physicalPage": 108,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "极限的表示、图 6.1 的完整标签和箭头、自然变换图与引理 6.1.3 的跨页开头。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-109.png",
+      "imageSha256": "e9cc08c3b6441b3ac5c763ce9d4a69e1b12ed096ace4b8fad584084e097455f8",
+      "physicalPage": 109,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "三个交换方块、带上横线和撇号的标签、态射复合长公式、极限函子的证明。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-110.png",
+      "imageSha256": "10955bd9077804a882b263611c8992f7182520e4b79b900fcf7b802aaba77de7",
+      "physicalPage": 110,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "等化子平行箭头图、式 (6.3)–(6.5)、图与编号的边界及行距。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-113.png",
+      "imageSha256": "a651afc53f726d0136aad0b1ec863212098d73eb3c94e11705aec5bc290c9e92",
+      "physicalPage": 113,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "逐点计算极限的证明、自然变换图、式 (6.10)、(6.11) 和极限锥族的下标。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-114.png",
+      "imageSha256": "39951d336aae04f67290b3e25626835e88eecec7b2df8995f3323726d1f768d3",
+      "physicalPage": 114,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "极限与极限交换、函子矩阵、迭代极限与三行同构、二点范畴的行内图。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-115.png",
+      "imageSha256": "b65252670a61e904590416a7e6a288f8d46bd5129bb54f8676d0e1dbba2a55f2",
+      "physicalPage": 115,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "四项和与积的长公式、米田嵌入保持极限的证明、取值函子箭头和极限锥公式。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-119.png",
+      "imageSha256": "b33d84efd3f1887fcd6c38fe00847815cb26d6a74c553d97363b1ea77a79d3fd",
+      "physicalPage": 119,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "左 Kan 扩张练习、伴随交换图、式 (6.13)–(6.16) 的多行极限同构及编号。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-124.png",
+      "imageSha256": "4426e19021973b845ac004b7ea2b5e4b0647a94ccde98125c344cc6d51022097",
+      "physicalPage": 124,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "笛卡尔闭范畴定义、指数对象、带帽范畴与式 (6.22) 的上下标和正文粗体。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-125.png",
+      "imageSha256": "37ebeb984fd0dcc5451a71be4ac0caa8abdfe1728131fc3b0a2f7f17fb3fc639",
+      "physicalPage": 125,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "预层范畴笛卡尔闭性证明，式 (6.23)–(6.29) 的七行同构、极限与余极限方向、括号与编号。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-127.png",
+      "imageSha256": "d73b726212bc431330a62979b4cdae68a78c5fbe948078002c4c9f943babb2b6",
+      "physicalPage": 127,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "附录首页，标题宋体粗体、GAFT 陈述、式 (A.1)、等化子箭头图和态射链。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-128.png",
+      "imageSha256": "1799350fe10fa779d09dae10494064bfbc3d5eeac308f21f97bfe597673d9f18",
+      "physicalPage": 128,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "附录末页，承接证明首公式、引理 A.2、习题 A.3–A.5 全部项目与附录结束。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-131.png",
+      "imageSha256": "d4fcebe07cad74decdaf35990e948e169eb6eddce54d0fc3b05be6c15049cb8b",
+      "physicalPage": 131,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "三栏符号索引整页，113 条源符号项目的可见排版；首尾、上下标、极限箭头与字体区别。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-132.png",
+      "imageSha256": "d96bf57dff024f7ec5afb81ab5a70491cd97f7fe668b4f5f4c23609a77abf32f",
+      "physicalPage": 132,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双栏主题索引首页，所有可见条目和三层嵌套；范畴项目由左栏底部续入右栏。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-133.png",
+      "imageSha256": "01af98c81c9669b71fd3499c1549c6e538988a7bb6ecb03c3f998ff96402f1e8",
+      "physicalPage": 133,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双栏主题索引全文，元素项目的列间接续，页末函数父项目与下一页续项的阅读顺序。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-134.png",
+      "imageSha256": "331fec17d1242fc78c93ef7c7081bdba75afcdb41ec48b89353ee933291dbf55",
+      "physicalPage": 134,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双栏主题索引全文；源 PDF 189 的函数续项、函子与群的多层项目，以及各项换行。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-135.png",
+      "imageSha256": "49919f6f1495acd8346d94af7acd6ecf3bec3e29e4925db288d3057d4802b833",
+      "physicalPage": 135,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双栏主题索引全文；极限项目及其保持子项的列间接续、幺半群项目和长交叉引用。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-136.png",
+      "imageSha256": "dd8edfa86314df8f7e3fa9e2124baac4da2fc1ba4812bfa7cb46a0e1aa04f2e4",
+      "physicalPage": 136,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双栏主题索引全文；源 PDF 191 的幂级数和幂集续在幂父项目下，预层及环的多层项目。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-137.png",
+      "imageSha256": "e5366b4eb6555b6436a617a79b4d86de1a13fed92d79e91dd4ab5af70f38c524",
+      "physicalPage": 137,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "双栏主题索引全文；源 PDF 192 的预层范畴切片子项续在切片范畴下，集合和拓扑空间项目。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "imagePath": "tmp/pdfs/category-theory-export/visual-101-138/high-138.png",
+      "imageSha256": "ebd5494c7a1df5b46639c808b4778267e06bbcbe306b126c54cf3e47f2f0d52d",
+      "physicalPage": 138,
+      "actuallyViewedAsRecorded": true,
+      "renderDpi": 180,
+      "scope": "主题索引末页全文；向量空间范畴的列间续项、米田条目、整数及末尾 ZFC 条目的完整显示。"
+    }
+  ],
+  "findings": [
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": {
+        "severity": "minor",
+        "physicalPdfPage": 21,
+        "location": "习题 1.2.25(b) 最后一个列表项第一行",
+        "description": "后接长数学公式使该行两端对齐后的中文间距较大；字形、公式和页边界均完整，没有重叠。",
+        "disposition": "已告知 root；作为轻微排版观察，不阻碍阅读。"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "record": {
+        "physicalPage": 63,
+        "description": "Chapter 3 ends with the Exercises heading and exercise 3.3.1, leaving substantial unused space. This is a normal chapter terminal page, followed by the major chapter-4 page break at physical page 64; no stray source-page break or isolated heading was observed."
+      }
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "record": {
+        "physicalPages": [
+          74,
+          75,
+          87,
+          90,
+          93,
+          99,
+          100
+        ],
+        "description": "Dense Yoneda calculations, pullback/cone diagrams, long formulas, and the sphere illustrations have readable labels and sufficient margins. Body text and page numbers do not overlap."
+      }
+    }
+  ],
+  "resolvedFindings": [
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "record": {
+        "physicalPage": 81,
+        "sourcePdfPage": 115,
+        "description": "The previously observed line-initial period after the exercise 4.3.18(c) displayed formula is fixed in the final PDF. The period remains with the last inline formula; the following hint begins normally."
+      }
+    }
+  ],
+  "unresolved": [],
+  "sourceNotes": [
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": "全部 50 页按当前 PDF 重新用 Poppler 渲染；旧版图片不用于当前哈希的审校声明。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": "目录现为一页，末尾两条索引项完整；本范围章首与节首目录页码为 4、10、15、22、32、38、45，与实际页序一致。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": "第 2、3 页的短前置文章，以及第 9、31、50 页的导论/章末练习留白，均对应文章或章结束；未见正文意外漏排的大面积白区。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": "原书多页内容在同一译页接续，页眉原书范围相应跨页；没有按原书每页强制另起译页。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": "高清页中的公式横线、重叠转置横线、上下标、交换图与弦图均可读且在版心内；页脚和图式没有相互覆盖。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "record": "本记录仅覆盖物理 PDF 1–50 的视觉排版；文字、字体嵌入与链接机器检查由主流程另行负责。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "record": "Scope is final physical pages 51–100 only, not the full 138-page PDF."
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "record": "Old 148-page candidate renders were not used as evidence for this final review."
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "record": "This review changed neither the PDF nor canonical source/translation files."
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "record": "本记录只以当前 SHA 的 PNG 为最终证据；旧版 148 页 PDF 的图片和部分检查记录未纳入本记录。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "record": "检查只读最终 PDF、页码映射和索引源稿，没有修改 PDF、正文源稿或构建脚本。"
+    },
+    {
+      "sourceReport": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "record": "全部联系表和上述 20 个高清页均通过实际 view_image 查看；没有由机器 checker 或源稿 review flags 推断视觉完成。"
+    }
+  ],
+  "layoutMachineValidation": {
+    "path": "tmp/pdfs/category-theory-export/pdf-validation.json",
+    "sha256": "994a9f5de0b01e4540357849893c654d4de1d567b74f44a36d13d832611fc917",
+    "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+    "summary": {
+      "pageCount": 138,
+      "sourcePages": 185,
+      "bookmarks": 14,
+      "mathExpressions": 5570,
+      "mathCounts": {
+        "inlineMath": 5250,
+        "displayMath": 320,
+        "diagrams": 191,
+        "mathPunctuation": 0
+      },
+      "originalDiagrams": 191,
+      "embeddedFontCount": 22,
+      "chineseFontFamilies": [
+        "SimSun"
+      ],
+      "sourceHashesCurrent": true,
+      "generatedContentsPages": [
+        1
+      ],
+      "contentsMainSectionLinksVerified": 13,
+      "contentsSubsectionLinksVerified": 18,
+      "contentsLinkedEntriesVerified": 31,
+      "majorSectionPageBreaksVerified": 13,
+      "indexColumnLayout": [
+        {
+          "key": "notation-index",
+          "exportPage": 131,
+          "columns": 3,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            169,
+            125,
+            125
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 132,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            137,
+            132
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 133,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            133,
+            134
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 134,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            138,
+            131
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 135,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            137,
+            152
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 136,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            138,
+            128
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 137,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            137,
+            137
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 138,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            86,
+            85
+          ]
+        }
+      ],
+      "missingProseCharacters": [],
+      "globalMissingProseCharacters": {},
+      "marginExceptions": [],
+      "plainTextStarReferences": []
+    },
+    "report": {
+      "pageCount": 138,
+      "sourcePages": 185,
+      "bookmarks": 14,
+      "mathExpressions": 5570,
+      "mathCounts": {
+        "inlineMath": 5250,
+        "displayMath": 320,
+        "diagrams": 191,
+        "mathPunctuation": 0
+      },
+      "originalDiagrams": 191,
+      "embeddedFontCount": 22,
+      "chineseFontFamilies": [
+        "SimSun"
+      ],
+      "sourceHashesCurrent": true,
+      "generatedContentsPages": [
+        1
+      ],
+      "contentsMainSectionLinksVerified": 13,
+      "contentsSubsectionLinksVerified": 18,
+      "contentsLinkedEntriesVerified": 31,
+      "majorSectionPageBreaksVerified": 13,
+      "indexColumnLayout": [
+        {
+          "key": "notation-index",
+          "exportPage": 131,
+          "columns": 3,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            169,
+            125,
+            125
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 132,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            137,
+            132
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 133,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            133,
+            134
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 134,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            138,
+            131
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 135,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            137,
+            152
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 136,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            138,
+            128
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 137,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            137,
+            137
+          ]
+        },
+        {
+          "key": "book-index",
+          "exportPage": 138,
+          "columns": 2,
+          "columnSeparationPt": 16,
+          "textSpansPerColumn": [
+            86,
+            85
+          ]
+        }
+      ],
+      "missingProseCharacters": [],
+      "globalMissingProseCharacters": {},
+      "marginExceptions": [],
+      "plainTextStarReferences": [],
+      "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5"
+    },
+    "scopeNote": "机器检查属于字体嵌入、链接、页码、公式/图式计数与页边界等排版核验，不能代替实际视觉查看或来源数学内容校审。"
+  },
+  "independentVisualReports": [
+    {
+      "path": "tmp/pdfs/category-theory-export/visual-001-050/visual-review.json",
+      "sha256": "ab041775eb436664417b4fab6e754c61341475be86de72c54091ad92d01a3b5c",
+      "report": {
+        "status": "complete",
+        "result": "pass_with_minor_observation",
+        "reviewer": "category_066_081",
+        "reviewedAtUtc": "2026-10-11T04:49:54.688487+00:00",
+        "pdfPath": "output/pdf/Basic-Category-Theory-Zh.pdf",
+        "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+        "pdfBytes": 3401069,
+        "pdfPageCount": 138,
+        "physicalPageRange": [
+          1,
+          50
+        ],
+        "renderer": "Poppler pdftoppm",
+        "overviewDpi": 110,
+        "allRangePagesRendered": true,
+        "contactSheets": [
+          {
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-001-009.jpg",
+            "physicalPages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            "actuallyViewed": true,
+            "imageSha256": "af6ea6214383ec6edc542cab69825c869c9ac9759bba910d7037ef1f6dcd549c"
+          },
+          {
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-010-018.jpg",
+            "physicalPages": [
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "actuallyViewed": true,
+            "imageSha256": "ebbb280a9f47dc9883f907e75c21e840b7a7fefac8423c0f28c3b4fac6c59672"
+          },
+          {
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-019-027.jpg",
+            "physicalPages": [
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ],
+            "actuallyViewed": true,
+            "imageSha256": "0673faba3e7acb3bb9553801b9719da6c243374ee6c24b10ab997c63c9a831a3"
+          },
+          {
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-028-036.jpg",
+            "physicalPages": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36
+            ],
+            "actuallyViewed": true,
+            "imageSha256": "aef223020bf2461b7f5d6dbe8ac989a1d86d6f24ec08937c9e2fa42744131445"
+          },
+          {
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-037-045.jpg",
+            "physicalPages": [
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45
+            ],
+            "actuallyViewed": true,
+            "imageSha256": "34c8e967401fa0e47360b1421fb6a9438e22fcf40ecde7ef5b5e4805d9d7e64b"
+          },
+          {
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/sheet-046-050.jpg",
+            "physicalPages": [
+              46,
+              47,
+              48,
+              49,
+              50
+            ],
+            "actuallyViewed": true,
+            "imageSha256": "d638271798ba44d47b594675219ba7a7e402026abac401ba84ee043183e586bf"
+          }
+        ],
+        "highResolutionDpi": 180,
+        "highResolutionPages": [
+          {
+            "physicalPdfPage": 1,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-001.png",
+            "actuallyViewed": true,
+            "scope": "目录全页：条目、层次、点线与更新后的正文页码",
+            "imageSha256": "e4287b3ccf854236c791e8a4cb121fcd6962a2ef455f948669260324cff04990"
+          },
+          {
+            "physicalPdfPage": 2,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-002.png",
+            "actuallyViewed": true,
+            "scope": "arXiv 版前言：标题、版权行、长 URL 换行、原书罗马页码",
+            "imageSha256": "0e98b5013fa6bce83a3ab5d3aeacf00091a0511fb44913292e0b6bc75c9d9362"
+          },
+          {
+            "physicalPdfPage": 4,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-004.png",
+            "actuallyViewed": true,
+            "scope": "导论首：正文、分段函数、大括号与多项式公式",
+            "imageSha256": "fc3378ee1bb5a1ab1d7a31b025cd76a78811ce5ec3e4a3f95c251775b7c1c9ce"
+          },
+          {
+            "physicalPdfPage": 6,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-006.png",
+            "actuallyViewed": true,
+            "scope": "双线性映射及张量积泛性质图、引理和证明起始",
+            "imageSha256": "9211926fdbdfce8928868ea56286e29113d4210ad5efdcc7b51255f2eb8b4d4f"
+          },
+          {
+            "physicalPdfPage": 8,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-008.png",
+            "actuallyViewed": true,
+            "scope": "泛性质大交换图、基本群方图、导论习题分页",
+            "imageSha256": "830c6f594f32c5b542e316fa50e81cd27f8a0823ab90f8548df67ed13deae2b8"
+          },
+          {
+            "physicalPdfPage": 9,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-009.png",
+            "actuallyViewed": true,
+            "scope": "导论末页：习题 0.14(c)(d) 与新章前留白",
+            "imageSha256": "5e2020356edd4aeb1b2860629cba1c4bb556dc36759ec041bc573baf0e8b57b5"
+          },
+          {
+            "physicalPdfPage": 10,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-010.png",
+            "actuallyViewed": true,
+            "scope": "第一章首及范畴定义：列表、复合映射、恒等式",
+            "imageSha256": "1351420a0a66aa1bae5ad504b5ccd0c7549c0d75b7014397eb1c83ba00d4d9ed"
+          },
+          {
+            "physicalPdfPage": 21,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-021.png",
+            "actuallyViewed": true,
+            "scope": "函子小节末：带括号复合图、习题及页面底端数学列表",
+            "imageSha256": "90445a0b0e425bbf9c231dd753a7527a997cf9b630ac3405cda4eaaa95ac1cef"
+          },
+          {
+            "physicalPdfPage": 22,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-022.png",
+            "actuallyViewed": true,
+            "scope": "自然变换节首：自然变换序列公式、译校注、框图",
+            "imageSha256": "4385a2ffefdf80746ef0f775e4bfe4200de76c80149eabf6ebefa0022cf2b876"
+          },
+          {
+            "physicalPdfPage": 26,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-026.png",
+            "actuallyViewed": true,
+            "scope": "双对偶图、范畴同构及等价公式、定义与页底",
+            "imageSha256": "41765a461965ee2450bb9fa4c1ab56aab2068b9e8c8bd0eb2ff7956f49fbe1b8"
+          },
+          {
+            "physicalPdfPage": 31,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-031.png",
+            "actuallyViewed": true,
+            "scope": "第一章末：习题、矩阵范畴公式、章末留白",
+            "imageSha256": "6f1043c41da0c81575479bf3579eb5dd9d0878b2db5f2a7c1f9939dbd0b5f073"
+          },
+          {
+            "physicalPdfPage": 32,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-032.png",
+            "actuallyViewed": true,
+            "scope": "第二章首：伴随同构、转置、带长横线的公式和编号",
+            "imageSha256": "7ba90002e97e5d9f01b4ea2f958aee013949fa821a95e5319da73bce3c33d557"
+          },
+          {
+            "physicalPdfPage": 38,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-038.png",
+            "actuallyViewed": true,
+            "scope": "定义与例子节末及单位/余单位节首：长自然性公式",
+            "imageSha256": "cc1cf1238ea577e64f1194b3ab38aeee20547452c648c65c9ba0205388ae3f82"
+          },
+          {
+            "physicalPdfPage": 40,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-040.png",
+            "actuallyViewed": true,
+            "scope": "三角恒等式、重叠横线层级、等式推导及伴随图",
+            "imageSha256": "555225b7416728774ab8d1d2b76df5b1252cbf90cc91f0b6ec5e16ceb19ac1cf"
+          },
+          {
+            "physicalPdfPage": 43,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-043.png",
+            "actuallyViewed": true,
+            "scope": "多入多出弦图、单位/余单位弦图、页底三角恒等式图",
+            "imageSha256": "e326455a988dee5deabced8ebdd269e2784f9a0d89e30422351f0243adfc3c1c"
+          },
+          {
+            "physicalPdfPage": 45,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-045.png",
+            "actuallyViewed": true,
+            "scope": "始对象节首：向量空间泛性质、三角图及公式 (2.7)",
+            "imageSha256": "572ae1f12fdde0f1d9b1fb76594100630fa40117da40b1e7cbe96d1a5f8e0638"
+          },
+          {
+            "physicalPdfPage": 47,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-047.png",
+            "actuallyViewed": true,
+            "scope": "逗号范畴构造及引理：叠置图、三角图 (2.8)",
+            "imageSha256": "4080f010fac663cdc34a83a2861d13b48fabe59878f131416e2b2f2695b01cbe"
+          },
+          {
+            "physicalPdfPage": 48,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-048.png",
+            "actuallyViewed": true,
+            "scope": "定理 2.3.6：公式 (2.9)、长态射表达式、双列多层交换图",
+            "imageSha256": "1cf83a58d1a422117b01086e357830e2cd4ccfaf9007fd455063ea96ed631b70"
+          },
+          {
+            "physicalPdfPage": 49,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-049.png",
+            "actuallyViewed": true,
+            "scope": "定理证明接续、多层三角恒等式图、推论及习题",
+            "imageSha256": "c03ff6f1191bc2e3c706a7291085a747dac7f5a2f96df96558bf82379c320da2"
+          },
+          {
+            "physicalPdfPage": 50,
+            "imagePath": "tmp/pdfs/category-theory-export/visual-001-050/final-high-050.png",
+            "actuallyViewed": true,
+            "scope": "第二章末：练习接续、伴随图及章末留白",
+            "imageSha256": "28082156b81838518a3226176a22440288e495980394578cdd5f8be806c5815c"
+          }
+        ],
+        "checks": {
+          "allPagesOverviewActuallyViewed": true,
+          "majorUnexpectedWhiteSpace": false,
+          "clippingOrOverlap": false,
+          "abnormalFontSizeOrMissingGlyphs": false,
+          "songtiBoldVisuallyChecked": true,
+          "originalPageRangeHeadersAndTranslatedPageFootersChecked": true,
+          "contentsAndBodyPaginationChecked": true,
+          "sourcePagesFlowContinuously": true
+        },
+        "findings": [
+          {
+            "severity": "minor",
+            "physicalPdfPage": 21,
+            "location": "习题 1.2.25(b) 最后一个列表项第一行",
+            "description": "后接长数学公式使该行两端对齐后的中文间距较大；字形、公式和页边界均完整，没有重叠。",
+            "disposition": "已告知 root；作为轻微排版观察，不阻碍阅读。"
+          }
+        ],
+        "notes": [
+          "全部 50 页按当前 PDF 重新用 Poppler 渲染；旧版图片不用于当前哈希的审校声明。",
+          "目录现为一页，末尾两条索引项完整；本范围章首与节首目录页码为 4、10、15、22、32、38、45，与实际页序一致。",
+          "第 2、3 页的短前置文章，以及第 9、31、50 页的导论/章末练习留白，均对应文章或章结束；未见正文意外漏排的大面积白区。",
+          "原书多页内容在同一译页接续，页眉原书范围相应跨页；没有按原书每页强制另起译页。",
+          "高清页中的公式横线、重叠转置横线、上下标、交换图与弦图均可读且在版心内；页脚和图式没有相互覆盖。",
+          "本记录仅覆盖物理 PDF 1–50 的视觉排版；文字、字体嵌入与链接机器检查由主流程另行负责。"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "tmp/pdfs/category-theory-export/visual-051-100/visual-review.json",
+      "sha256": "983b7008a41b52a8d6f9cadd21260097a28edade62cf5d759bded5f50e3994c6",
+      "report": {
+        "status": "complete",
+        "result": "pass",
+        "pdfPath": "D:\\Projects\\tolstoy\\output\\pdf\\Basic-Category-Theory-Zh.pdf",
+        "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+        "pdfPageCount": 138,
+        "pdfBytes": 3401069,
+        "physicalPageRange": [
+          51,
+          100
+        ],
+        "rangePageCount": 50,
+        "renderer": "Poppler pdftoppm",
+        "allPageRendersDpi": 110,
+        "allPageRenderPaths": [
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-051.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-052.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-053.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-054.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-055.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-056.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-057.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-058.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-059.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-060.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-061.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-062.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-063.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-064.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-065.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-066.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-067.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-068.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-069.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-070.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-071.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-072.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-073.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-074.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-075.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-076.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-077.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-078.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-079.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-080.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-081.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-082.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-083.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-084.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-085.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-086.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-087.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-088.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-089.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-090.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-091.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-092.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-093.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-094.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-095.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-096.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-097.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-098.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-099.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\poppler-final-100.png"
+        ],
+        "contactSheetsActuallyViewed": [
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-contact-01.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-contact-02.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-contact-03.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-contact-04.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-contact-05.png"
+        ],
+        "allContactPagesActuallyViewed": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100
+        ],
+        "highResolutionDpi": 180,
+        "highResolutionPagesActuallyViewed": [
+          51,
+          63,
+          64,
+          68,
+          74,
+          75,
+          81,
+          82,
+          87,
+          90,
+          93,
+          99,
+          100
+        ],
+        "highResolutionImages": [
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0051.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0063.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0064.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0068.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0074.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0075.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0081.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0082.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0087.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0090.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0093.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0099.png",
+          "D:\\Projects\\tolstoy\\tmp\\pdfs\\category-theory-export\\visual-051-100\\final-high-0100.png"
+        ],
+        "method": "Actual view_image inspection of all five final-PDF contact sheets and all thirteen final-PDF high-resolution representatives; machine text/layout checks were not substituted for visual inspection.",
+        "checks": {
+          "noClippingOrOverlapObserved": true,
+          "noMissingGlyphsObserved": true,
+          "noIsolatedHeadingsObserved": true,
+          "songtiChineseBodyObserved": true,
+          "boldSongtiHeadingsObserved": true,
+          "mathReadable": true,
+          "diagramArrowsAndLabelsReadable": true,
+          "sourcePageRangeHeadersObserved": true,
+          "translatedPageNumberFootersObserved": true,
+          "majorSectionStartsObserved": [
+            51,
+            64,
+            82
+          ]
+        },
+        "headerMappingSamples": [
+          {
+            "exportPage": 51,
+            "sourcePdfPages": [
+              74,
+              75
+            ],
+            "originalLabel": "原书 65–66",
+            "sectionTitle": "第三章 集合论插曲"
+          },
+          {
+            "exportPage": 63,
+            "sourcePdfPages": [
+              91
+            ],
+            "originalLabel": "原书 82",
+            "sectionTitle": "第三章 集合论插曲"
+          },
+          {
+            "exportPage": 64,
+            "sourcePdfPages": [
+              92,
+              93
+            ],
+            "originalLabel": "原书 83–84",
+            "sectionTitle": "第四章 可表函子"
+          },
+          {
+            "exportPage": 68,
+            "sourcePdfPages": [
+              97,
+              98,
+              99
+            ],
+            "originalLabel": "原书 88–90",
+            "sectionTitle": "第四章 可表函子"
+          },
+          {
+            "exportPage": 74,
+            "sourcePdfPages": [
+              105,
+              106
+            ],
+            "originalLabel": "原书 96–97",
+            "sectionTitle": "第四章 可表函子"
+          },
+          {
+            "exportPage": 75,
+            "sourcePdfPages": [
+              106,
+              107
+            ],
+            "originalLabel": "原书 97–98",
+            "sectionTitle": "第四章 可表函子"
+          },
+          {
+            "exportPage": 81,
+            "sourcePdfPages": [
+              115
+            ],
+            "originalLabel": "原书 106",
+            "sectionTitle": "第四章 可表函子"
+          },
+          {
+            "exportPage": 82,
+            "sourcePdfPages": [
+              116,
+              117
+            ],
+            "originalLabel": "原书 107–108",
+            "sectionTitle": "第五章 极限"
+          },
+          {
+            "exportPage": 87,
+            "sourcePdfPages": [
+              122,
+              123,
+              124
+            ],
+            "originalLabel": "原书 113–115",
+            "sectionTitle": "第五章 极限"
+          },
+          {
+            "exportPage": 90,
+            "sourcePdfPages": [
+              126,
+              127,
+              128
+            ],
+            "originalLabel": "原书 117–119",
+            "sectionTitle": "第五章 极限"
+          },
+          {
+            "exportPage": 93,
+            "sourcePdfPages": [
+              131,
+              132
+            ],
+            "originalLabel": "原书 122–123",
+            "sectionTitle": "第五章 极限"
+          },
+          {
+            "exportPage": 99,
+            "sourcePdfPages": [
+              139,
+              140
+            ],
+            "originalLabel": "原书 130–131",
+            "sectionTitle": "第五章 极限"
+          },
+          {
+            "exportPage": 100,
+            "sourcePdfPages": [
+              140,
+              141
+            ],
+            "originalLabel": "原书 131–132",
+            "sectionTitle": "第五章 极限"
+          }
+        ],
+        "resolvedFindings": [
+          {
+            "physicalPage": 81,
+            "sourcePdfPage": 115,
+            "description": "The previously observed line-initial period after the exercise 4.3.18(c) displayed formula is fixed in the final PDF. The period remains with the last inline formula; the following hint begins normally."
+          }
+        ],
+        "observations": [
+          {
+            "physicalPage": 63,
+            "description": "Chapter 3 ends with the Exercises heading and exercise 3.3.1, leaving substantial unused space. This is a normal chapter terminal page, followed by the major chapter-4 page break at physical page 64; no stray source-page break or isolated heading was observed."
+          },
+          {
+            "physicalPages": [
+              74,
+              75,
+              87,
+              90,
+              93,
+              99,
+              100
+            ],
+            "description": "Dense Yoneda calculations, pullback/cone diagrams, long formulas, and the sphere illustrations have readable labels and sufficient margins. Body text and page numbers do not overlap."
+          }
+        ],
+        "hardVisualDefects": [],
+        "unresolved": [],
+        "notes": [
+          "Scope is final physical pages 51–100 only, not the full 138-page PDF.",
+          "Old 148-page candidate renders were not used as evidence for this final review.",
+          "This review changed neither the PDF nor canonical source/translation files."
+        ]
+      }
+    },
+    {
+      "path": "tmp/pdfs/category-theory-export/visual-101-138/visual-review.json",
+      "sha256": "3e12bbd583645c183b10f9e672a0d2f738db69e5830bdb3d4dba524aa76dd73d",
+      "report": {
+        "status": "complete",
+        "reviewKind": "independent_final_export_visual_review",
+        "pdfPath": "D:/Projects/tolstoy/output/pdf/Basic-Category-Theory-Zh.pdf",
+        "pdfSha256": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+        "pdfBytes": 3401069,
+        "pdfPhysicalPageCount": 138,
+        "reviewedPhysicalPageRange": [
+          101,
+          138
+        ],
+        "reviewedPhysicalPageCount": 38,
+        "renderingEngine": "Poppler pdftoppm",
+        "contactSheetRenderDpi": 110,
+        "contactSheetsActuallyViewed": [
+          {
+            "path": "contact-101-106.png",
+            "physicalPageRange": [
+              101,
+              106
+            ],
+            "actualViewImage": true
+          },
+          {
+            "path": "contact-107-112.png",
+            "physicalPageRange": [
+              107,
+              112
+            ],
+            "actualViewImage": true
+          },
+          {
+            "path": "contact-113-118.png",
+            "physicalPageRange": [
+              113,
+              118
+            ],
+            "actualViewImage": true
+          },
+          {
+            "path": "contact-119-124.png",
+            "physicalPageRange": [
+              119,
+              124
+            ],
+            "actualViewImage": true
+          },
+          {
+            "path": "contact-125-130.png",
+            "physicalPageRange": [
+              125,
+              130
+            ],
+            "actualViewImage": true
+          },
+          {
+            "path": "contact-131-136.png",
+            "physicalPageRange": [
+              131,
+              136
+            ],
+            "actualViewImage": true
+          },
+          {
+            "path": "contact-137-138.png",
+            "physicalPageRange": [
+              137,
+              138
+            ],
+            "actualViewImage": true
+          }
+        ],
+        "highResolutionRenderDpi": 180,
+        "highResolutionPagesActuallyViewed": [
+          {
+            "physicalPage": 103,
+            "path": "high-103.png",
+            "actualViewImage": true,
+            "scope": "保持与反映极限的定义；极限锥、典范态射与式 (5.22)、(5.23) 的行距和编号。"
+          },
+          {
+            "physicalPage": 108,
+            "path": "high-108.png",
+            "actualViewImage": true,
+            "scope": "极限的表示、图 6.1 的完整标签和箭头、自然变换图与引理 6.1.3 的跨页开头。"
+          },
+          {
+            "physicalPage": 109,
+            "path": "high-109.png",
+            "actualViewImage": true,
+            "scope": "三个交换方块、带上横线和撇号的标签、态射复合长公式、极限函子的证明。"
+          },
+          {
+            "physicalPage": 110,
+            "path": "high-110.png",
+            "actualViewImage": true,
+            "scope": "等化子平行箭头图、式 (6.3)–(6.5)、图与编号的边界及行距。"
+          },
+          {
+            "physicalPage": 113,
+            "path": "high-113.png",
+            "actualViewImage": true,
+            "scope": "逐点计算极限的证明、自然变换图、式 (6.10)、(6.11) 和极限锥族的下标。"
+          },
+          {
+            "physicalPage": 114,
+            "path": "high-114.png",
+            "actualViewImage": true,
+            "scope": "极限与极限交换、函子矩阵、迭代极限与三行同构、二点范畴的行内图。"
+          },
+          {
+            "physicalPage": 115,
+            "path": "high-115.png",
+            "actualViewImage": true,
+            "scope": "四项和与积的长公式、米田嵌入保持极限的证明、取值函子箭头和极限锥公式。"
+          },
+          {
+            "physicalPage": 119,
+            "path": "high-119.png",
+            "actualViewImage": true,
+            "scope": "左 Kan 扩张练习、伴随交换图、式 (6.13)–(6.16) 的多行极限同构及编号。"
+          },
+          {
+            "physicalPage": 124,
+            "path": "high-124.png",
+            "actualViewImage": true,
+            "scope": "笛卡尔闭范畴定义、指数对象、带帽范畴与式 (6.22) 的上下标和正文粗体。"
+          },
+          {
+            "physicalPage": 125,
+            "path": "high-125.png",
+            "actualViewImage": true,
+            "scope": "预层范畴笛卡尔闭性证明，式 (6.23)–(6.29) 的七行同构、极限与余极限方向、括号与编号。"
+          },
+          {
+            "physicalPage": 127,
+            "path": "high-127.png",
+            "actualViewImage": true,
+            "scope": "附录首页，标题宋体粗体、GAFT 陈述、式 (A.1)、等化子箭头图和态射链。"
+          },
+          {
+            "physicalPage": 128,
+            "path": "high-128.png",
+            "actualViewImage": true,
+            "scope": "附录末页，承接证明首公式、引理 A.2、习题 A.3–A.5 全部项目与附录结束。"
+          },
+          {
+            "physicalPage": 131,
+            "path": "high-131.png",
+            "actualViewImage": true,
+            "scope": "三栏符号索引整页，113 条源符号项目的可见排版；首尾、上下标、极限箭头与字体区别。"
+          },
+          {
+            "physicalPage": 132,
+            "path": "high-132.png",
+            "actualViewImage": true,
+            "scope": "双栏主题索引首页，所有可见条目和三层嵌套；范畴项目由左栏底部续入右栏。"
+          },
+          {
+            "physicalPage": 133,
+            "path": "high-133.png",
+            "actualViewImage": true,
+            "scope": "双栏主题索引全文，元素项目的列间接续，页末函数父项目与下一页续项的阅读顺序。"
+          },
+          {
+            "physicalPage": 134,
+            "path": "high-134.png",
+            "actualViewImage": true,
+            "scope": "双栏主题索引全文；源 PDF 189 的函数续项、函子与群的多层项目，以及各项换行。"
+          },
+          {
+            "physicalPage": 135,
+            "path": "high-135.png",
+            "actualViewImage": true,
+            "scope": "双栏主题索引全文；极限项目及其保持子项的列间接续、幺半群项目和长交叉引用。"
+          },
+          {
+            "physicalPage": 136,
+            "path": "high-136.png",
+            "actualViewImage": true,
+            "scope": "双栏主题索引全文；源 PDF 191 的幂级数和幂集续在幂父项目下，预层及环的多层项目。"
+          },
+          {
+            "physicalPage": 137,
+            "path": "high-137.png",
+            "actualViewImage": true,
+            "scope": "双栏主题索引全文；源 PDF 192 的预层范畴切片子项续在切片范畴下，集合和拓扑空间项目。"
+          },
+          {
+            "physicalPage": 138,
+            "path": "high-138.png",
+            "actualViewImage": true,
+            "scope": "主题索引末页全文；向量空间范畴的列间续项、米田条目、整数及末尾 ZFC 条目的完整显示。"
+          }
+        ],
+        "checks": {
+          "allAssignedPagesScannedInContactSheets": true,
+          "clipping": "未发现正文、公式、交换图、索引条目或页眉页脚裁切。",
+          "overlap": "未发现文本、公式、图标签、编号及栏间重叠。",
+          "whitespace": "未发现异常留白；物理 106 的章末、128 的附录末、130 的延伸阅读末及 138 的索引末留白与内容结束相符。",
+          "boldSongtiVisualAppearance": "放大查看标题、定义、定理和练习编号，宋体粗体字形完整、清楚。此项是视觉检查，不代替字体文件或嵌入检查。",
+          "isolatedHeadings": "未发现只有标题、没有接续正文的孤立标题。",
+          "headersAndFooters": "38 页的章名或索引页眉、原书页码范围与译本物理页脚均可见；独立提取复核与当前 export-page-map 一致，见 header-footer-check.json。",
+          "appendix": "物理 127–128 整页高清查看，附录首尾、证明接续及全部练习项目正常。",
+          "symbolIndex": "物理 131 三栏高清整页查看，首尾符号及各栏项目完整显示。",
+          "subjectIndex": "物理 132–138 七页双栏均高清整页查看；一级圆点、二级短横线、三级星号与续行缩进可辨，项目按列与页自然接续，末条 ZFC 完整。"
+        },
+        "crossSourcePageContinuationsActuallyChecked": [
+          {
+            "sourcePdfPage": 189,
+            "physicalPage": 134,
+            "precedingParentPhysicalPage": 133,
+            "parent": "函数",
+            "continuedItems": [
+              "函数的个数",
+              "部分函数",
+              "函数集",
+              "满射的"
+            ],
+            "result": "四项保持二级项目缩进，与源 PDF 188 的三项函数子项连续排列；没有新增一级父项目或层级重置。"
+          },
+          {
+            "sourcePdfPage": 191,
+            "physicalPage": 136,
+            "parent": "幂",
+            "continuedItems": [
+              "幂级数",
+              "幂集"
+            ],
+            "result": "父项目与两个子项在同一左栏连续显示，子项保持二级缩进。"
+          },
+          {
+            "sourcePdfPage": 192,
+            "physicalPage": 137,
+            "parent": "切片范畴",
+            "continuedItems": [
+              "预层范畴的切片范畴"
+            ],
+            "result": "父项目与承前子项在同一右栏连续显示，子项保持二级缩进。"
+          }
+        ],
+        "sourceIndexItemCounts": {
+          "method": "独立读取当前 UTF-8 中文 Markdown，逐行计数所有缩进层级的列表项目；视觉检查逐页涵盖这些索引内容的最终排版。",
+          "symbolIndexSourcePdf186": 113,
+          "subjectIndexSourcePdf187To192": 567,
+          "subjectIndexCountsBySourcePdfPage": {
+            "187": 70,
+            "188": 100,
+            "189": 99,
+            "190": 99,
+            "191": 102,
+            "192": 97
+          }
+        },
+        "issues": [],
+        "unresolved": [],
+        "notes": [
+          "本记录只以当前 SHA 的 PNG 为最终证据；旧版 148 页 PDF 的图片和部分检查记录未纳入本记录。",
+          "检查只读最终 PDF、页码映射和索引源稿，没有修改 PDF、正文源稿或构建脚本。",
+          "全部联系表和上述 20 个高清页均通过实际 view_image 查看；没有由机器 checker 或源稿 review flags 推断视觉完成。"
+        ]
+      }
+    }
+  ],
+  "sourceMathematicalAuditReferences": [
+    "source/category-theory/math-audit-001-017.json",
+    "source/category-theory/math-audit-018-033.json",
+    "source/category-theory/math-audit-034-049.json",
+    "source/category-theory/math-audit-050-065.json",
+    "source/category-theory/math-audit-066-081.json",
+    "source/category-theory/math-audit-082-097.json",
+    "source/category-theory/math-audit-098-113.json",
+    "source/category-theory/math-audit-114-129.json",
+    "source/category-theory/math-audit-130-145.json",
+    "source/category-theory/math-audit-146-161.json",
+    "source/category-theory/math-audit-162-179.json",
+    "source/category-theory/math-audit-180-192.json"
+  ]
+}

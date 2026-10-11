@@ -1,0 +1,618 @@
+{
+  "version": 1,
+  "book": "category-theory",
+  "events": [
+    {
+      "operation": "CRLF_to_LF_only",
+      "pageLanguageChanges": [
+        {
+          "pdfPage": 66,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0066.md",
+          "beforeSha256": "5379e6753309fbf57a0946362f6c99378a4dadd17e4d85d0a585c0305baca518",
+          "afterSha256": "6567d79d5a75dc0bd389adbb31b420744409daeb2a68eb32487a075ad756b26a",
+          "crlfPairsRemoved": 29,
+          "beforeByteCount": 2639,
+          "afterByteCount": 2610,
+          "logicalUtf8CharacterCount": 2610,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 66,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0066.md",
+          "beforeSha256": "24a6de2144acc36bd4a658258e2c5f31d5e244a5cc7fd01fede5c3d6e72918f7",
+          "afterSha256": "89ec4305772662acbc075a0d81e04cc317e55c4c66cdaf16c430b8134b6f96ef",
+          "crlfPairsRemoved": 29,
+          "beforeByteCount": 2521,
+          "afterByteCount": 2492,
+          "logicalUtf8CharacterCount": 1548,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 136,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0136.md",
+          "beforeSha256": "3daa7531e571ab5401446219f9ee5f68b23c54a7f4d65fcde286f55f1d1a4677",
+          "afterSha256": "d8693f0c47e35fa7a57e3f298cdd1c1f298b05e3b81cc55673e40a3839a44d97",
+          "crlfPairsRemoved": 27,
+          "beforeByteCount": 2074,
+          "afterByteCount": 2047,
+          "logicalUtf8CharacterCount": 2047,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 136,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0136.md",
+          "beforeSha256": "9efdb1a9f0ed511a8d504bd65d102e4917bc66814e4f855e56fae79d7e4264e6",
+          "afterSha256": "73356c76826c6dd1519cd1bde1897078adbf48fdfd99270a208414dacaa59ad7",
+          "crlfPairsRemoved": 27,
+          "beforeByteCount": 2053,
+          "afterByteCount": 2026,
+          "logicalUtf8CharacterCount": 1206,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 186,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0186.md",
+          "beforeSha256": "78eae1dd01c9891bc8c53e6e81f0ed0c897b24d27cac275954bc1a266e83c9be",
+          "afterSha256": "4f46e0963b118d90616f405f9eb559320b2f91b1c33c9e5b44b197322982dfa7",
+          "crlfPairsRemoved": 115,
+          "beforeByteCount": 2432,
+          "afterByteCount": 2317,
+          "logicalUtf8CharacterCount": 2317,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 186,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0186.md",
+          "beforeSha256": "d7169299056ade8ffe92b7ef6e0a077ed156d1ca1e81d3cb8b646dbbba402a79",
+          "afterSha256": "59e4a91bcf7433e329c29e84a27f2bba4449679b05db5209492af8cc395c1e46",
+          "crlfPairsRemoved": 115,
+          "beforeByteCount": 2430,
+          "afterByteCount": 2315,
+          "logicalUtf8CharacterCount": 2291,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 187,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0187.md",
+          "beforeSha256": "72b738cb04ed7368d20e7d040c8cdeb36446f9a4f4caf8dfee3f6ddd7311cc75",
+          "afterSha256": "172e216ed9db66f6ce5c2ef022b2f6af3b4c73b886d0a43ed65a39ca3a13e9fc",
+          "crlfPairsRemoved": 72,
+          "beforeByteCount": 1943,
+          "afterByteCount": 1871,
+          "logicalUtf8CharacterCount": 1847,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 187,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0187.md",
+          "beforeSha256": "62f12cb1ce47e16dd32448e13ff57b455f40af99372c537e4849539297d00b2f",
+          "afterSha256": "669de6418cd02fe6eb55d8af27491bad0f8ff3024df99eeaee7cd9f6f1dbd689",
+          "crlfPairsRemoved": 72,
+          "beforeByteCount": 2038,
+          "afterByteCount": 1966,
+          "logicalUtf8CharacterCount": 1114,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 188,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0188.md",
+          "beforeSha256": "9024aef1476aca2db968ea86ce106538bb752112d0df4cccf970b898a0dd6e7b",
+          "afterSha256": "5f35c5d8caac6a61e025be57bc332a020d5c9f49ab28fcea3d0412a9e257e098",
+          "crlfPairsRemoved": 100,
+          "beforeByteCount": 2559,
+          "afterByteCount": 2459,
+          "logicalUtf8CharacterCount": 2451,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 188,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0188.md",
+          "beforeSha256": "4db9338fa9f681a5e69907b33faea58d80c105719358cb2a4ec9cac2bb752436",
+          "afterSha256": "013abff8b455542ff035ad27d1017880e4d48ea0eec9beb11fd395b9f431ce3d",
+          "crlfPairsRemoved": 100,
+          "beforeByteCount": 2697,
+          "afterByteCount": 2597,
+          "logicalUtf8CharacterCount": 1437,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 189,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0189.md",
+          "beforeSha256": "a17a940f5c4154a0534627146b9b4993fb842d073a5007d9c8f20731bf483b12",
+          "afterSha256": "aba95eff645aa9caf9680355926f2a186a27c074b384011b39896a29f1165f44",
+          "crlfPairsRemoved": 99,
+          "beforeByteCount": 2758,
+          "afterByteCount": 2659,
+          "logicalUtf8CharacterCount": 2641,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 189,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0189.md",
+          "beforeSha256": "9cd62c0ce519bc829a889312852b01702b335af548896b399e9ac159ab255fab",
+          "afterSha256": "816ab84ac37d84d24afdbd486bfb86bcd0d9a3edf6a631cd343074ff27b14990",
+          "crlfPairsRemoved": 99,
+          "beforeByteCount": 2799,
+          "afterByteCount": 2700,
+          "logicalUtf8CharacterCount": 1528,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 190,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0190.md",
+          "beforeSha256": "f5138da4237bf1c5942ae45427489d454854478cbd27655847c2caa0f9fb4095",
+          "afterSha256": "de1bfbbefcce3611be423114d061719b1b36469e392291f6280fa24789c34802",
+          "crlfPairsRemoved": 99,
+          "beforeByteCount": 2677,
+          "afterByteCount": 2578,
+          "logicalUtf8CharacterCount": 2562,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 190,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0190.md",
+          "beforeSha256": "49e9bebb44898a0008ac985b82958383cc3717ca9643642ac7a124724d61fe3c",
+          "afterSha256": "5f79cfb7df1fa6e8000e2a5356ce94f37e3677dca70d4c6fece2c8619e57e01c",
+          "crlfPairsRemoved": 99,
+          "beforeByteCount": 2887,
+          "afterByteCount": 2788,
+          "logicalUtf8CharacterCount": 1598,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 191,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0191.md",
+          "beforeSha256": "27887232d4747aaca69787f1a84a431e5463bf32424d1f6b77d29d51aa0f508e",
+          "afterSha256": "958a567aedca434efbaf46288873cc3da738a603aeae8f57eb62e1a3c6666e8d",
+          "crlfPairsRemoved": 102,
+          "beforeByteCount": 2644,
+          "afterByteCount": 2542,
+          "logicalUtf8CharacterCount": 2523,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 191,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0191.md",
+          "beforeSha256": "2577f3f59674d409a84c8842ef7653bc1e632b079544c61e1a76c4f3cb8949da",
+          "afterSha256": "d0d9aeae1fd4d8796dffb981489f9d095b54a085a9ef561187b4b50f7706c165",
+          "crlfPairsRemoved": 102,
+          "beforeByteCount": 2753,
+          "afterByteCount": 2651,
+          "logicalUtf8CharacterCount": 1524,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 192,
+          "language": "en",
+          "path": "source/category-theory/en/pdf-0192.md",
+          "beforeSha256": "0590f3a6df1a76e0d7dacb0b08ab6197803ab71a8db87488891c99e32c3b7e10",
+          "afterSha256": "562b19e3ac91ae05a202bbf47feb412dd69f89dc9a9b679e8bd3ab923d1ac3ba",
+          "crlfPairsRemoved": 97,
+          "beforeByteCount": 2591,
+          "afterByteCount": 2494,
+          "logicalUtf8CharacterCount": 2469,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        },
+        {
+          "pdfPage": 192,
+          "language": "zh",
+          "path": "source/category-theory/zh/pdf-0192.md",
+          "beforeSha256": "82101b0cc3fa8b3d2be32453dd2787bc3f5b6ac645ce2d4f109b6079bb2f0344",
+          "afterSha256": "c2d4a3805026bc262abed4882899a09aea5996e5b9a44e96dad8425261b26125",
+          "crlfPairsRemoved": 97,
+          "beforeByteCount": 2731,
+          "afterByteCount": 2634,
+          "logicalUtf8CharacterCount": 1545,
+          "actualTextCharactersUnchanged": true,
+          "logicalUtf8TextUnchanged": true
+        }
+      ],
+      "hashReferenceUpdates": [
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/66",
+          "pdfPage": 66,
+          "language": "zh",
+          "beforeSha256": "24a6de2144acc36bd4a658258e2c5f31d5e244a5cc7fd01fede5c3d6e72918f7",
+          "afterSha256": "89ec4305772662acbc075a0d81e04cc317e55c4c66cdaf16c430b8134b6f96ef"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/136",
+          "pdfPage": 136,
+          "language": "zh",
+          "beforeSha256": "9efdb1a9f0ed511a8d504bd65d102e4917bc66814e4f855e56fae79d7e4264e6",
+          "afterSha256": "73356c76826c6dd1519cd1bde1897078adbf48fdfd99270a208414dacaa59ad7"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/186",
+          "pdfPage": 186,
+          "language": "zh",
+          "beforeSha256": "d7169299056ade8ffe92b7ef6e0a077ed156d1ca1e81d3cb8b646dbbba402a79",
+          "afterSha256": "59e4a91bcf7433e329c29e84a27f2bba4449679b05db5209492af8cc395c1e46"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/187",
+          "pdfPage": 187,
+          "language": "zh",
+          "beforeSha256": "62f12cb1ce47e16dd32448e13ff57b455f40af99372c537e4849539297d00b2f",
+          "afterSha256": "669de6418cd02fe6eb55d8af27491bad0f8ff3024df99eeaee7cd9f6f1dbd689"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/188",
+          "pdfPage": 188,
+          "language": "zh",
+          "beforeSha256": "4db9338fa9f681a5e69907b33faea58d80c105719358cb2a4ec9cac2bb752436",
+          "afterSha256": "013abff8b455542ff035ad27d1017880e4d48ea0eec9beb11fd395b9f431ce3d"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/189",
+          "pdfPage": 189,
+          "language": "zh",
+          "beforeSha256": "9cd62c0ce519bc829a889312852b01702b335af548896b399e9ac159ab255fab",
+          "afterSha256": "816ab84ac37d84d24afdbd486bfb86bcd0d9a3edf6a631cd343074ff27b14990"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/190",
+          "pdfPage": 190,
+          "language": "zh",
+          "beforeSha256": "49e9bebb44898a0008ac985b82958383cc3717ca9643642ac7a124724d61fe3c",
+          "afterSha256": "5f79cfb7df1fa6e8000e2a5356ce94f37e3677dca70d4c6fece2c8619e57e01c"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/191",
+          "pdfPage": 191,
+          "language": "zh",
+          "beforeSha256": "2577f3f59674d409a84c8842ef7653bc1e632b079544c61e1a76c4f3cb8949da",
+          "afterSha256": "d0d9aeae1fd4d8796dffb981489f9d095b54a085a9ef561187b4b50f7706c165"
+        },
+        {
+          "path": "tmp/pdfs/category-theory-export/export-source-check.json",
+          "pointer": "/sourceHashes/192",
+          "pdfPage": 192,
+          "language": "zh",
+          "beforeSha256": "82101b0cc3fa8b3d2be32453dd2787bc3f5b6ac645ce2d4f109b6079bb2f0344",
+          "afterSha256": "c2d4a3805026bc262abed4882899a09aea5996e5b9a44e96dad8425261b26125"
+        },
+        {
+          "path": "source/category-theory/math-audit-066-081.json",
+          "pointer": "/pages/0/enSha256",
+          "pdfPage": 66,
+          "language": "en",
+          "beforeSha256": "5379e6753309fbf57a0946362f6c99378a4dadd17e4d85d0a585c0305baca518",
+          "afterSha256": "6567d79d5a75dc0bd389adbb31b420744409daeb2a68eb32487a075ad756b26a"
+        },
+        {
+          "path": "source/category-theory/math-audit-066-081.json",
+          "pointer": "/pages/0/zhSha256",
+          "pdfPage": 66,
+          "language": "zh",
+          "beforeSha256": "24a6de2144acc36bd4a658258e2c5f31d5e244a5cc7fd01fede5c3d6e72918f7",
+          "afterSha256": "89ec4305772662acbc075a0d81e04cc317e55c4c66cdaf16c430b8134b6f96ef"
+        },
+        {
+          "path": "source/category-theory/math-audit-130-145.json",
+          "pointer": "/pages/6/enSha256",
+          "pdfPage": 136,
+          "language": "en",
+          "beforeSha256": "3daa7531e571ab5401446219f9ee5f68b23c54a7f4d65fcde286f55f1d1a4677",
+          "afterSha256": "d8693f0c47e35fa7a57e3f298cdd1c1f298b05e3b81cc55673e40a3839a44d97"
+        },
+        {
+          "path": "source/category-theory/math-audit-130-145.json",
+          "pointer": "/pages/6/zhSha256",
+          "pdfPage": 136,
+          "language": "zh",
+          "beforeSha256": "9efdb1a9f0ed511a8d504bd65d102e4917bc66814e4f855e56fae79d7e4264e6",
+          "afterSha256": "73356c76826c6dd1519cd1bde1897078adbf48fdfd99270a208414dacaa59ad7"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/6/enSha256",
+          "pdfPage": 186,
+          "language": "en",
+          "beforeSha256": "78eae1dd01c9891bc8c53e6e81f0ed0c897b24d27cac275954bc1a266e83c9be",
+          "afterSha256": "4f46e0963b118d90616f405f9eb559320b2f91b1c33c9e5b44b197322982dfa7"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/6/zhSha256",
+          "pdfPage": 186,
+          "language": "zh",
+          "beforeSha256": "d7169299056ade8ffe92b7ef6e0a077ed156d1ca1e81d3cb8b646dbbba402a79",
+          "afterSha256": "59e4a91bcf7433e329c29e84a27f2bba4449679b05db5209492af8cc395c1e46"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/7/enSha256",
+          "pdfPage": 187,
+          "language": "en",
+          "beforeSha256": "72b738cb04ed7368d20e7d040c8cdeb36446f9a4f4caf8dfee3f6ddd7311cc75",
+          "afterSha256": "172e216ed9db66f6ce5c2ef022b2f6af3b4c73b886d0a43ed65a39ca3a13e9fc"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/7/zhSha256",
+          "pdfPage": 187,
+          "language": "zh",
+          "beforeSha256": "62f12cb1ce47e16dd32448e13ff57b455f40af99372c537e4849539297d00b2f",
+          "afterSha256": "669de6418cd02fe6eb55d8af27491bad0f8ff3024df99eeaee7cd9f6f1dbd689"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/8/enSha256",
+          "pdfPage": 188,
+          "language": "en",
+          "beforeSha256": "9024aef1476aca2db968ea86ce106538bb752112d0df4cccf970b898a0dd6e7b",
+          "afterSha256": "5f35c5d8caac6a61e025be57bc332a020d5c9f49ab28fcea3d0412a9e257e098"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/8/zhSha256",
+          "pdfPage": 188,
+          "language": "zh",
+          "beforeSha256": "4db9338fa9f681a5e69907b33faea58d80c105719358cb2a4ec9cac2bb752436",
+          "afterSha256": "013abff8b455542ff035ad27d1017880e4d48ea0eec9beb11fd395b9f431ce3d"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/9/enSha256",
+          "pdfPage": 189,
+          "language": "en",
+          "beforeSha256": "a17a940f5c4154a0534627146b9b4993fb842d073a5007d9c8f20731bf483b12",
+          "afterSha256": "aba95eff645aa9caf9680355926f2a186a27c074b384011b39896a29f1165f44"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/9/zhSha256",
+          "pdfPage": 189,
+          "language": "zh",
+          "beforeSha256": "9cd62c0ce519bc829a889312852b01702b335af548896b399e9ac159ab255fab",
+          "afterSha256": "816ab84ac37d84d24afdbd486bfb86bcd0d9a3edf6a631cd343074ff27b14990"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/10/enSha256",
+          "pdfPage": 190,
+          "language": "en",
+          "beforeSha256": "f5138da4237bf1c5942ae45427489d454854478cbd27655847c2caa0f9fb4095",
+          "afterSha256": "de1bfbbefcce3611be423114d061719b1b36469e392291f6280fa24789c34802"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/10/zhSha256",
+          "pdfPage": 190,
+          "language": "zh",
+          "beforeSha256": "49e9bebb44898a0008ac985b82958383cc3717ca9643642ac7a124724d61fe3c",
+          "afterSha256": "5f79cfb7df1fa6e8000e2a5356ce94f37e3677dca70d4c6fece2c8619e57e01c"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/11/enSha256",
+          "pdfPage": 191,
+          "language": "en",
+          "beforeSha256": "27887232d4747aaca69787f1a84a431e5463bf32424d1f6b77d29d51aa0f508e",
+          "afterSha256": "958a567aedca434efbaf46288873cc3da738a603aeae8f57eb62e1a3c6666e8d"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/11/zhSha256",
+          "pdfPage": 191,
+          "language": "zh",
+          "beforeSha256": "2577f3f59674d409a84c8842ef7653bc1e632b079544c61e1a76c4f3cb8949da",
+          "afterSha256": "d0d9aeae1fd4d8796dffb981489f9d095b54a085a9ef561187b4b50f7706c165"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/12/enSha256",
+          "pdfPage": 192,
+          "language": "en",
+          "beforeSha256": "0590f3a6df1a76e0d7dacb0b08ab6197803ab71a8db87488891c99e32c3b7e10",
+          "afterSha256": "562b19e3ac91ae05a202bbf47feb412dd69f89dc9a9b679e8bd3ab923d1ac3ba"
+        },
+        {
+          "path": "source/category-theory/math-audit-180-192.json",
+          "pointer": "/pages/12/zhSha256",
+          "pdfPage": 192,
+          "language": "zh",
+          "beforeSha256": "82101b0cc3fa8b3d2be32453dd2787bc3f5b6ac645ce2d4f109b6079bb2f0344",
+          "afterSha256": "c2d4a3805026bc262abed4882899a09aea5996e5b9a44e96dad8425261b26125"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0066.json",
+          "pointer": "/englishSha256",
+          "pdfPage": 66,
+          "language": "en",
+          "beforeSha256": "5379e6753309fbf57a0946362f6c99378a4dadd17e4d85d0a585c0305baca518",
+          "afterSha256": "6567d79d5a75dc0bd389adbb31b420744409daeb2a68eb32487a075ad756b26a"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0066.json",
+          "pointer": "/chineseSha256",
+          "pdfPage": 66,
+          "language": "zh",
+          "beforeSha256": "24a6de2144acc36bd4a658258e2c5f31d5e244a5cc7fd01fede5c3d6e72918f7",
+          "afterSha256": "89ec4305772662acbc075a0d81e04cc317e55c4c66cdaf16c430b8134b6f96ef"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0136.json",
+          "pointer": "/englishSha256",
+          "pdfPage": 136,
+          "language": "en",
+          "beforeSha256": "3daa7531e571ab5401446219f9ee5f68b23c54a7f4d65fcde286f55f1d1a4677",
+          "afterSha256": "d8693f0c47e35fa7a57e3f298cdd1c1f298b05e3b81cc55673e40a3839a44d97"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0136.json",
+          "pointer": "/chineseSha256",
+          "pdfPage": 136,
+          "language": "zh",
+          "beforeSha256": "9efdb1a9f0ed511a8d504bd65d102e4917bc66814e4f855e56fae79d7e4264e6",
+          "afterSha256": "73356c76826c6dd1519cd1bde1897078adbf48fdfd99270a208414dacaa59ad7"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0186.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 186,
+          "language": "en",
+          "beforeSha256": "78eae1dd01c9891bc8c53e6e81f0ed0c897b24d27cac275954bc1a266e83c9be",
+          "afterSha256": "4f46e0963b118d90616f405f9eb559320b2f91b1c33c9e5b44b197322982dfa7"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0186.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 186,
+          "language": "zh",
+          "beforeSha256": "d7169299056ade8ffe92b7ef6e0a077ed156d1ca1e81d3cb8b646dbbba402a79",
+          "afterSha256": "59e4a91bcf7433e329c29e84a27f2bba4449679b05db5209492af8cc395c1e46"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0187.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 187,
+          "language": "en",
+          "beforeSha256": "72b738cb04ed7368d20e7d040c8cdeb36446f9a4f4caf8dfee3f6ddd7311cc75",
+          "afterSha256": "172e216ed9db66f6ce5c2ef022b2f6af3b4c73b886d0a43ed65a39ca3a13e9fc"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0187.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 187,
+          "language": "zh",
+          "beforeSha256": "62f12cb1ce47e16dd32448e13ff57b455f40af99372c537e4849539297d00b2f",
+          "afterSha256": "669de6418cd02fe6eb55d8af27491bad0f8ff3024df99eeaee7cd9f6f1dbd689"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0188.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 188,
+          "language": "en",
+          "beforeSha256": "9024aef1476aca2db968ea86ce106538bb752112d0df4cccf970b898a0dd6e7b",
+          "afterSha256": "5f35c5d8caac6a61e025be57bc332a020d5c9f49ab28fcea3d0412a9e257e098"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0188.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 188,
+          "language": "zh",
+          "beforeSha256": "4db9338fa9f681a5e69907b33faea58d80c105719358cb2a4ec9cac2bb752436",
+          "afterSha256": "013abff8b455542ff035ad27d1017880e4d48ea0eec9beb11fd395b9f431ce3d"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0189.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 189,
+          "language": "en",
+          "beforeSha256": "a17a940f5c4154a0534627146b9b4993fb842d073a5007d9c8f20731bf483b12",
+          "afterSha256": "aba95eff645aa9caf9680355926f2a186a27c074b384011b39896a29f1165f44"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0189.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 189,
+          "language": "zh",
+          "beforeSha256": "9cd62c0ce519bc829a889312852b01702b335af548896b399e9ac159ab255fab",
+          "afterSha256": "816ab84ac37d84d24afdbd486bfb86bcd0d9a3edf6a631cd343074ff27b14990"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0190.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 190,
+          "language": "en",
+          "beforeSha256": "f5138da4237bf1c5942ae45427489d454854478cbd27655847c2caa0f9fb4095",
+          "afterSha256": "de1bfbbefcce3611be423114d061719b1b36469e392291f6280fa24789c34802"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0190.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 190,
+          "language": "zh",
+          "beforeSha256": "49e9bebb44898a0008ac985b82958383cc3717ca9643642ac7a124724d61fe3c",
+          "afterSha256": "5f79cfb7df1fa6e8000e2a5356ce94f37e3677dca70d4c6fece2c8619e57e01c"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0191.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 191,
+          "language": "en",
+          "beforeSha256": "27887232d4747aaca69787f1a84a431e5463bf32424d1f6b77d29d51aa0f508e",
+          "afterSha256": "958a567aedca434efbaf46288873cc3da738a603aeae8f57eb62e1a3c6666e8d"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0191.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 191,
+          "language": "zh",
+          "beforeSha256": "2577f3f59674d409a84c8842ef7653bc1e632b079544c61e1a76c4f3cb8949da",
+          "afterSha256": "d0d9aeae1fd4d8796dffb981489f9d095b54a085a9ef561187b4b50f7706c165"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0192.json",
+          "pointer": "/sourceSha256/en",
+          "pdfPage": 192,
+          "language": "en",
+          "beforeSha256": "0590f3a6df1a76e0d7dacb0b08ab6197803ab71a8db87488891c99e32c3b7e10",
+          "afterSha256": "562b19e3ac91ae05a202bbf47feb412dd69f89dc9a9b679e8bd3ab923d1ac3ba"
+        },
+        {
+          "path": "source/category-theory/review/pdf-0192.json",
+          "pointer": "/sourceSha256/zh",
+          "pdfPage": 192,
+          "language": "zh",
+          "beforeSha256": "82101b0cc3fa8b3d2be32453dd2787bc3f5b6ac645ce2d4f109b6079bb2f0344",
+          "afterSha256": "c2d4a3805026bc262abed4882899a09aea5996e5b9a44e96dad8425261b26125"
+        }
+      ],
+      "actualTextCharactersUnchanged": true,
+      "textEqualityDefinition": "Strict UTF-8 strings are exactly equal after replacing only CRLF with LF; lone CR is rejected.",
+      "primaryAndIndependentBindingsCurrentBeforeMigration": true,
+      "allPagePrimaryBindingsChecked": 192,
+      "allPageIndependentBindingsChecked": 192,
+      "independentContentReviewRetained": true,
+      "reviewScope": "Existing recorded content reviews remain valid because only line-ending bytes change; this migration performs no new visual or mathematical review.",
+      "outputPdfSha256BeforeAndAfter": "709036a7ff2b46d772e44603c781f5313fa416159d341c1caef208066d6de6c5",
+      "outputPdfRewritten": false,
+      "exportReadingBodiesUnchanged": true,
+      "migrationId": "33b3fb911a387fa3f156f1338d39b23739f96992f671d446d8e66caa94c78e94"
+    }
+  ]
+}

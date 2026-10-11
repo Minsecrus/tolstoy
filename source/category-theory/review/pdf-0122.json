@@ -1,0 +1,39 @@
+{
+  "pdfPage": 122,
+  "printedPage": "113",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0122-family.png",
+      "widthPt": 80,
+      "clipPt": [
+        253,
+        311,
+        333,
+        341
+      ],
+      "sha256": "4d5f53c13f6b61599f18efb18bcd4876ed3d612a6f75971f2116eb13f9ba7dd9"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0122-product-pair.png",
+      "widthPt": 78,
+      "clipPt": [
+        254,
+        398,
+        332,
+        434
+      ],
+      "sha256": "57b5655569c8a39a4ba4a6880c03846713cff0327c1573397eb0d7a24c1d3965"
+    }
+  ],
+  "sourceHashes": {
+    "en": "a0d1dc9d12ed538ed6c5ebe83dc22ca7d8d439f3b4499c5d3e9b67af3b63997f",
+    "zh": "00888d0554191d71f2c90ffe7b4c184d10f477693b8695078202b2ef8cb76b92"
+  }
+}

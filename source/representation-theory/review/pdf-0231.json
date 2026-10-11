@@ -1,0 +1,19 @@
+{
+  "pdfPage": 231,
+  "printedPage": "223",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "All nine mathematical bibliography entries checked visually. Corrected text-layer misreadings [3] to original [S] and [MCL] to original [McL]."
+  ],
+  "diagrams": [],
+  "enSha256": "d53529eaff1857b44ea45e43412038d3eaad874e45b453c5deb484c708931a2d",
+  "zhSha256": "f1a2ea06bce94f1290ae0b16b8928637b40d3f2f24a0c1dd987bfb11cef52f96",
+  "primaryReviewer": "representation_229_238"
+}

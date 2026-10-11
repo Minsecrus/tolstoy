@@ -1,0 +1,46 @@
+{
+  "pdfPage": 172,
+  "printedPage": "164",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the original rendered page, compared all text and formulas, and reread both current manuscripts. Chinese follows the clarified natural-sentence preference without extra conceptual explanations.",
+    "Gabriel theorem, sink/source definitions and both diagrams, reversed quiver, kernel definition of F_i^+ with all domains and indices."
+  ],
+  "actualReviewScope": "Gabriel theorem, sink/source definitions and both diagrams, reversed quiver, kernel definition of F_i^+ with all domains and indices.",
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0172-sink.png",
+      "widthPt": 64.5,
+      "clipPt": [
+        151,
+        174,
+        215.5,
+        221
+      ],
+      "sha256": "bdbe0c88dcbec766bdedf585192f374d7db8534da0ee2637b6238b8d40566d52"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0172-source.png",
+      "widthPt": 64.5,
+      "clipPt": [
+        151,
+        251,
+        215.5,
+        296
+      ],
+      "sha256": "603fc51989c98df0a471fc74a966cdbcdf4c470373b1f85348b8f909c80bb65b"
+    }
+  ],
+  "enSha256": "b463b4e4e299d756356fb438ab557ba7555c711d5193f44762d6973b93e19e36",
+  "zhSha256": "8084e69c1d6117de971688480d361e12825486d853fc3c01381dc2a15db8c445",
+  "sourceSha256": {
+    "en": "b463b4e4e299d756356fb438ab557ba7555c711d5193f44762d6973b93e19e36",
+    "zh": "8084e69c1d6117de971688480d361e12825486d853fc3c01381dc2a15db8c445"
+  }
+}

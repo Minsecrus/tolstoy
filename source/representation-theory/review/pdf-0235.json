@@ -1,0 +1,23 @@
+{
+  "pdfPage": 235,
+  "printedPage": "227",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "All 85 flat index entries and their original printed page references were visually checked. Reading order is full left column followed by full right column; wrapped continuation lines do not create child entries. Index total across PDF 233–236: 230 entries.",
+    "Independent audit: minimal polynomial aligned to 最小多项式 used by printed-page-95 prose."
+  ],
+  "diagrams": [],
+  "enSha256": "bd696a7272a3b40845d1b48dcde15e45eaf5875a7a11a9c1bc458488838737fc",
+  "zhSha256": "0f35fc375ff2b6d1af169647d5c376a0b3c0d4aba49b39c2aa65f1fe7d4031bb",
+  "primaryReviewer": "representation_229_238",
+  "indexEntryCount": 85,
+  "indexReadingOrder": "left-column-then-right-column",
+  "indexEntryDepth": 0
+}

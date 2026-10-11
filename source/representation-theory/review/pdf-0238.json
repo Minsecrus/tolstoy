@@ -1,0 +1,23 @@
+{
+  "pdfPage": 238,
+  "printedPage": null,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "styleReviewed": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Personally viewed the rendered original scan and compared the complete English transcription and Chinese translation. No additional mathematical or historical explanations added.",
+    "Series advertisement transcribed and translated in full, with original descending volume numbers represented as literal bold text to avoid Markdown renumbering. Names, accents, years and titles additionally checked from 300 dpi renders. This page has no visible printed page number and is excluded from reading-body navigation."
+  ],
+  "diagrams": [],
+  "enSha256": "e7bebac9005703374cfb8142181c1782064d3ccdbebd88e313634e39b442ac95",
+  "zhSha256": "6f6ac078210bea837a95cd327a268e0d92344e4b5f3b41d58614b5d11cb7307b",
+  "primaryReviewer": "representation_229_238",
+  "advertisementVolumeRange": [
+    37,
+    12
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pdfPage": 13,
+  "printedPage": "4",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the supplied page image and compared the bilinearity equations and scalar-product mapping with intro.tex.",
+    "Cropped the discrete-space universal-property diagram from the supplied PDF at 300 dpi and visually inspected the crop.",
+    "The opening predicate continues PDF page 12. The final sentence ends with an intentional fragment that continues on PDF page 14.",
+    "Chinese sentences were rechecked for natural wording and clear referents while preserving every original statement, mathematical condition and formula; no additional conceptual or proof explanations were added.",
+    "The Chinese phrase spanning PDF pages 13–14 follows natural Chinese word order; the entire original phrase universal bilinear map out of U times V is retained across the page boundary."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0013-discrete-universal.png",
+      "widthPt": 113.5,
+      "clipPt": [
+        223.5,
+        227,
+        337,
+        283.5
+      ],
+      "sha256": "35329f4705a734eca05701391c1812bff2339fc2466ee0e7f7bd629d438226f1"
+    }
+  ],
+  "markdownSha256": {
+    "en": "f4267bc4e01d2f2ee61fbe7cd680e3c1c2bf95d3e573936f34cbe0b6dc4e0456",
+    "zh": "e98bf481644b04ffd26710f7adaf748ef805568c4f623f46fe31a49e8bf24d36"
+  }
+}

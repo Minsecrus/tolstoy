@@ -1,0 +1,18 @@
+{
+  "pdfPage": 97,
+  "printedPage": "89",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Hamilton 历史插曲逐句核对，完整保留十四行诗摘句与原书全部新术语列表；英文 quandrantal versor 拼写忠实保留。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "c58fd0908429e860c887f5cd382ad901f4320375c22ca6675e5b94ac5c9b1869",
+  "zhSha256": "fa3d019b1c5453a0bcde51a1db06e0b7e2b596673e18e7c61514f59aa407d0d6"
+}

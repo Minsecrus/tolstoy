@@ -1,0 +1,32 @@
+{
+  "pdfPage": 56,
+  "printedPage": "47",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page begins with the continuation of Remark 2.1.4 from PDF 55.",
+    "Page ends with given a, continued on PDF 57 after Figure 2.1.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0056-topology-adjunctions.png",
+      "widthPt": 49,
+      "clipPt": [
+        269,
+        340,
+        318,
+        395
+      ],
+      "sha256": "356fe3b69dddec9c89a9832615e46e0316c9657986f5f17cb68215a84ba23dbb"
+    }
+  ],
+  "sourceSha256": {
+    "en": "bb42c13280229408e6233d46f15fd29984aad76c797f88ed3e5fe53bd8622aa9",
+    "zh": "67b8180d3bcf5a328e6e8b2101a7a22f25b9f8bacacbfa77019ad783672ca73a"
+  }
+}

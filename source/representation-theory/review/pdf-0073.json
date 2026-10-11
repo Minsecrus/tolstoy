@@ -1,0 +1,18 @@
+{
+  "pdfPage": 73,
+  "printedPage": "65",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official corrections, Subsection 4.4: finite G is required for eigenvalues to be roots of unity; English preserved, Chinese finite condition added with visible translator note."
+  ],
+  "diagrams": [],
+  "enSha256": "3df3ff30ce9ef899508e22546b9fc5a19cb83f0c700d5cff15e16996f156427f",
+  "zhSha256": "1348bf7849cee037b59452acedae4888528963d3a82beb0d1f015f1efc6fca8d",
+  "reviewer": "representation_069_088",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0073.png"
+}

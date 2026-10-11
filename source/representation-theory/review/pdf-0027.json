@@ -1,0 +1,40 @@
+{
+  "pdfPage": 27,
+  "printedPage": 19,
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "两个箭图按原扫描 300 dpi 裁切，实际查看保留所有箭头与源/终点标签。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0027-example.png",
+      "widthPt": 91,
+      "clipPt": [
+        137,
+        248,
+        228,
+        294
+      ],
+      "sha256": "f117e2c0cb10256a09dbf12c7dae810ae6641ba4d6b33b45a9e9f935955d9a85"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0027-source-target.png",
+      "widthPt": 55,
+      "clipPt": [
+        156,
+        355,
+        211,
+        376
+      ],
+      "sha256": "fa151abad236c44d2595feea023fa71c3a8777e81ee3c3562b4a1f6381db2455"
+    }
+  ],
+  "reviewer": "representation_001_028",
+  "enSha256": "ce32a5880eeca048bc36f0bca54309bbe5273d23bd2202490a3f31c22b80b78a",
+  "zhSha256": "9e5ca96d2b6f1d8d226c971f2e8bda63560799957067fc3cf6eb401772268516"
+}

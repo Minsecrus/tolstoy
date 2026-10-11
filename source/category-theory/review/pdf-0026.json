@@ -1,0 +1,24 @@
+{
+  "pdfPage": 26,
+  "printedPage": "17",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Viewed the rendered page and checked the prose and formulas against cfnt.tex and macros.tex.",
+    "Preserved Exercises 1.1.14–1.1.15, heading 1.2, Definition 1.2.1, and the opening of Remarks 1.2.2(a).",
+    "The sentence ending in the displayed F(A_0) \\to F(A_n) continues with ‘in B’ on PDF page 27; preserved without added punctuation.",
+    "Expanded Toph, category and object-set macros, and verified functor composition and identity subscripts.",
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts.",
+    "Independent audit: placed the original in B qualification before the final displayed arrow in the Chinese sentence for natural word order; its English source still continues on PDF 27."
+  ],
+  "diagrams": [],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "738aaf9e068c4af1aeffc2c4159ae9d7ff869cba8e748544383455de91071c15",
+    "zh": "56533c530d48b270ce33e265c7b06df7c93a04597cc1b32afd378fa402a98e91"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 42,
+  "printedPage": "34",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Checked every bimodule handedness, quotient relation, associativity map, and both actions on Hom_A(V,W)."
+  ],
+  "diagrams": [],
+  "enSha256": "4348ab13710796821fbc18c76e936daf46e89b941a29c5763ba0d00fbd1fc686",
+  "zhSha256": "09ceb2cdcdb69eb1ff10e2a7fb2d04eaffaec731fcb610f792e2b021be9f104c",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0042.png",
+  "officialErrataChecked": true
+}

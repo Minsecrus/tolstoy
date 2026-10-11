@@ -1,0 +1,78 @@
+{
+  "status": "complete",
+  "reviewKind": "production_build_browser_and_standalone_math_asset_review",
+  "result": "pass_with_final_local_browser_recheck_unavailable",
+  "siteBase": "http://127.0.0.1:4173/tolstoy/",
+  "sourcePdfSha256": "2dd757632494b71e95e8b70520e3745ae22b6df5632b7352cc465fcaac6a6563",
+  "pdfSha256": "c6cc12a861a8177efb8b3bf2fa7a66b3f3118978b3ca937a55a5d3f4e7fa15b6",
+  "scope": "实际浏览器检查涵盖书目页、第四章、第六章、第七章和索引；原文与译文内容审查另见全238页的主译及独立审校记录。最后一次网页表格线样式修复由专项回归、全部公共缓存预升级和全站构建验证，未据此声称在修复后的本地浏览器重新看过表格。",
+  "browserChecksBeforeFinalSvgStyleRepair": {
+    "home": {
+      "majorSectionLinks": 12,
+      "pdfLinks": 0,
+      "irrelevantPublicationOrProcessMetadata": false
+    },
+    "chapter004": {
+      "mathSvgImages": 852,
+      "failedVisibleImages": 0,
+      "tensorProductTablesActuallyViewed": true,
+      "observedMissingTableRules": true
+    },
+    "chapter006": {
+      "mathSvgImages": 751,
+      "originalDiagramImages": 48,
+      "bodyFontSize": "17px",
+      "bodyLineHeight": "32.3px",
+      "proseTextIndent": "34px",
+      "emptyStandaloneSourceAnchorHeightPx": 0,
+      "diagramParagraphTextAlign": "center",
+      "diagramParagraphTextIndent": "0px",
+      "firstFiveDiagramWidthsPx": [298.57, 252.7, 253.54, 300.48, 342.44],
+      "failedVisibleImages": 0,
+      "readingMetadataBars": 0,
+      "pdfLinks": 0,
+      "footnoteReferenceAndBacklinkActuallyClicked": true,
+      "footnoteMathematicsLoaded": true,
+      "screenshot": "tmp/pdfs/representation-theory-export/final-website-reading.png"
+    },
+    "chapter007": {
+      "tableBodyRows": 14,
+      "deRhamFootnoteActuallyViewed": true,
+      "footnoteReferenceAndBacklinkActuallyClicked": true,
+      "footnoteMathematicsLoaded": true,
+      "footnoteTextComplete": true
+    },
+    "index": {
+      "entries": 230,
+      "emptySourceAnchorHeightPx": 0,
+      "pdfLinks": 0,
+      "firstAndLastEntriesActuallyViewed": true
+    }
+  },
+  "finalSvgTableStyleRepair": {
+    "reason": "MathJax表格线样式原在SVG外部样式表内，提取独立SVG时没有带入。",
+    "stylesMatchedToInstalledMathJax": true,
+    "focusedRegressionChecksPassed": 7,
+    "publicCacheFilesScanned": 22279,
+    "publicCacheFilesUpgraded": 136,
+    "secondDryRunChanges": 0,
+    "existingFormulaUrlsAndGeometryPreserved": true,
+    "unrelatedSvgFilesByteUnchanged": true,
+    "cacheUpgradeCompletedBeforeBuild": true,
+    "regressionScript": "scripts/check-math-svg-tables.mjs"
+  },
+  "finalBuild": {
+    "status": "passed",
+    "command": "npm run docs:build",
+    "base": "/tolstoy/",
+    "nodeHeapLimitMb": 12288,
+    "reportedSeconds": 258.66,
+    "nativeFootnoteChecksPassed": true,
+    "translatedPdfFilesInWebsite": 0
+  },
+  "finalLocalBrowserRecheck": {
+    "status": "unavailable",
+    "reason": "预览服务重启后，内置浏览器拒绝了新的本地连接。保留此前实际DOM及截图证据，未冒称修复后重新实际浏览通过。"
+  },
+  "unresolvedContentOrBuildIssues": []
+}

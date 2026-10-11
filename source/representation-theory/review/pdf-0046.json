@@ -1,0 +1,19 @@
+{
+  "pdfPage": 46,
+  "printedPage": "38",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "300dpi verification of Casimir factors lambda(lambda+2)/2 and mu(mu-2)/2, all bounds 1<=i<=n+1 and 0<=j<=lambda, and Jacobson–Morozov cross-page statement."
+  ],
+  "diagrams": [],
+  "enSha256": "972af997a4447f056a3f3240186b9d7e76b03d21bd652e81fda5d415e8feee95",
+  "zhSha256": "a8b57e6649688bec0dc366daea75571b5a80364c0c2f6c2c955a0b6b7afa7ec9",
+  "reviewer": "representation_029_048",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0046.png",
+  "officialErrataChecked": true
+}

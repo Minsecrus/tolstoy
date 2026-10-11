@@ -1,0 +1,17 @@
+{
+  "pdfPage": 117,
+  "printedPage": "109",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Official erratum: Problem 5.10.2(f) pairing has second argument Ind_H^G(V), not Ind_H^G(V*); English preserves original, Chinese corrects with visible note."
+  ],
+  "diagrams": [],
+  "reviewer": "representation_109_128",
+  "enSha256": "9485d76ffbcbf775cd03285d1711e1c27ad9963331678f0589483486542774c4",
+  "zhSha256": "5c89f379653e69a5bf6df49123d1ac4d29b1491ab40308fbb812ab5d64b8e097"
+}

@@ -1,0 +1,22 @@
+{
+  "pdfPage": 132,
+  "printedPage": "124",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Historical prose retained in full; page boundary continues the discussion of gauge variation."
+  ],
+  "diagrams": [],
+  "primaryReviewer": "representation_129_148",
+  "visualEvidence": "tmp/pdfs/representation-theory/pages/pdf-0132.png",
+  "sourceHashes": {
+    "en": "defb3336ad8550d62c46449c47672c15c5ed7a6f0a407fafde9abe187835e95d",
+    "zh": "57b2922959e3b92d076ed84915d9e3b525f76b5f6ab727756de3e63fd918279d"
+  },
+  "enSha256": "defb3336ad8550d62c46449c47672c15c5ed7a6f0a407fafde9abe187835e95d",
+  "zhSha256": "57b2922959e3b92d076ed84915d9e3b525f76b5f6ab727756de3e63fd918279d"
+}

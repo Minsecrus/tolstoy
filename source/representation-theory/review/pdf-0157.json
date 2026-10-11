@@ -1,0 +1,19 @@
+{
+  "pdfPage": 157,
+  "printedPage": "149",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "根据官方勘误，中文6.1.5(a)(b)加无自环条件，(a)删除xi≥0及二次型交叉项的1/2；英文忠实保留原书。"
+  ],
+  "diagrams": [],
+  "enSha256": "6be585af993f5b56c787e113585524a608ae03d22f2399fba28b9f53c4e2ec39",
+  "zhSha256": "065111344ff0610e6c875b3a9df54b16b59fe93ce85b0b2962f13954bc77750c",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0157.png"
+}

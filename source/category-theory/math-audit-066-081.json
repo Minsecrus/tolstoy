@@ -1,0 +1,235 @@
+{
+  "status": "complete",
+  "pdfPageRange": [
+    66,
+    81
+  ],
+  "printedPageRange": [
+    57,
+    72
+  ],
+  "reviewer": "independent reviewer; did not author these pages",
+  "method": "Personally viewed every original page and all 28 diagram crops, then compared the complete English transcription and Chinese translation with the source page, extracted text layer and matching official TeX where relevant.",
+  "pages": [
+    {
+      "pdfPage": 66,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对习题2.2.10(b)及2.2.11–2.2.14：Fix子范畴由单位／余单位同构限定，充满忠实与余单位同构的等价条件，逆像及投影的伴随、量词提示、预复合函子定义和三个伴随图的方向及标签。",
+      "enSha256": "6567d79d5a75dc0bd389adbb31b420744409daeb2a68eb32487a075ad756b26a",
+      "zhSha256": "89ec4305772662acbc075a0d81e04cc317e55c4c66cdaf16c430b8134b6f96ef",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 67,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对2.3节引言、自由向量空间泛性质的两种表述、嵌入eta_S的元素映射、式(2.7)三角形，以及定义2.3.1的开头与P／Q输入图；保留向下一页的定义接续。",
+      "enSha256": "7fa46cff3e5dc9b4ec6531fef11a2cf3ffbaf403d582f07b82f2f4b8aded8b16",
+      "zhSha256": "fd318771ceaae514af151ce7fe8574f88f4800df88e414f3f75176d2753c8b79",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 68,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对逗号范畴对象三元组及态射对的全部条件、交换方形P(f)／Q(g)／h／hprime、注2.3.2典范函子和二维自然变换、例2.3.3切片对象／态射定义及两幅图的方向和标签。",
+      "enSha256": "52372ebd4c07a99ea8e9f9a81970b6b4f1420199438a3dae3f705e27999bb0f5",
+      "zhSha256": "6c9518dd7c45cfaca451e6354f0eb15b43b3fa47b9deb60ad8699df1cd51da08",
+      "unresolved": [],
+      "notes": [
+        "独立二审修正中文措辞：把“关于这一性质是普遍的”改为“对于这一性质具有泛性”，准确表达 universal 的范畴论含义。英文、公式和图标签保持原样。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 69,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对切片逗号范畴的三元组化为二元组、余切片的箭头反向；例2.3.4中逗号范畴对象、态射、图(2.7)比较及G(B)=G(Bprime)时的记号风险；引理2.3.5及证明起始片段。",
+      "enSha256": "dfb980b6aa7930e6249838ddf513218f610cd87f092beb2346628c2a85945b35",
+      "zhSha256": "08691831bef4395eb8bd00042632f198b85f7cef757f41818f22d7065cbb72e7",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 70,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对引理2.3.5证明末段与式(2.8)、转置等价条件；定理2.3.6的两项对应、所有对象上的始对象条件、证明的化约与唯一性论证、式(2.9)和末尾逗号范畴态射表达式。",
+      "enSha256": "29baa6848c8c4f2e2d50558ff68e6ac166a4c7efd770208865737b3adb5bcad2",
+      "zhSha256": "40157b5a657d797071b047c1898a4dc774560ff50cb1c4e900cb93d4af700040",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 71,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对定理2.3.6证明的唯一性接续及存在性：余单位分量的唯一态射、自然性两幅交换图与两种复合相等、第二条三角恒等式及利用始对象性质的两幅完整图；保留至下一页的证明接续。",
+      "enSha256": "0f2b68f0d9210e5500e51fe3a7885a00a71ee4aa9be975e7c2f4961cc534b4dc",
+      "zhSha256": "4c5205e80df2f2739adbdcf8c022d0aa7c693b6609a1c14d5839840c756d2293",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 72,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对第二条三角恒等式的最终等式；推论2.3.7两方向和每个A的量词，构造F(A)／F(f)和自然变换eta的证明及交换图；全部习题2.3.8–2.3.11，包括至少一个U(A)至少两元素的假设和单位单射结论。",
+      "enSha256": "3676e2ad60a34530a23f22b5ce9f1e44118729ec5ac133de7a7e3f9307265685",
+      "zhSha256": "f570922e12464f5a6345fbdb5d0df905bc6ba29b452960fcf816fc194d097075",
+      "unresolved": [],
+      "notes": [
+        "独立二审修正中文句式：“正如所需”改为“得到所需结论”，推论证明的“仅当／当”改用“必要性／充分性”。两方向的数学内容与全部条件保持原样。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 73,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对习题2.3.12：部分函数二元组、S包含于A、函数S到B、括号说明、Par与带指定元素集合的范畴Set_*等价以及余切片表述要求。",
+      "enSha256": "077fd3ee5f0a48930fbc1d42431833d292a9c64ce584d422fd307de80bf7a0b4",
+      "zhSha256": "59d720f3a19151468fd3ade572558c087ef4c8aa45ef09d170e8dbfd31454a3f",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 74,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对第3章标题与全部引言段落：集合／函数的应用例子、本章三节目的、大／小汇集之分、后文逻辑依赖说明、读者的公理集合论背景和传统／范畴方法比较。",
+      "enSha256": "8ec6c9cf213d617183b40ab8b48b7d2d896da8b1d6731aebd17aca372f209930",
+      "zhSha256": "2f724eda8b8277edb9cf54726f74e77aac333a18fa2775abd95084ec3fc4aa25",
+      "unresolved": [],
+      "notes": [
+        "独立二审调整第3章引言的中文句式，包括纯数学的联系、历史一节的目的与逻辑依赖、两种集合论方法的比较；保留英文原有全部内容，未添加解释。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 75,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对3.1节引言、无额外结构的集合描述、实数集的序／域／度量、函数的点指派、复合及结合律、恒等函数和跨页结论；四幅点集／函数／复合插图逐张与原图对比。",
+      "enSha256": "aba62fc00255216629899a14645582b9990838b9e69b9997635f0dd1ca892a9b",
+      "zhSha256": "22232db7707102b70409a1e3ee6cd08442c13bc19e92432d07cd4e6ddff782b7",
+      "unresolved": [],
+      "notes": [
+        "独立二审把无距离结构的描述改为“也谈不上一个点离另一个点近不近”，使中文自然；原意、公式和插图保持原样。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 76,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对Set范畴陈述、空集始对象的两个完整论证，包括不交子集之并和有限集合函数计数乘法法则；非空集合到空集不存在函数；单元素集合的终对象性质和元素与函数的对应。",
+      "enSha256": "fc0ea8a019e099650e6153bdc0cb78b8c9a4b4cb577bb38a0168d49d66a72714",
+      "zhSha256": "c3f3e1bf914186cbf0539edb40203550ce6e853d98c186c2e1346e71430ccfeb",
+      "unresolved": [],
+      "notes": [
+        "独立二审把页首句式改为“光说这一点，还不能把问题说清楚：范畴有许多，大多数都与集合范畴大不相同。”保留原句含义及后续全部论证。"
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 77,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对二元及指标族积的全部元素和相等条件；和、不交并、包含函数的像之并／交、有限元素数、与普通并的区分和4对5元素例子；集合族的和与有限性条件，及几何示意图。",
+      "enSha256": "3c133337ee0805181362107a5a672921b3f0575e55dd188a90a9aa393b35b81b",
+      "zhSha256": "54f4a549f4740e54a600c8c794640901c358dd9f2b0e7063280c77b0e69a1d54",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 78,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对函数集合A^B的方向和常值族积；有限基数乘法／加法／幂及三条同构；二元素集合、特征函数成员／非成员两种分支、逆像集合、互逆过程、一一对应和幂集记号。",
+      "enSha256": "ac810b0ce3779c04d50b23a3992b61f7549e0ec9f504eeaaa0ccfea723fe1a1f",
+      "zhSha256": "3d69c672ec980ca794e601294d15c39744d4e7ae152dbd3944b36a440f215e55",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 79,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对按性质定义子集的讨论、平行函数与等化子；商集和等价类、群正规子群的gh^-1条件、商映射满射与等价关系、式(3.1)的全部量词／蕴含、唯一分解与对应；两幅图标签和虚线箭头。",
+      "enSha256": "747c9daf716af713fc44cfe34570a2bbc26dc1255345556cf300eab96de81a17",
+      "zhSha256": "b23081752067453f457bd664e96e5df7c63051136911ee18e20c573e59af1844",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 80,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对自然数递归序列的存在唯一性、所有n上的递推式、0与后继s、函数版本x(0)=a及x复合s=r复合x；截面／右逆定义、满射和选择公理；全部基础概念段落与下一页问题接续。",
+      "enSha256": "d1f1c53edb65011b4cc18a5fbdca9550850555c28de000519484f004045615fb",
+      "zhSha256": "3d4f7a2295a46428d6c0c25b0bbc626dab8442b7e328b97a556b5b91698925cf",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 81,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "完整核对由上一页接续的逻辑问题、性质清单方法、Gowers引文和黑王／BK例子、基础比喻、集合范畴的始／终对象及极限、直觉角色、多个不等价模型和哥德尔／连续统假设段落，以及空集讨论的末尾跨页片段。",
+      "enSha256": "137180119ea6216cecc61267ea3723948fde646f9e48598dc9203e2ceadc9008",
+      "zhSha256": "d64d1e8fe760c14f0177739b9fbc8e6a17ed526d68eab4fd79123ac698857c03",
+      "unresolved": [],
+      "notes": [
+        "独立二审重写奠定基础的比喻段落中文句式，保留基本概念、假定性质、逐层建立定义与定理及高塔比喻的原有内容；未添加原文以外的说明。"
+      ],
+      "status": "verified"
+    }
+  ]
+}

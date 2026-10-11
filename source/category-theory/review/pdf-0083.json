@@ -1,0 +1,16 @@
+{
+  "pdfPage": 83,
+  "printedPage": "74",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "The source calls Theorem 3.2.2 “the lemma” in the following paragraph; retained faithfully in both languages."
+  ],
+  "diagrams": [],
+  "englishSha256": "1f265ed266efad4ce8405398800e0527f92a663b38960fb620f74a7e8fbd32aa",
+  "chineseSha256": "2a078574e072ad8b8df90f5d22587963ca60cdc9fd4d245b6b78a86c0eb6e8d1"
+}

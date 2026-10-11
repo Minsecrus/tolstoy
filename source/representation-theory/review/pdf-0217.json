@@ -1,0 +1,17 @@
+{
+  "pdfPage": 217,
+  "printedPage": "209",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页与作者2024-06-03勘误第2页。英文保留原书a的错误符号；中文从b的方程起按勘误改为-a，紧邻添加可见译校注。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "857c64f31ce9ce19105d161a86faf95ed7a29087552eb35c615d9eb94a5c854e",
+  "zhSha256": "961af732dc6f77611bb10e9c1471e743b17d7524e15237b36eec3e856ced7e3f"
+}

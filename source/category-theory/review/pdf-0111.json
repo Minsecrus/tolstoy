@@ -1,0 +1,20 @@
+{
+  "pdfPage": 111,
+  "printedPage": "102",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source.",
+    "Independent second review replaced the literal “as required” translation with natural Chinese; proof content unchanged."
+  ],
+  "diagrams": [],
+  "sha256": {
+    "en": "8a5f151b7d0fc3d993adf168ab45dbd113b3c39b8988e095de3bc9f3bc4ec0b4",
+    "zh": "828dc32af787f668cdce54e50ce05ac270aff764df1ec97b27d6bfba7ca2a6cb"
+  }
+}

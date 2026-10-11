@@ -1,0 +1,62 @@
+{
+  "pdfPage": 155,
+  "printedPage": "147",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-88/diagrams/pdf-0155-e7.png",
+      "widthPt": 177.64541131096917,
+      "clipPt": [
+        60.53838039088894,
+        37.72133178710938,
+        238.1837917018581,
+        87.3546630859375
+      ],
+      "sha256": "9f758a2cf014f2b580f79587bbd203f4e78b947af54e008b35b717b7483db735"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0155-e8.png",
+      "widthPt": 202.4562229465794,
+      "clipPt": [
+        60.53838039088894,
+        96.28866271972656,
+        262.99460333746833,
+        148.4036605834961
+      ],
+      "sha256": "48e15300d52c0e089f48f308d99b252066d9123920164f14ec52d13552b45bc7"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0155-cycle.png",
+      "widthPt": 231.23676444388727,
+      "clipPt": [
+        48.13297457308383,
+        257.596989440918,
+        279.3697390169711,
+        326.09098663330076
+      ],
+      "sha256": "58a408e866e5d94a101319d83fbf59b8036ad97b70f7660f198d51f743576bbf"
+    },
+    {
+      "path": "/library/volume-88/diagrams/pdf-0155-fork.png",
+      "widthPt": 233.2216293747361,
+      "clipPt": [
+        47.63675834037162,
+        395.57765045166013,
+        280.8583877151077,
+        467.04964752197264
+      ],
+      "sha256": "280b1bb818aa8708d5d4453ee39ee7c51df904df1af3c1bda40c0df94ae12ab2"
+    }
+  ],
+  "enSha256": "bf8a74a32636daeb121d1d46be56d8a708be6869e4175ad7a0c3677f467dd1fe",
+  "zhSha256": "21c2b3be5ab5134c6f297fcbe68c75c61268d96357527ae4d5a372c7006bae78",
+  "reviewer": "representation_149_168",
+  "diagramCropsVisuallyReviewed": true,
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0155.png"
+}

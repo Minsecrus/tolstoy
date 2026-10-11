@@ -1,0 +1,17 @@
+{
+  "pdfPage": 209,
+  "printedPage": "201",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "逐页实际查看源页，保留跨页证明片段。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "0c79f2214ab4f7d9f1cff9ac575daf9a13c9d95e497c4bf021edfd90fdcaddd3",
+  "zhSha256": "13da63d60711b5998bda5c0243259da78a4c551b935637f35949812be281b027"
+}

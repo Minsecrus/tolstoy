@@ -1,0 +1,31 @@
+{
+  "pdfPage": 103,
+  "printedPage": "94",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments and equation numbers retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0103-yoneda-question.png",
+      "widthPt": 66,
+      "clipPt": [
+        247,
+        184,
+        313,
+        224
+      ],
+      "sha256": "0626eb1b54a24c3c3feef2edcdbb4a0e09673c0ace449f7204b4ef360f7a401b"
+    }
+  ],
+  "sha256": {
+    "en": "137682a36bf64efdfb11ab19ae8049f8bdf897527eb0aa16b62a56ba4ae51425",
+    "zh": "82345c30d7440125fe8f1c3aa50ea41f68b31e6277d8f9fda0e5649981db09c0"
+  }
+}

@@ -1,0 +1,2491 @@
+{
+  "sourceSha256": "4d817004b83f46233444c2b3233129cef1154e5e96987fa4be029e040987b59a",
+  "bodyFontPt": 9.9626,
+  "bodyFontEvidence": "PDF text spans on every crop page: NimbusRomNo9L-Regu 9.9626 PDF pt; matching cambridge7A.cls normalsize is 10 TeX pt.",
+  "diagramCount": 191,
+  "diagrams": {
+    "/library/volume-87/diagrams/pdf-0012-basis-universal.png": {
+      "widthPt": 98.5,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.886977,
+      "sourcePdfPage": 12,
+      "clipPt": [
+        244,
+        480,
+        342.5,
+        535.5
+      ],
+      "sha256": "7a45bb535e79549aea889ba463d52b4532a4dc4533d6cddff0439bd7d5c01b9f"
+    },
+    "/library/volume-87/diagrams/pdf-0013-discrete-universal.png": {
+      "widthPt": 113.5,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.392608,
+      "sourcePdfPage": 13,
+      "clipPt": [
+        223.5,
+        227,
+        337,
+        283.5
+      ],
+      "sha256": "35329f4705a734eca05701391c1812bff2339fc2466ee0e7f7bd629d438226f1"
+    },
+    "/library/volume-87/diagrams/pdf-0014-tensor-universal.png": {
+      "widthPt": 212,
+      "bodyFontPt": 9.9626,
+      "widthEm": 21.279586,
+      "sourcePdfPage": 14,
+      "clipPt": [
+        241,
+        162,
+        453,
+        221
+      ],
+      "sha256": "e1b2e8f0c5bc7912e4961995346b1098aa8b6705f07e19bde37d9da3d3993c05"
+    },
+    "/library/volume-87/diagrams/pdf-0014-tensor-isomorphism.png": {
+      "widthPt": 76,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.628531,
+      "sourcePdfPage": 14,
+      "clipPt": [
+        255,
+        503,
+        331,
+        595
+      ],
+      "sha256": "eb4a3fef0c4b3a07f260fa29256c844878278a032b2cd96d3404c4ccdfdc8af2"
+    },
+    "/library/volume-87/diagrams/pdf-0015-kernel.png": {
+      "widthPt": 219,
+      "bodyFontPt": 9.9626,
+      "widthEm": 21.982213,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        221,
+        398,
+        440,
+        429
+      ],
+      "sha256": "a4dfaf657ce3d9534bf964dd2bf7188b46f57dbc6fe2c4b45b742f31ea67a1bc"
+    },
+    "/library/volume-87/diagrams/pdf-0015-open-cover.png": {
+      "widthPt": 80,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.030032,
+      "sourcePdfPage": 15,
+      "clipPt": [
+        241,
+        566,
+        321,
+        633
+      ],
+      "sha256": "b08b85880d7f2d3890f7535c914f4c6e7ca8366c2d62a973ac2294b678bd5809"
+    },
+    "/library/volume-87/diagrams/pdf-0016-open-cover-universal.png": {
+      "widthPt": 222,
+      "bodyFontPt": 9.9626,
+      "widthEm": 22.28334,
+      "sourcePdfPage": 16,
+      "clipPt": [
+        231,
+        150,
+        453,
+        254
+      ],
+      "sha256": "d9c388a7966fe8c9e2b951daabf2ac53612835f8528de89b31630458769bdc2a"
+    },
+    "/library/volume-87/diagrams/pdf-0016-fundamental-groups.png": {
+      "widthPt": 108,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.840544,
+      "sourcePdfPage": 16,
+      "clipPt": [
+        239,
+        304,
+        347,
+        375
+      ],
+      "sha256": "144f04d9b836b6816990ffd77f10d1a81b7678d52e453dcf6c73ed2d4e957e5a"
+    },
+    "/library/volume-87/diagrams/pdf-0019-associativity.png": {
+      "widthPt": 117,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.743922,
+      "sourcePdfPage": 19,
+      "clipPt": [
+        230,
+        615,
+        347,
+        652
+      ],
+      "sha256": "ac6c32f4dbcbe468c3281b8b0c95543a3aaf270b516e3dbcf7080d8430c42b05"
+    },
+    "/library/volume-87/diagrams/pdf-0020-commutative.png": {
+      "widthPt": 93,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.334913,
+      "sourcePdfPage": 20,
+      "clipPt": [
+        255,
+        251,
+        348,
+        312
+      ],
+      "sha256": "34794177773142341f3076fad3677ce559b1d48d06db33a7f5098226d2cd1020"
+    },
+    "/library/volume-87/diagrams/pdf-0022-categories.png": {
+      "widthPt": 275,
+      "bodyFontPt": 9.9626,
+      "widthEm": 27.603236,
+      "sourcePdfPage": 22,
+      "clipPt": [
+        163,
+        508,
+        438,
+        568
+      ],
+      "sha256": "0216e512c83d0e57a97912bd5a3ca9200cc3c77359ba115eeb9e3bf1a442e67b"
+    },
+    "/library/volume-87/diagrams/pdf-0023-group-category.png": {
+      "widthPt": 41,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.115392,
+      "sourcePdfPage": 23,
+      "clipPt": [
+        263,
+        382,
+        304,
+        423
+      ],
+      "sha256": "a20681459c59ce6d9a483177237c791bfa3722d74c97af6bf47b029aff864592"
+    },
+    "/library/volume-87/diagrams/pdf-0027-functor-parallel-maps.png": {
+      "widthPt": 160,
+      "bodyFontPt": 9.9626,
+      "widthEm": 16.060065,
+      "sourcePdfPage": 27,
+      "clipPt": [
+        209,
+        196,
+        369,
+        232
+      ],
+      "sha256": "a6dea4e1de15f917d9784252c4e317e9ae9b53e7e582006e3fbf8add093fc7ea"
+    },
+    "/library/volume-87/diagrams/pdf-0034-full-faithful.png": {
+      "widthPt": 291,
+      "bodyFontPt": 9.9626,
+      "widthEm": 29.209243,
+      "sourcePdfPage": 34,
+      "clipPt": [
+        149,
+        134,
+        440,
+        204
+      ],
+      "sha256": "f1a09660ff1042a5787f9e18d582d636f51034d507c82d266159d89383701010"
+    },
+    "/library/volume-87/diagrams/pdf-0035-functor-image.png": {
+      "widthPt": 285,
+      "bodyFontPt": 9.9626,
+      "widthEm": 28.60699,
+      "sourcePdfPage": 35,
+      "clipPt": [
+        139,
+        151,
+        424,
+        210
+      ],
+      "sha256": "d31fc2f3cadf3f9927483adb8b9f0e9755db62379e3317a7944ddd896c9c5576"
+    },
+    "/library/volume-87/diagrams/pdf-0037-discrete-components.png": {
+      "widthPt": 314,
+      "bodyFontPt": 9.9626,
+      "widthEm": 31.517877,
+      "sourcePdfPage": 37,
+      "clipPt": [
+        123,
+        223,
+        437,
+        288
+      ],
+      "sha256": "d37b015e1cda4e1e9095cd01b6f5385c2daf62854749cae8fb61b1b4f75782b4"
+    },
+    "/library/volume-87/diagrams/pdf-0037-naturality-square.png": {
+      "widthPt": 201,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.175456,
+      "sourcePdfPage": 37,
+      "clipPt": [
+        238,
+        486,
+        439,
+        549
+      ],
+      "sha256": "ef77b359b9d8f3bf60d85698e29ebeba84291a7169f91ac2d23edb1a79b72afb"
+    },
+    "/library/volume-87/diagrams/pdf-0038-two-cell.png": {
+      "widthPt": 57,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.721398,
+      "sourcePdfPage": 38,
+      "clipPt": [
+        272,
+        150,
+        329,
+        186
+      ],
+      "sha256": "dd724efb187c662d788548cb06e847135685ccd7fdc32fcbd69beb58b84b62c2"
+    },
+    "/library/volume-87/diagrams/pdf-0038-g-equivariant.png": {
+      "widthPt": 61,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.1229,
+      "sourcePdfPage": 38,
+      "clipPt": [
+        263,
+        412,
+        324,
+        453
+      ],
+      "sha256": "bbe5266f529c6f135587f0ffc440d9bb050fe45048ed5a2ab3e933652d5c2155"
+    },
+    "/library/volume-87/diagrams/pdf-0039-determinant.png": {
+      "widthPt": 116,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.643547,
+      "sourcePdfPage": 39,
+      "clipPt": [
+        222,
+        256,
+        338,
+        298
+      ],
+      "sha256": "a24707c733737fe56802fcecea70504dff0a763d462908fee3fa46bc92525382"
+    },
+    "/library/volume-87/diagrams/pdf-0039-vertical-composition.png": {
+      "widthPt": 78,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.829282,
+      "sourcePdfPage": 39,
+      "clipPt": [
+        241,
+        401,
+        319,
+        465
+      ],
+      "sha256": "f9708e6eb9039e156656a9e21187d67f0e0f7f7e68329d70c504c9e3ea20c81a"
+    },
+    "/library/volume-87/diagrams/pdf-0039-composite.png": {
+      "widthPt": 75,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.528155,
+      "sourcePdfPage": 39,
+      "clipPt": [
+        244,
+        484,
+        319,
+        526
+      ],
+      "sha256": "6d99c1f482d141860db82da868ff01b8276f1bd7ee9ad1959145e9d61545fe76"
+    },
+    "/library/volume-87/diagrams/pdf-0039-identity.png": {
+      "widthPt": 74,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.42778,
+      "sourcePdfPage": 39,
+      "clipPt": [
+        244,
+        555,
+        318,
+        595
+      ],
+      "sha256": "017363731582abdf923bddee09db6613e0f15e7da804efdae4226777659ea94c"
+    },
+    "/library/volume-87/diagrams/pdf-0040-ordered-sets.png": {
+      "widthPt": 53,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.319896,
+      "sourcePdfPage": 40,
+      "clipPt": [
+        266,
+        297,
+        319,
+        335
+      ],
+      "sha256": "917ec3d947c3b6dab10b4b7f5b285366323092ad24fd30f5f3d3e4d0ec0eea05"
+    },
+    "/library/volume-87/diagrams/pdf-0040-isomorphism-components.png": {
+      "widthPt": 51,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.119146,
+      "sourcePdfPage": 40,
+      "clipPt": [
+        221,
+        591,
+        272,
+        626
+      ],
+      "sha256": "c2f4ced42c2b09d7b230c40cf67b35fdfbbd913d3e2ef5d4ff6f7e85626f1e08"
+    },
+    "/library/volume-87/diagrams/pdf-0041-double-dual.png": {
+      "widthPt": 107,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.740168,
+      "sourcePdfPage": 41,
+      "clipPt": [
+        228,
+        583,
+        335,
+        628
+      ],
+      "sha256": "afa7328557eb6ac1df852e586ff02e8b13dd9008edd082e61a72c69284e3c5b1"
+    },
+    "/library/volume-87/diagrams/pdf-0042-equivalence-functors.png": {
+      "widthPt": 185,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.56945,
+      "sourcePdfPage": 42,
+      "clipPt": [
+        266,
+        557,
+        451,
+        584
+      ],
+      "sha256": "1beceba424ee4359e548735e7918e8b366682f5ac9f31046f95265c17dc89d1d"
+    },
+    "/library/volume-87/diagrams/pdf-0045-vertical-composition.png": {
+      "widthPt": 40,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.015016,
+      "sourcePdfPage": 45,
+      "clipPt": [
+        265,
+        589,
+        305,
+        628
+      ],
+      "sha256": "f488e1ef38ad7d1684bf9faf882bcf0b179862c965fc9b8407862d21815e92ed"
+    },
+    "/library/volume-87/diagrams/pdf-0046-horizontal-input.png": {
+      "widthPt": 114,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.442796,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        236,
+        178,
+        350,
+        221
+      ],
+      "sha256": "6aa90bd24d4df6866d125637c1a89b7dd2f626c2ca79b58cbd7790a858ad42a9"
+    },
+    "/library/volume-87/diagrams/pdf-0046-horizontal-output.png": {
+      "widthPt": 69,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.925903,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        258,
+        258,
+        327,
+        303
+      ],
+      "sha256": "fcb7b94a22538cff839af9f6480eba46295de7bfe03db83f0b055f27012d592c"
+    },
+    "/library/volume-87/diagrams/pdf-0046-naturality-square.png": {
+      "widthPt": 111,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.14167,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        237,
+        353,
+        348,
+        419
+      ],
+      "sha256": "af8bdc182035f2b88bf9208bcdd73f94b4cdc522587c410366ca46dced9c5023"
+    },
+    "/library/volume-87/diagrams/pdf-0046-whisker-right-input.png": {
+      "widthPt": 115,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.543171,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        154,
+        497,
+        269,
+        541
+      ],
+      "sha256": "53936e53e677dc07bb33e2d0d0fe9bb98f47f7068517f3056cdc1f24db35bc01"
+    },
+    "/library/volume-87/diagrams/pdf-0046-whisker-right-output.png": {
+      "widthPt": 75,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.528155,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        357,
+        497,
+        432,
+        541
+      ],
+      "sha256": "19f83c99990aea900e9f5b01280aa8015c1c7190280047e0e0f4fbf55f48066a"
+    },
+    "/library/volume-87/diagrams/pdf-0046-whisker-left-input.png": {
+      "widthPt": 115,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.543171,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        154,
+        581,
+        269,
+        625
+      ],
+      "sha256": "731b9d890e0a45ef8b57bb141499e278b0f6d1abbff18a292f43ce3a82b5e509"
+    },
+    "/library/volume-87/diagrams/pdf-0046-whisker-left-output.png": {
+      "widthPt": 75,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.528155,
+      "sourcePdfPage": 46,
+      "clipPt": [
+        357,
+        581,
+        432,
+        625
+      ],
+      "sha256": "265668bbab5cf8d9678d59c22c705e1305b0246a0a8a741cd7964341b1db2ce4"
+    },
+    "/library/volume-87/diagrams/pdf-0047-interchange.png": {
+      "widthPt": 105,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.539417,
+      "sourcePdfPage": 47,
+      "clipPt": [
+        228,
+        158,
+        333,
+        223
+      ],
+      "sha256": "91c52a49cab83a528a0e7c22173e8e943b837b720a6f042230507504ca56b0a4"
+    },
+    "/library/volume-87/diagrams/pdf-0050-functor-pair.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 50,
+      "clipPt": [
+        229,
+        559,
+        277,
+        588
+      ],
+      "sha256": "c2c0a7ac616ef82e01d6e3cc026db94c8e8bae51a4a9040d9832f49a4ca4aca0"
+    },
+    "/library/volume-87/diagrams/pdf-0051-transpose-correspondence.png": {
+      "widthPt": 146,
+      "bodyFontPt": 9.9626,
+      "widthEm": 14.654809,
+      "sourcePdfPage": 51,
+      "clipPt": [
+        207,
+        198,
+        353,
+        239
+      ],
+      "sha256": "9da5e3d89b4f9e697c3b520e8f70da1776fc2c39cc283418faa087dffe4d30be"
+    },
+    "/library/volume-87/diagrams/pdf-0052-free-vector-space.png": {
+      "widthPt": 39,
+      "bodyFontPt": 9.9626,
+      "widthEm": 3.914641,
+      "sourcePdfPage": 52,
+      "clipPt": [
+        282,
+        417,
+        321,
+        472
+      ],
+      "sha256": "d333bc7632acca08ff03260af8be1ca53f8a724ce72791e606fd5bb98ae9e5ae"
+    },
+    "/library/volume-87/diagrams/pdf-0053-free-group.png": {
+      "widthPt": 33,
+      "bodyFontPt": 9.9626,
+      "widthEm": 3.312388,
+      "sourcePdfPage": 53,
+      "clipPt": [
+        272,
+        459,
+        305,
+        514
+      ],
+      "sha256": "915c61b9b19888545f9b4e69a74fe71d4c228d4c5ed5ad7b60069f73547c15c4"
+    },
+    "/library/volume-87/diagrams/pdf-0054-abelianization-adjunction.png": {
+      "widthPt": 34,
+      "bodyFontPt": 9.9626,
+      "widthEm": 3.412764,
+      "sourcePdfPage": 54,
+      "clipPt": [
+        284,
+        146,
+        318,
+        201
+      ],
+      "sha256": "205536df93031796a205bfbe927b52f511595ee541e883f0c09beb1eaabdf427"
+    },
+    "/library/volume-87/diagrams/pdf-0054-abelianization-universal.png": {
+      "widthPt": 67,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.725152,
+      "sourcePdfPage": 54,
+      "clipPt": [
+        268,
+        257,
+        335,
+        316
+      ],
+      "sha256": "463cba0277866900e187966931c4ec5b5c1a76b18f8971afc9b3906538e83b59"
+    },
+    "/library/volume-87/diagrams/pdf-0054-group-monoid-adjunctions.png": {
+      "widthPt": 51,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.119146,
+      "sourcePdfPage": 54,
+      "clipPt": [
+        276,
+        476,
+        327,
+        531
+      ],
+      "sha256": "a10f3ee8a0308b2c6469c966f033000229266dec72d0a61112de3cc301b31005"
+    },
+    "/library/volume-87/diagrams/pdf-0056-topology-adjunctions.png": {
+      "widthPt": 49,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.918395,
+      "sourcePdfPage": 56,
+      "clipPt": [
+        269,
+        340,
+        318,
+        395
+      ],
+      "sha256": "356fe3b69dddec9c89a9832615e46e0316c9657986f5f17cb68215a84ba23dbb"
+    },
+    "/library/volume-87/diagrams/pdf-0057-figure-2-1.png": {
+      "widthPt": 93,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.334913,
+      "sourcePdfPage": 57,
+      "clipPt": [
+        234,
+        129,
+        327,
+        238
+      ],
+      "sha256": "03f18d0107eea1a14a3a9bac336dba6bd9483b8b6094950879e8c03199a64b75"
+    },
+    "/library/volume-87/diagrams/pdf-0057-product-exponential-adjunction.png": {
+      "widthPt": 51,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.119146,
+      "sourcePdfPage": 57,
+      "clipPt": [
+        255,
+        431,
+        306,
+        486
+      ],
+      "sha256": "a75617b6c2757f610be5501e78c6e99320224b11287880f130dd794a1e58fb75"
+    },
+    "/library/volume-87/diagrams/pdf-0058-composed-adjunctions.png": {
+      "widthPt": 103,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.338667,
+      "sourcePdfPage": 58,
+      "clipPt": [
+        241,
+        409,
+        344,
+        442
+      ],
+      "sha256": "a514f26c066dab53a02aec2865a064cb4bd5c5b4599eb87c204e3a4148cb7040"
+    },
+    "/library/volume-87/diagrams/pdf-0058-composite-adjunction.png": {
+      "widthPt": 62,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.223275,
+      "sourcePdfPage": 58,
+      "clipPt": [
+        262,
+        475,
+        324,
+        508
+      ],
+      "sha256": "7180f9e001d7c768a4c4745728f0f852e46d699b7000514993e871f5e57a2cdc"
+    },
+    "/library/volume-87/diagrams/pdf-0059-adjunction.png": {
+      "widthPt": 47,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.717644,
+      "sourcePdfPage": 59,
+      "clipPt": [
+        388,
+        214,
+        435,
+        245
+      ],
+      "sha256": "ac9769625fbc7050166b60c538e6370d5d60660e99c9e66a2fac5726c3017b6f"
+    },
+    "/library/volume-87/diagrams/pdf-0060-adjunction.png": {
+      "widthPt": 47,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.717644,
+      "sourcePdfPage": 60,
+      "clipPt": [
+        253,
+        131,
+        300,
+        162
+      ],
+      "sha256": "74c41e5082ec1794682eab5d10be13cbd1d76815cfdef69d617ccf6df6956044"
+    },
+    "/library/volume-87/diagrams/pdf-0060-vector-adjunction.png": {
+      "widthPt": 63,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.32365,
+      "sourcePdfPage": 60,
+      "clipPt": [
+        311,
+        492,
+        374,
+        523
+      ],
+      "sha256": "b1d736446e3a0f339d5637005cd9565be307fcda6871f4728ac283b77c3eb85e"
+    },
+    "/library/volume-87/diagrams/pdf-0061-triangle-identities.png": {
+      "widthPt": 158,
+      "bodyFontPt": 9.9626,
+      "widthEm": 15.859314,
+      "sourcePdfPage": 61,
+      "clipPt": [
+        201,
+        207,
+        359,
+        266
+      ],
+      "sha256": "88bc918cf83c2ff3fe0095062dcc05709d324718165452212eb924e1ee719567"
+    },
+    "/library/volume-87/diagrams/pdf-0061-component-triangles.png": {
+      "widthPt": 263,
+      "bodyFontPt": 9.9626,
+      "widthEm": 26.398731,
+      "sourcePdfPage": 61,
+      "clipPt": [
+        174,
+        350,
+        437,
+        410
+      ],
+      "sha256": "734be01a8bc16fcbbce72aad0cf726d88bdcb0ba7b2f74377004743a888b3003"
+    },
+    "/library/volume-87/diagrams/pdf-0061-adjunction.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 61,
+      "clipPt": [
+        206,
+        589,
+        254,
+        620
+      ],
+      "sha256": "bc3f72b741fcb23a2c730774ab9d500ea1ca1deb3bcc7fc4826b3dd7543bab51"
+    },
+    "/library/volume-87/diagrams/pdf-0062-functor-pair.png": {
+      "widthPt": 47,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.717644,
+      "sourcePdfPage": 62,
+      "clipPt": [
+        325,
+        271,
+        372,
+        296
+      ],
+      "sha256": "688cf426c79fe1957ad07e058f0f6d6bc5565afd7139d59a62092973a255268d"
+    },
+    "/library/volume-87/diagrams/pdf-0062-inverse-transposes.png": {
+      "widthPt": 143,
+      "bodyFontPt": 9.9626,
+      "widthEm": 14.353683,
+      "sourcePdfPage": 62,
+      "clipPt": [
+        220,
+        587,
+        363,
+        651
+      ],
+      "sha256": "d443e804073bdefa59ae3606884ac6d0e273227dd5ac2a6bfc6e812a8460e158"
+    },
+    "/library/volume-87/diagrams/pdf-0063-functor-pair.png": {
+      "widthPt": 47,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.717644,
+      "sourcePdfPage": 63,
+      "clipPt": [
+        313,
+        292,
+        360,
+        318
+      ],
+      "sha256": "5d5c87d5ca0d2753111beef392d4b46ba2920df9f6b134b265dcb5015038c61b"
+    },
+    "/library/volume-87/diagrams/pdf-0063-ordered-pair.png": {
+      "widthPt": 42,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.215767,
+      "sourcePdfPage": 63,
+      "clipPt": [
+        180,
+        366,
+        222,
+        392
+      ],
+      "sha256": "ad4689174149d17b702c2ab587ebe7e8b9e4cb3b2b50a70edb153248db4daf16"
+    },
+    "/library/volume-87/diagrams/pdf-0063-parallel-pair.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 63,
+      "clipPt": [
+        270,
+        481,
+        318,
+        507
+      ],
+      "sha256": "5fbb7afe178524fba02478a100d60696a5e70c7f10fd5e5de472b8407454ad91"
+    },
+    "/library/volume-87/diagrams/pdf-0064-closure-pair.png": {
+      "widthPt": 80,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.030032,
+      "sourcePdfPage": 64,
+      "clipPt": [
+        253,
+        173,
+        333,
+        200
+      ],
+      "sha256": "a0bc837d1d339c632b7147a1e9946fd1f588a8c8d10ce16d9769e74771fabdab"
+    },
+    "/library/volume-87/diagrams/pdf-0064-natural-transformation.png": {
+      "widthPt": 241,
+      "bodyFontPt": 9.9626,
+      "widthEm": 24.190472,
+      "sourcePdfPage": 64,
+      "clipPt": [
+        172,
+        475,
+        413,
+        535
+      ],
+      "sha256": "7990a8bbd6b38b6f45e40b34b742408b6d69bd3a207d95057ec3d12165738743"
+    },
+    "/library/volume-87/diagrams/pdf-0064-string-diagram.png": {
+      "widthPt": 188,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.870576,
+      "sourcePdfPage": 64,
+      "clipPt": [
+        199,
+        557,
+        387,
+        651
+      ],
+      "sha256": "1cbbfd13ab413f477daf984993efa38d2eaf75d2642474104392da60007f5923"
+    },
+    "/library/volume-87/diagrams/pdf-0065-identity-string.png": {
+      "widthPt": 11,
+      "bodyFontPt": 9.9626,
+      "widthEm": 1.104129,
+      "sourcePdfPage": 65,
+      "clipPt": [
+        275,
+        240,
+        286,
+        292
+      ],
+      "sha256": "58a808ac4f1a231375189df73fe8e2eebcbab859102fb096599ae6c0ad7b49a2"
+    },
+    "/library/volume-87/diagrams/pdf-0065-unit-string.png": {
+      "widthPt": 71,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.126654,
+      "sourcePdfPage": 65,
+      "clipPt": [
+        176,
+        318,
+        247,
+        378
+      ],
+      "sha256": "54a63059f0f5586f5fbfad65a1db71f9bbbc970b9961700d9ecee7a3999e2a34"
+    },
+    "/library/volume-87/diagrams/pdf-0065-counit-string.png": {
+      "widthPt": 71,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.126654,
+      "sourcePdfPage": 65,
+      "clipPt": [
+        313,
+        319,
+        384,
+        378
+      ],
+      "sha256": "b1d57ccf0c8e5ded39bc102fcf8e03ca785cbde29b45b5dbccd0d6585d288bc0"
+    },
+    "/library/volume-87/diagrams/pdf-0065-triangle-string-f.png": {
+      "widthPt": 116,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.643547,
+      "sourcePdfPage": 65,
+      "clipPt": [
+        130,
+        398,
+        246,
+        509
+      ],
+      "sha256": "8cb1bd967222d8a6b45489a1e739a86e8a809d73496a46f27ccc3b643819a3c0"
+    },
+    "/library/volume-87/diagrams/pdf-0065-triangle-string-g.png": {
+      "widthPt": 119,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.944673,
+      "sourcePdfPage": 65,
+      "clipPt": [
+        311,
+        398,
+        430,
+        509
+      ],
+      "sha256": "a78d8b328bbe0a627b8694fa7e955bf5676d2ceac98a5b1339a058c1f5c35ac4"
+    },
+    "/library/volume-87/diagrams/pdf-0065-ordered-pair.png": {
+      "widthPt": 41,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.115392,
+      "sourcePdfPage": 65,
+      "clipPt": [
+        176,
+        573,
+        217,
+        599
+      ],
+      "sha256": "4372526b6c1d47c156fbc79cacf8c2539433f0339860646efeb48a8d92614f8c"
+    },
+    "/library/volume-87/diagrams/pdf-0066-adjunction-a.png": {
+      "widthPt": 50.6406,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.083071,
+      "sourcePdfPage": 66,
+      "clipPt": [
+        204.5486,
+        171.7535,
+        255.1892,
+        202.0337
+      ],
+      "sha256": "45d71d0cff3f5d7d7564ec644e31796fee6e16c8c7b4b314abd2b6cb89d50f2f"
+    },
+    "/library/volume-87/diagrams/pdf-0066-adjunction-b.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 66,
+      "clipPt": [
+        346,
+        550.1,
+        394,
+        580
+      ],
+      "sha256": "f18c827b8df99608706496b797e99837db6a2328c3b10746993ad7ce54e226c0"
+    },
+    "/library/volume-87/diagrams/pdf-0066-induced-adjunction.png": {
+      "widthPt": 115.6791,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.611336,
+      "sourcePdfPage": 66,
+      "clipPt": [
+        242.7773,
+        595.6769,
+        358.4564,
+        630.4247
+      ],
+      "sha256": "9cd6be20b25d922fd793825ecf9683268cdb6f42999c662b7ac815a6cf1b91be"
+    },
+    "/library/volume-87/diagrams/pdf-0067-free-forgetful.png": {
+      "widthPt": 30.2851,
+      "bodyFontPt": 9.9626,
+      "widthEm": 3.039879,
+      "sourcePdfPage": 67,
+      "clipPt": [
+        263.1328,
+        197.0698,
+        293.4179,
+        247.7023
+      ],
+      "sha256": "71b0a15c4e0f657b6da72825efee3223fc15107e5829155ae25792d2f1793b77"
+    },
+    "/library/volume-87/diagrams/pdf-0067-universal-property.png": {
+      "widthPt": 184.193,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.488447,
+      "sourcePdfPage": 67,
+      "clipPt": [
+        237.8125,
+        449.2397,
+        422.0055,
+        504.8362
+      ],
+      "sha256": "f89431acc8af8d570bf78c1d6c9acb236f6ad212e7318a027b624a42e4a07448"
+    },
+    "/library/volume-87/diagrams/pdf-0067-comma-input.png": {
+      "widthPt": 62.0596,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.229257,
+      "sourcePdfPage": 67,
+      "clipPt": [
+        248.735,
+        593.1949,
+        310.7946,
+        650.2806
+      ],
+      "sha256": "f07b6e3620968e9e22c0c4e5161b8701275b8c874af4e904c8fe088ff56560ec"
+    },
+    "/library/volume-87/diagrams/pdf-0068-comma-square.png": {
+      "widthPt": 82.4152,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.272459,
+      "sourcePdfPage": 68,
+      "clipPt": [
+        256.1822,
+        206.0049,
+        338.5974,
+        267.0618
+      ],
+      "sha256": "da0da3dac95c77929a681982b5dd192189735f3d23886af5e2901bd0cd156be5"
+    },
+    "/library/volume-87/diagrams/pdf-0068-comma-universal.png": {
+      "widthPt": 85.3941,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.571467,
+      "sourcePdfPage": 68,
+      "clipPt": [
+        251.2174,
+        321.6655,
+        336.6115,
+        381.7296
+      ],
+      "sha256": "7426c0660b32c97ac71bb8b9f2a2a3e594c570b648cb8358c98a72fd3d0a9bda"
+    },
+    "/library/volume-87/diagrams/pdf-0068-slice-triangle.png": {
+      "widthPt": 91.8482,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.2193,
+      "sourcePdfPage": 68,
+      "clipPt": [
+        247.2456,
+        476.5415,
+        339.0938,
+        534.62
+      ],
+      "sha256": "53774243e18038fa64e167a5bf7e019490bb28a5e3c72a8ab91a76f9af598ce8"
+    },
+    "/library/volume-87/diagrams/pdf-0068-slice-comma.png": {
+      "widthPt": 77.9469,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.823952,
+      "sourcePdfPage": 68,
+      "clipPt": [
+        249.728,
+        593.6913,
+        327.6749,
+        648.7914
+      ],
+      "sha256": "9636172e0ff375e897cd1615ea0ee1e6da478cfe6017299635ef80a7b1d128ea"
+    },
+    "/library/volume-87/diagrams/pdf-0069-comma-input.png": {
+      "widthPt": 58.5843,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.880423,
+      "sourcePdfPage": 69,
+      "clipPt": [
+        251.7139,
+        255.1483,
+        310.2982,
+        311.2412
+      ],
+      "sha256": "28a15943dac57b77f4aa8c06ba89bb52a054b0e5c3bf4a7117ee3ec377ad27a9"
+    },
+    "/library/volume-87/diagrams/pdf-0069-comma-triangle.png": {
+      "widthPt": 73.4786,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.375444,
+      "sourcePdfPage": 69,
+      "clipPt": [
+        242.7773,
+        354.4278,
+        316.2559,
+        411.5135
+      ],
+      "sha256": "59b3c238c319ab3d633edabe4535d0a15ba441f34daaaa2d61d0e760dfb42456"
+    },
+    "/library/volume-87/diagrams/pdf-0069-lemma-adjunction.png": {
+      "widthPt": 48.6547,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.883735,
+      "sourcePdfPage": 69,
+      "clipPt": [
+        271.0765,
+        557.4543,
+        319.7312,
+        586.7417
+      ],
+      "sha256": "3bac24399efb92f14b41042bbb69d28022bbe4f4e5b0697858178f39933e4afb"
+    },
+    "/library/volume-87/diagrams/pdf-0070-unit-initial.png": {
+      "widthPt": 197.5978,
+      "bodyFontPt": 9.9626,
+      "widthEm": 19.833959,
+      "sourcePdfPage": 70,
+      "clipPt": [
+        256.1822,
+        143.4589,
+        453.78,
+        203.0265
+      ],
+      "sha256": "ce829110d8c5debc1b18c4afa4254747487c87fd63be166bade39011dc7d490d"
+    },
+    "/library/volume-87/diagrams/pdf-0070-theorem-functors.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 70,
+      "clipPt": [
+        325,
+        272,
+        373,
+        297
+      ],
+      "sha256": "e1b0236160bcec090582e4679a9e74e93152d9d1ccb2596f8591398ca356aee1"
+    },
+    "/library/volume-87/diagrams/pdf-0070-triangle-identity.png": {
+      "widthPt": 213.4851,
+      "bodyFontPt": 9.9626,
+      "widthEm": 21.428653,
+      "sourcePdfPage": 70,
+      "clipPt": [
+        240.2949,
+        549.5119,
+        453.78,
+        608.5832
+      ],
+      "sha256": "8a9aaa0adc190416c798946632e45466a29ce49e7a26664eef8d7f20e6070dcf"
+    },
+    "/library/volume-87/diagrams/pdf-0071-counit-naturality.png": {
+      "widthPt": 266.13,
+      "bodyFontPt": 9.9626,
+      "widthEm": 26.712906,
+      "sourcePdfPage": 71,
+      "clipPt": [
+        143.48,
+        270.54,
+        409.61,
+        374.28
+      ],
+      "sha256": "07c7c6b0a7aad9868fab7c652bf740618ba80bb264b60b5cfc79391cffd616e1"
+    },
+    "/library/volume-87/diagrams/pdf-0071-second-triangle.png": {
+      "widthPt": 100.7848,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.116315,
+      "sourcePdfPage": 71,
+      "clipPt": [
+        230.3654,
+        446.2613,
+        331.1502,
+        505.829
+      ],
+      "sha256": "da9c513e1b2d1ef6332ebc18b6816edd071abbee8266ed540c445284a65fd402"
+    },
+    "/library/volume-87/diagrams/pdf-0071-initiality-diagrams.png": {
+      "widthPt": 254.6927,
+      "bodyFontPt": 9.9626,
+      "widthEm": 25.564883,
+      "sourcePdfPage": 71,
+      "clipPt": [
+        149.9361,
+        542.066,
+        404.6288,
+        650.777
+      ],
+      "sha256": "7e9c86be6cca8b236228bfc810de32be2b50196759dc3db0ecd5b560721a6759"
+    },
+    "/library/volume-87/diagrams/pdf-0072-left-adjoint-construction.png": {
+      "widthPt": 132.5593,
+      "bodyFontPt": 9.9626,
+      "widthEm": 13.305693,
+      "sourcePdfPage": 72,
+      "clipPt": [
+        225.8971,
+        287.4141,
+        358.4564,
+        351.4494
+      ],
+      "sha256": "36f306f7b819dacb061590c29ec254ba92f2b353770cd086df86ddffb73746b5"
+    },
+    "/library/volume-87/diagrams/pdf-0072-exercise-adjunction.png": {
+      "widthPt": 53,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.319896,
+      "sourcePdfPage": 72,
+      "clipPt": [
+        188,
+        580,
+        241,
+        612
+      ],
+      "sha256": "01488cc261ee4e62e484cf2ca185d65e8c8b9ebdef8925c1e877fd20b1d015e9"
+    },
+    "/library/volume-87/diagrams/pdf-0075-set.png": {
+      "widthPt": 45.1794,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.534901,
+      "sourcePdfPage": 75,
+      "clipPt": [
+        257.6716,
+        219.9041,
+        302.851,
+        275.0042
+      ],
+      "sha256": "c93da77019de64781e60c215119fca766e6705b400aa61eeb876b717db31abaf"
+    },
+    "/library/volume-87/diagrams/pdf-0075-function.png": {
+      "widthPt": 127.0981,
+      "bodyFontPt": 9.9626,
+      "widthEm": 12.757523,
+      "sourcePdfPage": 75,
+      "clipPt": [
+        216.464,
+        412.5063,
+        343.5621,
+        464.628
+      ],
+      "sha256": "9d8133a56aa283e90ca15f60e13c83450a6e0bf59649dc5b8d6c8148ff679d80"
+    },
+    "/library/volume-87/diagrams/pdf-0075-composable.png": {
+      "widthPt": 206.5345,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.730984,
+      "sourcePdfPage": 75,
+      "clipPt": [
+        176.7458,
+        488.4551,
+        383.2803,
+        542.5624
+      ],
+      "sha256": "e0dd92574faf1874f386a62745f8e9b548afc8243d306bcfbe40404be514fb25"
+    },
+    "/library/volume-87/diagrams/pdf-0075-composite.png": {
+      "widthPt": 206.5345,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.730984,
+      "sourcePdfPage": 75,
+      "clipPt": [
+        176.7458,
+        564.9003,
+        383.2803,
+        614.54
+      ],
+      "sha256": "fc47266f021795789e0eac633da5048f16cf7fb63285eafbc517c585792e33fb"
+    },
+    "/library/volume-87/diagrams/pdf-0077-sum.png": {
+      "widthPt": 219.9394,
+      "bodyFontPt": 9.9626,
+      "widthEm": 22.076506,
+      "sourcePdfPage": 77,
+      "clipPt": [
+        170.2916,
+        343.507,
+        390.231,
+        399.5999
+      ],
+      "sha256": "536eb19e8d77892f38dc28a74b681eb1ece16cb548b064aa3ce769688d95c963"
+    },
+    "/library/volume-87/diagrams/pdf-0079-parallel-functions.png": {
+      "widthPt": 49.6477,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.983408,
+      "sourcePdfPage": 79,
+      "clipPt": [
+        223.9112,
+        211.9617,
+        273.5589,
+        238.2708
+      ],
+      "sha256": "58696f7691267c434e25c4c1dba2ee876aba36307f971de771ac65feba4210a1"
+    },
+    "/library/volume-87/diagrams/pdf-0079-quotient-property.png": {
+      "widthPt": 64.0455,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.428593,
+      "sourcePdfPage": 79,
+      "clipPt": [
+        249.2315,
+        551.4975,
+        313.277,
+        606.5976
+      ],
+      "sha256": "60c9d136f5c11b980691cd8ed87749b503ea42bc1c03e328f9264c965277cef5"
+    },
+    "/library/volume-87/diagrams/pdf-0085-free-forgetful.png": {
+      "widthPt": 63.0,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.32365,
+      "sourcePdfPage": 85,
+      "clipPt": [
+        212.5,
+        575,
+        275.5,
+        605
+      ],
+      "sha256": "dd25c5212c6a62a1cdfad9dfb6682389dc0ca7ff38fd5a83b688edf4acb7e68e"
+    },
+    "/library/volume-87/diagrams/pdf-0086-functions.png": {
+      "widthPt": 40.5,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.065204,
+      "sourcePdfPage": 86,
+      "clipPt": [
+        248,
+        456.5,
+        288.5,
+        481
+      ],
+      "sha256": "96b6b70c663a86ae33211befbfa28ebe252ed43626ce559a86836dcb109517a7"
+    },
+    "/library/volume-87/diagrams/pdf-0095-adjunction.png": {
+      "widthPt": 49.0,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.918395,
+      "sourcePdfPage": 95,
+      "clipPt": [
+        209.5,
+        295,
+        258.5,
+        325
+      ],
+      "sha256": "52d20a875bb2679587428e0ad7fefaef2ec77c9f761d7b59a82533cefc9c2e14"
+    },
+    "/library/volume-87/diagrams/pdf-0095-naturality-square.png": {
+      "widthPt": 133.5,
+      "bodyFontPt": 9.9626,
+      "widthEm": 13.400116,
+      "sourcePdfPage": 95,
+      "clipPt": [
+        213.5,
+        461.5,
+        347,
+        516
+      ],
+      "sha256": "43695a53579be87fc98d18abd99dea03194ca08309686ca09768be63f6770690"
+    },
+    "/library/volume-87/diagrams/pdf-0095-elements-square.png": {
+      "widthPt": 134,
+      "bodyFontPt": 9.9626,
+      "widthEm": 13.450304,
+      "sourcePdfPage": 95,
+      "clipPt": [
+        213,
+        550,
+        347,
+        615.5
+      ],
+      "sha256": "2bb71973a21586874a5b5f89945a7dd6da5f3f4c02b39a1c6f2a61bba3c187e9"
+    },
+    "/library/volume-87/diagrams/pdf-0097-natural-transformation.png": {
+      "widthPt": 68.5,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.875715,
+      "sourcePdfPage": 97,
+      "clipPt": [
+        245.5,
+        193,
+        314,
+        235
+      ],
+      "sha256": "81abbef5594dcb595cf12ce5bee7cd4e25092d687d83b2cd5134a06da6214884"
+    },
+    "/library/volume-87/diagrams/pdf-0099-natural-transformation.png": {
+      "widthPt": 76,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.628531,
+      "sourcePdfPage": 99,
+      "clipPt": [
+        242,
+        153,
+        318,
+        197
+      ],
+      "sha256": "ba09b082dce8fd0990755f699d05cadab640770b7e2065be9533bf270ad411d6"
+    },
+    "/library/volume-87/diagrams/pdf-0100-hom-functor-action.png": {
+      "widthPt": 151,
+      "bodyFontPt": 9.9626,
+      "widthEm": 15.156686,
+      "sourcePdfPage": 100,
+      "clipPt": [
+        218,
+        146,
+        369,
+        200
+      ],
+      "sha256": "8af8da12e2592ae65698a5c4e67d16a94b343de1cafe4f0879bfcd542bec82c4"
+    },
+    "/library/volume-87/diagrams/pdf-0100-functors-fg.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 100,
+      "clipPt": [
+        353,
+        486,
+        401,
+        510
+      ],
+      "sha256": "59713e07be34111216faa937d5d71a31c8bbe98331188773df17b9e926e75fa2"
+    },
+    "/library/volume-87/diagrams/pdf-0100-adjunction-naturality.png": {
+      "widthPt": 118,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.844298,
+      "sourcePdfPage": 100,
+      "clipPt": [
+        234,
+        521,
+        352,
+        583
+      ],
+      "sha256": "2159aefbae8bf7d699f736fddfde63af595635835b7a22140d036848aa5e328a"
+    },
+    "/library/volume-87/diagrams/pdf-0102-functors-fg.png": {
+      "widthPt": 52,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.219521,
+      "sourcePdfPage": 102,
+      "clipPt": [
+        398,
+        363,
+        450,
+        388
+      ],
+      "sha256": "3df71915612b3183cf43d5a710534a8946e9ebc9bc98e4814cc364b5fa9a5109"
+    },
+    "/library/volume-87/diagrams/pdf-0103-yoneda-question.png": {
+      "widthPt": 66,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.624777,
+      "sourcePdfPage": 103,
+      "clipPt": [
+        247,
+        184,
+        313,
+        224
+      ],
+      "sha256": "0626eb1b54a24c3c3feef2edcdbb4a0e09673c0ace449f7204b4ef360f7a401b"
+    },
+    "/library/volume-87/diagrams/pdf-0104-yoneda-composite-functor.png": {
+      "widthPt": 308,
+      "bodyFontPt": 9.9626,
+      "widthEm": 30.915624,
+      "sourcePdfPage": 104,
+      "clipPt": [
+        139,
+        290,
+        447,
+        330
+      ],
+      "sha256": "6da8e5d96df642f158743f25d071b9a0da0d38004a5f859908e0155938d4c0c0"
+    },
+    "/library/volume-87/diagrams/pdf-0105-yoneda-inverse-functions.png": {
+      "widthPt": 127,
+      "bodyFontPt": 9.9626,
+      "widthEm": 12.747676,
+      "sourcePdfPage": 105,
+      "clipPt": [
+        217,
+        150,
+        344,
+        183
+      ],
+      "sha256": "09fa4717a5798224d37de849e3c7fbccda942e1f678f6ce300ae333d2fb50e67"
+    },
+    "/library/volume-87/diagrams/pdf-0105-yoneda-naturality-square.png": {
+      "widthPt": 146,
+      "bodyFontPt": 9.9626,
+      "widthEm": 14.654809,
+      "sourcePdfPage": 105,
+      "clipPt": [
+        212,
+        426,
+        358,
+        493
+      ],
+      "sha256": "683d41c23196659b3a2764f0c72869a1952d13a0b194501c9f57b04c1a2c20a4"
+    },
+    "/library/volume-87/diagrams/pdf-0105-yoneda-naturality-elements.png": {
+      "widthPt": 155,
+      "bodyFontPt": 9.9626,
+      "widthEm": 15.558188,
+      "sourcePdfPage": 105,
+      "clipPt": [
+        207,
+        530,
+        362,
+        594
+      ],
+      "sha256": "2146573ac0cbe1d5eb7d93d46282a675646686c19123855ba3ca456b2d7d3bfd"
+    },
+    "/library/volume-87/diagrams/pdf-0106-recover-transformation.png": {
+      "widthPt": 144,
+      "bodyFontPt": 9.9626,
+      "widthEm": 14.454058,
+      "sourcePdfPage": 106,
+      "clipPt": [
+        226,
+        343,
+        370,
+        410
+      ],
+      "sha256": "cd1a62aa75843c461ced82515c190ef4051072eee9a6f2006534cf9328f3295a"
+    },
+    "/library/volume-87/diagrams/pdf-0107-naturality-in-a-square.png": {
+      "widthPt": 200,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.075081,
+      "sourcePdfPage": 107,
+      "clipPt": [
+        180,
+        147,
+        380,
+        211
+      ],
+      "sha256": "f5b611df5dd23f93d2f871952c04aec805f2748831bc8f45a15719547ff76b7d"
+    },
+    "/library/volume-87/diagrams/pdf-0107-naturality-in-a-elements.png": {
+      "widthPt": 160,
+      "bodyFontPt": 9.9626,
+      "widthEm": 16.060065,
+      "sourcePdfPage": 107,
+      "clipPt": [
+        200,
+        230,
+        360,
+        296
+      ],
+      "sha256": "34e25abc331f34fe3527bd2a5f29b330e711731eca4a2693fa1930fb2ec069d9"
+    },
+    "/library/volume-87/diagrams/pdf-0107-theta-transformation.png": {
+      "widthPt": 67,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.725152,
+      "sourcePdfPage": 107,
+      "clipPt": [
+        247,
+        414,
+        314,
+        454
+      ],
+      "sha256": "b4f6cd7383d5fa7cc186683ae750160289f65b83a9b1b0280124f464d0f6d689"
+    },
+    "/library/volume-87/diagrams/pdf-0107-naturality-in-x-square.png": {
+      "widthPt": 203,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.376207,
+      "sourcePdfPage": 107,
+      "clipPt": [
+        179,
+        475,
+        382,
+        539
+      ],
+      "sha256": "f0ceaedb5c6d226fd4d4390b916c84df067f24a9657a4efa5bf40a14a0b268db"
+    },
+    "/library/volume-87/diagrams/pdf-0107-naturality-in-x-elements.png": {
+      "widthPt": 153,
+      "bodyFontPt": 9.9626,
+      "widthEm": 15.357437,
+      "sourcePdfPage": 107,
+      "clipPt": [
+        204,
+        556,
+        357,
+        621
+      ],
+      "sha256": "99815650fd5a32dd63019c8ee722ae77d3ae6b029c88c107b0269a6eb2635b07"
+    },
+    "/library/volume-87/diagrams/pdf-0109-free-vector-space-universal.png": {
+      "widthPt": 78,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.829282,
+      "sourcePdfPage": 109,
+      "clipPt": [
+        250,
+        576,
+        328,
+        634
+      ],
+      "sha256": "d30918d49b9b7f28f9ffdbdec93fe00e5198c974616d0802aaecac068c902931"
+    },
+    "/library/volume-87/diagrams/pdf-0110-adjunction-fg.png": {
+      "widthPt": 52,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.219521,
+      "sourcePdfPage": 110,
+      "clipPt": [
+        398,
+        372,
+        450,
+        404
+      ],
+      "sha256": "29255f9a8405fa518e3db3a85dee6ce3c606d5172630bf8aab1e6bc42ad39356"
+    },
+    "/library/volume-87/diagrams/pdf-0112-yoneda-embedding.png": {
+      "widthPt": 115,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.543171,
+      "sourcePdfPage": 112,
+      "clipPt": [
+        235,
+        130,
+        350,
+        205
+      ],
+      "sha256": "1518df743562f5284becff884cd99ccb6867052c9f172fe04263a93ffa6fe020"
+    },
+    "/library/volume-87/diagrams/pdf-0113-objects-viewpoints.png": {
+      "widthPt": 100,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.03754,
+      "sourcePdfPage": 113,
+      "clipPt": [
+        231,
+        128,
+        331,
+        228
+      ],
+      "sha256": "cde13bae3fb9dda3a9460ff83c415ad33cb8a10b33151af01ae717fcbb610380"
+    },
+    "/library/volume-87/diagrams/pdf-0117-projections.png": {
+      "widthPt": 113,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.342421,
+      "sourcePdfPage": 117,
+      "clipPt": [
+        224,
+        250,
+        337,
+        285
+      ],
+      "sha256": "b735c53a37f596a5535f91b62f57dd0e3d6a00c9be5b7b9e2247a9ef9e58286d"
+    },
+    "/library/volume-87/diagrams/pdf-0117-product.png": {
+      "widthPt": 87,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.73266,
+      "sourcePdfPage": 117,
+      "clipPt": [
+        237,
+        342,
+        324,
+        392
+      ],
+      "sha256": "0fa1e1741b4bf79f4491234d72832f599216c54be23df61c46841a602896d1b2"
+    },
+    "/library/volume-87/diagrams/pdf-0117-cone-5-1.png": {
+      "widthPt": 203,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.376207,
+      "sourcePdfPage": 117,
+      "clipPt": [
+        237,
+        416,
+        440,
+        465
+      ],
+      "sha256": "82d50083cbddfcbf12c8f7fe71a6b88bfaad08211f6a30e6d16bff26ef7f9fae"
+    },
+    "/library/volume-87/diagrams/pdf-0117-universal-5-2.png": {
+      "widthPt": 203,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.376207,
+      "sourcePdfPage": 117,
+      "clipPt": [
+        237,
+        488,
+        440,
+        578
+      ],
+      "sha256": "3801703daabf6fa024dc606abfb93c8b827075426c7fbf9041e6292501a4a229"
+    },
+    "/library/volume-87/diagrams/pdf-0117-discrete.png": {
+      "widthPt": 63,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.32365,
+      "sourcePdfPage": 117,
+      "clipPt": [
+        256,
+        632,
+        319,
+        653
+      ],
+      "sha256": "427aaa463ff5fa3b202de1721f3a9adea02ef5fa5f59c8fabc90c26b9bd6d2e5"
+    },
+    "/library/volume-87/diagrams/pdf-0119-vector-product.png": {
+      "widthPt": 222,
+      "bodyFontPt": 9.9626,
+      "widthEm": 22.28334,
+      "sourcePdfPage": 119,
+      "clipPt": [
+        170,
+        210,
+        392,
+        264
+      ],
+      "sha256": "143a52dbf43e8965ed0444de0696da5db393feb23700ed6c1a8cf2ad8df6babb"
+    },
+    "/library/volume-87/diagrams/pdf-0121-fork-5-4.png": {
+      "widthPt": 202,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.275832,
+      "sourcePdfPage": 121,
+      "clipPt": [
+        237,
+        437,
+        439,
+        465
+      ],
+      "sha256": "6352a4f5278ecd8a2b5775c1fdf386b40cb2c4bbf9c03695c78dd15aa580a0c8"
+    },
+    "/library/volume-87/diagrams/pdf-0121-equalizer.png": {
+      "widthPt": 86,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.632285,
+      "sourcePdfPage": 121,
+      "clipPt": [
+        237,
+        537,
+        323,
+        565
+      ],
+      "sha256": "c41248ee401b80b22e213d897a9bf246787b4e4ff718edb242ecdb08e57cb186"
+    },
+    "/library/volume-87/diagrams/pdf-0121-universal-5-5.png": {
+      "widthPt": 186,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.669825,
+      "sourcePdfPage": 121,
+      "clipPt": [
+        253,
+        595,
+        439,
+        652
+      ],
+      "sha256": "f92e29f39dd3abf30d611c9ae7bd916c91fa5957b1b86f9d843b8bfe66858765"
+    },
+    "/library/volume-87/diagrams/pdf-0122-family.png": {
+      "widthPt": 80,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.030032,
+      "sourcePdfPage": 122,
+      "clipPt": [
+        253,
+        311,
+        333,
+        341
+      ],
+      "sha256": "4d5f53c13f6b61599f18efb18bcd4876ed3d612a6f75971f2116eb13f9ba7dd9"
+    },
+    "/library/volume-87/diagrams/pdf-0122-product-pair.png": {
+      "widthPt": 78,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.829282,
+      "sourcePdfPage": 122,
+      "clipPt": [
+        254,
+        398,
+        332,
+        434
+      ],
+      "sha256": "57b5655569c8a39a4ba4a6880c03846713cff0327c1573397eb0d7a24c1d3965"
+    },
+    "/library/volume-87/diagrams/pdf-0123-kernel.png": {
+      "widthPt": 103,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.338667,
+      "sourcePdfPage": 123,
+      "clipPt": [
+        229,
+        163,
+        332,
+        193
+      ],
+      "sha256": "8ef8aab4bfc2def71d118fdfc138205d2c56f44c0251886cd28bb427bc71bebd"
+    },
+    "/library/volume-87/diagrams/pdf-0123-corner-5-6.png": {
+      "widthPt": 185,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.56945,
+      "sourcePdfPage": 123,
+      "clipPt": [
+        254,
+        410,
+        439,
+        466
+      ],
+      "sha256": "8ab01ea1d4b43e5749c7dfe1cadaf5da4365ed58daf7602929564b840906e192"
+    },
+    "/library/volume-87/diagrams/pdf-0123-square-5-7.png": {
+      "widthPt": 188,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.870576,
+      "sourcePdfPage": 123,
+      "clipPt": [
+        251,
+        504,
+        439,
+        565
+      ],
+      "sha256": "58fecbf7a3f35058d42c8ca73e7b3f0fd31b4c72097245884ddc2e9e6432fc67"
+    },
+    "/library/volume-87/diagrams/pdf-0123-cone-5-8.png": {
+      "widthPt": 187,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.770201,
+      "sourcePdfPage": 123,
+      "clipPt": [
+        252,
+        591,
+        439,
+        653
+      ],
+      "sha256": "1943b0a043bb40211f52dc864578842ab4e1d2e377a7e87ec9a8c9d8297d48ca"
+    },
+    "/library/volume-87/diagrams/pdf-0124-universal-5-9.png": {
+      "widthPt": 203,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.376207,
+      "sourcePdfPage": 124,
+      "clipPt": [
+        249,
+        148,
+        452,
+        239
+      ],
+      "sha256": "6d3a9cee5cb2834eab28826aa9d1af8cdd45b1ff3e7a3f58a94902eeacdeb170"
+    },
+    "/library/volume-87/diagrams/pdf-0124-inverse-5-10.png": {
+      "widthPt": 186,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.669825,
+      "sourcePdfPage": 124,
+      "clipPt": [
+        266,
+        580,
+        452,
+        652
+      ],
+      "sha256": "e538e556014b62d5ea0b4f161e3969d6cbc01f03001964ec468aff2c57963400"
+    },
+    "/library/volume-87/diagrams/pdf-0125-cone.png": {
+      "widthPt": 62,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.223275,
+      "sourcePdfPage": 125,
+      "clipPt": [
+        257,
+        198,
+        319,
+        264
+      ],
+      "sha256": "797488a660a8dc03a39f33c39efa4b96ac4595c13a1d198b7eed9234d955bd62"
+    },
+    "/library/volume-87/diagrams/pdf-0125-universal.png": {
+      "widthPt": 118,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.844298,
+      "sourcePdfPage": 125,
+      "clipPt": [
+        230,
+        289,
+        348,
+        397
+      ],
+      "sha256": "4cdd25484274cf07a457bd06a786c597a2da54994522ddcf0cb386c9276973cd"
+    },
+    "/library/volume-87/diagrams/pdf-0125-intersection.png": {
+      "widthPt": 75,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.528155,
+      "sourcePdfPage": 125,
+      "clipPt": [
+        252,
+        540,
+        327,
+        608
+      ],
+      "sha256": "28f3cf27c7f3e1d7721dabdbf048a01cf2760cfd7124d9c02601e8fd49a20e2f"
+    },
+    "/library/volume-87/diagrams/pdf-0126-equalizer-5-12.png": {
+      "widthPt": 184,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.469074,
+      "sourcePdfPage": 126,
+      "clipPt": [
+        268,
+        338,
+        452,
+        366
+      ],
+      "sha256": "a5503cfd749f3744f4b059aac33e0da7e6a79ddf4ec30dc9954bcdc5f2d5436a"
+    },
+    "/library/volume-87/diagrams/pdf-0126-pullback-5-13.png": {
+      "widthPt": 185,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.56945,
+      "sourcePdfPage": 126,
+      "clipPt": [
+        267,
+        386,
+        452,
+        442
+      ],
+      "sha256": "117772020102369588286e6678d4bb93a5eab74d7db7d1e61b8d92ba113fddb3"
+    },
+    "/library/volume-87/diagrams/pdf-0126-shapes-5-14.png": {
+      "widthPt": 303,
+      "bodyFontPt": 9.9626,
+      "widthEm": 30.413747,
+      "sourcePdfPage": 126,
+      "clipPt": [
+        149,
+        563,
+        452,
+        621
+      ],
+      "sha256": "f5347d92d31543a9bb8276d5c578dbd4662dbff55b4ca73f881bc2b9782b5d88"
+    },
+    "/library/volume-87/diagrams/pdf-0127-limit-figure.png": {
+      "widthPt": 171,
+      "bodyFontPt": 9.9626,
+      "widthEm": 17.164194,
+      "sourcePdfPage": 127,
+      "clipPt": [
+        193,
+        123,
+        364,
+        245
+      ],
+      "sha256": "52d847b27f38c81e1cca2b8f36deee366ce179f2baebb129a26d8e7428619081"
+    },
+    "/library/volume-87/diagrams/pdf-0127-cone-triangle.png": {
+      "widthPt": 65,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.524401,
+      "sourcePdfPage": 127,
+      "clipPt": [
+        256,
+        538,
+        321,
+        591
+      ],
+      "sha256": "6c429f1f7e6ab392a2f1331d5cd20541396e3c0fa0f5dc837d676543449c8616"
+    },
+    "/library/volume-87/diagrams/pdf-0128-parallel-cone.png": {
+      "widthPt": 86,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.632285,
+      "sourcePdfPage": 128,
+      "clipPt": [
+        258,
+        559,
+        344,
+        619
+      ],
+      "sha256": "d4286e2306bd1b82913b7c94fefa66929b8793a20cdf8d95d76c377ce4bf6551"
+    },
+    "/library/volume-87/diagrams/pdf-0129-fork.png": {
+      "widthPt": 85,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.531909,
+      "sourcePdfPage": 129,
+      "clipPt": [
+        246,
+        149,
+        331,
+        178
+      ],
+      "sha256": "b22ab06c7ad0c6277cee6c05014d3fa12b3696050234adee17e01b4f8adb914f"
+    },
+    "/library/volume-87/diagrams/pdf-0129-corner.png": {
+      "widthPt": 53,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.319896,
+      "sourcePdfPage": 129,
+      "clipPt": [
+        262,
+        240,
+        315,
+        297
+      ],
+      "sha256": "c6f2fd7f40a8c9a7bea8b06c1e828177e083de5959a3c96697b276571b1b7409"
+    },
+    "/library/volume-87/diagrams/pdf-0131-component-pair.png": {
+      "widthPt": 93,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.334913,
+      "sourcePdfPage": 131,
+      "clipPt": [
+        234,
+        332,
+        327,
+        367
+      ],
+      "sha256": "e46fc3a01ec6a63126ecb269f50222b1e0adad03e88ab2039edf5e61669cddc4"
+    },
+    "/library/volume-87/diagrams/pdf-0131-product-pair.png": {
+      "widthPt": 125,
+      "bodyFontPt": 9.9626,
+      "widthEm": 12.546926,
+      "sourcePdfPage": 131,
+      "clipPt": [
+        218,
+        452,
+        343,
+        494
+      ],
+      "sha256": "2658391c808c6bb85280e9e35945b92ac25d1724f4fc4bb8ca38f3ea6e7fd5cb"
+    },
+    "/library/volume-87/diagrams/pdf-0132-monic-pullback.png": {
+      "widthPt": 56,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.621023,
+      "sourcePdfPage": 132,
+      "clipPt": [
+        264,
+        552,
+        320,
+        613
+      ],
+      "sha256": "d5ec6444d733a52a7244a29b77e06f723ca70005031f59cb9c249887926b118e"
+    },
+    "/library/volume-87/diagrams/pdf-0133-equalizer-square.png": {
+      "widthPt": 56,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.621023,
+      "sourcePdfPage": 133,
+      "clipPt": [
+        252,
+        324,
+        308,
+        384
+      ],
+      "sha256": "4893d32ddfa5925555a05a6b58fd86f2cde6eee4247d6ce1e42014edb800ea77"
+    },
+    "/library/volume-87/diagrams/pdf-0133-pasting-pullbacks.png": {
+      "widthPt": 76,
+      "bodyFontPt": 9.9626,
+      "widthEm": 7.628531,
+      "sourcePdfPage": 133,
+      "clipPt": [
+        242,
+        438,
+        318,
+        490
+      ],
+      "sha256": "f86fee93b302ea992e4d1024d6825dec2658db05f810c99713b701fcc398442e"
+    },
+    "/library/volume-87/diagrams/pdf-0134-product-pair.png": {
+      "widthPt": 125,
+      "bodyFontPt": 9.9626,
+      "widthEm": 12.546926,
+      "sourcePdfPage": 134,
+      "clipPt": [
+        239,
+        192,
+        364,
+        234
+      ],
+      "sha256": "446905f288251b1f5a706cce38d71eb83ec141271e88512c0a432c6e9651f2b4"
+    },
+    "/library/volume-87/diagrams/pdf-0134-pullback-monic.png": {
+      "widthPt": 64,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.424026,
+      "sourcePdfPage": 134,
+      "clipPt": [
+        261,
+        586,
+        325,
+        651
+      ],
+      "sha256": "c7cade410ac58d7c1d873f2eb91c5f2277d1b81debd0e627a6a938db5d8458fd"
+    },
+    "/library/volume-87/diagrams/pdf-0135-cocone.png": {
+      "widthPt": 65,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.524401,
+      "sourcePdfPage": 135,
+      "clipPt": [
+        248,
+        478,
+        313,
+        531
+      ],
+      "sha256": "ab6a5671e525e58313adcfda08dd8780199671b2abbe9390a005b2efb7c399f0"
+    },
+    "/library/volume-87/diagrams/pdf-0136-sum-coprojections.png": {
+      "widthPt": 121,
+      "bodyFontPt": 9.9626,
+      "widthEm": 12.145424,
+      "sourcePdfPage": 136,
+      "clipPt": [
+        233,
+        300,
+        354,
+        324
+      ],
+      "sha256": "24811c39498e747dc7d70b4f0414e55927db662d454d5db7b093dbe084341775"
+    },
+    "/library/volume-87/diagrams/pdf-0136-sum-cocone.png": {
+      "widthPt": 93,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.334913,
+      "sourcePdfPage": 136,
+      "clipPt": [
+        247,
+        357,
+        340,
+        380
+      ],
+      "sha256": "574c091bbab2f64b32b734717e7da3ce7a928b40eb110a7d5d708a55b11ce1ac"
+    },
+    "/library/volume-87/diagrams/pdf-0136-sum-universal.png": {
+      "widthPt": 133,
+      "bodyFontPt": 9.9626,
+      "widthEm": 13.349929,
+      "sourcePdfPage": 136,
+      "clipPt": [
+        227,
+        400,
+        360,
+        494
+      ],
+      "sha256": "8f3f426637297f2e2d31d9eb61cd24e6e9b5972d59dc5709545732de0132753e"
+    },
+    "/library/volume-87/diagrams/pdf-0136-direct-sum-coprojections.png": {
+      "widthPt": 217,
+      "bodyFontPt": 9.9626,
+      "widthEm": 21.781463,
+      "sourcePdfPage": 136,
+      "clipPt": [
+        234,
+        612,
+        451,
+        634
+      ],
+      "sha256": "9f5a4331103ffb2724359eb73200eba34b222a4e9725886d8f777b7252335037"
+    },
+    "/library/volume-87/diagrams/pdf-0139-pushout-shape.png": {
+      "widthPt": 98,
+      "bodyFontPt": 9.9626,
+      "widthEm": 9.83679,
+      "sourcePdfPage": 139,
+      "clipPt": [
+        231,
+        247,
+        329,
+        303
+      ],
+      "sha256": "99b0dd7005710f6803aa3d16be002c353228b3ceed98a8973f7f5444b1c0cc2d"
+    },
+    "/library/volume-87/diagrams/pdf-0139-pushout-diagram.png": {
+      "widthPt": 185,
+      "bodyFontPt": 9.9626,
+      "widthEm": 18.56945,
+      "sourcePdfPage": 139,
+      "clipPt": [
+        254,
+        324,
+        439,
+        380
+      ],
+      "sha256": "8333e33cc33679450d50fa2e8c1787ec8fdfc8fe6ba8e08385d5a43655092f98"
+    },
+    "/library/volume-87/diagrams/pdf-0139-pushout-square.png": {
+      "widthPt": 53,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.319896,
+      "sourcePdfPage": 139,
+      "clipPt": [
+        254,
+        398,
+        307,
+        456
+      ],
+      "sha256": "8fbbef68fde76be417ddfc5e0ccb89bf3b6abc37d66e4a0fb042b33ebe14c35d"
+    },
+    "/library/volume-87/diagrams/pdf-0139-union-pushout.png": {
+      "widthPt": 87,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.73266,
+      "sourcePdfPage": 139,
+      "clipPt": [
+        237,
+        554,
+        324,
+        619
+      ],
+      "sha256": "b1292658850538873848b06ab7d8eb7faff140ff0250ffc5638b9029b29f7eea"
+    },
+    "/library/volume-87/diagrams/pdf-0140-initial-pushout.png": {
+      "widthPt": 48,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.818019,
+      "sourcePdfPage": 140,
+      "clipPt": [
+        269,
+        205,
+        317,
+        261
+      ],
+      "sha256": "b12fcc2c47932d60550656f0c4b485b07ce03a638a0337303b3be60f303412f1"
+    },
+    "/library/volume-87/diagrams/pdf-0141-sphere-limit-colimit.png": {
+      "widthPt": 260,
+      "bodyFontPt": 9.9626,
+      "widthEm": 26.097605,
+      "sourcePdfPage": 141,
+      "clipPt": [
+        151,
+        126,
+        411,
+        272
+      ],
+      "sha256": "7d0724009ffd8dc70e81e8210fe4c72a014d3aaa5675920ee28ba0dbf2aee856"
+    },
+    "/library/volume-87/diagrams/pdf-0141-sphere-equalizer.png": {
+      "widthPt": 104,
+      "bodyFontPt": 9.9626,
+      "widthEm": 10.439042,
+      "sourcePdfPage": 141,
+      "clipPt": [
+        228,
+        515,
+        332,
+        547
+      ],
+      "sha256": "2b80dfea40a1930ec56e8350ab7eeda6f3db6c94fda7a39bbca103293bdc6667"
+    },
+    "/library/volume-87/diagrams/pdf-0142-sphere-coequalizer.png": {
+      "widthPt": 154,
+      "bodyFontPt": 9.9626,
+      "widthEm": 15.457812,
+      "sourcePdfPage": 142,
+      "clipPt": [
+        216,
+        203,
+        370,
+        232
+      ],
+      "sha256": "c7035f7c6087c99b3ee1b3ac074427d09b6cbb8fab6cec0942e852cc1a2a0f9c"
+    },
+    "/library/volume-87/diagrams/pdf-0147-creation.png": {
+      "widthPt": 123,
+      "bodyFontPt": 9.9626,
+      "widthEm": 12.346175,
+      "sourcePdfPage": 147,
+      "clipPt": [
+        218,
+        130,
+        341,
+        259
+      ],
+      "sha256": "6a479db9957a89464c394dff416896a5e3ecda240807982f215d30357d93e996"
+    },
+    "/library/volume-87/diagrams/pdf-0149-adjunction.png": {
+      "widthPt": 54,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.420272,
+      "sourcePdfPage": 149,
+      "clipPt": [
+        140,
+        287,
+        194,
+        317
+      ],
+      "sha256": "3e95ebae3206d2605ac45b110fc49cf43765429e4cb4397425d3850e479edda6"
+    },
+    "/library/volume-87/diagrams/pdf-0151-cone-transformation.png": {
+      "widthPt": 53,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.319896,
+      "sourcePdfPage": 151,
+      "clipPt": [
+        253,
+        306,
+        306,
+        344
+      ],
+      "sha256": "0a0799b64c2c500d4817d81362f278420e62542354d3e3381dcad71ec861d65d"
+    },
+    "/library/volume-87/diagrams/pdf-0152-induced-maps.png": {
+      "widthPt": 157,
+      "bodyFontPt": 9.9626,
+      "widthEm": 15.758938,
+      "sourcePdfPage": 152,
+      "clipPt": [
+        214,
+        137,
+        371,
+        247
+      ],
+      "sha256": "e95d13dd4e1937966a16660a1e4e44939187a85c117c541a43135d0267480e8f"
+    },
+    "/library/volume-87/diagrams/pdf-0152-natural-transformation.png": {
+      "widthPt": 46,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.617269,
+      "sourcePdfPage": 152,
+      "clipPt": [
+        326,
+        517,
+        372,
+        556
+      ],
+      "sha256": "2df317bdea5c5b126930d1608d937a76f6d78c608c7376a133aadf5b20a2f4b8"
+    },
+    "/library/volume-87/diagrams/pdf-0153-limit-square.png": {
+      "widthPt": 87,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.73266,
+      "sourcePdfPage": 153,
+      "clipPt": [
+        246,
+        145,
+        333,
+        220
+      ],
+      "sha256": "fff7a4d7e126238aebae2eaa15208e238c0405311379a6e98af938a5595c96c8"
+    },
+    "/library/volume-87/diagrams/pdf-0153-cone-square.png": {
+      "widthPt": 69,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.925903,
+      "sourcePdfPage": 153,
+      "clipPt": [
+        254,
+        262,
+        323,
+        328
+      ],
+      "sha256": "99696d1a209beb922cd7074c18ce033f854686a4b7926c804930aaa39cfd4a99"
+    },
+    "/library/volume-87/diagrams/pdf-0153-induced-square.png": {
+      "widthPt": 80,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.030032,
+      "sourcePdfPage": 153,
+      "clipPt": [
+        249,
+        354,
+        329,
+        424
+      ],
+      "sha256": "b22e6a70097f2253919e0afbd2bd745b8619d3d135bc4b65c86f4a953bc2a562"
+    },
+    "/library/volume-87/diagrams/pdf-0155-equalizer-notation.png": {
+      "widthPt": 64,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.424026,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        164,
+        128,
+        228,
+        156
+      ],
+      "sha256": "f3dbe8e773975c87be25681772566a4ce0eb4fe677efe14076193771a2811597"
+    },
+    "/library/volume-87/diagrams/pdf-0155-map-to-equalizer.png": {
+      "widthPt": 204,
+      "bodyFontPt": 9.9626,
+      "widthEm": 20.476582,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        234,
+        166,
+        438,
+        194
+      ],
+      "sha256": "7b8f160ad9e750e05a6a94441dabcd6bed034519636915c0b520c1c09314515a"
+    },
+    "/library/volume-87/diagrams/pdf-0155-equalizer-bijection.png": {
+      "widthPt": 275,
+      "bodyFontPt": 9.9626,
+      "widthEm": 27.603236,
+      "sourcePdfPage": 155,
+      "clipPt": [
+        163,
+        344,
+        438,
+        375
+      ],
+      "sha256": "4c90f4dc16cf272b4ecf9b24579c518284ae8995638f157d8676b2182483a91d"
+    },
+    "/library/volume-87/diagrams/pdf-0158-parameter-transformation.png": {
+      "widthPt": 110,
+      "bodyFontPt": 9.9626,
+      "widthEm": 11.041294,
+      "sourcePdfPage": 158,
+      "clipPt": [
+        237,
+        339,
+        347,
+        389
+      ],
+      "sha256": "5413968faedb085c8216a1c2c52a743b7695856b19eb102aa718408bcc5fc2ae"
+    },
+    "/library/volume-87/diagrams/pdf-0158-pointwise-square.png": {
+      "widthPt": 210,
+      "bodyFontPt": 9.9626,
+      "widthEm": 21.078835,
+      "sourcePdfPage": 158,
+      "clipPt": [
+        241,
+        421,
+        451,
+        485
+      ],
+      "sha256": "2a8bebcdb66f3f2d55a41318c31b1b12a2a5bdb68544ceacfe8ac090bab60b13"
+    },
+    "/library/volume-87/diagrams/pdf-0158-projection-transformation.png": {
+      "widthPt": 69,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.925903,
+      "sourcePdfPage": 158,
+      "clipPt": [
+        258,
+        558,
+        327,
+        600
+      ],
+      "sha256": "e09c64d412156f92e9cd25bb856b94435ce18dcb3ead97fe508ae9a071366da6"
+    },
+    "/library/volume-87/diagrams/pdf-0160-two-object-category.png": {
+      "widthPt": 46,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.617269,
+      "sourcePdfPage": 160,
+      "clipPt": [
+        272,
+        463,
+        318,
+        479
+      ],
+      "sha256": "21c1d5e73d8e5dadfaf90d8dc462ab2cf78e299244abbf8bd382af813f9b54d1"
+    },
+    "/library/volume-87/diagrams/pdf-0164-density-cocone.png": {
+      "widthPt": 66,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.624777,
+      "sourcePdfPage": 164,
+      "clipPt": [
+        260,
+        237,
+        326,
+        291
+      ],
+      "sha256": "98adecf63b22e2067887b7c06b03db86c60ecc80ac05382ff3be2da3fb90f214"
+    },
+    "/library/volume-87/diagrams/pdf-0165-natural-transformation.png": {
+      "widthPt": 59,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.922149,
+      "sourcePdfPage": 165,
+      "clipPt": [
+        260,
+        478,
+        319,
+        519
+      ],
+      "sha256": "4c9590e3d5bca4946c31ea6488dc133dfa6b5229922bcd157c20372c0c42c165"
+    },
+    "/library/volume-87/diagrams/pdf-0167-adjunction.png": {
+      "widthPt": 50,
+      "bodyFontPt": 9.9626,
+      "widthEm": 5.01877,
+      "sourcePdfPage": 167,
+      "clipPt": [
+        209,
+        162,
+        259,
+        194
+      ],
+      "sha256": "30d180b5c6d563981fa4a6015fb1514cf486f31c1f8b2435232d56f2fed27848"
+    },
+    "/library/volume-87/diagrams/pdf-0167-limit-adjunction.png": {
+      "widthPt": 65,
+      "bodyFontPt": 9.9626,
+      "widthEm": 6.524401,
+      "sourcePdfPage": 167,
+      "clipPt": [
+        169,
+        613,
+        234,
+        650
+      ],
+      "sha256": "799115a7f7165d1e7f26cdf18ab960eb725f7120a0b430e11328fa3a03b5cd94"
+    },
+    "/library/volume-87/diagrams/pdf-0176-parallel-pair.png": {
+      "widthPt": 43,
+      "bodyFontPt": 9.9626,
+      "widthEm": 4.316142,
+      "sourcePdfPage": 176,
+      "clipPt": [
+        363,
+        624,
+        406,
+        649
+      ],
+      "sha256": "c55d2bb2b23eb11f413e9f281f89055b0ceeccc5e9961341dcf183710a00a680"
+    },
+    "/library/volume-87/diagrams/pdf-0181-equalizer.png": {
+      "widthPt": 80.0,
+      "bodyFontPt": 9.9626,
+      "widthEm": 8.030032,
+      "sourcePdfPage": 181,
+      "clipPt": [
+        240.0,
+        325.0,
+        320.0,
+        355.0
+      ],
+      "sha256": "0c53384d6f4b23bc4aa4e8e1bb3715817842ce38dcece36365472931d8767876"
+    }
+  }
+}

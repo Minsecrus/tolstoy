@@ -1,0 +1,20 @@
+{
+  "pdfPage": 55,
+  "printedPage": "46",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page begins with the continuation of Example 2.1.3(d) from PDF 54.",
+    "Page ends in the middle of the definition of an algebra for an algebraic theory, continued on PDF 56.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "446ed2990db3744ee1ec92510975d5a802b9d279d811d48cbab28f1736efd415",
+    "zh": "635ec10ca9c39f4cd9d2d4a69be5c7b74427e7526be1c064ffe59f45ffec67b9"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "pdfPage": 54,
+  "printedPage": "45",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "All three diagrams cropped from the supplied PDF at 300 dpi and inspected, including the dotted uniqueness arrow.",
+    "Chinese prose reread and revised for natural phrasing, word order and sentence flow; no added conceptual commentary, and original mathematical expressions and English transcription unchanged."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0054-abelianization-adjunction.png",
+      "widthPt": 34,
+      "clipPt": [
+        284,
+        146,
+        318,
+        201
+      ],
+      "sha256": "205536df93031796a205bfbe927b52f511595ee541e883f0c09beb1eaabdf427"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0054-abelianization-universal.png",
+      "widthPt": 67,
+      "clipPt": [
+        268,
+        257,
+        335,
+        316
+      ],
+      "sha256": "463cba0277866900e187966931c4ec5b5c1a76b18f8971afc9b3906538e83b59"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0054-group-monoid-adjunctions.png",
+      "widthPt": 51,
+      "clipPt": [
+        276,
+        476,
+        327,
+        531
+      ],
+      "sha256": "a10f3ee8a0308b2c6469c966f033000229266dec72d0a61112de3cc301b31005"
+    }
+  ],
+  "sourceSha256": {
+    "en": "61f6a18ef64635429f50dbf06fae8d48e64fb7095aa31ae0c84d6d6c67a2ffed",
+    "zh": "a9f9c84a6a2de39b1c01eb851a13f9d040f19873e8ba8265db0ff02f3ebb5dc7"
+  }
+}

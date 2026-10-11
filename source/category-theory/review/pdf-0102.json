@@ -1,0 +1,31 @@
+{
+  "pdfPage": 102,
+  "printedPage": "93",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Matched mathematical notation against the PDF and rep.tex; page fragments and equation numbers retained.",
+    "Chinese prose reviewed for natural wording without adding explanation absent from the source."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0102-functors-fg.png",
+      "widthPt": 52,
+      "clipPt": [
+        398,
+        363,
+        450,
+        388
+      ],
+      "sha256": "3df71915612b3183cf43d5a710534a8946e9ebc9bc98e4814cc364b5fa9a5109"
+    }
+  ],
+  "sha256": {
+    "en": "79339a1acf75fcd05b4a53c921fdb8d75e52c8235dbf3d77eee1dfd6fe1b5df2",
+    "zh": "7c5b5349886c37d4a647ef7e754ffb2bf64b2d7c8c176b02127e37cc43e0d66f"
+  }
+}

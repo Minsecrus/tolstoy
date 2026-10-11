@@ -1,0 +1,19 @@
+{
+  "pdfPage": 60,
+  "printedPage": "52",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Lemma 3.8.2(ii) proof: original sum starts i=0 although theta_0 is undefined; English preserves i=0, Chinese corrects to i=1 with visible note."
+  ],
+  "diagrams": [],
+  "enSha256": "c6eb2cb089dbe178c7f991a544282e11a4aa1e0f323ebe41ba9eb4668ecfc2fe",
+  "zhSha256": "d45740ccdefab544c1041f85d23e7a4e4b9300d2bb84891b39e7cce5bffc4f12",
+  "reviewer": "representation_049_068",
+  "reviewMethod": "Direct visual reading of every assigned original PDF page image, comparison with English transcription and Chinese translation; formula indices, operators, matrices, hypotheses, proofs, exercises and original footnotes checked.",
+  "sourceImage": "tmp/pdfs/representation-theory/pages/pdf-0060.png"
+}

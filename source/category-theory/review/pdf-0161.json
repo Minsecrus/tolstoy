@@ -1,0 +1,19 @@
+{
+  "pdfPage": 161,
+  "printedPage": "152",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "正文按原 PDF 保留跨页片段；公式与官方 TeX 及原页视觉核对。",
+    "米田嵌入证明中的复合为 H^A，依据官方 TeX 与原图，修复文本层上标误识别。"
+  ],
+  "diagrams": [],
+  "snapshots": {
+    "en": "b8722051c4e8ca64acda19b5da78a20ad385d735b3323e311530b8cb05bef35d",
+    "zh": "038a55a1470394c4dde62a0d799ecf8fd0c2ef153d284d3745699c7290c4ff7c"
+  }
+}

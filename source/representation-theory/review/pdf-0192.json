@@ -1,0 +1,17 @@
+{
+  "pdfPage": 192,
+  "printedPage": "184",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Definition 7.6.1: source Hom category subscripts are reversed; English retains them, Chinese corrects them with an adjacent visible translator note, confirmed against official-corrections.pdf page 2, June 3 2024.",
+    "另订正原书函子定义域 C×D 为 C^op×D，因为 Hom 对第一变量逆变；英文保留原书，中文紧邻译校注明确区分此订正与官方 Hom 下标勘误。"
+  ],
+  "diagrams": [],
+  "enSha256": "5c7b6916f2830c1b497604edb56382cfdfac0eefb6688f8d475f998fb72b3d5d",
+  "zhSha256": "d043755e2bb2c9549b01c2b4edd5269e90209636e402979ef30b3eecb55127b8"
+}

@@ -1,0 +1,31 @@
+{
+  "pdfPage": 19,
+  "printedPage": "10",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Chinese sentences reread under the clarified preference: natural Chinese word order and phrasing, with no added conceptual, symbolic, or proof explanations. English, mathematical expressions, and diagram crops remain unchanged. Source hashes bind this review to the current manuscripts."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0019-associativity.png",
+      "widthPt": 117,
+      "clipPt": [
+        230,
+        615,
+        347,
+        652
+      ],
+      "sha256": "ac6c32f4dbcbe468c3281b8b0c95543a3aaf270b516e3dbcf7080d8430c42b05"
+    }
+  ],
+  "styleReviewed": true,
+  "sourceSha256": {
+    "en": "b3ae27745719f1aa4833d7420b1f7eb5189ecd822f8d5432b32addffe3a04bb7",
+    "zh": "a6af33f0bbd6f84b929289d5fde33bff4331cafc69bf606a7718ca390ba2e501"
+  }
+}

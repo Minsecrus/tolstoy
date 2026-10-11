@@ -4,3 +4,7 @@
 # Reviewed page hashes and generated-page checks require stable line endings.
 source/algebra/** text eol=lf
 docs/library/volume-86/*.md text eol=lf
+source/category-theory/** text eol=lf
+docs/library/volume-87/*.md text eol=lf
+source/representation-theory/** text eol=lf
+docs/library/volume-88/*.md text eol=lf

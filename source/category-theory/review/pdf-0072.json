@@ -1,0 +1,42 @@
+{
+  "pdfPage": 72,
+  "printedPage": "63",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed.",
+    "独立二审修正中文句式：“正如所需”改为“得到所需结论”，推论证明的“仅当／当”改用“必要性／充分性”。两方向的数学内容与全部条件保持原样。"
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0072-left-adjoint-construction.png",
+      "widthPt": 132.5593,
+      "clipPt": [
+        225.8971,
+        287.4141,
+        358.4564,
+        351.4494
+      ],
+      "sha256": "36f306f7b819dacb061590c29ec254ba92f2b353770cd086df86ddffb73746b5"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0072-exercise-adjunction.png",
+      "widthPt": 53,
+      "clipPt": [
+        188,
+        580,
+        241,
+        612
+      ],
+      "sha256": "01488cc261ee4e62e484cf2ca185d65e8c8b9ebdef8925c1e877fd20b1d015e9"
+    }
+  ],
+  "englishSha256": "3676e2ad60a34530a23f22b5ce9f1e44118729ec5ac133de7a7e3f9307265685",
+  "chineseSha256": "f570922e12464f5a6345fbdb5d0df905bc6ba29b452960fcf816fc194d097075"
+}

@@ -1,0 +1,19 @@
+{
+  "pdfPage": 103,
+  "printedPage": "95",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "命题5.2.5证明中的 leading term of p(x) 按作者2024-06-03官方勘误在中文改为 p(z)，附紧邻可见译校注说明；英文仍保留原书 p(x)。",
+    "已核对最小多项式、代数共轭、引理5.2.6所有条件与跨页片段。",
+    "逐页实际查看原扫描页面，英文忠实校录；中文按自然语序处理，不新增原文没有的讲解。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_089_108",
+  "enSha256": "b4b48e06e4de525fb526cd2fb012af80523c2c4a22ca270c74df64e8e0e46206",
+  "zhSha256": "683edae0f4ebeaae45144bcbfcb03c8962e29d28b8130635eac0e9bfd34e8fcd"
+}

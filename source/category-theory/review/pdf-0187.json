@@ -1,0 +1,21 @@
+{
+  "pdfPage": 187,
+  "printedPage": "178",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "All entries of both subject-index columns retained in original reading order, with nesting and all printed page references preserved; matched BasicCategoryTheory.ind.",
+    "Independent audit: distinguished the arrow headword from map by retaining the English word in parentheses; aligned the bilinear-map entry and its cross-reference with the map entry. Original entry order, hierarchy and page references retained."
+  ],
+  "diagrams": [],
+  "sourceSha256": {
+    "en": "172e216ed9db66f6ce5c2ef022b2f6af3b4c73b886d0a43ed65a39ca3a13e9fc",
+    "zh": "669de6418cd02fe6eb55d8af27491bad0f8ff3024df99eeaee7cd9f6f1dbd689"
+  },
+  "styleReviewed": true
+}

@@ -1,0 +1,148 @@
+{
+  "status": "complete",
+  "reviewer": "representation_inventory",
+  "primaryReviewer": "representation_229_238",
+  "sourcePdfSha256": "2dd757632494b71e95e8b70520e3745ae22b6df5632b7352cc465fcaac6a6563",
+  "pages": [
+    {
+      "pdfPage": 229,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed the complete original printed page 221 and read both complete manuscripts: all six historical references [56]-[61], including authors, translated titles, the Richard H. Daly translator credit, editions, cities, publishers, publication years, journal volumes/issues and every cited page range. No reference text was replaced by newer editions.",
+      "enSha256": "85562c766ca5779b2c5bdbf60627d88ddc09a470bd8dfd1d218a745cc9e3a597",
+      "zhSha256": "314d7592209187be2aedb516d6e4f5b4d58052734b9cc3bc9a1ee5c897408e08",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 230,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed the full supplied blank page and compared both empty English and Chinese source files; confirmed no source text, figure, printed page number or omitted mathematical content.",
+      "enSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "zhSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 231,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed the complete original printed page 223 and compared all nine mathematical references [BGP], [Cu], [CR], [FH], [Fr], [Ki], [McL], [S], [W] in English and Chinese: author initials, all book and article titles, publisher/place/year data, the 28(1973) no.2 17-32 journal citation, and Mac Lane second edition/Graduate Texts in Mathematics 5.",
+      "enSha256": "d53529eaff1857b44ea45e43412038d3eaad874e45b453c5deb484c708931a2d",
+      "zhSha256": "f1a2ea06bce94f1290ae0b16b8928637b40d3f2f24a0c1dd987bfb11cef52f96",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 232,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed the full supplied blank page and compared both empty English and Chinese source files; confirmed no source text, figure, printed page number or omitted mathematical content.",
+      "enSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "zhSha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 233,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally read both columns of original printed page 225 from Abelian category through Cyclic vector and compared all 51 flat entries with the complete English and Chinese manuscripts: every mathematical headword, accent, multiple printed reference, and source column order. Checked Commutant against the printed-page-39 span-of-brackets meaning; corrected companion matrix terminology to 相伴矩阵. No wrapped lines were interpreted as nested entries.",
+      "enSha256": "ff11d1b6bb1eb4a7b74f3509bfc30436a0211cb09c402f2d19b71d3b85b0fcd8",
+      "zhSha256": "09736fde37bb8829849f5cd6012022ed0fe8d91894d33ad870b168d3150ebb92",
+      "unresolved": [],
+      "notes": [
+        "After complete personal page-image and bilingual reading, independently compared all 230 English index headwords/references against the matching author native-text edition; every English/Chinese printed-reference list matches. Auxiliary text comparison is additional evidence only.",
+        "Independent correction: Companion matrix changed from 伴随矩阵 to 相伴矩阵 to avoid confusion with adjugate matrix; primary review SHA snapshot updated and body translator notified. Commutant remains 李代数的导出代数 following the supplied Lie-algebra definition."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 234,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally read both columns of original printed page 226 from De Rham complex through Long exact sequence of cohomology and compared all 82 flat entries with complete English and Chinese manuscripts: every headword, printed reference/multiple reference, and column order. Checked enriched category=丰盈范畴, all full-subcategory/functor/adjoint/exact-functor entries, and Hölder/Künneth accents. No wrapped continuation was made a child entry.",
+      "enSha256": "324c10a59165fbb78f5cb3d89dd5f1e8d7490861d423b9ca95777e9e583090f0",
+      "zhSha256": "80f40ea505756bfe03948c671f67e3abd165a2cddf6c7becb8c4bbdfea348bff",
+      "unresolved": [],
+      "notes": [
+        "After complete personal page-image and bilingual reading, independently compared all 230 English index headwords/references against the matching author native-text edition; every English/Chinese printed-reference list matches. Auxiliary text comparison is additional evidence only."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 235,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally read both columns of original printed page 227 from Manifold through Tor functor and compared all 85 flat entries with complete English and Chinese manuscripts: every headword, original printed reference, and column order; the q-Weyl and (m,n) symbols, complex/quaternionic/real types, all tensor-product qualifiers, the distinct progenerator and projective-generator entries. Aligned minimal polynomial to 最小多项式 used in the body.",
+      "enSha256": "bd696a7272a3b40845d1b48dcde15e45eaf5875a7a11a9c1bc458488838737fc",
+      "zhSha256": "0f35fc375ff2b6d1af169647d5c376a0b3c0d4aba49b39c2aa65f1fe7d4031bb",
+      "unresolved": [],
+      "notes": [
+        "After complete personal page-image and bilingual reading, independently compared all 230 English index headwords/references against the matching author native-text edition; every English/Chinese printed-reference list matches. Auxiliary text comparison is additional evidence only.",
+        "Independent correction: Minimal polynomial changed from 极小多项式 to 最小多项式 used by the printed-page-95 body; primary review SHA snapshot updated."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 236,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed original printed page 228 and compared all 12 remaining index entries in English and Chinese: Two-sided ideal, Unit, Unit morphism, Unitary representation of a group, Universal enveloping algebra of a Lie algebra, Virtual representation, Weyl algebra, Weyl group, Young diagram/projector/tableau, and Zariski dense subset; every printed reference including 24,35. Confirmed no entry omitted from the short last index page.",
+      "enSha256": "57dcd0ec45fc92094d9c235dc3a743ca1daf183a0ff09d1010e7d3fe825eea42",
+      "zhSha256": "da64b1c741e12018a0da53233c85888ec6e46ecf50d2551794bed299279401de",
+      "unresolved": [],
+      "notes": [
+        "After complete personal page-image and bilingual reading, independently compared all 230 English index headwords/references against the matching author native-text edition; every English/Chinese printed-reference list matches. Auxiliary text comparison is additional evidence only."
+      ],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 237,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed the complete supplied advertisement page and read both complete manuscripts: all 22 numbered series entries 59 down to 38, full author lists and diacritics, Gerovitch historical-interlude credit, every translated book title and publication year. Advertisement remains in canonical page records and is excluded from chapter reading and exported book by the plan.",
+      "enSha256": "3361d973027c5163111e745e521fd0c1cfe18e45058b6cdb8be8f1c2516975f8",
+      "zhSha256": "2e01854d1115df624cddb71b1bd1133f156243fcb1ab542ad671a33772734389",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    },
+    {
+      "pdfPage": 238,
+      "originalImageViewed": true,
+      "englishCompared": true,
+      "chineseCompared": true,
+      "formulaAndHypothesesChecked": true,
+      "scope": "Personally viewed the complete supplied advertisement page and read both complete manuscripts: all 26 numbered series entries 37 down to 12, full author lists and editor credits, p-adic symbol, all translated titles and years, Kühnel second edition, and final AMS Bookstore URL and invitation. Advertisement remains in canonical source records and is excluded from chapter reading and exported book by the plan.",
+      "enSha256": "e7bebac9005703374cfb8142181c1782064d3ccdbebd88e313634e39b442ac95",
+      "zhSha256": "6f6ac078210bea837a95cd327a268e0d92344e4b5f3b41d58614b5d11cb7307b",
+      "unresolved": [],
+      "notes": [],
+      "status": "verified"
+    }
+  ]
+}

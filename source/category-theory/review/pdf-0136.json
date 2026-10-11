@@ -1,0 +1,59 @@
+{
+  "pdfPage": 136,
+  "printedPage": "127",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0136-sum-coprojections.png",
+      "widthPt": 121,
+      "clipPt": [
+        233,
+        300,
+        354,
+        324
+      ],
+      "sha256": "24811c39498e747dc7d70b4f0414e55927db662d454d5db7b093dbe084341775"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0136-sum-cocone.png",
+      "widthPt": 93,
+      "clipPt": [
+        247,
+        357,
+        340,
+        380
+      ],
+      "sha256": "574c091bbab2f64b32b734717e7da3ce7a928b40eb110a7d5d708a55b11ce1ac"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0136-sum-universal.png",
+      "widthPt": 133,
+      "clipPt": [
+        227,
+        400,
+        360,
+        494
+      ],
+      "sha256": "8f3f426637297f2e2d31d9eb61cd24e6e9b5972d59dc5709545732de0132753e"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0136-direct-sum-coprojections.png",
+      "widthPt": 217,
+      "clipPt": [
+        234,
+        612,
+        451,
+        634
+      ],
+      "sha256": "9f5a4331103ffb2724359eb73200eba34b222a4e9725886d8f777b7252335037"
+    }
+  ],
+  "englishSha256": "d8693f0c47e35fa7a57e3f298cdd1c1f298b05e3b81cc55673e40a3839a44d97",
+  "chineseSha256": "73356c76826c6dd1519cd1bde1897078adbf48fdfd99270a208414dacaa59ad7"
+}

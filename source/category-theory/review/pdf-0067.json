@@ -1,0 +1,52 @@
+{
+  "pdfPage": 67,
+  "printedPage": "58",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image visually inspected; diagram crops rendered from supplied PDF at 300 dpi.",
+    "All prose, exercises and cross-page fragments preserved; standard TeX checked against the rendered PDF and adj.tex.",
+    "Chinese sentences reread for natural phrasing under the clarified preference; no concept explanations or proof commentary added beyond the source. Earlier added explanatory clauses removed."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0067-free-forgetful.png",
+      "widthPt": 30.2851,
+      "clipPt": [
+        263.1328,
+        197.0698,
+        293.4179,
+        247.7023
+      ],
+      "sha256": "71b0a15c4e0f657b6da72825efee3223fc15107e5829155ae25792d2f1793b77"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0067-universal-property.png",
+      "widthPt": 184.193,
+      "clipPt": [
+        237.8125,
+        449.2397,
+        422.0055,
+        504.8362
+      ],
+      "sha256": "f89431acc8af8d570bf78c1d6c9acb236f6ad212e7318a027b624a42e4a07448"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0067-comma-input.png",
+      "widthPt": 62.0596,
+      "clipPt": [
+        248.735,
+        593.1949,
+        310.7946,
+        650.2806
+      ],
+      "sha256": "f07b6e3620968e9e22c0c4e5161b8701275b8c874af4e904c8fe088ff56560ec"
+    }
+  ],
+  "englishSha256": "7fa46cff3e5dc9b4ec6531fef11a2cf3ffbaf403d582f07b82f2f4b8aded8b16",
+  "chineseSha256": "fd318771ceaae514af151ce7fe8574f88f4800df88e414f3f75176d2753c8b79"
+}

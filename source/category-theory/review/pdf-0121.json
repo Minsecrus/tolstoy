@@ -1,0 +1,50 @@
+{
+  "pdfPage": 121,
+  "printedPage": "112",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0121-fork-5-4.png",
+      "widthPt": 202,
+      "clipPt": [
+        237,
+        437,
+        439,
+        465
+      ],
+      "sha256": "6352a4f5278ecd8a2b5775c1fdf386b40cb2c4bbf9c03695c78dd15aa580a0c8"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0121-equalizer.png",
+      "widthPt": 86,
+      "clipPt": [
+        237,
+        537,
+        323,
+        565
+      ],
+      "sha256": "c41248ee401b80b22e213d897a9bf246787b4e4ff718edb242ecdb08e57cb186"
+    },
+    {
+      "path": "/library/volume-87/diagrams/pdf-0121-universal-5-5.png",
+      "widthPt": 186,
+      "clipPt": [
+        253,
+        595,
+        439,
+        652
+      ],
+      "sha256": "f92e29f39dd3abf30d611c9ae7bd916c91fa5957b1b86f9d843b8bfe66858765"
+    }
+  ],
+  "sourceHashes": {
+    "en": "63c106be6a6cd88e05bdbc9107ab324584531ea44e42a853cd202bf9e315fd92",
+    "zh": "6d4381ae8497314a2bf7a3689cebff4ab85c7e4014d1600ec591b099a1299d89"
+  }
+}

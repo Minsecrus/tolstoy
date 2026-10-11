@@ -1,0 +1,33 @@
+{
+  "pdfPage": 181,
+  "printedPage": "172",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "Page image viewed and checked against extracted text and the matching official TeX source. Chinese sentences reread for natural Chinese expression under the clarified preference; no extra conceptual, symbolic or proof explanations were added.",
+    "Equalizer diagram cropped from supplied PDF at 300 dpi and inspected; arrow directions and i, f, g labels preserved. Ordinary chain of arrows remains native TeX.",
+    "Independent audit: made the sentences introducing the existence of a map and the remaining proof read naturally in Chinese; all formulas, hypotheses and proof steps retained."
+  ],
+  "diagrams": [
+    {
+      "path": "/library/volume-87/diagrams/pdf-0181-equalizer.png",
+      "widthPt": 80.0,
+      "clipPt": [
+        240.0,
+        325.0,
+        320.0,
+        355.0
+      ],
+      "sha256": "0c53384d6f4b23bc4aa4e8e1bb3715817842ce38dcece36365472931d8767876"
+    }
+  ],
+  "sourceSha256": {
+    "en": "17a57054ad3241fb6c6828daf4dd7942067d87c05f0ebdc3ecda13d7449a0cf3",
+    "zh": "b22c5df20caa7a1a32d3218c2e47379e44f88964ef97aa110ea833738558c02a"
+  },
+  "styleReviewed": true
+}

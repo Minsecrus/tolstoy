@@ -1,0 +1,17 @@
+{
+  "pdfPage": 224,
+  "printedPage": "216",
+  "visualReviewed": true,
+  "englishTranscribed": true,
+  "chineseTranslated": true,
+  "formulaChecked": true,
+  "blankPage": false,
+  "unresolved": [],
+  "notes": [
+    "实际查看源页；向量下标n写为bold n，Mat_{n_i}(k)与商代数直和式按图核对。"
+  ],
+  "diagrams": [],
+  "reviewer": "representation_209_228",
+  "enSha256": "5a29dd9897789d626a64dc0154e936c62667c29ff076922814fe90d5125d4eb1",
+  "zhSha256": "3c1746baa63e271b9101c22320e8d44c1c2ff79637568b200a776df94284a579"
+}

@@ -147,3 +147,39 @@
   line-height: 0;
   text-indent: 0;
 }
+
+/* Pagefind search follows the VitePress palette, including the dark theme.
+   Pagefind's own stylesheet loads later and sets these on :root, so this
+   mapping needs the higher specificity of :root:root. */
+:root:root {
+  --pf-font: var(--vp-font-family-base);
+  --pf-text: var(--vp-c-text-1);
+  --pf-text-secondary: var(--vp-c-text-2);
+  --pf-text-muted: var(--vp-c-text-3);
+  --pf-background: var(--vp-c-bg);
+  --pf-hover: var(--vp-c-default-soft);
+  --pf-border: var(--vp-c-divider);
+  --pf-border-focus: var(--vp-c-brand-1);
+  --pf-outline-focus: var(--vp-c-brand-1);
+  --pf-mark: var(--vp-c-text-1);
+  --pf-skeleton: var(--vp-c-default-soft);
+}
+
+.VPNavBar pagefind-modal-trigger {
+  margin-inline-end: 16px;
+}
+
+/* Pagefind isolates its elements with `all: initial`, which also resets the
+   inherited color-scheme; restore it so scrollbars match the dark theme. */
+.dark :is(pagefind-modal, pagefind-modal-trigger) {
+  color-scheme: dark;
+}
+
+/* Like VitePress's own search button, show only the icon on narrow screens.
+   Pagefind's component styles use very high specificity on purpose. */
+@media (max-width: 767px) {
+  .VPNavBar pagefind-modal-trigger .pf-trigger-text,
+  .VPNavBar pagefind-modal-trigger .pf-trigger-shortcut {
+    display: none !important;
+  }
+}

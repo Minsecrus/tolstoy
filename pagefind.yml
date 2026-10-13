@@ -1,0 +1,11 @@
+# Pagefind builds the site search from the finished VitePress output; it runs
+# as the last step of `npm run docs:build`.
+site: docs/.vitepress/dist
+exclude_selectors:
+  # Permalink marks and footnote numbers/back-links are navigation, not text.
+  - .header-anchor
+  - .footnote-ref
+  - .footnote-number
+  - .footnote-backrefs
+  # Formula images carry raw TeX in their alt text.
+  - .math-svg

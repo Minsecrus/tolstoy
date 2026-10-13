@@ -17,6 +17,8 @@ npm run docs:dev
 正文标号和注释后的返回箭头可以双向跳转；《历史问题》的注释放在对应章节末尾，在同页往返。
 `npm run books:check-footnotes` 会检查全部脚注和返回链接；该检查也会在构建前自动运行。
 
+站内搜索由 [Pagefind](https://pagefind.app/) 提供。`npm run docs:build` 在 VitePress 构建完成后读取生成的网页建立索引，配置见 `pagefind.yml`；索引按需分块加载，中文按词切分。索引只收录正文区域，页面元数据为 `search: false` 的页面不进入搜索。`npm run docs:dev` 没有索引，搜索只在构建后的站点（`npm run docs:preview`）中可用。
+
 ## 重新导入《全球通史》
 
 第 83 卷由《全球通史：从史前到21世纪（第7版新校本）》上、下册合订 PDF 生成。原 PDF 不纳入仓库；网站使用已生成的章节 Markdown 和 WebP 插图。需要重新生成时，安装 `pymupdf` 和 `Pillow`，然后依次运行：

@@ -30,6 +30,15 @@ const librarySidebarByPath = {
   '/': curatedLibrarySidebar
 }
 
+// Many chapters are titled only "3" or "第一章"; search results name the book.
+const volumeTitleByDirectory = new Map(
+  curatedLibrarySidebar.map((volume) => [volume.items[0].link, volume.text])
+)
+
+function escapeAttribute(value: string) {
+  return value.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;')
+}
+
 export default defineConfig({
   lang: 'zh-CN',
   title: '文学作品阅读站',
@@ -57,27 +66,26 @@ export default defineConfig({
     sidebarMenuLabel: '作品目录',
     darkModeSwitchLabel: '外观',
     lightModeSwitchTitle: '切换到浅色模式',
-    darkModeSwitchTitle: '切换到深色模式',
-    search: {
-      provider: 'local',
-      options: {
-        translations: {
-          button: {
-            buttonText: '搜索全文',
-            buttonAriaLabel: '搜索全文'
-          },
-          modal: {
-            noResultsText: '没有找到相关内容',
-            resetButtonTitle: '清除查询',
-            footer: {
-              selectText: '选择',
-              navigateText: '切换',
-              closeText: '关闭'
-            }
-          }
-        }
+    darkModeSwitchTitle: '切换到深色模式'
+  },
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => tag.startsWith('pagefind-')
       }
     }
+  },
+  // Full-text search is built by Pagefind from the finished HTML (see
+  // pagefind.yml). Only the article body is indexed, and pages with
+  // `search: false` stay unmarked so they remain out of search.
+  transformHtml(html, _id, { pageData }) {
+    if (pageData.frontmatter.search === false) return
+    const volume = volumeTitleByDirectory.get(`/${pageData.relativePath.replace(/[^/]*$/, '')}`)
+    const title = volume && volume !== pageData.title ? `${volume} · ${pageData.title}` : pageData.title
+    return html.replace(
+      / class="vp-doc\b/,
+      ` data-pagefind-body data-pagefind-meta="title:${escapeAttribute(title)}" class="vp-doc`
+    )
   },
   markdown: {
     math: true,

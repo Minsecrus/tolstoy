@@ -7,7 +7,7 @@ description: "分卷目录"
 
 站内作品已按分卷、分部和章节整理。选择一卷开始阅读。
 
-共 88 个分卷、3773 个阅读页面，正文约 2,569 万字。
+共 93 个分卷、3940 个阅读页面，正文约 2,759 万字。
 
 - [第一卷：战争与和平（一）](/library/volume-01/) — 【俄】列夫·托尔斯泰，66 个阅读页面
 - [第二卷：战争与和平（二）](/library/volume-02/) — 【俄】列夫·托尔斯泰，99 个阅读页面
@@ -97,3 +97,8 @@ description: "分卷目录"
 - [第86卷：代数](/library/volume-86/) — Serge Lang，68 个阅读页面
 - [第87卷：基础范畴论](/library/volume-87/) — Tom Leinster，26 个阅读页面
 - [第88卷：表示论导论](/library/volume-88/) — Pavel Etingof, Oleg Golberg, Sebastian Hensel, Tiankai Liu, Alex Schwendner, Dmitry Vaintrob, Elena Yudovina，24 个阅读页面
+- [第89卷：操作系统导论](/library/volume-89/) — 〔美〕雷姆兹·H. 阿帕希-杜塞尔、安德莉亚·C. 阿帕希-杜塞尔，58 个阅读页面
+- [第90卷：信息检索导论](/library/volume-90/) — Christopher D. Manning、Prabhakar Raghavan、Hinrich Schütze，25 个阅读页面
+- [第91卷：时空与几何：广义相对论导论](/library/volume-91/) — Sean M. Carroll，22 个阅读页面
+- [第92卷：广义相对论讲义](/library/volume-92/) — Sean M. Carroll，51 个阅读页面
+- [第93卷：CS 188 人工智能导论](/library/volume-93/) — UC Berkeley CS 188 课程组，11 个阅读页面

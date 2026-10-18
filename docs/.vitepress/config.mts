@@ -6,6 +6,8 @@ import { historyProblemLibrarySidebar } from './library.history-problem.mjs'
 import { algebraLibrarySidebar } from './library.algebra.mjs'
 import { categoryTheoryLibrarySidebar } from './library.category-theory.mjs'
 import { representationTheoryLibrarySidebar } from './library.representation-theory.mjs'
+import { ostepLibrarySidebar } from './library.ostep.mjs'
+import { translatedBooksLibrarySidebar } from './library.translated-books.mjs'
 import { curateLibrarySidebar } from './library.sidebar.manual.mjs'
 import { installMathRenderer } from '../../scripts/algebra-math-renderer.mjs'
 import { installMathematicalBookTypography } from '../../scripts/mathematical-book-typography.mjs'
@@ -20,7 +22,9 @@ const curatedLibrarySidebar = curateLibrarySidebar([
   ...historyProblemLibrarySidebar,
   ...algebraLibrarySidebar,
   ...categoryTheoryLibrarySidebar,
-  ...representationTheoryLibrarySidebar
+  ...representationTheoryLibrarySidebar,
+  ...ostepLibrarySidebar,
+  ...translatedBooksLibrarySidebar
 ])
 
 const librarySidebarByPath = {

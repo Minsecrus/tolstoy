@@ -180,3 +180,28 @@ python scripts/check-representation-theory-pdf.py
 最终中文 PDF 共 134 页，保存于 `output/pdf/Introduction-to-Representation-Theory-Zh.pdf`，单独提供给用户，不放进网站或添加网站下载入口。汉字、标题和强调使用宋体，标题与强调加粗；数学公式使用原生 TeX。九章与三项附属部分各另起一页，章内连续排版；重新生成涵盖全部数学小节的可跳转目录，页眉保留原书页码范围，页脚标示译本实际页码。中间排版与验证报告位于 `tmp/pdfs/representation-theory-export/`。最终输出的分段视觉检查汇总保存在 `source/representation-theory/export-visual-review.json`。
 
 两册逐页 Markdown 均固定采用 UTF-8 与 LF 换行，避免 Git 检出时改变已审校稿件的字节散列。`scripts/normalize-reviewed-book-line-endings.py` 默认只检查；`--apply` 必须先验证全部主译和独审绑定，并证明仅将 CRLF 改为 LF、不改变正文字符。迁移前后散列保存于各书的 `line-ending-normalization.json`，不据此重新声称数学审校，也不改写既有 PDF。
+
+## 重新导入《操作系统导论》
+
+第 89 卷为 Remzi H. Arpaci-Dusseau 与 Andrea C. Arpaci-Dusseau 著《Operating Systems: Three Easy Pieces》（OSTEP）的人民邮电出版社中文版（王海鹏译），依据作者在[本书官方网站](https://pages.cs.wisc.edu/~remzi/OSTEP/)公开的中文版各章 PDF，按原书顺序合并为 498 页的 PDF 后导入。原 PDF 不纳入仓库，`scripts/ostep-source-manifest.json` 记录其来源与 SHA-256（`a9d54f4c79b8b6ef4dd65e6dbac8f7f00644b97d33001dee239572c770b23e24`）。全书拆为前言、第 1—50 章和附录 A—G 共 58 个阅读页面，侧栏按原书三个部分分组；扉页、内容提要、资源与支持、目录及部分页不单独成页。
+
+原 PDF 中宋体与黑体的 ToUnicode 映射在约 600 处有误（例如“在”被提取为“谁”，“们”被提取为“我”），因此导入器按字形编号对照 Windows 自带的 SimSun/SimHei 字体还原这两种字体的汉字，重新运行需要在装有这两种字体的 Windows 上进行。导入器去掉页眉页脚，把灰底方框转为 VitePress 提示框，保留代码清单的缩进与行号，按原书排版裁出插图（WebP），并把规则表格转为 Markdown 表格；脚注按章编号放在章末，与正文双向链接。
+
+文字层无法可靠还原的部分保存在 `scripts/ostep-reviewed-layout.json`，均已对照页面图像核对：`blocks` 按 PDF 页码和区域替换为手写内容（公式改用 LaTeX，由站点已有的 MathJax 渲染器输出 SVG；含行内分式的段落整段重排），`tables` 收录版式复杂、需按页面图像转写的表格，`text` 记录少量逐字修正（如 PDF 以线条绘制的标识符前导下划线），`code_terms` 按章列出正文中应以行内代码显示的普通单词形式标识符（如 `ticket`、`turn`），以及形状规则误判、应保持普通文字的片段。函数调用、带 `->` 或下划线的标识符、文件名、路径、命令与参数等由导入器按形状自动识别；行内代码与相邻文字各隔一个空格，紧邻全角标点时不加。公式中原书的印刷差错（如式 41.1 的结果印作 109.6KB）按原样保留。
+
+需要重新生成时，安装 `pymupdf`、`fontTools` 和 `Pillow`，然后运行：
+
+```powershell
+python scripts/import-ostep.py <PDF路径>
+$env:VITEPRESS_BASE='/tolstoy/'
+$env:NODE_OPTIONS='--max-old-space-size=12288'
+npm run docs:build
+```
+
+导入器会校验 PDF 散列，重写 `docs/library/volume-89/`、`docs/public/library/volume-89/images/` 与 `docs/.vitepress/library.ostep.mjs`，并汇总总目录。正文字号的文字若落入插图裁切区域，会列在 `tmp/ostep/figure-text-audit.txt` 中以便复查。
+
+## 第 90—93 卷：由 learning-notes 迁入的译本
+
+《信息检索导论》（第 90 卷）、《时空与几何：广义相对论导论》（第 91 卷）、Carroll《广义相对论讲义》（第 92 卷）和《CS 188 人工智能导论》（第 93 卷）原在 [learning-notes](https://github.com/Minsecrus/learning-notes) 仓库中翻译整理，于该仓库提交 `d56c225` 之后迁入本站，此后以本仓库中的 Markdown 为准。各卷的底本、页码对照和翻译说明见本卷首页。
+
+迁移时页面按原顺序改名为 `chapter-NNN.md`，原系列首页成为本卷首页；站内相对链接改为本站路由，插图复制到 `docs/public/library/volume-9X/images/`，Mermaid 流程图预先渲染为 SVG，《时空与几何》的脚注改为本站带双向链接的注释格式。公式沿用本站的 MathJax SVG 渲染器：learning-notes 自定义的 `\pounds`、`\lefteqn` 分别改写为 `\textsterling` 和 `\rlap{\displaystyle …}`。目录与统计信息保存在 `docs/.vitepress/library.translated-books.mjs`，增删页面时需同步修改该文件并运行 `node scripts/rebuild-library-index.mjs`。

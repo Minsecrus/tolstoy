@@ -1,0 +1,1474 @@
+{
+  "blocks": {
+    "190": [
+      {
+        "rect": [
+          55,
+          582,
+          476,
+          660
+        ],
+        "markdown": "我们同时计算缓存命中率：有6 次命中和5 次未命中，那么缓存命中率 $\\dfrac{\\mathit{Hits}}{\\mathit{Hits}+\\mathit{Misses}}$ 是 $\\dfrac{6}{6+5}$，或54.5%。也可以计算命中率中除去强制未命中（即忽略页的第一次未命中），那么命中率为81.8%。"
+      }
+    ],
+    "333": [
+      {
+        "rect": [
+          58,
+          566,
+          468,
+          660
+        ],
+        "markdown": "要做到这一点，我们先将所需单位置于左侧。在这个例子中，我们希望获得每次旋转所需的时间（以毫秒为单位），所以我们就写下：$\\dfrac{\\text{时间(ms)}}{\\text{1次旋转}}$。然后写下我们所知道的一切，确保在可能的情况下消掉单位。首先，我们得到 $\\dfrac{\\text{1min}}{\\text{10000次旋转}}$（将旋转保持在分母，因为左侧它也在分母），然后用 $\\dfrac{\\text{60s}}{\\text{1min}}$ 将分钟转换成秒，然后用 $\\dfrac{\\text{1000ms}}{\\text{1s}}$ 将秒转换成毫秒。最终结果如下（单位很好地消掉了）："
+      }
+    ],
+    "349": [
+      {
+        "rect": [
+          55,
+          70,
+          474,
+          148
+        ],
+        "markdown": "要分析稳态吞吐量，让我们从顺序工作负载开始。顺序写入磁盘时，每个逻辑写入必定导致两个物理写入。例如，当我们写入逻辑块0（在表38.3 中）时，RAID 在内部会将它写入磁盘0 和磁盘1。因此，我们可以得出结论，顺序写入镜像阵列期间获得的最大带宽是 $\\left(\\dfrac{N}{2}\\cdot S\\right)$，即峰值带宽的一半。"
+      },
+      {
+        "rect": [
+          55,
+          241,
+          474,
+          319
+        ],
+        "markdown": "但是，要看到情况并非如此，请考虑单个磁盘接收的请求（例如磁盘0）。首先，它收到块0 的请求。然后，它收到块4 的请求（跳过块2）。实际上，每个磁盘都会接收到每个其他块的请求。当它在跳过的块上旋转时，不会为客户提供有用的带宽。因此，每个磁盘只能提供一半的峰值带宽。因此，顺序读取只能获得 $\\left(\\dfrac{N}{2}\\cdot S\\right)$ MB/s 的带宽。"
+      },
+      {
+        "rect": [
+          55,
+          349,
+          474,
+          425
+        ],
+        "markdown": "最后，随机写入按照你预期的方式执行：$\\dfrac{N}{2}\\cdot R$ MB/s。每个逻辑写入必须变成两个物理写入，因此在所有磁盘都将被使用的情况下，客户只会看到可用带宽的一半。尽管对逻辑块X 的写入变为对两个不同物理磁盘的两个并行写入，但许多小型请求的带宽只能达到我们看到的条带化的一半。我们很快会看到，获得一半的可用带宽实际上相当不错！"
+      }
+    ],
+    "334": [
+      {
+        "rect": [
+          140,
+          85,
+          390,
+          115
+        ],
+        "markdown": "$$\n\\frac{\\text{时间(ms)}}{\\text{1次旋转}}=\\frac{\\text{1min}}{\\text{10000转}}\\times\\frac{\\text{60s}}{\\text{1min}}\\times\\frac{\\text{1000ms}}{\\text{1s}}=\\frac{\\text{60000ms}}{\\text{10000转}}=\\frac{\\text{6ms}}{\\text{1转}}\n$$"
+      },
+      {
+        "rect": [
+          140,
+          163,
+          390,
+          193
+        ],
+        "markdown": "$$\n\\frac{\\text{时间(ms)}}{\\text{1次请求}}=\\frac{\\text{512KB}}{\\text{1次请求}}\\times\\frac{\\text{1MB}}{\\text{1024KB}}\\times\\frac{\\text{1s}}{\\text{100MB}}=\\frac{\\text{1000ms}}{\\text{1秒}}=\\frac{\\text{5ms}}{\\text{1次请求}}\n$$"
+      },
+      {
+        "rect": [
+          195,
+          345,
+          474,
+          364
+        ],
+        "markdown": "$$\nT_{\\mathrm{I/O}}=T_{\\text{寻道}}+T_{\\text{旋转}}+T_{\\text{传输}}\\tag{37.1}\n$$"
+      },
+      {
+        "rect": [
+          220,
+          399,
+          474,
+          434
+        ],
+        "markdown": "$$\nR_{\\mathrm{I/O}}=\\frac{\\text{大小}_{\\text{传输}}}{T_{\\mathrm{I/O}}}\\tag{37.2}\n$$"
+      }
+    ],
+    "336": [
+      {
+        "rect": [
+          222,
+          245,
+          474,
+          268
+        ],
+        "markdown": "$$\n\\sum_{x=0}^{N}\\sum_{y=0}^{N}|x-y|\\tag{37.4}\n$$"
+      },
+      {
+        "rect": [
+          222,
+          292,
+          474,
+          315
+        ],
+        "markdown": "$$\n\\int_{0}^{N}\\int_{0}^{N}|x-y|\\,\\mathrm{d}x\\,\\mathrm{d}y\\tag{37.5}\n$$"
+      },
+      {
+        "rect": [
+          205,
+          337,
+          474,
+          362
+        ],
+        "markdown": "$$\n\\int_{y=0}^{x}(x-y)\\,\\mathrm{d}y+\\int_{y=x}^{N}(y-x)\\,\\mathrm{d}y\\tag{37.6}\n$$"
+      },
+      {
+        "rect": [
+          60,
+          366,
+          470,
+          413
+        ],
+        "markdown": "求解它得到 $\\left(xy-\\frac{1}{2}y^2\\right)\\Big|_0^x+\\left(\\frac{1}{2}y^2-xy\\right)\\Big|_x^N$，这可以简化为 $\\left(x^2-Nx+\\frac{1}{2}N^2\\right)$。现在我们必须计算外层积分："
+      },
+      {
+        "rect": [
+          215,
+          414,
+          474,
+          443
+        ],
+        "markdown": "$$\n\\int_{x=0}^{N}\\left(x^2-Nx+\\frac{1}{2}N^2\\right)\\mathrm{d}x\\tag{37.7}\n$$"
+      },
+      {
+        "rect": [
+          205,
+          459,
+          330,
+          491
+        ],
+        "markdown": "$$\n\\left(\\frac{1}{3}x^3-\\frac{N}{2}x^2+\\frac{N^2}{2}x\\right)\\Big|_0^N=\\frac{N^3}{3}\n$$"
+      }
+    ],
+    "347": [
+      {
+        "rect": [
+          165,
+          70,
+          352,
+          101
+        ],
+        "markdown": "$$\nS=\\frac{\\text{数据量}}{\\text{访问时间}}=\\frac{\\text{10MB}}{\\text{210ms}}=\\text{47.62MB/s}\n$$"
+      },
+      {
+        "rect": [
+          165,
+          163,
+          356,
+          194
+        ],
+        "markdown": "$$\nR=\\frac{\\text{数据量}}{\\text{访问时间}}=\\frac{\\text{10KB}}{\\text{10.195ms}}=\\text{0.981MB/s}\n$$"
+      }
+    ],
+    "351": [
+      {
+        "rect": [
+          160,
+          484,
+          380,
+          516
+        ],
+        "markdown": "| C0 | C1 | C2 | C3 | P |\n| --- | --- | --- | --- | --- |\n| 0 | 0 | 1 | 1 | XOR(0,0,1,1)=0 |"
+      },
+      {
+        "rect": [
+          195,
+          610,
+          474,
+          627
+        ],
+        "markdown": "$$\nP_{\\text{new}}=(C_{\\text{old}}\\oplus C_{\\text{new}})\\oplus P_{\\text{old}}\\tag{38.1}\n$$"
+      }
+    ],
+    "353": [
+      {
+        "rect": [
+          55,
+          171,
+          474,
+          294
+        ],
+        "markdown": "随机读取性能稍好一点，因为我们可以利用所有的磁盘。最后，RAID-4 的随机写入性能明显提高，因为它允许跨请求进行并行处理。想象一下写入块1 和写入块10。这将变成对磁盘1 和磁盘4（对于块1 及其奇偶校验）的请求以及对磁盘0 和磁盘2（对于块10 及其奇偶校验）的请求。因此，它们可以并行进行。事实上，我们通常可以假设，如果有大量的随机请求，我们将能够保持所有磁盘均匀忙碌。如果是这样的话，那么我们用于小写入的总带宽将是 $\\dfrac{N}{4}\\cdot R$ MB/s。4 倍损失是由于每个RAID-5 写入仍然产生总计4 个I/O 操作，这就是使用基于奇偶校验的RAID 的成本。"
+      }
+    ],
+    "392": [
+      {
+        "rect": [
+          160,
+          598,
+          474,
+          631
+        ],
+        "markdown": "$$\n\\frac{40\\,\\cancel{\\text{MB}}}{\\cancel{\\text{1s}}}\\times\\frac{\\text{1024KB}}{1\\,\\cancel{\\text{MB}}}\\times\\frac{\\cancel{\\text{1s}}}{1000\\,\\cancel{\\text{ms}}}\\times 10\\,\\cancel{\\text{ms}}=\\text{109.6KB}\\tag{41.1}\n$$"
+      }
+    ],
+    "413": [
+      {
+        "rect": [
+          55,
+          437,
+          474,
+          489
+        ],
+        "markdown": "为了得到一个具体的答案，假设要写入D MB 数据。写数据块的时间*T*<sub>write</sub> 是定位时间*T*<sub>position</sub> 的加上D 的传输时间 $\\left(\\dfrac{D}{R_{\\text{peak}}}\\right)$，即"
+      },
+      {
+        "rect": [
+          210,
+          497,
+          474,
+          531
+        ],
+        "markdown": "$$\nT_{\\text{write}}=T_{\\text{position}}+\\frac{D}{R_{\\text{peak}}}\\tag{43.1}\n$$"
+      },
+      {
+        "rect": [
+          190,
+          555,
+          474,
+          601
+        ],
+        "markdown": "$$\nR_{\\text{effective}}=\\frac{D}{T_{\\text{write}}}=\\frac{D}{T_{\\text{position}}+\\dfrac{D}{R_{\\text{peak}}}}\\tag{43.2}\n$$"
+      }
+    ],
+    "414": [
+      {
+        "rect": [
+          180,
+          100,
+          474,
+          147
+        ],
+        "markdown": "$$\nR_{\\text{effective}}=\\frac{D}{T_{\\text{position}}+\\dfrac{D}{R_{\\text{peak}}}}=F\\times R_{\\text{peak}}\\tag{43.3}\n$$"
+      },
+      {
+        "rect": [
+          185,
+          151,
+          474,
+          191
+        ],
+        "markdown": "$$\nD=F\\times R_{\\text{peak}}\\times\\left(T_{\\text{position}}+\\frac{D}{R_{\\text{peak}}}\\right)\\tag{43.4}\n$$"
+      },
+      {
+        "rect": [
+          160,
+          198,
+          474,
+          238
+        ],
+        "markdown": "$$\nD=(F\\times R_{\\text{peak}}\\times T_{\\text{position}})+\\left(F\\times R_{\\text{peak}}\\times\\frac{D}{R_{\\text{peak}}}\\right)\\tag{43.5}\n$$"
+      },
+      {
+        "rect": [
+          200,
+          241,
+          474,
+          273
+        ],
+        "markdown": "$$\nD=\\frac{F}{1-F}\\times R_{\\text{peak}}\\times T_{\\text{position}}\\tag{43.6}\n$$"
+      }
+    ],
+    "124": [
+      {
+        "rect": [
+          55,
+          89,
+          469,
+          405
+        ],
+        "markdown": "| 操作系统@启动（内核模式） | 硬件 |   |\n| --- | --- | --- |\n| 处理陷阱<br>调用switch()例程<br>　　将寄存器（A）保存到进程结构（A）<br>　（包括基址/界限）<br>　从进程结构（B）恢复寄存器（B）<br>　（包括基址/界限）<br>从陷阱返回（进入B） |  |  |\n|  | 恢复B 的寄存器<br>转向用户模式<br>跳到B 的程序计数器 |  |\n|  |  | 进程B 运行<br>　执行错误的加载 |\n|  | 加载越界<br>转向内核模式<br>跳到陷阱处理程序 |  |\n| 处理本期报告<br>　决定终止进程B<br>　回收B 的内存<br>　移除B 在进程表中的条目 |  |  |"
+      }
+    ],
+    "354": [
+      {
+        "rect": [
+          55,
+          87,
+          469,
+          152
+        ],
+        "markdown": "|   | RAID-0 | RAID-1 | RAID-4 | RAID-5 |\n| --- | --- | --- | --- | --- |\n| 延迟 |  |  |  |  |\n| 读 | T | T | T | T |\n| 写 | T | T | 2T | 2T |"
+      }
+    ],
+    "463": [
+      {
+        "rect": [
+          55,
+          87,
+          469,
+          504
+        ],
+        "markdown": "| P1 | Client1 P2 | Cache | Client2 P3 | Cache | Server<br>Disk | 评论 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | open(F)<br>read()→A | A<br>A |  | —<br>— | A<br>A |  |\n|  | close() | A |  | — | A |  |\n| open(F) |  | A |  | — | A |  |\n| write(B) |  | B |  | — | A |  |\n|  | open(F)<br>read()→B | B<br>B |  | —<br>— | A<br>A | 本地进程<br>马上看到写入 |\n|  | close() | B |  | — | A |  |\n|  |  | B<br>B | open(F)<br>read()→A | A<br>A | A<br>A | 远程进程<br>没有看到写入…… |\n|  |  | B | close() | A | A |  |\n| close() |  | B B | <br>open(F) | ~~A~~<br>B | B<br>B | ……直到发生close() |\n|  |  | B | read()→B | B | B |  |\n|  |  | B | close() | B | B |  |\n|  |  | B | open(F) | B | B |  |\n| open(F) |  | B |  | B | B |  |\n| write(D) |  | D |  | B | B |  |\n|  |  | D | write(C) | C | B |  |\n|  |  | D | close() | C | C |  |\n| close() |  | D D | <br>open(F) | ~~C~~ D | D D | <br>P3 很不幸 |\n|  |  | D | read()→D | D | D | 最后写入者胜出 |\n|  |  | D | close() | D | D |  |"
+      }
+    ]
+  },
+  "text": {
+    "11": [
+      {
+        "original": "`pthread_mutex_t` m;",
+        "revised": "`pthread_mutex_t m;`"
+      }
+    ],
+    "41": [
+      {
+        "original": "| 4 | size |",
+        "revised": "| 4 | `size` |"
+      },
+      {
+        "original": "| 60 | block |",
+        "revised": "| 60 | `block` |"
+      },
+      {
+        "original": "| file `acl` |",
+        "revised": "| `file acl` |"
+      },
+      {
+        "original": "| i `osd2` |",
+        "revised": "| `i osd2` |"
+      }
+    ],
+    "30": [
+      {
+        "original": "typedef struct   node_t {",
+        "revised": "typedef struct __node_t {",
+        "count": 2
+      },
+      {
+        "original": "    struct   node_t ",
+        "revised": "    struct __node_t ",
+        "count": 2
+      },
+      {
+        "original": "typedef struct   hash_t {",
+        "revised": "typedef struct __hash_t {"
+      }
+    ]
+  },
+  "tables": {
+    "表6.2": "| 操作系统@启动（内核模式） | 硬件 |   |\n| --- | --- | --- |\n| 初始化陷阱表 |  |  |\n|  | 记住系统调用处理程序的地址 |  |\n| 操作系统@运行（内核模式） | 硬件 | 程序（应用模式） |\n| 在进程列表上创建条目<br>为程序分配内存<br>将程序加载到内存中<br>根据argv 设置程序栈<br>用寄存器/程序计数器填充内核栈<br>从陷阱返回 |  |  |\n|  | 从内核栈恢复寄存器<br>转向用户模式<br>跳到main |  |\n|  |  | 运行main<br>……<br>调用系统调用<br>陷入操作系统 |\n|  | 将寄存器保存到内核栈<br>转向内核模式<br>跳到陷阱处理程序 |  |\n| 处理陷阱<br>做系统调用的工作<br>从陷阱返回 |  |  |\n|  | 从内核栈恢复寄存器<br>转向用户模式<br>跳到陷阱之后的程序计数器 |  |\n|  |  | ……从main 返回<br>陷入（通过exit()） |\n| 释放进程的内存将进程<br>从进程列表中清除 |  |  |",
+    "表6.3": "| 操作系统@启动（内核模式） | 硬件 |   |\n| --- | --- | --- |\n| 初始化陷阱表 |  |  |\n|  | 记住以下地址：<br>　系统调用处理程序<br>　时钟处理程序 |  |\n| 启动中断时钟 |  |  |\n|  | 启动时钟<br>每隔*x* ms 中断CPU |  |\n| 操作系统@运行（内核模式） | 硬件 | 程序（应用模式） |\n|  |  | 进程A…… |\n|  | 时钟中断<br>将寄存器（A）保存到内核栈（A）<br>转向内核模式<br>跳到陷阱处理程序 |  |\n| 处理陷阱<br>调用switch()例程<br>　将寄存器（A）保存到进程结构（A）<br>　将进程结构（B）恢复到寄存器（B）<br>从陷阱返回（进入B） |  |  |\n|  | 从内核栈（B）恢复寄存器（B）<br>转向用户模式<br>跳到B 的程序计数器 |  |\n|  |  | 进程B…… |",
+    "表9.1": "| 行程值（A）（步长=100） | 行程值（B）（步长=200） | 行程值（C）（步长=40） | 谁运行 |\n| --- | --- | --- | --- |\n| 0 | 0 | 0 | A |\n| 100 | 0 | 0 | B |\n| 100 | 200 | 0 | C |\n| 100 | 200 | 40 | C |\n| 100 | 200 | 80 | C |\n| 100 | 200 | 120 | A |\n| 200 | 200 | 120 | C |\n| 200 | 200 | 160 | C |\n| 200 | 200 | 200 | …… |",
+    "表15.1": "| 虚拟地址 |   | 物理地址 |\n| --- | --- | --- |\n| 0 | → | 16KB |\n| 1KB | → | 17KB |\n| 3000 | → | 19384 |\n| 4400 | → | 错误（越界） |",
+    "表15.4": "| 操作系统@启动（内核模式） | 硬件 |   |\n| --- | --- | --- |\n| 初始化陷阱表 |  |  |\n|  | 记住以下地址：<br>　系统调用处理程序<br>　时钟处理程序<br>　非法内存处理程序<br>　非常指令处理程序 |  |\n| 开始中断时钟 |  |  |\n|  | 开始时钟，在*x* ms 后中断 |  |\n| 初始化进程表<br>初始化空闲列表 |  |  |\n| 操作系统@运行（核心模式） | 硬件 | 程序（用户模式） |\n| 为了启动进程A：<br>　在进程表中分配条目<br>　为进程分配内存<br>　设置基址/界限寄存器<br>　从陷阱返回（进入A） |  |  |\n|  | 恢复A 的寄存器<br>转向用户模式<br>跳到A（最初）的程序计数器 |  |\n|  |  | 进程A 运行<br>　获取指令 |\n|  | 转换虚拟地址并执行获取 |  |\n|  |  | 执行指令 |\n|  | 如果显式加载/保存<br>　确保地址不越界<br>　转换虚拟地址并执行<br>　加载/保存 |  |\n|  |  | …… |\n|  | 时钟中断<br>转向内核模式<br>跳到中断处理程序 |  |",
+    "表20.2": "| Page Directory PFN | Page Directory valid | Page of PT (@PFN:100) PFN | Page of PT (@PFN:100) valid | Page of PT (@PFN:100) prot | Page of PT (@PFN:101) PFN | Page of PT (@PFN:101) valid | Page of PT (@PFN:101) prot |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 100 | 1 | 10 | 1 | r-x | — | 0 | — |\n| — | 0 | 23 | 1 | r-x | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | 80 | 1 | rw- | — | 0 | — |\n| — | 0 | 59 | 1 | rw- | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | — | 0 | — |\n| — | 0 | — | 0 | — | 55 | 1 | rw- |\n| 101 | 1 | — | 0 | — | 45 | 1 | rw- |",
+    "表22.2": "| 访问 | 命中/未命中 | 踢出 | 导致缓存状态 |   |\n| --- | --- | --- | --- | --- |\n| 0 | 未命中 |  | 先入→ | 0 |\n| 1 | 未命中 |  | 先入→ | 0、1 |\n| 2 | 未命中 |  | 先入→ | 0、1、2 |\n| 0 | 命中 |  | 先入→ | 0、1、2 |\n| 1 | 命中 |  | 先入→ | 0、1、2 |\n| 3 | 未命中 | 0 | 先入→ | 1、2、3 |\n| 0 | 未命中 | 1 | 先入→ | 2、3、0 |\n| 3 | 命中 |  | 先入→ | 2、3、0 |\n| 1 | 未命中 | 2 | 先入→ | 3、0、1 |\n| 2 | 未命中 | 3 | 先入→ | 0、1、2 |\n| 1 | 命中 |  | 先入→ | 0、1、2 |",
+    "表26.4": "| OS | 线程1 | 线程2 | 指令执行后：PC | 指令执行后：%eax | 指令执行后：counter |\n| --- | --- | --- | --- | --- | --- |\n|  | *在临界区之前* |  | 100 | 0 | 50 |\n|  | mov 0x8049a1c, %eax |  | 105 | 50 | 50 |\n|  | add \\$0x1, %eax |  | 108 | 51 | 50 |\n| 中断 |  |  |  |  |  |\n| 　*保存T1 的状态* |  |  |  |  |  |\n| 　*恢复T2 的状态* |  |  | 100 | 0 | 50 |\n|  |  | mov 0x8049a1c, %eax | 105 | 50 | 50 |\n|  |  | add \\$0x1, %eax | 108 | 51 | 50 |\n|  |  | mov %eax, 0x8049a1c | 113 | 51 | 51 |\n| 中断 |  |  |  |  |  |\n| 　*保存T2 的状态* |  |  |  |  |  |\n| 　*恢复T1 的状态* |  |  | 108 | 51 | 51 |\n|  | mov %eax, 0x8049a1c |  | 113 | 51 | 51 |",
+    "表32.2": "|   | T1 | T2 | T3 | T4 |\n| --- | --- | --- | --- | --- |\n| L1 | yes | yes | no | no |\n| L2 | yes | yes | yes | no |",
+    "表32.3": "|   | T1 | T2 | T3 | T4 |\n| --- | --- | --- | --- | --- |\n| L1 | yes | yes | yes | no |\n| L2 | yes | yes | yes | no |",
+    "表37.1": "|   | Cheetah 15K.5 | Barracuda |\n| --- | --- | --- |\n| 容量 | 300GB | 1TB |\n| RPM | 15000 | 7200 |\n| 平均寻道时间 | 4ms | 9ms |\n| 最大传输速度 | 125MB/s | 105MB/s |\n| 磁盘 | 4 | 4 |\n| 缓存 | 16MB | 16/32MB |\n| 连接方式 | SCSI | SATA |",
+    "表37.2": "|   | Cheetah | Barracuda |\n| --- | --- | --- |\n| R<sub>I/O</sub> 随机 | 0.66MB/s | 0.31MB/s |\n| R<sub>I/O</sub> 顺序 | 125MB/s | 105MB/s |",
+    "表38.2": "| 磁盘0 | 磁盘1 | 磁盘2 | 磁盘3 |   |\n| --- | --- | --- | --- | --- |\n| 0 | 2 | 4 | 6 | 大块大小 |\n| 1 | 3 | 5 | 7 | 2 |\n| 8 | 10 | 12 | 14 |  |\n| 9 | 11 | 13 | 15 |  |",
+    "表38.10": "|   | RAID-0 | RAID-1 | RAID-4 | RAID-5 |\n| --- | --- | --- | --- | --- |\n| 容量 | *N* | *N*/2 | *N*−1 | *N*−1 |\n| 可靠性 | 0 | 1（肯定） |  |  |\n|  |  | *N*/2（如果走运） |  |  |\n| 吞吐量 |  |  |  |  |\n| 顺序读 | *N* · *S* | (*N*/2) · *S* | (*N* − 1) · *S* | (*N* − 1) · *S* |\n| 顺序写 | *N* · *S* | (*N*/2) · *S* | (*N* − 1) · *S* | (*N* − 1) · *S* |\n| 随机读 | *N* · *R* | *N* · *R* | (*N* − 1) · *R* | *N* · *R* |\n| 随机写 | *N* · *R* | (*N*/2) · *R* | 1/2 · *R* | *N*/4 · *R* |",
+    "表40.3": "|   | data bitmap | inode bitmap | root inode | foo inode | bar inode | root data | foo data | bar data[0] | bar data[1] | bar data[2] |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| open(bar) |  |  | read |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | read |  |  |  |  |\n|  |  |  |  | read |  |  |  |  |  |  |\n|  |  |  |  |  |  |  | read |  |  |  |\n|  |  |  |  |  | read |  |  |  |  |  |\n| read() |  |  |  |  | read |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | read |  |  |\n|  |  |  |  |  | write |  |  |  |  |  |\n| read() |  |  |  |  | read |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | read |  |\n|  |  |  |  |  | write |  |  |  |  |  |\n| read() |  |  |  |  | read |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | read |\n|  |  |  |  |  | write |  |  |  |  |  |",
+    "表40.4": "|   | data bitmap | inode bitmap | root inode | foo inode | bar inode | root data | foo data | bar data[0] | bar data[1] | bar data[2] |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| create<br>(/foo/bar) |  |  | read |  |  | read |  |  |  |  |\n|  |  |  |  | read |  |  | read |  |  |  |\n|  |  | read |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  | write |  |  |  |\n|  |  | write |  |  |  |  |  |  |  |  |\n|  |  |  |  |  | read |  |  |  |  |  |\n|  |  |  |  |  | write |  |  |  |  |  |\n|  |  |  |  | write |  |  |  |  |  |  |\n| write() |  |  |  |  | read |  |  |  |  |  |\n|  | read |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | write |  |  |\n|  | write |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  | write |  |  |  |  |  |\n| write() |  |  |  |  | read |  |  |  |  |  |\n|  | read |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | write |  |\n|  | write |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  | write |  |  |  |  |  |\n| write() |  |  |  |  | read |  |  |  |  |  |\n|  | read |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | write |\n|  | write |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  | write |  |  |  |  |  |",
+    "表42.1": "| TxB | 日志：内容（元数据） | 日志：内容（数据） | TxE | 文件系统：元数据 | 文件系统：数据 |\n| --- | --- | --- | --- | --- | --- |\n| 发出 | 发出 | 发出 |  |  |  |\n| 完成 |  |  |  |  |  |\n|  | 完成 |  |  |  |  |\n|  |  | 完成 |  |  |  |\n|  |  |  | 发出 |  |  |\n|  |  |  | 完成 |  |  |\n|  |  |  |  | 发出 | 发出 |\n|  |  |  |  |  | 完成 |\n|  |  |  |  | 完成 |  |",
+    "表42.2": "| TxB | 日志：内容（元数据） | TxE | 文件系统：元数据 | 文件系统：数据 |\n| --- | --- | --- | --- | --- |\n| 发出 | 发出 |  |  | 发出 |\n|  |  |  |  | 完成 |\n| 完成 |  |  |  |  |\n|  | 完成 |  |  |  |\n|  |  | 发出 |  |  |\n|  |  | 完成 |  |  |\n|  |  |  | 发出 |  |\n|  |  |  | 完成 |  |",
+    "表49.3": "| P1 | Client1 P2 | Cache | Client2 P3 | Cache | Server<br>Disk | 评论 |\n| --- | --- | --- | --- | --- | --- | --- |\n| open(F) |  | — |  | — | — | 文件创建 |\n| write(A) |  | A |  | — | — |  |\n| close() |  | A |  | — | A |  |"
+  },
+  "code_terms": {
+    "1": {
+      "not_code": [
+        "-Young Yang"
+      ]
+    },
+    "3": {
+      "code": [
+        "A",
+        "a1",
+        "a2",
+        "a3",
+        "emacs",
+        "foo",
+        "gcc",
+        "grep",
+        "loops",
+        "p",
+        "wc"
+      ]
+    },
+    "5": {
+      "code": [
+        "README",
+        "argc",
+        "argv",
+        "proc"
+      ]
+    },
+    "6": {
+      "code": [
+        "argv",
+        "cat",
+        "exec",
+        "fork",
+        "grep",
+        "p1",
+        "p3",
+        "p4",
+        "p4.output",
+        "ps",
+        "top",
+        "wc",
+        "x"
+      ]
+    },
+    "7": {
+      "code": [
+        "argc",
+        "argv",
+        "call",
+        "main",
+        "new",
+        "old",
+        "rdtsc",
+        "yield"
+      ],
+      "contexts": [
+        {
+          "term": "return",
+          "context": "从main 中执行return"
+        },
+        {
+          "term": "context",
+          "context": "context 结构old 和new 分别在老的和新的进程的进程结构中"
+        }
+      ]
+    },
+    "8": {
+      "code": [
+        "README"
+      ],
+      "not_code": [
+        "/3"
+      ]
+    },
+    "9": {
+      "code": [
+        "README",
+        "madvise",
+        "nice"
+      ]
+    },
+    "10": {
+      "code": [
+        "README",
+        "counter",
+        "current",
+        "winner",
+        "−l 10∶1,10∶100",
+        "−l100∶100,100∶100"
+      ]
+    },
+    "11": {
+      "code": [
+        "head",
+        "tmp"
+      ],
+      "not_code": [
+        "O(1)"
+      ],
+      "contexts": [
+        {
+          "term": "m",
+          "context": "（即 `pthread_mutex_t` m;）"
+        }
+      ]
+    },
+    "14": {
+      "code": [
+        "new"
+      ]
+    },
+    "15": {
+      "code": [
+        "NULL",
+        "brk",
+        "gdb",
+        "malloc",
+        "man",
+        "memcheck",
+        "null",
+        "run",
+        "sbrk",
+        "strdup",
+        "valgrind",
+        "void"
+      ],
+      "contexts": [
+        {
+          "term": "double",
+          "context": "啊，好多double！"
+        },
+        {
+          "term": "double",
+          "context": "对于double）"
+        },
+        {
+          "term": "double",
+          "context": "指向double 的指针"
+        },
+        {
+          "term": "int * x",
+          "context": "（int * x）"
+        },
+        {
+          "term": "x",
+          "context": "整形变量*x* 申请空间"
+        },
+        {
+          "term": "data",
+          "context": "名为data、"
+        },
+        {
+          "term": "data[100]",
+          "context": "将data[100]设置为0"
+        }
+      ]
+    },
+    "16": {
+      "code": [
+        "README",
+        "eax",
+        "ebx",
+        "movl",
+        "objdump",
+        "otool"
+      ],
+      "contexts": [
+        {
+          "term": "x",
+          "context": "它假定*x* 的地址"
+        },
+        {
+          "term": "x",
+          "context": "变量*x* 的值"
+        },
+        {
+          "term": "x",
+          "context": "*x*的初始值"
+        }
+      ]
+    },
+    "17": {
+      "code": [
+        "README"
+      ]
+    },
+    "18": {
+      "code": [
+        "NULL",
+        "README",
+        "assert",
+        "head",
+        "malloc",
+        "ptr",
+        "sbrk",
+        "size",
+        "sptr",
+        "void"
+      ]
+    },
+    "19": {
+      "code": [
+        "README",
+        "SHIFT",
+        "eax",
+        "i",
+        "jne",
+        "mov",
+        "objdump",
+        "otool"
+      ],
+      "contexts": [
+        {
+          "term": "VPN MASK",
+          "context": "VPN MASK 将被设置为"
+        }
+      ]
+    },
+    "20": {
+      "code": [
+        "NUMPAGES",
+        "TLBP",
+        "TLBR",
+        "TLBWI",
+        "TLBWR",
+        "i",
+        "sum"
+      ],
+      "contexts": [
+        {
+          "term": "a[0]",
+          "context": "（a[0]）开始于"
+        },
+        {
+          "term": "a[3]",
+          "context": "（a[3] … a[6]）"
+        },
+        {
+          "term": "a[6]",
+          "context": "（a[3] … a[6]）"
+        },
+        {
+          "term": "a[7]",
+          "context": "（a[7] … a[9]）"
+        },
+        {
+          "term": "a[9]",
+          "context": "（a[7] … a[9]）"
+        },
+        {
+          "term": "a[0]",
+          "context": "（a[0]）时"
+        },
+        {
+          "term": "a[1]",
+          "context": "访问a[1]，"
+        },
+        {
+          "term": "a[2]",
+          "context": "访问a[2]同样"
+        },
+        {
+          "term": "a[0]",
+          "context": "它和a[0]、a[1]位于"
+        },
+        {
+          "term": "a[1]",
+          "context": "它和a[0]、a[1]位于"
+        },
+        {
+          "term": "a[3]",
+          "context": "访问a[3]时"
+        },
+        {
+          "term": "a[4]",
+          "context": "（a[4] … a[6]）"
+        },
+        {
+          "term": "a[6]",
+          "context": "（a[4] … a[6]）"
+        },
+        {
+          "term": "a[7]",
+          "context": "访问a[7]会导致"
+        },
+        {
+          "term": "a[8]",
+          "context": "（a[8]、a[9]）"
+        },
+        {
+          "term": "a[9]",
+          "context": "（a[8]、a[9]）"
+        },
+        {
+          "term": "a",
+          "context": "数组a 中每页"
+        },
+        {
+          "term": "a",
+          "context": "访问数组a 之前"
+        }
+      ]
+    },
+    "21": {
+      "code": [
+        "PDEAddr",
+        "PDIndex",
+        "PTE.PFN",
+        "PTIndex",
+        "PageDirBase",
+        "PhysAddr",
+        "SHIFT",
+        "offset",
+        "sizeof"
+      ]
+    },
+    "22": {
+      "code": [
+        "ls",
+        "main"
+      ]
+    },
+    "23": {
+      "code": [
+        "ls",
+        "valgrind"
+      ]
+    },
+    "26": {
+      "not_code": [
+        "T.S"
+      ]
+    },
+    "27": {
+      "code": [
+        "%eax",
+        "add",
+        "add $0x1, %eax",
+        "cat",
+        "counter",
+        "eax",
+        "gdb",
+        "main:begin",
+        "main:end",
+        "mov",
+        "mov %eax, 0x8049a1c",
+        "mov 0x8049a1c, %eax",
+        "objdump",
+        "purify",
+        "valgrind",
+        "x"
+      ],
+      "contexts": [
+        {
+          "term": "A",
+          "context": "字符串类型的A 或者B"
+        },
+        {
+          "term": "B",
+          "context": "字符串类型的A 或者B"
+        },
+        {
+          "term": "A",
+          "context": "打印“A”"
+        },
+        {
+          "term": "B",
+          "context": "打印“B”"
+        },
+        {
+          "term": "A",
+          "context": "在“A”之前看到“B”"
+        },
+        {
+          "term": "B",
+          "context": "在“A”之前看到“B”"
+        }
+      ]
+    },
+    "28": {
+      "code": [
+        "NULL",
+        "arg",
+        "attr",
+        "gcc",
+        "if",
+        "int",
+        "join",
+        "man",
+        "mythread",
+        "pthread",
+        "pthreads",
+        "r",
+        "ready",
+        "thread",
+        "timedlock",
+        "trylock",
+        "void",
+        "while"
+      ]
+    },
+    "29": {
+      "code": [
+        "address",
+        "bx",
+        "bx = 2",
+        "expected",
+        "flag",
+        "flag = 1;",
+        "flag = 1; // set flag to 1 (too!)",
+        "flag=0",
+        "futex",
+        "guard",
+        "ldstub",
+        "myturn",
+        "myturn == turn",
+        "new",
+        "park",
+        "ptr",
+        "threadID",
+        "unlock",
+        "unpark",
+        "value",
+        "while",
+        "while (flag == 1)",
+        "xchg",
+        "yield"
+      ],
+      "contexts": [
+        {
+          "term": "mutex",
+          "context": "如上面的mutex"
+        },
+        {
+          "term": "mutex",
+          "context": "本例中的mutex"
+        },
+        {
+          "term": "lock",
+          "context": "POSIX 的lock 和unlock 函数"
+        },
+        {
+          "term": "lock",
+          "context": "图28.6 是lock 和unlock 的代码"
+        },
+        {
+          "term": "lock",
+          "context": "另一个线程进入lock 的代码"
+        },
+        {
+          "term": "lock",
+          "context": "只是在lock和unlock 代码中"
+        },
+        {
+          "term": "turn",
+          "context": "flag 和turn 变量"
+        },
+        {
+          "term": "turn",
+          "context": "使用了ticket 和turn 变量"
+        },
+        {
+          "term": "turn",
+          "context": "（myturn == turn）"
+        },
+        {
+          "term": "turn",
+          "context": "unlock 则是增加turn"
+        },
+        {
+          "term": "ticket",
+          "context": "使用了ticket 和turn 变量"
+        },
+        {
+          "term": "ticket",
+          "context": "首先对一个ticket 值执行"
+        },
+        {
+          "term": "ticket",
+          "context": "获得了ticket值"
+        }
+      ]
+    },
+    "30": {
+      "code": [
+        "malloc"
+      ]
+    },
+    "31": {
+      "code": [
+        "If",
+        "While",
+        "child",
+        "cond",
+        "count",
+        "done",
+        "empty",
+        "fill",
+        "foo",
+        "get",
+        "grep",
+        "if",
+        "loops",
+        "mutex",
+        "parent:end",
+        "pipe",
+        "put",
+        "signal",
+        "wait",
+        "wc",
+        "while"
+      ],
+      "contexts": [
+        {
+          "term": "c",
+          "context": "`pthread_cond_t` c;"
+        },
+        {
+          "term": "c",
+          "context": "这里声明c 是一个条件变量"
+        }
+      ]
+    },
+    "32": {
+      "code": [
+        "MAX",
+        "NEW LINE",
+        "empty",
+        "fill",
+        "fork",
+        "forks",
+        "full",
+        "m",
+        "p",
+        "post",
+        "sem",
+        "wait",
+        "writelock"
+      ],
+      "contexts": [
+        {
+          "term": "s",
+          "context": "其中申明了一个信号量s，"
+        },
+        {
+          "term": "lock",
+          "context": "读者首先要获取lock，"
+        },
+        {
+          "term": "lock",
+          "context": "释放lock。"
+        },
+        {
+          "term": "reader",
+          "context": "然后增加reader变量"
+        }
+      ]
+    },
+    "33": {
+      "code": [
+        "Vector",
+        "head",
+        "m1",
+        "m2",
+        "mThread",
+        "mtCond",
+        "mtInit",
+        "mtLock",
+        "next",
+        "prevention",
+        "thd",
+        "trylock",
+        "unlock",
+        "v1",
+        "v2",
+        "v2.AddAll(v1)",
+        "vector"
+      ]
+    },
+    "34": {
+      "code": [
+        "EINPROGRESS",
+        "HUP",
+        "INT",
+        "NULL",
+        "SD",
+        "SEGV",
+        "SIG",
+        "SIGHUP",
+        "SIGSEGV",
+        "aio buf",
+        "aiocbp",
+        "errorfds",
+        "fd",
+        "kill",
+        "maxFD",
+        "minFD",
+        "nfds",
+        "readfds",
+        "sd",
+        "struct aiocb",
+        "while",
+        "writefds"
+      ]
+    },
+    "37": {
+      "code": [
+        "EIO",
+        "in",
+        "out"
+      ]
+    },
+    "38": {
+      "code": [
+        "README"
+      ],
+      "not_code": [
+        "/2",
+        "/3"
+      ],
+      "contexts": [
+        {
+          "term": "skew",
+          "context": "其中skew 是一个非负整数"
+        }
+      ]
+    },
+    "39": {
+      "code": [
+        "README"
+      ],
+      "not_code": [
+        "/2",
+        "/O"
+      ]
+    },
+    "40": {
+      "code": [
+        ".c",
+        ".jpg",
+        ".mp3",
+        "Hello",
+        "a",
+        "b",
+        "bar",
+        "cat",
+        "creat",
+        "d",
+        "dd",
+        "dd if = foo of = bar",
+        "delete",
+        "dnodes",
+        "dtruss",
+        "echo",
+        "file2",
+        "find",
+        "foo",
+        "fork",
+        "hello",
+        "l",
+        "ln",
+        "ls",
+        "lseek",
+        "mkdir",
+        "mkfs",
+        "mv",
+        "myls",
+        "mytail",
+        "n",
+        "new",
+        "old",
+        "open",
+        "remove",
+        "rm",
+        "rmdir",
+        "stat",
+        "strace",
+        "struct dirent",
+        "truss",
+        "txt",
+        "unlink",
+        "whence",
+        "write"
+      ],
+      "contexts": [
+        {
+          "term": "file",
+          "context": "并称之为file。"
+        },
+        {
+          "term": "file",
+          "context": "通过打开file 或file2"
+        },
+        {
+          "term": "file",
+          "context": "（file 和file2）"
+        },
+        {
+          "term": "file",
+          "context": "原有文件名（file）"
+        },
+        {
+          "term": "file",
+          "context": "删除文件名file，"
+        },
+        {
+          "term": "file",
+          "context": "通过文件名称file 以及"
+        },
+        {
+          "term": "file",
+          "context": "（名为file 的文件）"
+        },
+        {
+          "term": "file",
+          "context": "链接到一个名为file 的文件"
+        },
+        {
+          "term": "file",
+          "context": "删除名为file 的原始文件"
+        },
+        {
+          "term": "mount",
+          "context": "通过mount 程序实现的"
+        },
+        {
+          "term": "mount",
+          "context": "mount 的作用很简单"
+        },
+        {
+          "term": "mount",
+          "context": "如果成功，mount 就让"
+        },
+        {
+          "term": "mount",
+          "context": "因此mount 的美妙之处"
+        },
+        {
+          "term": "mount",
+          "context": "只要运行mount 程序"
+        },
+        {
+          "term": "link",
+          "context": "link 只是在要创建链接的目录中创建了另一个名称"
+        }
+      ]
+    },
+    "41": {
+      "code": [
+        "README",
+        "acl",
+        "bar",
+        "blocks",
+        "create",
+        "ctime",
+        "dir",
+        "dtime",
+        "faddr",
+        "flags",
+        "foo",
+        "foobar",
+        "generation",
+        "gid",
+        "iaddr",
+        "inodeStartAddr",
+        "links count",
+        "mode",
+        "mtime",
+        "open",
+        "open(bar)",
+        "osd1",
+        "osd2",
+        "read()",
+        "time",
+        "uid",
+        "write()"
+      ],
+      "contexts": [
+        {
+          "term": "size",
+          "context": "| 4 | size | 该文件有多少字节 |"
+        },
+        {
+          "term": "block",
+          "context": "| 60 | block | 一组磁盘指针（共15 个） |"
+        },
+        {
+          "term": "file",
+          "context": "| 4 | file acl | 一种新的许可模式，除了mode 位 |"
+        },
+        {
+          "term": "i",
+          "context": "| 12 | i osd2 | 另一个OS 相关字段 |"
+        }
+      ]
+    },
+    "42": {
+      "code": [
+        ".o",
+        "dir",
+        "dir/f",
+        "dir/g",
+        "f",
+        "foo",
+        "g",
+        "libc",
+        "obj",
+        "proj",
+        "proj/obj/foo.o",
+        "proj/src/foo .c",
+        "src"
+      ]
+    },
+    "43": {
+      "code": [
+        "file1",
+        "file2",
+        "foo",
+        "foobar",
+        "fsck",
+        "lost + found",
+        "null"
+      ]
+    },
+    "44": {
+      "code": [
+        "dir",
+        "foo"
+      ]
+    },
+    "48": {
+      "code": [
+        "func1",
+        "rpcgen"
+      ],
+      "contexts": [
+        {
+          "term": "t",
+          "context": "用于传递给定大小的数据块的缓冲区t，RPC 编译器可以理解"
+        }
+      ]
+    },
+    "49": {
+      "code": [
+        "GETATTR",
+        "LOOKUP",
+        "MAX",
+        "MKDIR",
+        "READ",
+        "WRITE",
+        "fd",
+        "foo",
+        "home",
+        "mkdir",
+        "remzi",
+        "rootdir"
+      ],
+      "contexts": [
+        {
+          "term": "FH",
+          "context": "发送LOOKUP (rootdir FH, “foo”)"
+        },
+        {
+          "term": "open",
+          "context": "fd = open(“`/foo`”,…);"
+        }
+      ]
+    },
+    "50": {
+      "code": [
+        "Fetch",
+        "Foreach",
+        "GETATTR",
+        "GetFileStat",
+        "ListDir",
+        "README",
+        "SetFileStat",
+        "Store",
+        "TestAuth",
+        "VALID",
+        "close()",
+        "dir",
+        "else",
+        "fd",
+        "home",
+        "if",
+        "open",
+        "open(F)",
+        "read()",
+        "remzi",
+        "return",
+        "then",
+        "write(A)",
+        "write(B)",
+        "write(C)",
+        "write(D)"
+      ],
+      "contexts": [
+        {
+          "term": "FID",
+          "context": "发送Fetch (home FID, “remzi”)"
+        },
+        {
+          "term": "FID",
+          "context": "发送Fetch (remzi FID, “`notes.txt`”)"
+        }
+      ]
+    },
+    "53": {
+      "code": [
+        "80h",
+        "add",
+        "int",
+        "iret",
+        "load",
+        "open",
+        "rett"
+      ]
+    },
+    "56": {
+      "code": [
+        "#define",
+        "#include",
+        ".a",
+        ".c",
+        ".h",
+        ".o",
+        ".so",
+        "Data",
+        "ERRORS",
+        "Make",
+        "Meta-x info",
+        "NULL",
+        "RETURN VALUES",
+        "SRCS",
+        "TARG",
+        "\\n",
+        "argc",
+        "argv",
+        "argv [0]",
+        "argv[1]",
+        "as",
+        "cc",
+        "cc1",
+        "clean",
+        "cpp",
+        "errno",
+        "fork",
+        "gcc",
+        "gdb",
+        "gmake",
+        "grep",
+        "help",
+        "hw",
+        "int",
+        "kill",
+        "ld",
+        "libc",
+        "lib×××.a",
+        "lib×××.so",
+        "main",
+        "makedepend",
+        "next",
+        "null",
+        "oflag",
+        "open",
+        "p",
+        "path",
+        "print",
+        "run",
+        "step",
+        "sys/stat.h",
+        "sys/types.h",
+        "tan",
+        "timeval"
+      ],
+      "contexts": [
+        {
+          "term": "make",
+          "context": "另一个程序make 来管理"
+        },
+        {
+          "term": "make",
+          "context": "程序make 让你自动化"
+        },
+        {
+          "term": "make",
+          "context": "gmake 是make 的gnu 版本，比传统的make 功能更多"
+        },
+        {
+          "term": "make",
+          "context": "gmake 和make 是一样的"
+        },
+        {
+          "term": "make",
+          "context": "如果你只放空格，make会打印出"
+        },
+        {
+          "term": "make",
+          "context": "在执行make 时"
+        },
+        {
+          "term": "make",
+          "context": "make 会知道 `hw.o` 已经过时"
+        },
+        {
+          "term": "make",
+          "context": "如果你正在编译大型程序，make会知道"
+        },
+        {
+          "term": "make",
+          "context": "make 现在可以执行命令"
+        },
+        {
+          "term": "make",
+          "context": "输入make clean 将导致"
+        },
+        {
+          "term": "make",
+          "context": "详细介绍make 语法"
+        },
+        {
+          "term": "make",
+          "context": "关于make 的最后一句话"
+        },
+        {
+          "term": "make",
+          "context": "关于make 的价格公道的小书"
+        },
+        {
+          "term": "man",
+          "context": "输入man fork，"
+        },
+        {
+          "term": "man",
+          "context": "输入man gcc、man gmake 或man gdb"
+        },
+        {
+          "term": "man",
+          "context": "可以使用man `-k` 在手册页中搜索"
+        },
+        {
+          "term": "man",
+          "context": "输入man ×××可能不会"
+        },
+        {
+          "term": "man",
+          "context": "键入man kill，"
+        },
+        {
+          "term": "man",
+          "context": "默认情况下，man 将返回"
+        },
+        {
+          "term": "man",
+          "context": "请键入man man 以了解"
+        },
+        {
+          "term": "man",
+          "context": "另外请注意，man `-a kill` 可用于"
+        },
+        {
+          "term": "info",
+          "context": "通过运行info 程序"
+        },
+        {
+          "term": "Makefile",
+          "context": "名为Makefile 的文件"
+        },
+        {
+          "term": "Makefile",
+          "context": "查找Makefile 或makefile"
+        },
+        {
+          "term": "makefile",
+          "context": "查找Makefile 或makefile"
+        },
+        {
+          "term": "bar",
+          "context": "目录 `/foo/` bar 中的头文件"
+        }
+      ]
+    },
+    "57": {
+      "code": [
+        "debugfs",
+        "gzip",
+        "sort"
+      ]
+    },
+    "58": {
+      "code": [
+        "EXTENT",
+        "fork",
+        "mkfs"
+      ]
+    }
+  }
+}

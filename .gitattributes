@@ -8,3 +8,6 @@ source/category-theory/** text eol=lf
 docs/library/volume-87/*.md text eol=lf
 source/representation-theory/** text eol=lf
 docs/library/volume-88/*.md text eol=lf
+docs/library/volume-94/*.md text eol=lf
+docs/.vitepress/library.du-fu.mjs text eol=lf
+scripts/du-fu-source-manifest.json text eol=lf

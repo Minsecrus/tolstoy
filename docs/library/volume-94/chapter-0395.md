@@ -1,0 +1,36 @@
+---
+title: "杜位宅守岁"
+description: "杜甫全集 · 卷九 近体诗八十二首 · 杜位宅守岁"
+pageClass: du-fu-reading
+outline: false
+prev: {"text": "冬日有怀李白", "link": "/library/volume-94/chapter-0394"}
+next: {"text": "与鄠县源大少府宴渼陂", "link": "/library/volume-94/chapter-0396"}
+---
+
+<p class="reading-meta"><a href="./">杜甫全集</a> · 卷九 近体诗八十二首</p>
+
+<DuFuPoem>
+
+<template #original>
+
+<h1>杜位宅守岁</h1>
+
+<p class="du-fu-verse">守岁阿戎家，椒盘已颂花。<br />盍簪喧枥马，列炬散林鸦。<br />四十明朝过，飞腾暮景斜。<br />谁能更拘束，烂醉是生涯。</p>
+
+</template>
+
+<template #annotated>
+
+# 杜位宅守岁<sup class="footnote-ref" id="note-ref-du-fu-0395-1"><a href="#note-du-fu-0395-1">〔一〕</a></sup>
+
+<p class="du-fu-verse">守岁阿戎<small class="du-fu-variant">刊作咸</small>家<sup class="footnote-ref" id="note-ref-du-fu-0395-2"><a href="#note-du-fu-0395-2">〔二〕</a></sup>，椒盘已颂花<sup class="footnote-ref" id="note-ref-du-fu-0395-3"><a href="#note-du-fu-0395-3">〔三〕</a></sup>。<br />盍簪喧枥马，列炬散林鸦。<br />四十明朝过，飞腾暮景斜。<br />谁能更拘束，烂醉是生涯。</p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0395-1"><span class="footnote-number">〔一〕</span>杜位：公之从弟。《宰相世系表》：位考功郎中，湖州刺史。《困学纪闻》：位，林甫诸婿也。“四十明朝过”，《年谱》谓天宝十载，时林甫在相位，“盍簪”“列炬”，其炙手之徒欤？又《寄位》诗：“近闻宽法离新州。”其流贬盖以林甫故。《林甫传》云：诸婿杜位等皆贬官。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0395-1" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0395-2"><span class="footnote-number">〔二〕</span>阿戎：近时胡俨曰：“旧注以阿戎为王戎。位乃公从弟，不当用父子事。善本作‘阿咸’。东坡《与子由》诗：‘头上银幡笑阿咸’，‘又欲唤阿咸来守岁，林乌枥马斗喧哗。’正用此诗也。”余观《南史》，齐王思远，小字阿戎，王晏之从弟也，清介有识鉴。隆昌之事，尝规切晏。及晏贵盛，与思远兄思征曰：“隆昌之际，阿戎劝我自裁，若从阿戎言，岂得有今日？”思远遽应曰：“果如阿戎言，尚未晚也。”晏大怒，后果及祸。子美诗用“阿戎”，盖出于此。注者遂定为阿咸，不知阿咸事，亦与兄弟不相当。东坡与子由，偶误用耳，何必据以为证耶！<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0395-2" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0395-3"><span class="footnote-number">〔三〕</span>椒盘：《晋书》：刘臻妻陈氏，元旦献《椒花颂》曰：标美灵葩，爰采爰献。庾信诗：椒花逐颂来。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0395-3" aria-label="返回正文">↩</a></span></p>
+
+</template>
+
+</DuFuPoem>

@@ -1,0 +1,42 @@
+---
+title: "塞芦子"
+description: "杜甫全集 · 卷二 古诗四十二首 · 塞芦子"
+pageClass: du-fu-reading
+outline: false
+prev: {"text": "送韦十六评事充同谷郡防御判官", "link": "/library/volume-94/chapter-0062"}
+next: {"text": "彭衙行", "link": "/library/volume-94/chapter-0064"}
+---
+
+<p class="reading-meta"><a href="./">杜甫全集</a> · 卷二 古诗四十二首</p>
+
+<DuFuPoem>
+
+<template #original>
+
+<h1>塞芦子</h1>
+
+<p class="du-fu-verse">五城何迢迢，迢迢隔河水。<br />边兵尽东征，城内空荆杞。<br />思明割怀卫，秀岩西未已。<br />回略大荒来，崤函盖虚尔。<br />延州秦北户，关防犹可倚。<br />焉得一万人，疾驱塞芦子？<br />岐有薛大夫，旁制山贼起。<br />近闻昆戎徒，为退三百里。<br />芦关扼两寇，深意实在此。<br />谁能叫帝阍门，胡行速如鬼。</p>
+
+</template>
+
+<template #annotated>
+
+# 塞芦子<sup class="footnote-ref" id="note-ref-du-fu-0063-1"><a href="#note-du-fu-0063-1">〔一〕</a></sup>
+
+<p class="du-fu-verse">五城何迢迢<sup class="footnote-ref" id="note-ref-du-fu-0063-2"><a href="#note-du-fu-0063-2">〔二〕</a></sup>，迢迢隔河水。<br />边兵尽东征<sup class="footnote-ref" id="note-ref-du-fu-0063-3"><a href="#note-du-fu-0063-3">〔三〕</a></sup>，城内空荆杞。<br />思明割怀卫，秀岩西未已<sup class="footnote-ref" id="note-ref-du-fu-0063-4"><a href="#note-du-fu-0063-4">〔四〕</a></sup>。<br />回<small class="du-fu-variant">一作迥</small>略大荒来<small class="du-fu-variant">一作东，</small>崤函盖虚尔。<br />延州秦北户，关防犹可倚。<br />焉得一万人，疾驱塞芦子？<br />岐<small class="du-fu-variant">一作顷</small>有薛大夫<sup class="footnote-ref" id="note-ref-du-fu-0063-5"><a href="#note-du-fu-0063-5">〔五〕</a></sup>，旁制山贼起。<br />近闻昆戎徒，为退三百里。<br />芦关扼两寇，深意实在此。<br />谁能<small class="du-fu-variant">晋作敢</small>叫帝阍<small class="du-fu-variant">陈作</small>门，胡行速如鬼。</p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0063-1"><span class="footnote-number">〔一〕</span>芦子：《元和郡国志》：塞门镇，在延州延昌县西北三十里。镇本在夏州宁朔县界，开元二年，移就芦子关南金镇所安置。芦子关属夏州，北去镇一十八里。《寰宇记》：延州，天宝元年，改为延安郡，西南至长安九百里。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0063-1" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0063-2"><span class="footnote-number">〔二〕</span>五城：沈括云：延州今有五城，说者谓旧有东西二城，夹河对立，高万典郡，始展南北东三关城。考杜诗云云，乃知天宝中已有五城矣。《寰宇记》：延州东北，到隰州黄河界二百二十里。《会要》：夏州朔方县。长庆四年，节度使李祐筑乌延、宥州、临塞、阴河、淘子等五城于芦子关北，以护塞外。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0063-2" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0063-3"><span class="footnote-number">〔三〕</span>东征：《通鉴》：禄山反，边兵精锐者，皆征发入援，谓之行营。所留兵孱弱，匈奴犹蚕食之。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0063-3" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0063-4"><span class="footnote-number">〔四〕</span>思明、秀岩：至德二载正月，史思明自博陵，蔡希德自太行，高秀岩自大同，引兵共十万，寇太原。李光弼麾下精兵，皆赴朔方。思明以为太原指掌可取，既得之，当遂长驱取朔方、河、陇。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0063-4" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0063-5"><span class="footnote-number">〔五〕</span>薛大夫：《旧书》：贼据长安，陈仓令薛景仙率众收扶风郡，守之。由是关辅豪右，皆谋杀贼，贼故不敢侵轶。《通鉴》：贼遣兵寇扶风，薛景仙击却之。京畿豪杰往往杀贼官吏，遥应官军。贼兵力所及者，南不出武关，北不过云阳，西不过武功。江淮奏请之蜀、之灵武者，皆自襄阳取上津路抵扶风，道路无壅，皆景仙之功也。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0063-5" aria-label="返回正文">↩</a></span></p>
+
+笺曰：是时贼据长安，史思明、高秀岩重兵趋太原，崤、函空虚。公以为得延州精兵万人，塞芦关而入，直捣长安，可以立奏收复之功也。首言“五城荆杞”，惜其单虚，无兵可用也。思明自博陵寇太原，舍河北而西，故曰“割怀卫”；秀岩自大同与思明合兵，故曰“西未已”；二贼欲取太原，长驱朔方、河、陇，而长安西门之外，皆为敌垒，故曰“回略大荒来，崤函盖虚尔”也。“疾驱塞芦子”，言塞芦子而疾驱长安，非壅塞之塞也。薛景仙守扶风，关辅响应，取道扶风，与景仙合力，则收复尤易也，故曰“芦关扼两寇”，深意实在此。此公之深意也。王深父以为不当撤西备而争利于东，宋人又有谓塞芦子以拒吐蕃者。荆公极推深父，不应无识至此。此诗所论，乃至德二载未收京时事，与《留花门》似非并时之作，或事后追记之也。
+
+</template>
+
+</DuFuPoem>

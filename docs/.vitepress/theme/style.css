@@ -120,6 +120,44 @@
   white-space: nowrap;
 }
 
+/* 杜诗的异文夹注和原书嵌入字形随正文缩放。 */
+.du-fu-reading .vp-doc small.du-fu-variant {
+  margin-inline: 0.12em;
+  color: var(--vp-c-text-2);
+  font-size: 0.75em;
+}
+
+.du-fu-reading .vp-doc img.du-fu-glyph {
+  display: inline-block;
+  max-width: none;
+  margin: 0;
+  vertical-align: -0.12em;
+}
+
+.du-fu-reading .vp-doc img.du-fu-figure {
+  display: block;
+  max-width: 100%;
+  width: 28em;
+  height: auto;
+  margin: 1.5em auto;
+}
+
+.du-fu-reading .vp-doc p.du-fu-verse {
+  text-align: left;
+  text-indent: 0;
+  line-height: 2;
+}
+
+.du-fu-reading .vp-doc p.du-fu-source-note {
+  color: var(--vp-c-text-2);
+  font-size: 0.875em;
+  text-indent: 0;
+}
+
+.dark .du-fu-reading .vp-doc :is(img.du-fu-glyph, img.du-fu-figure) {
+  filter: invert(1);
+}
+
 .footnote-definition:target,
 .footnote-ref:target {
   border-radius: 4px;

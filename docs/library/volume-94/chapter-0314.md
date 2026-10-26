@@ -1,0 +1,44 @@
+---
+title: "魏将军歌"
+description: "杜甫全集 · 卷八 古诗四十五首 · 魏将军歌"
+pageClass: du-fu-reading
+outline: false
+prev: {"text": "忆昔行", "link": "/library/volume-94/chapter-0313"}
+next: {"text": "北风", "link": "/library/volume-94/chapter-0315"}
+---
+
+<p class="reading-meta"><a href="./">杜甫全集</a> · 卷八 古诗四十五首</p>
+
+<DuFuPoem>
+
+<template #original>
+
+<h1>魏将军歌</h1>
+
+<p class="du-fu-verse">将军昔着从事衫，铁马驰突重两衔。<br />被坚执锐略西极，昆仑月窟东崭岩。<br />君门羽林万猛士，恶若哮虎子所监。<br />五年起家列霜戟，一日过海收风帆。<br />平生流辈徒蠢蠢，长安少年气欲尽。<br />魏侯骨耸精爽紧，华岳峰尖见秋隼。<br />星缠宝校金盘陁，夜骑天驷超天河。<br />欃枪荧惑不敢动，翠蕤云旓相荡摩。<br />吾为子起歌都护，酒阑插剑肝胆露。<br />钩陈苍苍风玄武，万岁千秋奉明主，临江节士安足数。</p>
+
+</template>
+
+<template #annotated>
+
+# 魏将军歌
+
+<p class="du-fu-verse">将军昔着从事衫，铁马驰突重两衔。<br />被坚执锐略西极，昆仑月窟东崭岩<sup class="footnote-ref" id="note-ref-du-fu-0314-1"><a href="#note-du-fu-0314-1">〔一〕</a></sup>。<br />君门羽林万猛士，恶若哮虎子所监。<br />五年起家列霜戟，一日过海收风帆。<br />平生流辈徒蠢蠢，长安少年气欲尽。<br />魏侯骨耸精爽紧，华岳峰尖见秋隼。<br />星缠宝校金盘陁<sup class="footnote-ref" id="note-ref-du-fu-0314-2"><a href="#note-du-fu-0314-2">〔二〕</a></sup>，夜骑天驷超天河<sup class="footnote-ref" id="note-ref-du-fu-0314-3"><a href="#note-du-fu-0314-3">〔三〕</a></sup>。<br />欃枪荧惑不敢动，翠蕤云旓相荡摩<sup class="footnote-ref" id="note-ref-du-fu-0314-4"><a href="#note-du-fu-0314-4">〔四〕</a></sup>。<br />吾为子起歌都护<sup class="footnote-ref" id="note-ref-du-fu-0314-5"><a href="#note-du-fu-0314-5">〔五〕</a></sup>，酒阑插剑肝胆露。<br />钩陈苍苍风玄武<small class="du-fu-variant">一云玄武暮</small><sup class="footnote-ref" id="note-ref-du-fu-0314-6"><a href="#note-du-fu-0314-6">〔六〕</a></sup>，万岁千秋奉明主，临江节士安足数<sup class="footnote-ref" id="note-ref-du-fu-0314-7"><a href="#note-du-fu-0314-7">〔七〕</a></sup>。</p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-1"><span class="footnote-number">〔一〕</span>东崭岩：荆溪吴子良曰：昆仑月窟在西南。云东者，谓将军略地至西方之极，而昆仑月窟反在东也。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-1" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-2"><span class="footnote-number">〔二〕</span>星缠宝校：吕东莱注曰：“星缠宝校金盘陁。”盖马装也。颜延年《赭白马赋》云：“具服金组，兼饰丹雘。宝铰星缠，缕章霞布。”注云：以金组丹雘饰其装具，如星霞之布。又张平子《东京赋》：“龙辀华轙，金錽镂锡。方釳左纛，钩膺玉瓖。”注：蔡邕曰：金錽者，马冠也。高广各五寸，上如玉华形，在马髦前。镂，雕饰也，当颅刻金以为之。《诗》：“钩膺镂锡。”所谓宝校，此其具也。第尊卑之制殊耳。又古乐府：“白马金具装，横行辽水旁。”<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-2" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-3"><span class="footnote-number">〔三〕</span>天驷：《天官书》：汉中四星曰天驷，旁一星曰王良，旁八星绝汉曰天潢。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-3" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-4"><span class="footnote-number">〔四〕</span>翠蕤云旓：吕东莱注：旓，所交反，旌旗旒也。翠蕤云旓，皆旗也。相荡摩，舒闲也。《选》：启翠华之葳蕤。张平子《西京赋》曰：栖鸣鸢，曳云旓。司马相如《子虚赋》：下摩兰蕙，上拂羽盖，错翡翠之葳蕤。注：徐广曰：错音措，或作“错纷翠蕤”。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-4" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-5"><span class="footnote-number">〔五〕</span>歌都护：乐府《丁督护歌》，一曰《阿都护》。《唐志》曰：“《丁督护》，晋、宋间曲也。”今歌是宋武帝所制，云“督护北征去，前锋无不平”。李白集作《丁都护歌》云：一唱都护歌，心摧泪如雨。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-5" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-6"><span class="footnote-number">〔六〕</span>钩陈：《甘泉赋》注曰：勾陈，紫宫外营钩陈星也。《水经注》：河南有钩陈垒，世传武王伐纣，八百诸侯所会处。紫微有钩陈之宿，主斗讼兵陈，故遁甲攻取之法。以所攻神与钩陈并气，下制所临之辰，则决禽敌，是以垒资其名矣。《隋志》：勾陈六星，在紫微宫中，故天子殿前，亦有钩陈，所以法天也。 玄武：《汉志》：北宫玄武虚危，其南有众星，曰羽林天军，军西为垒。《晋志》：壁垒阵十二星，在羽林北，羽林之垣垒也。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-6" aria-label="返回正文">↩</a></span></p>
+
+<p class="footnote-definition footnote-source" id="note-du-fu-0314-7"><span class="footnote-number">〔七〕</span>临江节士：宋陆厥有《临江王节士歌》。<span class="footnote-backrefs"><a class="footnote-backref" href="#note-ref-du-fu-0314-7" aria-label="返回正文">↩</a></span></p>
+
+</template>
+
+</DuFuPoem>

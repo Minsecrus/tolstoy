@@ -205,3 +205,21 @@ npm run docs:build
 《信息检索导论》（第 90 卷）、《时空与几何：广义相对论导论》（第 91 卷）、Carroll《广义相对论讲义》（第 92 卷）和《CS 188 人工智能导论》（第 93 卷）原在 [learning-notes](https://github.com/Minsecrus/learning-notes) 仓库中翻译整理，于该仓库提交 `d56c225` 之后迁入本站，此后以本仓库中的 Markdown 为准。各卷的底本、页码对照和翻译说明见本卷首页。
 
 迁移时页面按原顺序改名为 `chapter-NNN.md`，原系列首页成为本卷首页；站内相对链接改为本站路由，插图复制到 `docs/public/library/volume-9X/images/`，Mermaid 流程图预先渲染为 SVG，《时空与几何》的脚注改为本站带双向链接的注释格式。公式沿用本站的 MathJax SVG 渲染器：learning-notes 自定义的 `\pounds`、`\lefteqn` 分别改写为 `\textsterling` 和 `\rlap{\displaystyle …}`。目录与统计信息保存在 `docs/.vitepress/library.translated-books.mjs`，增删页面时需同步修改该文件并运行 `node scripts/rebuild-library-index.mjs`。
+
+## 重新导入《杜甫全集》
+
+第 94 卷依据用户提供的《杜甫全集》PDF（内题《杜甫诗集》，钱谦益笺注、郝润华点校）整理，共 1,224 个阅读页面。每篇独立诗作各用一篇 Markdown，组诗共用一篇，包括《秋兴八首》《前出塞九首》《八哀诗》《江头五咏》等；另保留文赋、序跋、年谱及书后附录。异文小字仍在原处，编号注文与正文同页双向跳转，内嵌生僻字和世系图使用本地图片。
+
+每个诗歌页面默认显示“只读原文”，可切换到“原文与笺注”。纯原文保留诗句、原作自序和组内分章，去掉夹注、注号及注文；组诗共用一个 Markdown 和阅读地址。直接访问注释锚点时自动切到笺注视图。纯原文视图不重复进入搜索索引，笺注版保留全文检索。
+
+原 PDF 不纳入仓库。安装 `pymupdf` 后运行：
+
+```powershell
+python -X utf8 scripts/import-du-fu.py <PDF路径>
+python -X utf8 scripts/import-du-fu.py <PDF路径> --check
+$env:VITEPRESS_BASE='/tolstoy/'
+$env:NODE_OPTIONS='--max-old-space-size=12288'
+npm run docs:build
+```
+
+生成结果、来源页码及字节散列记录在 `scripts/du-fu-source-manifest.json`，导航由 `docs/.vitepress/library.du-fu.mjs` 提供。篇目边界、原书缺篇及注号异常的处理见 `source/du-fu/WORKFLOW.md`。普通网站构建不依赖原 PDF 或 Python。

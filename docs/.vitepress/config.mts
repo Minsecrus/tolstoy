@@ -9,6 +9,7 @@ import { representationTheoryLibrarySidebar } from './library.representation-the
 import { ostepLibrarySidebar } from './library.ostep.mjs'
 import { translatedBooksLibrarySidebar } from './library.translated-books.mjs'
 import { duFuLibrarySidebar } from './library.du-fu.mjs'
+import { braveNewWorldLibrarySidebar } from './library.brave-new-world.mjs'
 import { curateLibrarySidebar } from './library.sidebar.manual.mjs'
 import { installMathRenderer } from '../../scripts/algebra-math-renderer.mjs'
 import { installMathematicalBookTypography } from '../../scripts/mathematical-book-typography.mjs'
@@ -26,7 +27,8 @@ const curatedLibrarySidebar = curateLibrarySidebar([
   ...representationTheoryLibrarySidebar,
   ...ostepLibrarySidebar,
   ...translatedBooksLibrarySidebar,
-  ...duFuLibrarySidebar
+  ...duFuLibrarySidebar,
+  ...braveNewWorldLibrarySidebar
 ])
 
 const librarySidebarByPath = {

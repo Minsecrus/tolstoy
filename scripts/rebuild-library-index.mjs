@@ -36,7 +36,8 @@ export async function rebuildLibraryIndex() {
     loadLibraryModule('library.representation-theory.mjs', 'representationTheoryLibraryCatalog', 'representationTheoryLibraryStats', true),
     loadLibraryModule('library.ostep.mjs', 'ostepLibraryCatalog', 'ostepLibraryStats', true),
     loadLibraryModule('library.translated-books.mjs', 'translatedBooksLibraryCatalog', 'translatedBooksLibraryStats', true),
-    loadLibraryModule('library.du-fu.mjs', 'duFuLibraryCatalog', 'duFuLibraryStats', true)
+    loadLibraryModule('library.du-fu.mjs', 'duFuLibraryCatalog', 'duFuLibraryStats', true),
+    loadLibraryModule('library.brave-new-world.mjs', 'braveNewWorldLibraryCatalog', 'braveNewWorldLibraryStats', true)
   ])
   const catalog = modules.flatMap((module) => module.catalog)
   const stats = modules.reduce((total, module) => ({

@@ -19,6 +19,12 @@ npm run docs:dev
 
 站内搜索由 [Pagefind](https://pagefind.app/) 提供。`npm run docs:build` 在 VitePress 构建完成后读取生成的网页建立索引，配置见 `pagefind.yml`；索引按需分块加载，中文按词切分。索引只收录正文区域，页面元数据为 `search: false` 的页面不进入搜索。`npm run docs:dev` 没有索引，搜索只在构建后的站点（`npm run docs:preview`）中可用。
 
+## 《鳄鱼手记》与《蒙马特遗书》
+
+第 96、97 卷由用户提供的两册合订 PDF 文字层整理，分别按八手记及原书的献词、见证和书信分为阅读页面。保留原书编排顺序及两个“第十七书”，目录按日期区分；不收录出版资料、书后附录和译名表，也不提取图片。原 PDF 不纳入仓库。来源 PDF 共 400 页，SHA-256 为 `74ff48648d5610a8a12cddf9b8dc66c0e32f06c1fd6e1d922df2ed78e729af46`。
+
+需要重新生成时，安装 `pymupdf`，运行 `python scripts/import-qiu-miaojin.py <PDF路径>`，再运行 `node scripts/rebuild-library-index.mjs`。段落依据文字层的行位置重组，提取结果未经逐页人工校对。
+
 ## 重新导入《全球通史》
 
 第 83 卷由《全球通史：从史前到21世纪（第7版新校本）》上、下册合订 PDF 生成。原 PDF 不纳入仓库；网站使用已生成的章节 Markdown 和 WebP 插图。需要重新生成时，安装 `pymupdf` 和 `Pillow`，然后依次运行：
